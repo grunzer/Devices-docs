@@ -292,6 +292,6 @@
             expanded: true
             items:
              - name: Service Guide repair overview
-               href: service-guide-repair-overview.md
+               href: service-guides/service-guide-repair-overview.md
              - name: Surface Laptop Service guide
-               href: surface-laptop-service-guide.md
+               href: service-guides/surface-laptop-service-guide.md
