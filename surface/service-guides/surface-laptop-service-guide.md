@@ -15,6 +15,13 @@ appliesto:
 
 # Microsoft Surface Laptop 7th Edition Service Guide
 
+## Repair Video
+
+<iframe src="https://youtu.be/Y3u8uvTna5A?si=YWKKUvzv8t90m3c9"
+    title="Surface Laptop 7 Repair Video"
+    frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen>
+</iframe>
+
 ## Disclaimer section 
 
 All information, content, materials, and products made available in or
@@ -192,19 +199,14 @@ Support Link --
 The model and serial number for Surface Laptops is on the bottom center
 closest to the display hinge point.
 
-
-![A white rectangular object with a blue label Description automatically
-generated]((./images/image5.png)
-
 :::image type="content" source="./images/image5.png" alt-text="Screenshot of USB4 Dock.":::
 
 ## Illustrated Service Parts List
 
 ![A computer parts diagram showing the parts of a computer Description
-automatically generated](./images/image16.png){width="5.83in"
-height="6.537898075240595in"}
+automatically generated](./images/image16.png)
 
-**IMPORTANT:** Repair workflows may require multiple parts to be ordered
+[!Important] Repair workflows may require multiple parts to be ordered
 to complete the repair successfully. Please check the primary and
 additional components section in each repair workflow to ensure you have
 all required parts before beginning your repair.
