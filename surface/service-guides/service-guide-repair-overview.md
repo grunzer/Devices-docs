@@ -16,7 +16,6 @@ appliesto:
 
 # Surface Service Guides Repair overview
 
-
 ## General safety precautions
 
 Always follow these general safety precautions when servicing a Microsoft Surface device:
@@ -123,7 +122,6 @@ Batteries include warning labels that must be followed. Upon opening the device,
 
 > [!WARNING]  
 > Mishandling damaged batteries during shipping may cause serious safety hazards.
-
 **Before transport:**
 
 - Follow instructions from your local hazardous waste collection provider.
