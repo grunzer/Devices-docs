@@ -1,5 +1,5 @@
 ---
-title: Surface Service Guides Repair
+title: Surface Service Guides repair overview
 description: Provides safety instructions and related information 
 ms.service: surface
 ms.localizationpriority: medium
@@ -14,13 +14,13 @@ appliesto:
 - Windows 11
 ---
 
-# Surface Service Guides Repair overview
+# Surface Service Guides repair overview
 
 ## General safety precautions
 
 Always follow these general safety precautions when servicing a Microsoft Surface device:
 
-- **Repairing electronic devices can be hazardous.** Activities may result in electric shock, fire, serious injury, death, or property damage. Only proceed if you are technically experienced and have the required tools and knowledge.
+- **Repairing electronic devices can be hazardous.** Activities might result in electric shock, fire, serious injury, death, or property damage. Only proceed if you're technically experienced and have the required tools and knowledge.
 - **Use caution when working with batteries.** Mishandling batteries can lead to fire or explosion. Only open device enclosures as instructed in this guide.
 - **Do not heat, puncture, crush, or burn devices or batteries.** Avoid exposing devices to direct sunlight or extreme temperatures (outside the range of 0°C to 60°C / 32°F to 140°F). Doing so can cause thermal failure or injury.
 - **Wear protective gear.** We recommend using protective eyewear and gloves during disassembly and reassembly.
@@ -30,14 +30,14 @@ Always follow these general safety precautions when servicing a Microsoft Surfac
 - **Do not proceed if the battery is damaged.** This includes signs of leaking, swelling, or folding. See the [Thermal event guidance](#actions-to-take-in-case-of-a-thermal-event) or contact Microsoft for instructions.
 
 > [!TIP]  
-> For additional safety information, visit [aka.ms/surface-safety](https://aka.ms/surface-safety) or open the **Surface app** from the Start menu by typing **Surface** in the search box.
+> For more safety information, visit [aka.ms/surface-safety](https://aka.ms/surface-safety) or open the **Surface app** from the Start menu by typing **Surface** in the search box.
 
 ---
 
 ## Electrostatic discharge (ESD) precautions
 
 - Follow all general and ESD-specific safety steps in this guide before starting.
-- Work on a flat, level surface covered with a soft, ESD-safe, non-marring material.
+- Work on a flat, level surface covered with a soft, ESD-safe, nonmarring material.
 - Always wear an anti-static wrist strap and ensure your work area is properly grounded.
 - Store removed parts in ESD-safe bags and return or recycle them using the original packaging of the replacement part.
 
@@ -121,12 +121,12 @@ Batteries include warning labels that must be followed. Upon opening the device,
 - **Do not ship damaged or defective batteries alone or inside a device.** These require specialized packaging and transport procedures.
 
 > [!WARNING]  
-> Mishandling damaged batteries during shipping may cause serious safety hazards.
+> Mishandling damaged batteries during shipping might cause serious safety hazards.
 **Before transport:**
 
 - Follow instructions from your local hazardous waste collection provider.
-- Enclose the battery or device in a non-metallic bag (such as a zip-to-close plastic bag).
-- Cushion the inner packaging with absorbent, non-conductive, and non-combustible material.
+- Enclose the battery or device in a nonmetallic bag (such as a zip-to-close plastic bag).
+- Cushion the inner packaging with absorbent, nonconductive, and noncombustible material.
 - Pack each damaged battery or device in its own box and clearly mark it as containing a damaged battery.
 
 > [!TIP]  
@@ -136,7 +136,7 @@ Undamaged batteries can be taken to certified e-waste or hazardous waste collect
 
 ---
 
-### Actions to take in case of a thermal event
+### Actions to take in a thermal event
 
 A thermal event is a rapid chemical reaction within a battery that can release heat, smoke, or flames.
 
@@ -154,7 +154,7 @@ If a thermal event occurs:
 
 ### Report battery thermal events to Microsoft
 
-Thermal events may be caused by physical damage, improper storage, or exposure to extreme temperatures.
+Thermal events might be caused by physical damage, improper storage, or exposure to extreme temperatures.
 
 Watch for these symptoms:
 
@@ -166,7 +166,7 @@ Watch for these symptoms:
 
 ### Stop repair and contact Microsoft
 
-Immediately stop repair and contact Microsoft Surface Customer Support if you observe any of the following:
+Immediately stop repair and contact Microsoft Surface Customer Support if you observe any of the following scenarios:
 
 - Burned or melted components or signs of heat damage (internal or external)
 - Damaged accessories (power supply, keyboard, cable, etc.)
