@@ -1,6 +1,6 @@
-![](./images/image1.png) ![A black and white logo Description
+![](./images/media/image1.png) ![A black and white logo Description
 automatically generated](./images/media/image2.png)
-![](./images/image3.png)
+![](./images/media/image3.png)
 
 **Microsoft Surface Laptop 7th Edition Service Guide**
 
@@ -161,7 +161,7 @@ repairs. If at any point you are unsure or uncomfortable about
 performing the repairs, as detailed in this Guide, **DO NOT** proceed.
 Contact Microsoft for additional support options.
 
-![](./images/image4.png)**:** Failure to follow the instructions
+![](./images/media/image4.png)**:** Failure to follow the instructions
 in this Guide; use of non-Microsoft (non-genuine), incompatible, or
 modified replacement parts; and/or failure to use proper tools could
 result in serious personal injury, death, and/or damage to the product
@@ -194,20 +194,20 @@ from consumer retailers.
 
 **Recommended Microsoft Service Tools**
 
-| [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | ![Surface Battery Cover (M1214771-001) New](./images/image6.jpeg) |
+| [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | ![Surface Battery Cover (M1214771-001) New](./images/media/image6.jpeg) |
 |----|----|
 
 **Required Microsoft Service Tools**
 
 **Required Electronic Repair Hardware or Tools**
 
-| Anti-static Wrist Strap (1 MOhm resistance) | ![A blue strap with a coiled wire Description automatically generated with medium confidence](./images/image7.jpeg) |
+| Anti-static Wrist Strap (1 MOhm resistance) | ![A blue strap with a coiled wire Description automatically generated with medium confidence](./images/media/image7.jpeg) |
 |----|----|
-| ESD-safe mat or benchtop | ![A grey mat with a black cable Description automatically generated with medium confidence](./images/image8.jpeg) |
-| Nylon Spudger/Probing Tool | ![A close up of a black object Description automatically generated](./images/image9.png) |
-| Plastic Opening Pick | ![iFixit Opening Picks (Set of 6) New](./images/image10.jpeg) |
-| Plastic Opening Tool | ![](./images/image11.png) |
-| ESD-safe Tweezers | ![](./images/image12.png) |
+| ESD-safe mat or benchtop | ![A grey mat with a black cable Description automatically generated with medium confidence](./images/media/image8.jpeg) |
+| Nylon Spudger/Probing Tool | ![A close up of a black object Description automatically generated](./images/media/image9.png) |
+| Plastic Opening Pick | ![iFixit Opening Picks (Set of 6) New](./images/media/image10.jpeg) |
+| Plastic Opening Tool | ![](./images/media/image11.png) |
+| ESD-safe Tweezers | ![](./images/media/image12.png) |
 
 **Required Standard Tools and Misc Items**
 
@@ -241,7 +241,7 @@ from consumer retailers.
 
 ## General Safety Precautions
 
-![](./images/image13.png) Always observe the following general
+![](./images/media/image13.png) Always observe the following general
 safety precautions:
 
 - Opening and/or repairing any electronic device can present a risk of
@@ -312,7 +312,7 @@ Surface into the search box, then select the Surface app.
   guidelines posted
   [here](https://docs.microsoft.com/en-us/mem/autopilot/autopilot-mbr).
 
-> ![](./images/image14.png)**:** Before opening a device, ensure
+> ![](./images/media/image14.png)**:** Before opening a device, ensure
 > it is powered off and disconnected from its power source. Disconnect
 > the device charger or power cord from mains power.
 
@@ -336,14 +336,14 @@ Surface into the search box, then select the Surface app.
 - Review the General Safety Precautions and Battery Safety Sections of
   this Guide before beginning work.
 
-![](./images/image14.png)**:** For Surface devices where the
+![](./images/media/image14.png)**:** For Surface devices where the
 battery is affixed to the back cover, place the back cover with the
 battery in a location where it will be protected from possible
 punctures, impacts, crushing, or drops during the repair process. Refer
 to the [Battery Safety](#battery-safety) section in this guide for more
 information.
 
-![](./images/image14.png)**:** During all activities (excluding
+![](./images/media/image14.png)**:** During all activities (excluding
 feet-only replacement) check to ensure that no loose articles are on the
 back cover or remain inside the device before reassembling it.
 
@@ -387,7 +387,7 @@ provided a label for this use in the replacement part’s packaging
   20 feet of a fireproof enclosure. Fireproof enclosures should be kept
   free of combustible or flammable materials.
 
-> ![](./images/image14.png)**:** It is recommended that an
+> ![](./images/media/image14.png)**:** It is recommended that an
 > ESD-safe battery cover be placed across the device to protect the
 > battery from any physical contact or accidental damage whenever the
 > display is removed for internal repairs. Ensure corners of cover are
@@ -440,7 +440,7 @@ provided a label for this use in the replacement part’s packaging
 
 ## Battery Warning Level
 
-![](./images/image14.png)**:** Please note that the battery bears
+![](./images/media/image14.png)**:** Please note that the battery bears
 the following warning label. Please heed the information provided on the
 label.
 
@@ -484,7 +484,7 @@ for battery replacement instructions.
 - **DO NOT** dispose of used lithium-ion batteries, whether damaged or
   not, in household or commercial garbage or recycling bins.
 
-![](./images/image14.png)**: DO NOT SHIP DAMAGED OR DEFECTIVE
+![](./images/media/image14.png)**: DO NOT SHIP DAMAGED OR DEFECTIVE
 BATTERIES ALONE OR INSIDE DEVICES.**
 
 Damaged or defective batteries and devices containing damaged or
@@ -742,197 +742,21 @@ all required parts before beginning your repair.
 | **12** | **Micro SD Card Reader** |  |
 |  | Micro SD Card Reader – 15” | E0J-00001 |
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 0%" />
-<col style="width: 43%" />
-<col style="width: 0%" />
-<col style="width: 19%" />
-<col style="width: 0%" />
-<col style="width: 36%" />
-</colgroup>
-<thead>
-<tr>
-<th colspan="2" style="text-align: center;"><blockquote>
-<p><strong><u>Description</u></strong></p>
-</blockquote></th>
-<th colspan="2"><blockquote>
-<p><strong><u>Enter Key</u></strong></p>
-</blockquote></th>
-<th colspan="2" style="text-align: center;"><blockquote>
-<p><strong><u>“4,5,6” Keys</u></strong></p>
-</blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="2"><blockquote>
-<p>104 English, US</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image17.png"
-alt="A black rectangle with black text Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image18.png"
-alt="A white square with black text and a number Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2"><blockquote>
-<p>105 Canadian, Bilingual</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image20.jpeg"
-alt="A white square with black text Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2"><blockquote>
-<p>109 Japan</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image21.jpeg"
-alt="A white rectangular object with a black arrow Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image22.png"
-alt="A white square with black text Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2"><blockquote>
-<p>105 Austria/Germany</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image23.png"
-alt="A white square with black text and numbers Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2"><blockquote>
-<p>105 Belgium AZERTY</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image24.png"
-alt="A white square with black numbers and a white background Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2"><blockquote>
-<p>105 Nordic Denmark, Finland, Norway, Sweden</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image25.png"
-alt="A white square with black text and numbers Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2"><blockquote>
-<p>105 French</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image26.png"
-alt="A white square with black numbers and a white background Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2"><blockquote>
-<p>105 English, UK Ireland</p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image27.png"
-alt="A white square with black text and numbers Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center;"><u>Description</u></td>
-<td colspan="2"><blockquote>
-<p><u>Enter Key</u></p>
-</blockquote></td>
-<td colspan="2" style="text-align: center;"><u>“4,5,6” Keys</u></td>
-</tr>
-<tr>
-<td colspan="2">105 Italy</td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image28.png"
-alt="A white square with black text Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2">105 Switzerland, Luxembourg</td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image29.png"
-alt="A white square with black text and numbers Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2">104 English, International Netherlands</td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image30.png"
-alt="A white rectangular sign with black text Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image31.png"
-alt="A white square with black text Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2">105 Portuguese</td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image32.png"
-alt="A white square with black text Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-<tr>
-<td colspan="2">105 Spanish, European</td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image19.png"
-alt="A black and white diagram Description automatically generated" /></p>
-</blockquote></td>
-<td colspan="2"><blockquote>
-<p><img src="./images/media/image33.png"
-alt="A white square with black text Description automatically generated" /></p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+| **Description**                     | **Enter Key**                                                                 | **“4,5,6” Keys**                                                          |
+|-------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| 104 English, US                     | ![A black rectangle with black text](./images/media/image17.png)             | ![A white square with black text and a number](./images/media/image18.png) |
+| 105 Canadian, Bilingual             | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text](./images/media/image20.jpeg)            |
+| 109 Japan                           | ![A white rectangular object with a black arrow](./images/media/image21.jpeg) | ![A white square with black text](./images/media/image22.png)             |
+| 105 Austria/Germany                 | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text](./images/media/image23.png)             |
+| 105 Belgium AZERTY                  | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black numbers and a white background](./images/media/image24.png) |
+| 105 Nordic Denmark, Finland, Norway, Sweden | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text and numbers](./images/media/image25.png) |
+| 105 French                          | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black numbers and a white background](./images/media/image26.png) |
+| 105 English, UK Ireland             | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text and numbers](./images/media/image27.png) |
+| 105 Italy                           | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text](./images/media/image28.png)             |
+| 105 Switzerland, Luxembourg         | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text and numbers](./images/media/image29.png) |
+| 104 English, International Netherlands | ![A white rectangular sign with black text](./images/media/image30.png)      | ![A white square with black text](./images/media/image31.png)             |
+| 105 Portuguese                      | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text](./images/media/image32.png)             |
+| 105 Spanish, European               | ![A black and white diagram](./images/media/image19.png)                     | ![A white square with black text](./images/media/image33.png)             |
 
 ## Software Tools – Diagnostic, Calibration, and Troubleshooting
 
@@ -1437,7 +1261,7 @@ section is not required.
 
 5.  **Remove the Battery Connector Metal Bracket –** Using a 3IP
     (Torx-Plus) driver, remove the 2 screws
-    (![](./images/image48.png)) securing the metal bracket to the
+    (![](./images/media/image48.png)) securing the metal bracket to the
     motherboard. Lift the metal bracket out of the device to expose the
     Battery FPC.
 
@@ -1530,7 +1354,7 @@ battery. If the frame is cracked, the battery must not be used.
 
 4.  **Assemble the Battery FPC and FPC Bracket -** Assemble the Battery
     FPC to the Motherboard. Using a 3IP (Torx-Plus) driver, install 2
-    FPC Bracket screws (![](./images/image48.png)) until the
+    FPC Bracket screws (![](./images/media/image48.png)) until the
     screws are just snug. Turn each screw an additional 45-degrees
     (1/8<sup>th</sup> turn) until fully fastened.
 
@@ -2267,7 +2091,7 @@ Description automatically generated](./images/media/image74.jpeg)
     2)  Place the backside of the Display Assembly on the ESD-Safe Mat
         with the screen and keyboard facing up.
 
-> ![](./images/image75.jpeg)
+> ![](./images/media/image75.jpeg)
 
 10. **Remove the Left Hinge Screws – With** one hand holding the device
     still, use a 6IP (Torx-Plus) driver to remove the 3 screws on the
@@ -2552,7 +2376,7 @@ generated](./images/media/image86.png)
         surface of the chassis. The port should be fully aligned with
         the external opening.
 
-> ![](./images/image87.jpeg)
+> ![](./images/media/image87.jpeg)
 
 3.  Using a 3IP (Torx-Plus) driver, install the 2 new Surface Connect
     screws until the screw is just snug and seated, and then turn each
