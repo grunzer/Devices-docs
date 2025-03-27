@@ -1,10 +1,6 @@
-<img src="./images/image1.png"
-style="width:0.51319in;height:0.51319in" />
-<img src="./images/image2.png"
-style="width:1.73333in;height:0.33333in"
-alt="A black and white logo Description automatically generated" />
-<img src="./images/image3.png"
-style="width:1.37361in;height:0.33333in" />
+![](./images/image1.png) ![A black and white logo Description
+automatically generated](./images/media/image2.png)
+![](./images/image3.png)
 
 **Microsoft Surface Laptop 7th Edition Service Guide**
 
@@ -165,12 +161,11 @@ repairs. If at any point you are unsure or uncomfortable about
 performing the repairs, as detailed in this Guide, **DO NOT** proceed.
 Contact Microsoft for additional support options.
 
-<img src="./images/image4.png"
-style="width:0.90694in;height:0.19306in" />**:** Failure to follow the
-instructions in this Guide; use of non-Microsoft (non-genuine),
-incompatible, or modified replacement parts; and/or failure to use
-proper tools could result in serious personal injury, death, and/or
-damage to the product or other property.
+![](./images/image4.png)**:** Failure to follow the instructions
+in this Guide; use of non-Microsoft (non-genuine), incompatible, or
+modified replacement parts; and/or failure to use proper tools could
+result in serious personal injury, death, and/or damage to the product
+or other property.
 
 # Device Identity Information
 
@@ -182,9 +177,8 @@ Support Link –
 The model and serial number for Surface Laptops is on the bottom center
 closest to the display hinge point.
 
-<img src="./images/image5.png"
-style="width:5.6in;height:3.69564in"
-alt="A white rectangular object with a blue label Description automatically generated" />
+![A white rectangular object with a blue label Description automatically
+generated](./images/media/image5.png)
 
 # General Information, Precautions, and Warnings
 
@@ -200,31 +194,20 @@ from consumer retailers.
 
 **Recommended Microsoft Service Tools**
 
-| [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | <img src="./images/image6.jpeg"
-style="width:1.14973in;height:1.14973in"
-alt="Surface Battery Cover (M1214771-001) New" /> |
+| [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | ![Surface Battery Cover (M1214771-001) New](./images/image6.jpeg) |
 |----|----|
 
 **Required Microsoft Service Tools**
 
 **Required Electronic Repair Hardware or Tools**
 
-| Anti-static Wrist Strap (1 MOhm resistance) | <img src="./images/image7.jpeg"
-style="width:1.15in;height:0.76372in"
-alt="A blue strap with a coiled wire Description automatically generated with medium confidence" /> |
+| Anti-static Wrist Strap (1 MOhm resistance) | ![A blue strap with a coiled wire Description automatically generated with medium confidence](./images/image7.jpeg) |
 |----|----|
-| ESD-safe mat or benchtop | <img src="./images/image8.jpeg" style="width:1.15in;height:1.15in"
-alt="A grey mat with a black cable Description automatically generated with medium confidence" /> |
-| Nylon Spudger/Probing Tool | <img src="./images/image9.png"
-style="width:1.15in;height:0.15923in"
-alt="A close up of a black object Description automatically generated" /> |
-| Plastic Opening Pick | <img src="./images/image10.jpeg"
-style="width:1.15in;height:1.15in"
-alt="iFixit Opening Picks (Set of 6) New" /> |
-| Plastic Opening Tool | <img src="./images/image11.png"
-style="width:1.15in;height:1.15in" /> |
-| ESD-safe Tweezers | <img src="./images/image12.png"
-style="width:1.15in;height:1.15in" /> |
+| ESD-safe mat or benchtop | ![A grey mat with a black cable Description automatically generated with medium confidence](./images/image8.jpeg) |
+| Nylon Spudger/Probing Tool | ![A close up of a black object Description automatically generated](./images/image9.png) |
+| Plastic Opening Pick | ![iFixit Opening Picks (Set of 6) New](./images/image10.jpeg) |
+| Plastic Opening Tool | ![](./images/image11.png) |
+| ESD-safe Tweezers | ![](./images/image12.png) |
 
 **Required Standard Tools and Misc Items**
 
@@ -258,9 +241,8 @@ style="width:1.15in;height:1.15in" /> |
 
 ## General Safety Precautions
 
-<img src="./images/image13.png"
-style="width:0.16725in;height:0.14067in" /> Always observe the following
-general safety precautions:
+![](./images/image13.png) Always observe the following general
+safety precautions:
 
 - Opening and/or repairing any electronic device can present a risk of
   electric shock, fire, serious personal injury, death, damage to the
@@ -330,10 +312,9 @@ Surface into the search box, then select the Surface app.
   guidelines posted
   [here](https://docs.microsoft.com/en-us/mem/autopilot/autopilot-mbr).
 
-> <img src="./images/image14.png"
-> style="width:0.90694in;height:0.2in" />**:** Before opening a device,
-> ensure it is powered off and disconnected from its power source.
-> Disconnect the device charger or power cord from mains power.
+> ![](./images/image14.png)**:** Before opening a device, ensure
+> it is powered off and disconnected from its power source. Disconnect
+> the device charger or power cord from mains power.
 
 - For devices with rechargeable lithium-ion batteries that power on,
   fully discharge the battery before beginning repair. To expedite the
@@ -355,19 +336,16 @@ Surface into the search box, then select the Surface app.
 - Review the General Safety Precautions and Battery Safety Sections of
   this Guide before beginning work.
 
-<img src="./images/image14.png"
-style="width:0.90694in;height:0.2in" />**:** For Surface devices where
-the battery is affixed to the back cover, place the back cover with the
+![](./images/image14.png)**:** For Surface devices where the
+battery is affixed to the back cover, place the back cover with the
 battery in a location where it will be protected from possible
 punctures, impacts, crushing, or drops during the repair process. Refer
 to the [Battery Safety](#battery-safety) section in this guide for more
 information.
 
-<img src="./images/image14.png"
-style="width:0.90694in;height:0.2in" />**:** During all activities
-(excluding feet-only replacement) check to ensure that no loose articles
-are on the back cover or remain inside the device before reassembling
-it.
+![](./images/image14.png)**:** During all activities (excluding
+feet-only replacement) check to ensure that no loose articles are on the
+back cover or remain inside the device before reassembling it.
 
 **IMPORTANT:** Remove the rSSD (removable Solid-State Drive) whenever
 the Keyboard is removed from the device. rSSD removal disconnects the
@@ -409,8 +387,7 @@ provided a label for this use in the replacement part’s packaging
   20 feet of a fireproof enclosure. Fireproof enclosures should be kept
   free of combustible or flammable materials.
 
-> <img src="./images/image14.png"
-> style="width:0.90694in;height:0.2in" />**:** It is recommended that an
+> ![](./images/image14.png)**:** It is recommended that an
 > ESD-safe battery cover be placed across the device to protect the
 > battery from any physical contact or accidental damage whenever the
 > display is removed for internal repairs. Ensure corners of cover are
@@ -463,13 +440,12 @@ provided a label for this use in the replacement part’s packaging
 
 ## Battery Warning Level
 
-<img src="./images/image14.png"
-style="width:0.90694in;height:0.2in" />**:** Please note that the
-battery bears the following warning label. Please heed the information
-provided on the label.
+![](./images/image14.png)**:** Please note that the battery bears
+the following warning label. Please heed the information provided on the
+label.
 
-<img src="./images/image15.png" style="width:6.5in;height:1.85in"
-alt="A close-up of a document Description automatically generated" />
+![A close-up of a document Description automatically
+generated](./images/media/image15.png)
 
 ## Lithium-Ion Battery Inspection
 
@@ -508,9 +484,8 @@ for battery replacement instructions.
 - **DO NOT** dispose of used lithium-ion batteries, whether damaged or
   not, in household or commercial garbage or recycling bins.
 
-<img src="./images/image14.png"
-style="width:0.90694in;height:0.2in" />**: DO NOT SHIP DAMAGED OR
-DEFECTIVE BATTERIES ALONE OR INSIDE DEVICES.**
+![](./images/image14.png)**: DO NOT SHIP DAMAGED OR DEFECTIVE
+BATTERIES ALONE OR INSIDE DEVICES.**
 
 Damaged or defective batteries and devices containing damaged or
 defective batteries require special packaging and handling.
@@ -611,9 +586,8 @@ Support to report and obtain next steps:
 
 # Illustrated Service Parts List
 
-<img src="./images/image16.png"
-style="width:5.83in;height:6.5379in"
-alt="A computer parts diagram showing the parts of a computer Description automatically generated" />
+![A computer parts diagram showing the parts of a computer Description
+automatically generated](./images/media/image16.png)
 
 **IMPORTANT:** Repair workflows may require multiple parts to be ordered
 to complete the repair successfully. Please check the primary and
@@ -796,13 +770,11 @@ all required parts before beginning your repair.
 <p>104 English, US</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image17.png"
-style="width:0.83616in;height:0.50417in"
+<p><img src="./images/media/image17.png"
 alt="A black rectangle with black text Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image18.png"
-style="width:1.85932in;height:0.535in"
+<p><img src="./images/media/image18.png"
 alt="A white square with black text and a number Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -811,13 +783,11 @@ alt="A white square with black text and a number Description automatically gener
 <p>105 Canadian, Bilingual</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.48429in;height:0.83958in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image20.jpeg"
-style="width:1.87436in;height:0.54375in"
+<p><img src="./images/media/image20.jpeg"
 alt="A white square with black text Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -826,13 +796,11 @@ alt="A white square with black text Description automatically generated" /></p>
 <p>109 Japan</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image21.jpeg"
-style="width:0.51563in;height:0.86875in"
+<p><img src="./images/media/image21.jpeg"
 alt="A white rectangular object with a black arrow Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image22.png"
-style="width:1.93795in;height:0.55729in"
+<p><img src="./images/media/image22.png"
 alt="A white square with black text Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -841,13 +809,11 @@ alt="A white square with black text Description automatically generated" /></p>
 <p>105 Austria/Germany</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.48429in;height:0.83958in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image23.png"
-style="width:1.89833in;height:0.54615in"
+<p><img src="./images/media/image23.png"
 alt="A white square with black text and numbers Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -856,13 +822,11 @@ alt="A white square with black text and numbers Description automatically genera
 <p>105 Belgium AZERTY</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.48429in;height:0.83958in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image24.png"
-style="width:1.97632in;height:0.56844in"
+<p><img src="./images/media/image24.png"
 alt="A white square with black numbers and a white background Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -871,13 +835,11 @@ alt="A white square with black numbers and a white background Description automa
 <p>105 Nordic Denmark, Finland, Norway, Sweden</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.48429in;height:0.83958in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image25.png"
-style="width:1.93748in;height:0.55729in"
+<p><img src="./images/media/image25.png"
 alt="A white square with black text and numbers Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -886,13 +848,11 @@ alt="A white square with black text and numbers Description automatically genera
 <p>105 French</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.48429in;height:0.83958in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image26.png"
-style="width:1.89812in;height:0.54615in"
+<p><img src="./images/media/image26.png"
 alt="A white square with black numbers and a white background Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -901,13 +861,11 @@ alt="A white square with black numbers and a white background Description automa
 <p>105 English, UK Ireland</p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.49947in;height:0.86667in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image27.png"
-style="width:1.8994in;height:0.54615in"
+<p><img src="./images/media/image27.png"
 alt="A white square with black text and numbers Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -921,65 +879,55 @@ alt="A white square with black text and numbers Description automatically genera
 <tr>
 <td colspan="2">105 Italy</td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.49988in;height:0.86667in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image28.png"
-style="width:1.93747in;height:0.55729in"
+<p><img src="./images/media/image28.png"
 alt="A white square with black text Description automatically generated" /></p>
 </blockquote></td>
 </tr>
 <tr>
 <td colspan="2">105 Switzerland, Luxembourg</td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.49995in;height:0.86667in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image29.png"
-style="width:1.89814in;height:0.54615in"
+<p><img src="./images/media/image29.png"
 alt="A white square with black text and numbers Description automatically generated" /></p>
 </blockquote></td>
 </tr>
 <tr>
 <td colspan="2">104 English, International Netherlands</td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image30.png"
-style="width:0.93199in;height:0.4725in"
+<p><img src="./images/media/image30.png"
 alt="A white rectangular sign with black text Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image31.png"
-style="width:1.8607in;height:0.535in"
+<p><img src="./images/media/image31.png"
 alt="A white square with black text Description automatically generated" /></p>
 </blockquote></td>
 </tr>
 <tr>
 <td colspan="2">105 Portuguese</td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.49964in;height:0.86667in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image32.png"
-style="width:1.97608in;height:0.56312in"
+<p><img src="./images/media/image32.png"
 alt="A white square with black text Description automatically generated" /></p>
 </blockquote></td>
 </tr>
 <tr>
 <td colspan="2">105 Spanish, European</td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image19.png"
-style="width:0.4843in;height:0.83958in"
+<p><img src="./images/media/image19.png"
 alt="A black and white diagram Description automatically generated" /></p>
 </blockquote></td>
 <td colspan="2"><blockquote>
-<p><img src="./images/image33.png"
-style="width:1.93691in;height:0.55729in"
+<p><img src="./images/media/image33.png"
 alt="A white square with black text Description automatically generated" /></p>
 </blockquote></td>
 </tr>
@@ -1146,16 +1094,14 @@ within each process section.
 1.  **Place Device –** Carefully place the closed device Display side
     down with the Feet facing up on a soft ESD-Safe Mat.
 
-<img src="./images/image34.jpeg"
-style="width:2.6in;height:1.94861in"
-alt="The back of a computer Description automatically generated" />
+![The back of a computer Description automatically
+generated](./images/media/image34.jpeg)
 
 2.  **Remove the Feet –** Using the Nylon Spudger, carefully pry up all
     four feet to expose the screws.
 
-<img src="./images/image35.png"
-style="width:2.6in;height:1.21319in"
-alt="A drawing of a person cutting a piece of paper Description automatically generated" />
+![A drawing of a person cutting a piece of paper Description
+automatically generated](./images/media/image35.png)
 
 **Procedure – Installation (Feet)**
 
@@ -1163,9 +1109,8 @@ alt="A drawing of a person cutting a piece of paper Description automatically ge
     hole pattern on the Enclosure. Press firmly until the foot clicks
     into place. Repeat for the other 3 feet.
 
-<img src="./images/image36.jpeg"
-style="width:2.6in;height:1.95209in"
-alt="A close up of a hole in a metal surface Description automatically generated" />
+![A close up of a hole in a metal surface Description automatically
+generated](./images/media/image36.jpeg)
 
 ## Enclosure Replacement
 
@@ -1210,9 +1155,8 @@ within each process section.
 3.  **Remove the Enclosure screws –** Using a 5IP (Torx-Plus) driver,
     uninstall each of the 4 screws from under the feet.
 
-<img src="./images/image34.jpeg"
-style="width:2.6in;height:1.94861in"
-alt="The back of a computer Description automatically generated" />
+![The back of a computer Description automatically
+generated](./images/media/image34.jpeg)
 
 4.  **Separate the Enclosure from the Device –** Carefully insert the
     tip of a Plastic Opening Pick into the space between the Enclosure
@@ -1221,9 +1165,8 @@ alt="The back of a computer Description automatically generated" />
     hands, carefully lift the Enclosure off the device and place it on a
     soft ESD-Safe mat.
 
-<img src="./images/image37.png"
-style="width:5.38889in;height:1.3125in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer Description automatically
+generated](./images/media/image37.png)
 
 **Caution: Do Not** lift the Enclosure from the black plastic antenna.
 
@@ -1234,9 +1177,8 @@ alt="A close up of a computer Description automatically generated" />
     for any loose articles that may be present. Of specific importance
     are the magnets (identified below).
 
-<img src="./images/image38.png"
-style="width:2.6in;height:1.92912in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer Description automatically
+generated](./images/media/image38.png)
 
 2.  **Install the Enclosure -** Using both hands, carefully lower the
     top or bottom edge of the Enclosure onto the device ensuring you
@@ -1246,9 +1188,8 @@ alt="A close up of a computer Description automatically generated" />
     and none of the sides are catching when you press the Enclosure down
     flat.
 
-<img src="./images/image39.jpeg"
-style="width:2.6in;height:1.51616in"
-alt="Close-up of a silver computer Description automatically generated" />
+![Close-up of a silver computer Description automatically
+generated](./images/media/image39.jpeg)
 
 3.  **Fasten the Enclosure -** Using a 5IP (Torx-Plus) driver, install
     the 4 screws into the foot wells on the Enclosure. Each screw should
@@ -1290,10 +1231,9 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
 **Additional Components (Ordered Separately)**
 
@@ -1319,15 +1259,13 @@ within each process section.
     receptacle with IPA to remove any residual adhesive.
 
 5.  **Remove the Removable Solid-State Drive –** Using a 5IP (Torx-Plus)
-    driver, remove the screw (<img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />)
+    driver, remove the screw (![A number with a white background
+    Description automatically generated](./images/media/image40.png))
     holding the Removable Solid-State Drive onto the Motherboard. Lift
     the drive out of the device and place it on a soft ESD-Safe mat.
 
-<img src="./images/image41.png"
-style="width:2.6in;height:3.34657in"
-alt="A close up of a computer chip Description automatically generated" />
+![A close up of a computer chip Description automatically
+generated](./images/media/image41.png)
 
 **Procedure – Installation (Removable Solid-State Drive)**
 
@@ -1339,29 +1277,25 @@ alt="A close up of a computer chip Description automatically generated" />
 **CAUTION:** Ensure that the Speaker wire does not get caught or trapped
 when fastening the Removable Solid-State Drive to the Motherboard.
 
-<img src="./images/image42.jpeg"
-style="width:2.6in;height:1.95209in"
-alt="A close up of a computer chip Description automatically generated" />
+![A close up of a computer chip Description automatically
+generated](./images/media/image42.jpeg)
 
 2.  **Install Removable Solid-State Drive screw –** Using a 5IP
-    (Torx-Plus) driver, install the 1 new rSSD screw
-    (<img src="./images/image40.png"
-    style="width:0.38735in;height:0.14in"
-    alt="A number with a white background Description automatically generated" />)
-    until the screw is just snug. Then turn the screw an additional
-    45-degrees (1/8<sup>th</sup> turn) until screw is fully fastened.
+    (Torx-Plus) driver, install the 1 new rSSD screw (![A number with a
+    white background Description automatically
+    generated](./images/media/image40.png)) until the screw is just
+    snug. Then turn the screw an additional 45-degrees (1/8<sup>th</sup>
+    turn) until screw is fully fastened.
 
-> <img src="./images/image43.png"
-> style="width:3.8in;height:2.13731in"
-> alt="A close-up of a screwdriver Description automatically generated" />
+> ![A close-up of a screwdriver Description automatically
+> generated](./images/media/image43.png)
 
 3.  **Install Black Tape on Motherboard Receptacle –** Carefully place a
     new tape on the receptacle, making sure the cutout on the tape
     matches the shape of the raised flange on the receptacle.
 
-<img src="./images/image44.png"
-style="width:2.6in;height:2.52014in"
-alt="A close up of a circuit board Description automatically generated" />
+![A close up of a circuit board Description automatically
+generated](./images/media/image44.png)
 
 4.  **Install Spacer –** Place a new spacer on top of the Black Tape,
     parallel and as close as possible to the silver flange on the
@@ -1369,9 +1303,8 @@ alt="A close up of a circuit board Description automatically generated" />
     oriented towards the display hinge and that the spacer is centered
     lengthwise with the silver flange.
 
-> <img src="./images/image45.png"
-> style="width:2.6in;height:2.47448in"
-> alt="A close up of a circuit board Description automatically generated" />
+> ![A close up of a circuit board Description automatically
+> generated](./images/media/image45.png)
 
 5.  **Install Enclosure -** Refer to the [Procedure – Installation
     (Enclosure)](#enclosure-replacement) section of this document for
@@ -1444,19 +1377,16 @@ in sand. **DO NOT** attempt to pick up the device.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
-  - M1266593 Screws x 2 (Battery FPC Bracket)
-    <img src="./images/image46.png"
-    style="width:0.5in;height:0.10371in"
-    alt="A black text with a white background Description automatically generated" />
+  - M1266593 Screws x 2 (Battery FPC Bracket) ![A black text with a
+    white background Description automatically
+    generated](./images/media/image46.png)
 
-  - M1272782 Screws x 8 (Battery)
-    <img src="./images/image47.png" style="width:0.5in"
-    alt="A black and white logo Description automatically generated" />
+  - M1272782 Screws x 8 (Battery) ![A black and white logo Description
+    automatically generated](./images/media/image47.png)
 
 **Additional Components (Ordered Separately)**
 
@@ -1507,41 +1437,35 @@ section is not required.
 
 5.  **Remove the Battery Connector Metal Bracket –** Using a 3IP
     (Torx-Plus) driver, remove the 2 screws
-    (<img src="./images/image48.png"
-    style="width:0.37005in;height:0.1in" />) securing the metal bracket
-    to the motherboard. Lift the metal bracket out of the device to
-    expose the Battery FPC.
+    (![](./images/image48.png)) securing the metal bracket to the
+    motherboard. Lift the metal bracket out of the device to expose the
+    Battery FPC.
 
-<img src="./images/image49.png"
-style="width:2.6in;height:1.97019in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image49.png)
 
 6.  **Disconnect the Battery FPC -** Using a Nylon Spudger, pry the
     Battery FPC connector, starting from the side of the connector, from
     the Motherboard.
 
-<img src="./images/image50.jpeg"
-style="width:3.8in;height:2.13769in"
-alt="A hand holding a black plastic device Description automatically generated" />
+![A hand holding a black plastic device Description automatically
+generated](./images/media/image50.jpeg)
 
 7.  **Remove the Battery Screws -** Using a 5IP (Torx-Plus) driver,
-    remove the 8 screws
-    (<img src="./images/image47.png" style="width:0.5in"
-    alt="A black and white logo Description automatically generated" />)
-    securing the Battery.
+    remove the 8 screws (![A black and white logo Description
+    automatically generated](./images/media/image47.png)) securing the
+    Battery.
 
-<img src="./images/image51.png"
-style="width:3.8in;height:2.30274in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer Description automatically
+generated](./images/media/image51.png)
 
 8.  **Remove the battery from the device -** Using your hands, grab the
     battery at the four points identified below and carefully lift the
     battery out of the device. Place the battery on a clean ESD-Safe Mat
     free of any debris.
 
-<img src="./images/image52.png"
-style="width:3.8in;height:1.94393in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer Description automatically
+generated](./images/media/image52.png)
 
 **WARNING:** Only handle the battery by the plastic frame. Bending,
 twisting, or impacting the battery may damage the battery, the device,
@@ -1596,21 +1520,19 @@ personal injury or property damage. Always use two hands when handling
 the battery.
 
 3.  **Install the Battery screws -** Using a 5IP screwdriver, install
-    the 8 battery frame screws
-    (<img src="./images/image47.png" style="width:0.5in"
-    alt="A black and white logo Description automatically generated" />)
-    until the screws are just snug, then tighten each by an additional
-    45-degrees (1/8<sup>th</sup> turn).
+    the 8 battery frame screws (![A black and white logo Description
+    automatically generated](./images/media/image47.png)) until the
+    screws are just snug, then tighten each by an additional 45-degrees
+    (1/8<sup>th</sup> turn).
 
 **Important:** Do not overtighten the screws on the battery frame or
 battery. If the frame is cracked, the battery must not be used.
 
 4.  **Assemble the Battery FPC and FPC Bracket -** Assemble the Battery
     FPC to the Motherboard. Using a 3IP (Torx-Plus) driver, install 2
-    FPC Bracket screws (<img src="./images/image48.png"
-    style="width:0.37005in;height:0.1in" />) until the screws are just
-    snug. Turn each screw an additional 45-degrees (1/8<sup>th</sup>
-    turn) until fully fastened.
+    FPC Bracket screws (![](./images/image48.png)) until the
+    screws are just snug. Turn each screw an additional 45-degrees
+    (1/8<sup>th</sup> turn) until fully fastened.
 
 5.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -1692,23 +1614,20 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
-  - M1265600 Screws x 1 (Hinge & Chassis)
-    <img src="./images/image53.png"
-    style="width:0.30602in;height:0.1in"
-    alt="A black number six on a white background Description automatically generated" />
+  - M1265600 Screws x 1 (Hinge & Chassis) ![A black number six on a
+    white background Description automatically
+    generated](./images/media/image53.png)
 
-  - M1212080 Screws x 2 (Audio Jack Bridge)
-    <img src="./images/image54.png" style="width:0.5in"
-    alt="A black number on a white background Description automatically generated" />
+  - M1212080 Screws x 2 (Audio Jack Bridge) ![A black number on a white
+    background Description automatically
+    generated](./images/media/image54.png)
 
-  - M1263960 Screws x 1 (Audio Jack)
-    <img src="./images/image55.png" style="width:0.5in"
-    alt="A black text with letters Description automatically generated" />
+  - M1263960 Screws x 1 (Audio Jack) ![A black text with letters
+    Description automatically generated](./images/media/image55.png)
 
 **Additional Components (Ordered Separately)**
 
@@ -1737,18 +1656,16 @@ within each process section.
     Bridge to the interior. Lift the Audio Jack Bridge out of the
     device.
 
-<img src="./images/image56.png"
-style="width:2.6in;height:2.2181in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image56.png)
 
 6.  **Remove the Audio Jack –**
 
     1.  Using a 3IP (Torx-Plus) screwdriver, remove the 1 screw securing
         the Audio Jack to the Motherboard.
 
-<img src="./images/image57.png"
-style="width:2.6in;height:2.08122in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image57.png)
 
 2.  Using a Nylon Spudger, flip the latch on the Motherboard to
     disengage the lock on the Audio Jack FPC. Remove the Audio Jack FPC
@@ -1769,23 +1686,20 @@ alt="A close up of a device Description automatically generated" />
         down.
 
     4.  Using a 3IP (Torx-Plus) driver to install a new Audio Jack screw
-        (<img src="./images/image55.png"
-        style="width:0.6in;height:0.10755in"
-        alt="A black text with letters Description automatically generated" />)
-        until just snug. Then turn the screw an additional 45-degrees
-        (1/8<sup>th</sup> turn) until fully fastened.
+        (![A black text with letters Description automatically
+        generated](./images/media/image55.png)) until just snug. Then
+        turn the screw an additional 45-degrees (1/8<sup>th</sup> turn)
+        until fully fastened.
 
 2.  **Install the Audio Jack Bridge -** Install the previously removed
     Audio Jack Bridge into its position over the Audio Jack. Using a 3IP
     (Torx-Plus) and 6IP (Torx-Plus) driver, install 3 new screws (2 x
-    <img src="./images/image54.png"
-    style="width:0.6in;height:0.11477in"
-    alt="A black number on a white background Description automatically generated" />,
-    1 x <img src="./images/image53.png"
-    style="width:0.30602in;height:0.1in"
-    alt="A black number six on a white background Description automatically generated" />).
-    All screws should be tightened until just snug, and then turned
-    another 45-degrees (1/8<sup>th</sup> turn) until fully fastened.
+    ![A black number on a white background Description automatically
+    generated](./images/media/image54.png), 1 x ![A black number six on
+    a white background Description automatically
+    generated](./images/media/image53.png)). All screws should be
+    tightened until just snug, and then turned another 45-degrees
+    (1/8<sup>th</sup> turn) until fully fastened.
 
 3.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -1844,10 +1758,9 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
   - M1211914 Screws x 2 (Speaker)
 
@@ -1878,17 +1791,15 @@ within each process section.
 5.  **Remove the Speaker tape –** Remove the tape and clean the surface
     with IPA to remove any residual adhesive.
 
-<img src="./images/image58.png"
-style="width:2.6in;height:2.30835in"
-alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically
+generated](./images/media/image58.png)
 
 6.  **Remove the Right Speaker screws –** Using a 3IP (Torx-Plus) driver
     to remove the 2 screws securing the Right Speaker (which is on the
     left side when working on the device) to the Chassis.
 
-<img src="./images/image59.png"
-style="width:2.6in;height:2.81133in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image59.png)
 
 7.  **Remove the Right Speaker –** Remove the Right Speaker from the
     Chassis and de-route the cable. To remove the connector from the
@@ -1902,9 +1813,8 @@ alt="A close up of a device Description automatically generated" />
     screws should be installed until just snug, and then turned another
     45-degress (1/8<sup>th</sup> turn) until fully fastened.
 
-<img src="./images/image59.png"
-style="width:2.6in;height:2.81133in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image59.png)
 
 2.  **Route and connect the Right Speaker wire –** Route the Right
     Speaker wire as shown below. Install the speaker connector into the
@@ -1914,16 +1824,14 @@ alt="A close up of a device Description automatically generated" />
 **NOTE:** The connector will have 2 visible gold contacts if it is
 oriented in the correct direction.
 
-<img src="./images/image60.png"
-style="width:6.5in;height:2.29931in"
-alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically
+generated](./images/media/image60.png)
 
 3.  **Place new Speaker Tape -** Place a new Tape over the speaker wire
     as shown below.
 
-<img src="./images/image58.png"
-style="width:2.6in;height:2.30835in"
-alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically
+generated](./images/media/image58.png)
 
 4.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -1982,10 +1890,9 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
   - M1211914 Screws x 2 (Speaker)
 
@@ -2015,9 +1922,8 @@ within each process section.
     the 2 screws securing the Left Speaker, located on the Right side of
     the device when working on it, to the Chassis.
 
-<img src="./images/image61.png"
-style="width:2.6in;height:2.61411in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image61.png)
 
 6.  **Remove the Left Speaker –** Remove the Left Speaker from the
     Chassis. To Remove the connector from the Motherboard, pull up
@@ -2037,9 +1943,8 @@ alt="A close up of a device Description automatically generated" />
 **NOTE:** The connector will have 2 visible gold contacts if it is
 oriented in the correct direction.
 
-<img src="./images/image62.png"
-style="width:2.6in;height:2.53333in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image62.png)
 
 3.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -2098,14 +2003,13 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
-  - M1235998 Screws x 2 (Micro SD)
-    <img src="./images/image63.png" style="width:0.279in;height:0.1in"
-    alt="A black number on a white background Description automatically generated" />
+  - M1235998 Screws x 2 (Micro SD) ![A black number on a white
+    background Description automatically
+    generated](./images/media/image63.png)
 
 **Additional Components (Ordered Separately)**
 
@@ -2137,9 +2041,8 @@ within each process section.
     remove the 2 screws holding the Micro SD Reader into the Chassis and
     lift the Micro SD Reader out of the device.
 
-<img src="./images/image64.png"
-style="width:2.6in;height:2.34984in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer Description automatically
+generated](./images/media/image64.png)
 
 **Procedure – Installation (Micro SD Reader)**
 
@@ -2150,15 +2053,14 @@ alt="A close up of a computer Description automatically generated" />
     2.  Verify that the reader is aligned with the opening on the
         outside of the device chassis.
 
-    3.  Using a 3IP (Torx-Plus) driver, install 2 new screws
-        (<img src="./images/image63.png" style="width:0.279in;height:0.1in"
-        alt="A black number on a white background Description automatically generated" />)
-        until just snug and then turn each another 45-degrees
-        (1/8<sup>th</sup> turn) until fully fastened.
+    3.  Using a 3IP (Torx-Plus) driver, install 2 new screws (![A black
+        number on a white background Description automatically
+        generated](./images/media/image63.png)) until just snug and then
+        turn each another 45-degrees (1/8<sup>th</sup> turn) until fully
+        fastened.
 
-> <img src="./images/image64.png"
-> style="width:2.6in;height:2.34984in"
-> alt="A close up of a computer Description automatically generated" />
+> ![A close up of a computer Description automatically
+> generated](./images/media/image64.png)
 
 2.  **Connect the Micro SD Reader Cable -** Insert the Micro SD Reader
     cable into the receptacle on the Micro SD Reader board and close the
@@ -2224,10 +2126,9 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
   - M1265600 Screws x 8 (Hinge & Chassis)
 
@@ -2305,26 +2206,21 @@ connect an external monitor to the device to perform these steps.
 
     1)  Using a Nylon Spudger, pry up the 2 Coax Cable Lids.
 
-> <img src="./images/image65.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A person using a stylus to fix a device Description automatically generated" /><img src="./images/image66.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A close-up of a computer chip Description automatically generated" />
+> ![A person using a stylus to fix a device Description automatically
+> generated](./images/media/image65.jpeg)![A close-up of a computer chip
+> Description automatically generated](./images/media/image66.jpeg)
 
 2)  Using a Nylon Spudger, disconnect the 2 Coax Cables.
 
-> <img src="./images/image67.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A close-up of a device Description automatically generated" /><img src="./images/image68.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A close-up of a device Description automatically generated" />
+> ![A close-up of a device Description automatically
+> generated](./images/media/image67.jpeg)![A close-up of a device
+> Description automatically generated](./images/media/image68.jpeg)
 
 3)  Using a 3IP (Torx-Plus) driver, remove the 11 screws from the
     antenna.
 
-> <img src="./images/image69.png"
-> style="width:4.8in;height:1.94482in"
-> alt="A close up of a computer Description automatically generated" />
+> ![A close up of a computer Description automatically
+> generated](./images/media/image69.png)
 
 4)  Lift the Antenna out of the Chassis.
 
@@ -2335,9 +2231,8 @@ connect an external monitor to the device to perform these steps.
     1)  Using a Nylon Spudger, pry up the T3 Shield Lid starting with
         the right edge.
 
-> <img src="./images/image70.jpeg"
-> style="width:3.79967in;height:1.55417in"
-> alt="A black tool on a black device Description automatically generated with medium confidence" />
+> ![A black tool on a black device Description automatically generated
+> with medium confidence](./images/media/image70.jpeg)
 
 **NOTE:** Remove the Motherboard screw next to the T3 Shield can give
 better access for removal of the shield.
@@ -2346,11 +2241,9 @@ better access for removal of the shield.
     and shift the shield up and down as you work your way left as the
     shield will get stuck on its latches.
 
-> <img src="./images/image71.jpeg"
-> style="width:2.59931in;height:0.96931in"
-> alt="A black object on a white surface Description automatically generated" /><img src="./images/image72.jpeg"
-> style="width:2.59977in;height:0.96944in"
-> alt="A hand holding a film strip Description automatically generated" />
+> ![A black object on a white surface Description automatically
+> generated](./images/media/image71.jpeg)![A hand holding a film strip
+> Description automatically generated](./images/media/image72.jpeg)
 
 **Caution:** Ensure that the shield does not damage the Display FPC’s
 during removal.
@@ -2363,10 +2256,9 @@ during removal.
 **Caution:** Do not force the connector if it starts to give resistance.
 Rock the connector back in the other direction to remove.
 
-<img src="./images/image73.jpeg"
-style="width:2.59977in;height:1.09444in"
-alt="A hand holding a tweezers Description automatically generated" /><img src="./images/image74.jpeg" style="width:2.6in;height:1.09in"
-alt="A close up of a device Description automatically generated" />
+![A hand holding a tweezers Description automatically
+generated](./images/media/image73.jpeg)![A close up of a device
+Description automatically generated](./images/media/image74.jpeg)
 
 9.  **Reorient the Device –**
 
@@ -2375,16 +2267,14 @@ alt="A close up of a device Description automatically generated" />
     2)  Place the backside of the Display Assembly on the ESD-Safe Mat
         with the screen and keyboard facing up.
 
-> <img src="./images/image75.jpeg"
-> style="width:2.6in;height:2.94428in" />
+> ![](./images/image75.jpeg)
 
 10. **Remove the Left Hinge Screws – With** one hand holding the device
     still, use a 6IP (Torx-Plus) driver to remove the 3 screws on the
     Left Hinge.
 
-<img src="./images/image76.jpeg"
-style="width:2.6in;height:3.6408in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer Description automatically
+generated](./images/media/image76.jpeg)
 
 11. **Remove the Right Hinge Screws -** With one hand holding the device
     still, use a 6IP (Torx-Plus) driver to remove the 4 screws on the
@@ -2407,18 +2297,15 @@ alt="A close up of a computer Description automatically generated" />
 assembly glass.
 
 3.  **Pre-fasten the right hinge screws -** Using a 6IP (Torx-Plus)
-    driver, install 4 new right side hinge screws
-    (<img src="./images/image53.png"
-    style="width:0.42843in;height:0.14in"
-    alt="A black number six on a white background Description automatically generated" />)
-    and tighten until it is just snug.
+    driver, install 4 new right side hinge screws (![A black number six
+    on a white background Description automatically
+    generated](./images/media/image53.png)) and tighten until it is just
+    snug.
 
 4.  **Pre-fasten the left hinge screws -** Using a 6IP (Torx-Plus)
-    driver, install 3 new left side hinge screws
-    (<img src="./images/image53.png"
-    style="width:0.42843in;height:0.14in"
-    alt="A black number six on a white background Description automatically generated" />)
-    and tighten until just snug.
+    driver, install 3 new left side hinge screws (![A black number six
+    on a white background Description automatically
+    generated](./images/media/image53.png)) and tighten until just snug.
 
 5.  **Check alignment –**
 
@@ -2429,11 +2316,9 @@ assembly glass.
     3.  Adjust the alignment until the gap between the Display Assembly
         and the Chassis is as even as possible.
 
-> <img src="./images/image77.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="Close-up of a black electronic device Description automatically generated" /><img src="./images/image78.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A close-up of a computer Description automatically generated" />
+> ![Close-up of a black electronic device Description automatically
+> generated](./images/media/image77.jpeg)![A close-up of a computer
+> Description automatically generated](./images/media/image78.jpeg)
 
 4.  Tighten down 1 screw on the left hinge until snug. Adjust to the
     right side so that the Chassis surface is flush with the Display
@@ -2460,9 +2345,8 @@ assembly glass.
 
 **Important:** Tape should be applied only to the Display Assembly FPC.
 
-<img src="./images/image79.png"
-style="width:2.6in;height:1.58929in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image79.png)
 
 9.  **Install the T3 Shield Foams (as needed) –**
 
@@ -2470,9 +2354,8 @@ alt="A close up of a device Description automatically generated" />
         shield fence for foams. If the foams are not present, install
         the supplied foams as shown.
 
-> <img src="./images/image80.png"
-> style="width:2.6in;height:1.59212in"
-> alt="A close up of a device Description automatically generated" />
+> ![A close up of a device Description automatically
+> generated](./images/media/image80.png)
 
 2.  If the Display Assembly being installed has 4 FPCs, inspect the
     shield fence for foams. Any foams on the shield fence should be
@@ -2483,26 +2366,23 @@ remaining 2 connections on the Motherboard will remain empty. This is by
 design.
 
 10. **Install the Motherboard screw -** Using a 3IP (Torx-Plus) driver,
-    install 1 new Motherboard screw
-    (<img src="./images/image81.png"
-    style="width:0.32757in;height:0.1in"
-    alt="A black text with a white background Description automatically generated" />)
-    until just snug and seated, and then turn another 45-degrees
-    (1/8<sup>th</sup> turn) until fully fastened.
+    install 1 new Motherboard screw (![A black text with a white
+    background Description automatically
+    generated](./images/media/image81.png)) until just snug and seated,
+    and then turn another 45-degrees (1/8<sup>th</sup> turn) until fully
+    fastened.
 
 11. **Install the Antenna –**
 
     1.  Install the previously removed Antenna. Using a 3IP (Torx-Plus)
-        driver, install 12 new screws
-        (<img src="./images/image82.png"
-        style="width:0.31705in;height:0.1in"
-        alt="A black number with a white background Description automatically generated" />).
-        All screws should be installed until just snug, and then turned
-        another 45-degrees (1/8<sup>th</sup> turn) until fully fastened.
+        driver, install 12 new screws (![A black number with a white
+        background Description automatically
+        generated](./images/media/image82.png)). All screws should be
+        installed until just snug, and then turned another 45-degrees
+        (1/8<sup>th</sup> turn) until fully fastened.
 
-> <img src="./images/image69.png"
-> style="width:4.8in;height:1.94482in"
-> alt="A close up of a computer Description automatically generated" />
+> ![A close up of a computer Description automatically
+> generated](./images/media/image69.png)
 
 2.  Connect the 2 Coax Cables to the Motherboard by aligning each with
     the socket, and pressing down until a click is felt.
@@ -2510,9 +2390,8 @@ design.
 3.  Install 2 new Coax Cable Lids to the Motherboard over the Coax
     Cables. Align and press into place until a click is felt.
 
-> <img src="./images/image83.jpeg"
-> style="width:2.6in;height:1.2421in"
-> alt="A close-up of a device Description automatically generated" />
+> ![A close-up of a device Description automatically
+> generated](./images/media/image83.jpeg)
 
 12. **Install the Audio Jack –** Refer to [Procedure – Installation
     (Audio Jack)](#audio-jack-replacement) section of this document for
@@ -2602,10 +2481,9 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
   - M1277572 Screws x 2 (Surface Connect)
 
@@ -2637,18 +2515,16 @@ within each process section.
     Spudger, flip up the latch on the Motherboard, and disconnect the
     Surface Connect connector from the Motherboard.
 
-<img src="./images/image84.png"
-style="width:2.6in;height:1.93139in"
-alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically
+generated](./images/media/image84.png)
 
 6.  **Remove the Surface Connect Cable -** Using a 3IP (Torx-Plus)
     driver, remove the 2 screws securing the Surface Connect port to the
     Motherboard. Lift the cable out of the device and place it on an
     ESD-Safe mat.
 
-<img src="./images/image85.png"
-style="width:2.6in;height:1.98417in"
-alt="A fan with a black band Description automatically generated with medium confidence" />
+![A fan with a black band Description automatically generated with
+medium confidence](./images/media/image85.png)
 
 7.  **Remove residual adhesive -** Gently peel up the PSA
     (pressure-sensitive adhesive) under the Surface Connect Cable (on
@@ -2661,8 +2537,8 @@ alt="A fan with a black band Description automatically generated with medium con
 1.  **Install new PSA -** Place a new piece of PSA down onto the Fan as
     shown.
 
-<img src="./images/image86.png" style="width:2.6in;height:2.6in"
-alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically
+generated](./images/media/image86.png)
 
 2.  **Install the Surface Connect Cable –**
 
@@ -2676,8 +2552,7 @@ alt="A close up of a fan Description automatically generated" />
         surface of the chassis. The port should be fully aligned with
         the external opening.
 
-> <img src="./images/image87.jpeg"
-> style="width:2.6in;height:1.26667in" />
+> ![](./images/image87.jpeg)
 
 3.  Using a 3IP (Torx-Plus) driver, install the 2 new Surface Connect
     screws until the screw is just snug and seated, and then turn each
@@ -2754,53 +2629,43 @@ Display Assembly Replacement to ensure proper part operation.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1266593 Screws x 2 (Battery FPC Bracket)
-    <img src="./images/image46.png"
-    style="width:0.6in;height:0.12445in"
-    alt="A black text with a white background Description automatically generated" />
+  - M1266593 Screws x 2 (Battery FPC Bracket) ![A black text with a
+    white background Description automatically
+    generated](./images/media/image46.png)
 
-  - M1272782 Screws x 8 (Battery) <img src="./images/image47.png"
-    style="width:0.6in;height:0.11395in"
-    alt="A black and white logo Description automatically generated" />
+  - M1272782 Screws x 8 (Battery) ![A black and white logo Description
+    automatically generated](./images/media/image47.png)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
-  - M1265600 Screws x 1 (Hinge & Chassis)
-    <img src="./images/image53.png"
-    style="width:0.30602in;height:0.1in"
-    alt="A black number six on a white background Description automatically generated" />
+  - M1265600 Screws x 1 (Hinge & Chassis) ![A black number six on a
+    white background Description automatically
+    generated](./images/media/image53.png)
 
-  - M1274578 Screws x 14 (Antenna) <img src="./images/image82.png"
-    style="width:0.31705in;height:0.1in"
-    alt="A black number with a white background Description automatically generated" />
+  - M1274578 Screws x 14 (Antenna) ![A black number with a white
+    background Description automatically
+    generated](./images/media/image82.png)
 
-  - M1212080 Screws x 1 (Audio Jack Bridge)
-    <img src="./images/image54.png"
-    style="width:0.6in;height:0.11477in"
-    alt="A black number on a white background Description automatically generated" />
+  - M1212080 Screws x 1 (Audio Jack Bridge) ![A black number on a white
+    background Description automatically
+    generated](./images/media/image54.png)
 
-  - M1263960 Screws x 2 (Audio Jack)
-    <img src="./images/image55.png"
-    style="width:0.6in;height:0.10755in"
-    alt="A black text with letters Description automatically generated" />
+  - M1263960 Screws x 2 (Audio Jack) ![A black text with letters
+    Description automatically generated](./images/media/image55.png)
 
-  - M1235995 Screws x 8 (Motherboard)
-    <img src="./images/image81.png"
-    style="width:0.6in;height:0.12844in"
-    alt="A black text with a white background Description automatically generated" />
+  - M1235995 Screws x 8 (Motherboard) ![A black text with a white
+    background Description automatically
+    generated](./images/media/image81.png)
 
-  - M1263961 Screws x 2 (Motherboard)
-    <img src="./images/image88.png"
-    style="width:0.6in;height:0.12034in"
-    alt="A black letter with a white background Description automatically generated" />
+  - M1263961 Screws x 2 (Motherboard) ![A black letter with a white
+    background Description automatically
+    generated](./images/media/image88.png)
 
-  - M1277573 Screws x 1 (Motherboard)
-    <img src="./images/image89.png"
-    style="width:0.6in;height:0.11995in"
-    alt="A black letter with a white background Description automatically generated" />
+  - M1277573 Screws x 1 (Motherboard) ![A black letter with a white
+    background Description automatically
+    generated](./images/media/image89.png)
 
   - M1265416 Shield x 2 (Coax Cable Lid)
 
@@ -2852,19 +2717,15 @@ Display Assembly Replacement to ensure proper part operation.
 
     1.  Using a Nylon Spudger, pry up the 2 Coax Cable Lids.
 
-> <img src="./images/image65.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A person using a stylus to fix a device Description automatically generated" /><img src="./images/image66.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A close-up of a computer chip Description automatically generated" />
+> ![A person using a stylus to fix a device Description automatically
+> generated](./images/media/image65.jpeg)![A close-up of a computer chip
+> Description automatically generated](./images/media/image66.jpeg)
 
 2.  Using a Nylon Spudger, disconnect the 2 Coax Cables.
 
-> <img src="./images/image67.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A close-up of a device Description automatically generated" /><img src="./images/image68.jpeg"
-> style="width:2.6in;height:1.46263in"
-> alt="A close-up of a device Description automatically generated" />
+> ![A close-up of a device Description automatically
+> generated](./images/media/image67.jpeg)![A close-up of a device
+> Description automatically generated](./images/media/image68.jpeg)
 
 3.  Using a 3IP (Torx-Plus) driver, remove the 11 screws from the
     antenna.
@@ -2878,9 +2739,8 @@ Display Assembly Replacement to ensure proper part operation.
     1.  Using a Nylon Spudger, pry up the T3 Shield Lid starting with
         the right edge.
 
-> <img src="./images/image70.jpeg"
-> style="width:3.79967in;height:1.31111in"
-> alt="A black tool on a black device Description automatically generated with medium confidence" />
+> ![A black tool on a black device Description automatically generated
+> with medium confidence](./images/media/image70.jpeg)
 
 **NOTE:** Remove the Motherboard screw next to the T3 Shield can give
 better access for removal of the shield.
@@ -2889,11 +2749,9 @@ better access for removal of the shield.
     and shift the shield up and down as you work your way left as the
     shield will get stuck on its latches.
 
-> <img src="./images/image71.jpeg"
-> style="width:2.59977in;height:0.97639in"
-> alt="A black object on a white surface Description automatically generated" /><img src="./images/image72.jpeg"
-> style="width:2.59977in;height:0.96944in"
-> alt="A hand holding a film strip Description automatically generated" />
+> ![A black object on a white surface Description automatically
+> generated](./images/media/image71.jpeg)![A hand holding a film strip
+> Description automatically generated](./images/media/image72.jpeg)
 
 **Caution:** Ensure that the shield does not damage the Display FPC’s
 during removal.
@@ -2906,11 +2764,9 @@ during removal.
 **Caution:** Do not force the connector if it starts to give resistance.
 Rock the connector back in the other direction to remove.
 
-<img src="./images/image73.jpeg"
-style="width:2.6in;height:1.46263in"
-alt="A hand holding a tweezers Description automatically generated" /><img src="./images/image74.jpeg"
-style="width:2.6in;height:1.46263in"
-alt="A close up of a device Description automatically generated" />
+![A hand holding a tweezers Description automatically
+generated](./images/media/image73.jpeg)![A close up of a device
+Description automatically generated](./images/media/image74.jpeg)
 
 10. **Remove the T1 Shield –** Using a Nylon Spudger or ESD-Safe
     Tweezers, peel up the corner of the shield. Pry up the rest of the
@@ -2942,17 +2798,15 @@ alt="A close up of a device Description automatically generated" />
     disengage the lock on the Fan FPC. Remove the Fan FPC from the
     connector on the Motherboard.
 
-<img src="./images/image90.png"
-style="width:2.6in;height:2.66687in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer Description automatically
+generated](./images/media/image90.png)
 
 17. **Disconnect the Keyboard FPC -** Flip the latch on the Motherboard
     to disengage the lock on the Keyboard FPC. Remove the Keyboard FPC
     from the connector on the Motherboard.
 
-<img src="./images/image91.png"
-style="width:2.6in;height:3.46503in"
-alt="A close up of a computer circuit board Description automatically generated" />
+![A close up of a computer circuit board Description automatically
+generated](./images/media/image91.png)
 
 18. **Disconnect the Touch FPC –**
 
@@ -2960,9 +2814,8 @@ alt="A close up of a computer circuit board Description automatically generated"
         connector. Clean the surface with IPA and cleaning swabs to
         ensure all residual adhesive is removed.
 
-> <img src="./images/image92.png"
-> style="width:2.6in;height:3.45436in"
-> alt="A close up of a computer Description automatically generated" />
+> ![A close up of a computer Description automatically
+> generated](./images/media/image92.png)
 
 2.  Flip the latch on the Motherboard to disengage the lock on the
     Touchpad FPC. Remove the Touchpad FPC from the connector on the
@@ -2975,8 +2828,8 @@ alt="A close up of a computer circuit board Description automatically generated"
     Remove the Keyboard Backlight FPC from the connector on the
     Motherboard.
 
-<img src="./images/image93.png" style="width:2.6in;height:1.935in"
-alt="A close up of a computer circuit board Description automatically generated" />
+![A close up of a computer circuit board Description automatically
+generated](./images/media/image93.png)
 
 20. **Disconnect the Left Speaker -** To remove the connector from the
     Motherboard, pull up vertically on the wires until the connector
@@ -2990,24 +2843,21 @@ alt="A close up of a computer circuit board Description automatically generated"
     Driver, remove the 1 screw holding the Motherboard Steel Bracket to
     the Enclosure.
 
-<img src="./images/image94.png"
-style="width:2.9446in;height:1.38202in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image94.png)
 
 23. **Remove the Motherboard Shields–** Using ESD-Safe Tweezers,
     carefully remove the two metal shields identified below to expose
     the Motherboard screws underneath.
 
-<img src="./images/image95.png"
-style="width:2.6in;height:1.19482in"
-alt="A close up of a circuit board Description automatically generated" />
+![A close up of a circuit board Description automatically
+generated](./images/media/image95.png)
 
 24. **Remove the Motherboard Screws -** Using a 3IP (Torx-Plus) driver,
     remove the 10 screws holding the Motherboard to the Chassis.
 
-<img src="./images/image96.png"
-style="width:4.8in;height:2.56974in"
-alt="A close up of a circuit board Description automatically generated" />
+![A close up of a circuit board Description automatically
+generated](./images/media/image96.png)
 
 25. **Remove the Motherboard –** Using both hands, carefully lift the
     Motherboard out and up, taking care to avoid pulling on the thermal
@@ -3036,26 +2886,22 @@ require replacement of the Motherboard or device.
     with the screw bosses.
 
 4.  Using a 3IP (Torx-Plus) driver, install 8 new Motherboard screws
-    (<img src="./images/image81.png"
-    style="width:0.6in;height:0.12844in"
-    alt="A black text with a white background Description automatically generated" />)
-    until just snug. Turn each screw another 45-degrees
-    (1/8<sup>th</sup> turn) until fully fastened.
+    (![A black text with a white background Description automatically
+    generated](./images/media/image81.png)) until just snug. Turn each
+    screw another 45-degrees (1/8<sup>th</sup> turn) until fully
+    fastened.
 
-> <img src="./images/image96.png"
-> style="width:4.8in;height:2.56974in"
-> alt="A close up of a circuit board Description automatically generated" />
+> ![A close up of a circuit board Description automatically
+> generated](./images/media/image96.png)
 
 5.  Using a 3IP (Torx-Plus) driver, install 2 new Motherboard screws
-    (<img src="./images/image88.png"
-    style="width:0.6in;height:0.12034in"
-    alt="A black letter with a white background Description automatically generated" />)
-    until just snug. Turn each screw another 45-degrees
-    (1/8<sup>th</sup> turn) until fully fastened.
+    (![A black letter with a white background Description automatically
+    generated](./images/media/image88.png)) until just snug. Turn each
+    screw another 45-degrees (1/8<sup>th</sup> turn) until fully
+    fastened.
 
-> <img src="./images/image97.png"
-> style="width:2.6in;height:2.07879in"
-> alt="A close up of a circuit board Description automatically generated" />
+> ![A close up of a circuit board Description automatically
+> generated](./images/media/image97.png)
 
 **Important:** Ensure that the slots next to the thermal module screws
 sit over the posts in the device chassis.
@@ -3066,32 +2912,29 @@ sit over the posts in the device chassis.
         equivalent of 2 tick marks (marked on the side of the syringe)
         of thermal paste to the component marked below.
 
-> <img src="./images/image98.png"
-> style="width:1.75704in;height:2.31956in"
-> alt="A close up of a circuit board Description automatically generated" />
+> ![A close up of a circuit board Description automatically
+> generated](./images/media/image98.png)
 
 2.  Using the same syringe of thermal paste, apply the equivalent of ½
     ticket mark (marked on the side of the syringe) of thermal paste to
     the component marked below.
 
-> <img src="./images/image99.png"
-> style="width:1.8751in;height:2.3404in"
-> alt="A close up of a circuit board Description automatically generated" />
+> ![A close up of a circuit board Description automatically
+> generated](./images/media/image99.png)
 
 3.  Assemble and install a new T1 Shield.
 
 <!-- -->
 
 4.  **Assemble the Motherboard Steel Bracket -** Using a 3IP (Torx-Plus)
-    driver, install 1 new screw (<img src="./images/image89.png"
-    style="width:0.6in;height:0.11995in"
-    alt="A black letter with a white background Description automatically generated" />)
-    until just snug, and then turn another 45-degrees (1/8<sup>th</sup>
-    turn) until fully fastened.
+    driver, install 1 new screw (![A black letter with a white
+    background Description automatically
+    generated](./images/media/image89.png)) until just snug, and then
+    turn another 45-degrees (1/8<sup>th</sup> turn) until fully
+    fastened.
 
-<img src="./images/image94.png"
-style="width:2.9446in;height:1.38202in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically
+generated](./images/media/image94.png)
 
 5.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -3121,9 +2964,8 @@ alt="A close up of a device Description automatically generated" />
     2.  Apply a new Touchpad FPC Tape across the FPC and the Motherboard
         connector.
 
-> <img src="./images/image92.png"
-> style="width:2.6in;height:3.45436in"
-> alt="A close up of a computer Description automatically generated" />
+> ![A close up of a computer Description automatically
+> generated](./images/media/image92.png)
 
 10. **Connect the Keyboard FPC -** Ensure the latch on the Motherboard
     connector for the Keyboard FPC is in a vertical position before
@@ -3143,8 +2985,8 @@ alt="A close up of a device Description automatically generated" />
 13. **Install new PSA -** Place a new piece of PSA down onto the Fan as
     shown.
 
-<img src="./images/image86.png" style="width:2.6in;height:2.6in"
-alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically
+generated](./images/media/image86.png)
 
 14. **Install the Surface Connect Cable –** Insert the connector of the
     Surface Connect Cable into the receptacle on the Motherboard and
@@ -3265,53 +3107,43 @@ within each process section.
 
   - M1301718 Screws x 4 (Foot screws)
 
-  - M1266593 Screws x 2 (Battery FPC Bracket)
-    <img src="./images/image46.png"
-    style="width:0.6in;height:0.12445in"
-    alt="A black text with a white background Description automatically generated" />
+  - M1266593 Screws x 2 (Battery FPC Bracket) ![A black text with a
+    white background Description automatically
+    generated](./images/media/image46.png)
 
-  - M1272782 Screws x 8 (Battery) <img src="./images/image47.png"
-    style="width:0.6in;height:0.11395in"
-    alt="A black and white logo Description automatically generated" />
+  - M1272782 Screws x 8 (Battery) ![A black and white logo Description
+    automatically generated](./images/media/image47.png)
 
-  - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/image40.png"
-    style="width:0.27668in;height:0.1in"
-    alt="A number with a white background Description automatically generated" />
+  - M1246215 Screws x 1 (Solid-State Drive) ![A number with a white
+    background Description automatically
+    generated](./images/media/image40.png)
 
-  - M1265600 Screws x 1 (Hinge & Chassis)
-    <img src="./images/image53.png"
-    style="width:0.30602in;height:0.1in"
-    alt="A black number six on a white background Description automatically generated" />
+  - M1265600 Screws x 1 (Hinge & Chassis) ![A black number six on a
+    white background Description automatically
+    generated](./images/media/image53.png)
 
-  - M1274578 Screws x 14 (Antenna) <img src="./images/image82.png"
-    style="width:0.31705in;height:0.1in"
-    alt="A black number with a white background Description automatically generated" />
+  - M1274578 Screws x 14 (Antenna) ![A black number with a white
+    background Description automatically
+    generated](./images/media/image82.png)
 
-  - M1212080 Screws x 1 (Audio Jack Bridge)
-    <img src="./images/image54.png"
-    style="width:0.6in;height:0.11477in"
-    alt="A black number on a white background Description automatically generated" />
+  - M1212080 Screws x 1 (Audio Jack Bridge) ![A black number on a white
+    background Description automatically
+    generated](./images/media/image54.png)
 
-  - M1263960 Screws x 2 (Audio Jack)
-    <img src="./images/image55.png"
-    style="width:0.6in;height:0.10755in"
-    alt="A black text with letters Description automatically generated" />
+  - M1263960 Screws x 2 (Audio Jack) ![A black text with letters
+    Description automatically generated](./images/media/image55.png)
 
-  - M1235995 Screws x 8 (Motherboard)
-    <img src="./images/image81.png"
-    style="width:0.6in;height:0.12844in"
-    alt="A black text with a white background Description automatically generated" />
+  - M1235995 Screws x 8 (Motherboard) ![A black text with a white
+    background Description automatically
+    generated](./images/media/image81.png)
 
-  - M1263961 Screws x 2 (Motherboard)
-    <img src="./images/image88.png"
-    style="width:0.6in;height:0.12034in"
-    alt="A black letter with a white background Description automatically generated" />
+  - M1263961 Screws x 2 (Motherboard) ![A black letter with a white
+    background Description automatically
+    generated](./images/media/image88.png)
 
-  - M1277573 Screws x 1 (Motherboard)
-    <img src="./images/image89.png"
-    style="width:0.6in;height:0.11995in"
-    alt="A black letter with a white background Description automatically generated" />
+  - M1277573 Screws x 1 (Motherboard) ![A black letter with a white
+    background Description automatically
+    generated](./images/media/image89.png)
 
   - M1211014 Screws x 4 (Speakers)
 
@@ -3397,17 +3229,15 @@ within each process section.
     screws securing the Fan to the Keyboard Assembly. Remove the Fan
     from the device.
 
-> <img src="./images/image100.png"
-> style="width:2.6in;height:2.51501in"
-> alt="A close up of a fan Description automatically generated" />
+> ![A close up of a fan Description automatically
+> generated](./images/media/image100.png)
 
 14. **Remove the Mounting Brackets–** Using a 2IP (Torx-Plus) driver,
     remove the 2 screws holding each of the Mounting Brackets to the
     Keyboard Assembly. Remove the 2 Mounting Brackets from the device.
 
-<img src="./images/image101.png"
-style="width:2.6in;height:1.19194in"
-alt="A black board with white text and blue and yellow tape Description automatically generated" />
+![A black board with white text and blue and yellow tape Description
+automatically generated](./images/media/image101.png)
 
 **Procedure – Installation (Keyboard Assembly)**
 
@@ -3416,9 +3246,8 @@ alt="A black board with white text and blue and yellow tape Description automati
     1.  Place the 2 previously removed Mounting Brackets so that the
         yellow side is visible, and they are arranged as shown here.
 
-> <img src="./images/image101.png"
-> style="width:2.6in;height:1.19194in"
-> alt="A black board with white text and blue and yellow tape Description automatically generated" />
+> ![A black board with white text and blue and yellow tape Description
+> automatically generated](./images/media/image101.png)
 
 2.  Using a 2IP (Torx-Plus) driver, install 4 new Mounting Bracket
     screws until the screws are just snug, and then turn each another
@@ -3442,9 +3271,8 @@ alt="A black board with white text and blue and yellow tape Description automati
         they are just snug, and then turn each another 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
 
-> <img src="./images/image100.png"
-> style="width:2.6in;height:2.51501in"
-> alt="A close up of a fan Description automatically generated" />
+> ![A close up of a fan Description automatically
+> generated](./images/media/image100.png)
 
 2.  Ensure the latch on the Motherboard connector for the Fan is in a
     vertical position before inserting the Fan FPC. Flip the latch down
