@@ -294,7 +294,7 @@ all required parts before beginning your repair.
 
 ## Repair Video
 
-[!VIDEO d153fdd5-7c03-4f0c-bbea-d1561797b4de]
+[d153fdd5-7c03-4f0c-bbea-d1561797b4de](https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de)
 
 ## Prerequisite Steps
 
