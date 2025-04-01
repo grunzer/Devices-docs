@@ -55,7 +55,7 @@ Document Part Number: M1318466
 |    A    | 06/18/2024 | Initial Release  |
 |||
 
-# Service Guide Contents
+## Service Guide Contents
 
 [General Safety Precautions](service-guide-repair-overview.md#general-safety-precautions)
 
@@ -95,7 +95,7 @@ Document Part Number: M1318466
 
 - [Keyboard Replacement Process](#keyboard-replacement-process)
 
-# Device Identity Information
+## Device Identity Information
 
 - Surface Laptop 7<sup>th</sup> Edition
 
@@ -107,7 +107,7 @@ closest to the display hinge point.
 
 ![A white rectangular object with a blue label Description automatically generated](./images/media/image5.png)
 
-# Illustrated Service Parts List
+## Illustrated Service Parts List
 
 ![A computer parts diagram showing the parts of a computer](./images/media/image16.png)
 
@@ -291,13 +291,13 @@ all required parts before beginning your repair.
 
   - [iFixit](https://www.ifixit.com/collaborations/microsoft)
 
-# Component Removal and Replacement Procedures
+## Component Removal and Replacement Procedures
 
-## Repair Video
+### Teardown Video
 
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
 
-## Prerequisite Steps
+### Prerequisite Steps
 
 Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
@@ -317,7 +317,7 @@ repair on a Surface device.
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
 
-## Feet Replacement
+### Feet Replacement
 
 **Preliminary Requirements**
 
@@ -364,7 +364,7 @@ alt="A drawing of a person cutting a piece of paper Description automatically ge
 width="2.6in" height="1.95209in"
 alt="A close up of a hole in a metal surface Description automatically generated" />
 
-## Enclosure Replacement
+### Enclosure Replacement
 
 **Preliminary Requirements**
 
@@ -461,7 +461,7 @@ alt="Close-up of a silver computer Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Removable Solid-State Drive Replacement
+### Removable Solid-State Drive Replacement
 
 **Preliminary Requirements**
 
@@ -599,7 +599,7 @@ alt="A close up of a circuit board Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Battery Replacement
+### Battery Replacement
 
 **Preliminary Requirements**
 
@@ -856,7 +856,7 @@ Microsoft Support.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Audio Jack Replacement
+### Audio Jack Replacement
 
 **Preliminary Requirements**
 
@@ -1010,7 +1010,7 @@ alt="A close up of a device Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Right Speaker Replacement
+### Right Speaker Replacement
 
 **Preliminary Requirements**
 
@@ -1148,7 +1148,7 @@ alt="A close up of a fan Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Left Speaker Replacement
+### Left Speaker Replacement
 
 **Preliminary Requirements**
 
@@ -1264,7 +1264,7 @@ alt="A close up of a device Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Micro SD Reader Replacement
+### Micro SD Reader Replacement
 
 **Preliminary Requirements**
 
@@ -1388,7 +1388,7 @@ alt="A close up of a computer Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Display Assembly Replacement
+### Display Assembly Replacement
 
 **Preliminary Requirements**
 
@@ -1764,7 +1764,7 @@ require replacement.
 6.  **Install Feet –** Refer to [Procedure – Installation
     (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
 
-## Surface Connect Replacement
+### Surface Connect Replacement
 
 **Preliminary Requirements**
 
@@ -1910,7 +1910,7 @@ alt="A close up of a fan Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-## Motherboard Replacement Process
+### Motherboard Replacement Process
 
 **Preliminary Requirements**
 
@@ -2263,17 +2263,13 @@ sit over the posts in the device chassis.
         equivalent of 2 tick marks (marked on the side of the syringe)
         of thermal paste to the component marked below.
 
-> <img src="./images/media/image98.png"
-> style="width:1.75704in;height:2.31956in"
-> alt="A close up of a circuit board Description automatically generated" />
+![A close up of a circuit board Description automatically generated](./images/media/image98.png)
 
 2.  Using the same syringe of thermal paste, apply the equivalent of ½
     ticket mark (marked on the side of the syringe) of thermal paste to
     the component marked below.
 
-> <img src="./images/media/image99.png"
-> style="width:1.8751in;height:2.3404in"
-> alt="A close up of a circuit board Description automatically generated" />
+![A close up of a circuit board Description automatically generated](./images/media/image99.png)
 
 3.  Assemble and install a new T1 Shield.
 
@@ -2286,9 +2282,7 @@ sit over the posts in the device chassis.
     until just snug, and then turn another 45-degrees (1/8<sup>th</sup>
     turn) until fully fastened.
 
-<img src="./images/media/image94.png"
-width="2.9446in" height="1.38202in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically generated](./images/media/image94.png)
 
 5.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -2340,8 +2334,7 @@ alt="A close up of a device Description automatically generated" />
 13. **Install new PSA -** Place a new piece of PSA down onto the Fan as
     shown.
 
-<img src="./images/media/image86.png" width="2.6in" height="2.6in"
-alt="A close up of a fan Description automatically generated" />
+![A close up of a fan](./images/media/image86.png)
 
 14. **Install the Surface Connect Cable –** Insert the connector of the
     Surface Connect Cable into the receptacle on the Motherboard and
@@ -2423,7 +2416,7 @@ Microsoft Support.
 9.  **Install Feet –** Refer to [Procedure – Installation
     (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
 
-## Keyboard Replacement Process
+### Keyboard Replacement Process
 
 **Preliminary Requirements**
 
@@ -2491,24 +2484,16 @@ within each process section.
     alt="A black number on a white background Description automatically generated" />
 
   - M1263960 Screws x 2 (Audio Jack)
-    <img src="./images/media/image55.png"
-    width="0.6in" height="0.10755in"
-    alt="A black text with letters Description automatically generated" />
+    <img src="./images/media/image55.png" width="0.6in" height="0.10755in" alt="A black text with letters Description automatically generated" />
 
   - M1235995 Screws x 8 (Motherboard)
-    <img src="./images/media/image81.png"
-    width="0.6in" height="0.12844in"
-    alt="A black text with a white background Description automatically generated" />
+    <img src="./images/media/image81.png" width="0.6in" height="0.12844in" />
 
   - M1263961 Screws x 2 (Motherboard)
-    <img src="./images/media/image88.png"
-    width="0.6in" height="0.12034in"
-    alt="A black letter with a white background Description automatically generated" />
+    <img src="./images/media/image88.png" width="0.6in" height="0.12034in" alt="A black letter with a white background Description automatically generated" />
 
   - M1277573 Screws x 1 (Motherboard)
-    <img src="./images/media/image89.png"
-    width="0.6in" height="0.11995in"
-    alt="A black letter with a white background Description automatically generated" />
+    <img src="./images/media/image89.png" width="0.6in" height="0.11995in" alt="A black letter with a white background Description automatically generated" />
 
   - M1211014 Screws x 4 (Speakers)
 
@@ -2520,7 +2505,7 @@ within each process section.
 
   - M1265416 Shield x 2 (Coax Cable Lid)
 
-  - M1271279 Shield x 1 (T1 Shield
+  - M1271279 Shield x 1 (T1 Shield)
 
   - M1271924 Shield x 1 (T3 Shield)
 
@@ -2559,7 +2544,7 @@ within each process section.
     document for detailed instructions.
 
 5.  **Remove the Audio Jack -** Refer to the [Procedure – Removal
-    (Audio](#audio-jack-replacement) Jack) section of this document for
+    Audio Jack](#audio-jack-replacement) section of this document for
     detailed instructions.
 
 6.  **Remove the Battery –** Refer to the [Procedure – Removal
@@ -2594,17 +2579,13 @@ within each process section.
     screws securing the Fan to the Keyboard Assembly. Remove the Fan
     from the device.
 
-> <img src="./images/media/image100.png"
-> style="width:2.6in;height:2.51501in"
-> alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically generated](./images/media/image100.png)
 
 14. **Remove the Mounting Brackets–** Using a 2IP (Torx-Plus) driver,
     remove the 2 screws holding each of the Mounting Brackets to the
     Keyboard Assembly. Remove the 2 Mounting Brackets from the device.
 
-<img src="./images/media/image101.png"
-width="2.6in" height="1.19194in"
-alt="A black board with white text and blue and yellow tape Description automatically generated" />
+![A black board with white text and blue and yellow tape Description automatically generated](./images/media/image101.png)
 
 **Procedure – Installation (Keyboard Assembly)**
 
@@ -2613,9 +2594,7 @@ alt="A black board with white text and blue and yellow tape Description automati
     1.  Place the 2 previously removed Mounting Brackets so that the
         yellow side is visible, and they are arranged as shown here.
 
-> <img src="./images/media/image101.png"
-> style="width:2.6in;height:1.19194in"
-> alt="A black board with white text and blue and yellow tape Description automatically generated" />
+![A black board with white text and blue and yellow tape Description automatically generated](./images/media/image101.png)
 
 2.  Using a 2IP (Torx-Plus) driver, install 4 new Mounting Bracket
     screws until the screws are just snug, and then turn each another
@@ -2639,9 +2618,7 @@ alt="A black board with white text and blue and yellow tape Description automati
         they are just snug, and then turn each another 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
 
-> <img src="./images/media/image100.png"
-> style="width:2.6in;height:2.51501in"
-> alt="A close up of a fan Description automatically generated" />
+![A close up of a fan Description automatically generated](./images/media/image100.png)
 
 2.  Ensure the latch on the Motherboard connector for the Fan is in a
     vertical position before inserting the Fan FPC. Flip the latch down
