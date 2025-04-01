@@ -305,7 +305,7 @@
          - name: Service Guide repair overview
            href: service-guides/service-guide-repair-overview.md
          - name: Surface repair tools
-           href: surface-repair-tools.md
+           href: service-guides/surface-repair-tools.md
          - name: Service Guides
            expanded: true
            items: 
