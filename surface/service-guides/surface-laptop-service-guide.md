@@ -297,9 +297,6 @@ all required parts before beginning your repair.
 
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
 
-<iframe src="https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de" height="300" width="800" title="Surface Laptop 7th Edition Repair Video" allowfullscreen></iframe>
-
-> [!VIDEO https://learn-video.azurefd.net/vod/player?show=beginners-series-to-web-apis&ep=what-are-web-apis-1-of-18--beginners-series-to-web-apis]
 ## Prerequisite Steps
 
 Steps outlined in this section should be conducted prior to starting any
