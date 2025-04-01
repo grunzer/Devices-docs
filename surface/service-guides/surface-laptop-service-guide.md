@@ -6,7 +6,7 @@ alt="A black and white logo Description automatically generated" />
 <img src="./images/media/image3.png"
 width="1.37361in" height="0.33333in" />
 
-**Microsoft Surface Laptop 7th Edition Service Guide**
+# Microsoft Surface Laptop 7th Edition Service Guide
 
 *Disclaimer of Warranties and Limitation of Damages*
 
@@ -53,6 +53,7 @@ Document Part Number: M1318466
 | **Rev** | **Date**   | **Changes Made** |
 |:-------:|------------|------------------|
 |    A    | 06/18/2024 | Initial Release  |
+|||
 
 # Service Guide Contents
 
@@ -295,6 +296,8 @@ all required parts before beginning your repair.
 ## Repair Video
 
 [d153fdd5-7c03-4f0c-bbea-d1561797b4de](https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de)
+
+<iframe src="https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de" height="800" width="1200" title="Surface Laptop 7th Edition Repair Video"></iframe>
 
 ## Prerequisite Steps
 
