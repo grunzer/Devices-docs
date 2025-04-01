@@ -297,7 +297,7 @@ all required parts before beginning your repair.
 
 [d153fdd5-7c03-4f0c-bbea-d1561797b4de](https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de)
 
-<iframe src="https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de" height="800" width="1200" title="Surface Laptop 7th Edition Repair Video"></iframe>
+<iframe src="https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de" height="300" width="800" title="Surface Laptop 7th Edition Repair Video"></iframe>
 
 ## Prerequisite Steps
 
