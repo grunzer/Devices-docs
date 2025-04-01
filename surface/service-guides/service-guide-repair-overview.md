@@ -1,5 +1,5 @@
 ---
-title: Repair Safety, Compliance, and Support Instructions
+title: Surface Repair Safety, Compliance, and Support Instructions
 description: Provides safety instructions and related information 
 ms.service: surface
 ms.localizationpriority: medium
@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-# Repair Safety, Compliance, and Support Instructions
+# Surface Repair Safety, Compliance, and Support Instructions
 
 ## General safety precautions
 
