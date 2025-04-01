@@ -299,10 +299,16 @@
               href: https://support.microsoft.com/help/4023508/surface-faq-protecting-your-data-service
             - name: Surface Australia On-Site service & repair
               href: surface-australia-onsite-service-repair.md   
-          - name: Surface Service Guides
-            expanded: true
-            items:
-             - name: Service Guide repair overview
-               href: service-guides/service-guide-repair-overview.md
-             - name: Surface Laptop Service guide
-               href: service-guides/surface-laptop-service-guide.md
+       - name: Surface Service Guides
+         expanded: true
+         items:
+         - name: Service Guide repair overview
+           href: service-guides/service-guide-repair-overview.md
+         - name: Surface repair tools
+           href: surface-repair-tools.md
+         - name: Service Guides
+           expanded: true
+           items: 
+           - name: Surface Laptop 7th Edition Service Guide
+             href: service-guides/surface-laptop-service-guide.md
+ 
