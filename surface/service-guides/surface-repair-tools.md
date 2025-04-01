@@ -1,22 +1,6 @@
----
-title: Surface repair tools
-description: Provides tools information 
-ms.service: surface
-ms.localizationpriority: medium
-author: coveminer
-ms.author: chauncel
-ms.topic: overview
-ms.date: 03/31/2025
-ms.reviewer: 
-manager: frankbu
-appliesto:
-- Windows 10
-- Windows 11
----
+## Tools
 
-# Surface repair tools
-
-This page documents the tools recommended or required by Microsoft to
+This section documents the tools recommended or required by Microsoft to
 successfully complete a repair on a Surface device. Microsoft Service
 Tools (recommended and required) are sold by iFixit in partnership with
 Microsoft. Items under Electronic Repair Hardware and Tools can be
@@ -24,52 +8,40 @@ commonly purchased from electronic repair retailers. Lastly, items under
 standard tools and misc. items on this list can be commonly purchased
 from consumer retailers.
 
-**Recommended Microsoft Service Tools**
+### Recommended Microsoft Service Tools
 
-| [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | <img src="./images/HWTools/media/image1.jpeg"
-style="width:1.14973in;height:1.14973in"
-alt="Surface Battery Cover (M1214771-001) New" /> |
+|    |    |
 |----|----|
+| [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | ![ESD-safe Surface Battery Cover](./images/HWTools/media/image1.png) |
+|||
 
-**Required Microsoft Service Tools**
 
-| [Surface Display Debonding Tool (M1214770-001) - iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001) | <img src="./images/HWTools/media/image2.jpeg"
-style="width:1.15in;height:1.15in"
-alt="Surface Display Debonding Tool (M1214770-001) New" /> |
+### Required Microsoft Service Tools
+
+|    |    |
 |----|----|
-| [Surface Display Bonding Frame (M1260233-001) - iFixit](https://www.ifixit.com/products/surface-display-bonding-frame-m1260233-001) | <img src="./images/HWTools/media/image3.jpeg"
-style="width:1.15in;height:1.15in"
-alt="Surface Display Bonding Frame (M1260233-001) New" /> |
+| [Surface Display Debonding Tool (M1214770-001) - iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001) | ![Surface Display Debonding Tool (M1214770-001) New](./images/HWTools/media/image2.jpeg) |
+| [Surface Display Bonding Frame (M1260233-001) - iFixit](https://www.ifixit.com/products/surface-display-bonding-frame-m1260233-001) | ![Surface Display Bonding Frame (M1260233-001) New](./images/HWTools/media/image3.jpeg) |
+|||
 
-**Required Electronic Repair Hardware or Tools**
+### Required Electronic Repair Hardware or Tools
 
-| Anti-static Wrist Strap (1 MOhm resistance) | <img src="./images/HWTools/media/image4.jpeg"
-style="width:1.15in;height:0.76372in"
-alt="A blue strap with a coiled wire Description automatically generated with medium confidence" /> |
+|    |    |
 |----|----|
-| ESD-safe mat or benchtop | <img src="./images/HWTools/media/image5.jpeg"
-style="width:1.15in;height:1.15in"
-alt="A grey mat with a black cable Description automatically generated with medium confidence" /> |
-| Nylon Spudger/Probing Tool | <img src="./images/HWTools/media/image6.png"
-style="width:1.15in;height:0.15923in"
-alt="A close up of a black object Description automatically generated" /> |
-| Plastic Opening Pick | <img src="./images/HWTools/media/image7.jpeg"
-style="width:1.15in;height:1.15in"
-alt="iFixit Opening Picks (Set of 6) New" /> |
-| Plastic Opening Tool | <img src="./images/HWTools/media/image8.png"
-style="width:1.15in;height:1.15in"
-alt="A blue plastic tool on a white background AI-generated content may be incorrect." /> |
-| ESD-safe Tweezers | <img src="./images/HWTools/media/image9.png"
-style="width:1.15in;height:1.15in"
-alt="A pair of tweezers with black tips AI-generated content may be incorrect." /> |
+| Anti-static Wrist Strap (1 MOhm resistance) | ![Anti-static Wrist Strap](./images/HWTools/media/image4.jpeg) |
+| ESD-safe mat or benchtop | ![ESD-safe mat or benchtop](./images/HWTools/media/image5.jpeg) |
+| Nylon Spudger/Probing Tool | ![Nylon Spudger/Probing Tool](./images/HWTools/media/image6.png) |
+| Halberd Spudger | ![Halberd Spudger](./images/HWTools/media/image10.png) |
+| Plastic Opening Pick | ![Plastic Opening Pick](./images/HWTools/media/image7.jpeg) |
+| Plastic Opening Tool | ![Plastic Opening Tool](./images/HWTools/media/image8.png) |
+| ESD-safe Tweezers | ![ESD-safe Tweezers](./images/HWTools/media/image9.png) |
+|||
 
-**Required Standard Tools and Misc Items**
+### Required Standard Tools and Miscellaneous Items
 
 - 3IP Torx-Plus Driver
 
 - Metric ruler
-
-- Fine tipped marker
 
 - 3mm Allen Driver
 
