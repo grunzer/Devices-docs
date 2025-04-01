@@ -1,5 +1,5 @@
 ---
-title: Surface Service Guides repair overview
+title: Repair Safety, Compliance, and Support Instructions
 description: Provides safety instructions and related information 
 ms.service: surface
 ms.localizationpriority: medium
@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-# Surface Service Guides repair overview
+# Repair Safety, Compliance, and Support Instructions
 
 ## General safety precautions
 
@@ -27,7 +27,7 @@ Always follow these general safety precautions when servicing a Microsoft Surfac
 - **Keep your workspace clean.** Regularly remove dust, debris, and abrasives to avoid damage to components.
 - **Avoid conductive accessories.** Remove watches, bracelets, and rings while working to prevent electrical shorts or battery damage.
 - **Organize components during disassembly.** As you remove each subassembly, place it—and any screws—away from the immediate workspace.
-- **Do not proceed if the battery is damaged.** This includes signs of leaking, swelling, or folding. See the [Thermal event guidance](#actions-to-take-in-case-of-a-thermal-event) or contact Microsoft for instructions.
+- **Do not proceed if the battery is damaged.** This includes signs of leaking, swelling, or folding. See the [Thermal event guidance](#actions-to-take-in-a-thermal-event) or contact Microsoft for instructions.
 
 > [!TIP]  
 > For more safety information, visit [aka.ms/surface-safety](https://aka.ms/surface-safety) or open the **Surface app** from the Start menu by typing **Surface** in the search box.
