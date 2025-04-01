@@ -11,7 +11,7 @@ from consumer retailers.
 ### Recommended Microsoft Service Tools
 
 |    |    |
-|----|----|
+|:----|:----:|
 | [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | ![ESD-safe Surface Battery Cover](./images/HWTools/media/image1.png) |
 |||
 
@@ -19,7 +19,7 @@ from consumer retailers.
 ### Required Microsoft Service Tools
 
 |    |    |
-|----|----|
+|:----|:----:|
 | [Surface Display Debonding Tool (M1214770-001) - iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001) | ![Surface Display Debonding Tool (M1214770-001) New](./images/HWTools/media/image2.jpeg) |
 | [Surface Display Bonding Frame (M1260233-001) - iFixit](https://www.ifixit.com/products/surface-display-bonding-frame-m1260233-001) | ![Surface Display Bonding Frame (M1260233-001) New](./images/HWTools/media/image3.jpeg) |
 |||
@@ -27,7 +27,7 @@ from consumer retailers.
 ### Required Electronic Repair Hardware or Tools
 
 |    |    |
-|----|----|
+|:----|:----:|
 | Anti-static Wrist Strap (1 MOhm resistance) | ![Anti-static Wrist Strap](./images/HWTools/media/image4.jpeg) |
 | ESD-safe mat or benchtop | ![ESD-safe mat or benchtop](./images/HWTools/media/image5.jpeg) |
 | Nylon Spudger/Probing Tool | ![Nylon Spudger/Probing Tool](./images/HWTools/media/image6.png) |

@@ -178,3 +178,30 @@ When contacting support, be prepared to provide:
 - Model and serial number of the device or accessories
 - Description of the damage
 - Clear photographs of the symptoms
+
+## General Support
+
+- For general Surface support, visit
+  [www.support.microsoft.com](http://www.support.microsoft.com)
+
+- To troubleshoot device feature/function problems or learn more about
+  Surface Laptops visit <https://support.microsoft.com/surface> .
+
+- If you would like to learn more about Windows, visit
+  <https://support.microsoft.com/windows>
+
+- To learn more about the accessibility features of the Surface Laptop,
+  go to the online user guide at
+  [aka.ms/Windows-Accessibility](https://support.microsoft.com/windows/discover-windows-accessibility-features-8b1068e6-d3b8-4ba8-b027-133dd8911df9)
+
+## Environmental Compliance Requirements
+
+All waste electrical and electronic equipment (WEEE), waste electronic
+components, waste batteries, and electronic waste residuals must be
+managed according to applicable laws and regulations. and H09117,
+“Conformance Standards for Environmentally Sound Management of Waste
+Electrical and Electronic Equipment (WEEE)” which is available at this
+link: <https://www.microsoft.com/en-pk/download/details.aspx?id=11691> .
+In case of questions, please contact <AskECT@microsoft.com> .
+
+©2024 Microsoft.
