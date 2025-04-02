@@ -1,12 +1,12 @@
-<img src="./images/media/image1.png"
-width="0.51319in" height="0.51319in" />
-<img src="./images/media/image2.png"
-width="1.73333in" height="0.33333in"
+<img src="./images/LT7Repair/media/image1.png"
+width="49px" height="49px"
+alt="A colorful square with black border AI-generated content may be incorrect." />
+<img src="./images/LT7Repair/media/image2.png"
+width="166px" height="32px"
 alt="A black and white logo Description automatically generated" />
-<img src="./images/media/image3.png"
-width="1.37361in" height="0.33333in" />
-
-# Microsoft Surface Laptop 7th Edition Service Guide
+<img src="./images/LT7Repair/media/image3.png"
+width="132px" height="32px"
+alt="A black and white logo AI-generated content may be incorrect." />
 
 *Disclaimer of Warranties and Limitation of Damages*
 
@@ -44,11 +44,10 @@ This document and the information it contains are subject to change
 without notice. You can find the latest information on Surface device
 servicing and repair at <https://aka.ms/surfaceservicing> . Always
 consult the most up-to-date information available before performing
-device service or repair.
+device service or repair. Document Part Number: M1318466
 
 ©2024 Microsoft Corporation. All rights reserved.
 
-Document Part Number: M1318466
 
 | **Rev** | **Date**   | **Changes Made** |
 |:-------:|------------|------------------|
@@ -307,14 +306,13 @@ repair on a Surface device.
 - **Power off device –** Ensure the device is powered off completely and
   the battery has been fully discharged. Refer to the [Repair-Specific
   Precautions and Warnings
-  section](#general-information-precautions-and-warnings) for details.
+  section](#component-removal-and-replacement-procedures) for details.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
   guidelines are followed prior to opening the device. Refer to the [ESD
-  Prevention section](#electro-static-discharge-esd-prevention) for
-  details.
+  Prevention section](#_Electro-Static_Discharge_(ESD)) for details.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
@@ -345,13 +343,15 @@ within each process section.
 1.  **Place Device –** Carefully place the closed device Display side
     down with the Feet facing up on a soft ESD-Safe Mat.
 
-<img src="./images/media/image34.jpeg" width="2.6in" height="1.94861in" alt="The back of a computer Description automatically generated"/>
+<img src="./images/LT7Repair/media/image4.jpeg"
+width="250px" height="187px"
+alt="The back of a computer Description automatically generated" />
 
 2.  **Remove the Feet –** Using the Nylon Spudger, carefully pry up all
     four feet to expose the screws.
 
-<img src="./images/media/image35.png"
-width="2.6in" height="1.21319in"
+<img src="./images/LT7Repair/media/image5.png"
+width="250px" height="116px"
 alt="A drawing of a person cutting a piece of paper Description automatically generated" />
 
 **Procedure – Installation (Feet)**
@@ -360,11 +360,11 @@ alt="A drawing of a person cutting a piece of paper Description automatically ge
     hole pattern on the Enclosure. Press firmly until the foot clicks
     into place. Repeat for the other 3 feet.
 
-<img src="./images/media/image36.jpeg"
-width="2.6in" height="1.95209in"
+<img src="./images/LT7Repair/media/image6.jpeg"
+width="250px" height="187px"
 alt="A close up of a hole in a metal surface Description automatically generated" />
 
-### Enclosure Replacement
+## Enclosure Replacement
 
 **Preliminary Requirements**
 
@@ -407,8 +407,8 @@ within each process section.
 3.  **Remove the Enclosure screws –** Using a 5IP (Torx-Plus) driver,
     uninstall each of the 4 screws from under the feet.
 
-<img src="./images/media/image34.jpeg"
-width="2.6in" height="1.94861in"
+<img src="./images/LT7Repair/media/image4.jpeg"
+width="250px" height="187px"
 alt="The back of a computer Description automatically generated" />
 
 4.  **Separate the Enclosure from the Device –** Carefully insert the
@@ -418,8 +418,8 @@ alt="The back of a computer Description automatically generated" />
     hands, carefully lift the Enclosure off the device and place it on a
     soft ESD-Safe mat.
 
-<img src="./images/media/image37.png"
-width="5.38889in" height="1.3125in"
+<img src="./images/LT7Repair/media/image7.png"
+width="517px" height="126px"
 alt="A close up of a computer Description automatically generated" />
 
 **Caution: Do Not** lift the Enclosure from the black plastic antenna.
@@ -431,8 +431,8 @@ alt="A close up of a computer Description automatically generated" />
     for any loose articles that may be present. Of specific importance
     are the magnets (identified below).
 
-<img src="./images/media/image38.png"
-width="2.6in" height="1.92912in"
+<img src="./images/LT7Repair/media/image8.png"
+width="250px" height="185px"
 alt="A close up of a computer Description automatically generated" />
 
 2.  **Install the Enclosure -** Using both hands, carefully lower the
@@ -443,8 +443,8 @@ alt="A close up of a computer Description automatically generated" />
     and none of the sides are catching when you press the Enclosure down
     flat.
 
-<img src="./images/media/image39.jpeg"
-width="2.6in" height="1.51616in"
+<img src="./images/LT7Repair/media/image9.jpeg"
+width="250px" height="146px"
 alt="Close-up of a silver computer Description automatically generated" />
 
 3.  **Fasten the Enclosure -** Using a 5IP (Torx-Plus) driver, install
@@ -461,7 +461,7 @@ alt="Close-up of a silver computer Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Removable Solid-State Drive Replacement
+## Removable Solid-State Drive Replacement
 
 **Preliminary Requirements**
 
@@ -488,8 +488,8 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
 **Additional Components (Ordered Separately)**
@@ -516,14 +516,15 @@ within each process section.
     receptacle with IPA to remove any residual adhesive.
 
 5.  **Remove the Removable Solid-State Drive –** Using a 5IP (Torx-Plus)
-    driver, remove the screw (<img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    driver, remove the screw
+    (<img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />)
     holding the Removable Solid-State Drive onto the Motherboard. Lift
     the drive out of the device and place it on a soft ESD-Safe mat.
 
-<img src="./images/media/image41.png"
-width="2.6in" height="3.34657in"
+<img src="./images/LT7Repair/media/image11.png"
+width="250px" height="321px"
 alt="A close up of a computer chip Description automatically generated" />
 
 **Procedure – Installation (Removable Solid-State Drive)**
@@ -536,28 +537,28 @@ alt="A close up of a computer chip Description automatically generated" />
 **CAUTION:** Ensure that the Speaker wire does not get caught or trapped
 when fastening the Removable Solid-State Drive to the Motherboard.
 
-<img src="./images/media/image42.jpeg"
-width="2.6in" height="1.95209in"
-alt="A close up of a computer chip Description automatically generated" />
+<img src="./images/LT7Repair/media/image12.jpeg"
+width="250px" height="187px"
+alt="A close up of a computer chip Description automatically generated"/>
 
 2.  **Install Removable Solid-State Drive screw –** Using a 5IP
     (Torx-Plus) driver, install the 1 new rSSD screw
-    (<img src="./images/media/image40.png"
-    width="0.38735in" height="0.14in"
+    (<img src="./images/LT7Repair/media/image10.png"
+    width="30px" height="13px"
     alt="A number with a white background Description automatically generated" />)
     until the screw is just snug. Then turn the screw an additional
     45-degrees (1/8<sup>th</sup> turn) until screw is fully fastened.
 
-> <img src="./images/media/image43.png"
-> style="width:3.8in;height:2.13731in"
+> <img src="./images/LT7Repair/media/image13.png"
+> width="365px" height="205px"
 > alt="A close-up of a screwdriver Description automatically generated" />
 
 3.  **Install Black Tape on Motherboard Receptacle –** Carefully place a
     new tape on the receptacle, making sure the cutout on the tape
     matches the shape of the raised flange on the receptacle.
 
-<img src="./images/media/image44.png"
-width="2.6in" height="2.52014in"
+<img src="./images/LT7Repair/media/image14.png"
+width="250px" height="242px"
 alt="A close up of a circuit board Description automatically generated" />
 
 4.  **Install Spacer –** Place a new spacer on top of the Black Tape,
@@ -566,9 +567,8 @@ alt="A close up of a circuit board Description automatically generated" />
     oriented towards the display hinge and that the spacer is centered
     lengthwise with the silver flange.
 
-> <img src="./images/media/image45.png"
-> style="width:2.6in;height:2.47448in"
-> alt="A close up of a circuit board Description automatically generated" />
+<img src="./images/LT7Repair/media/image15.png" width="250px" height="237px"
+alt="A close up of a circuit board Description automatically generated" />
 
 5.  **Install Enclosure -** Refer to the [Procedure – Installation
     (Enclosure)](#enclosure-replacement) section of this document for
@@ -581,10 +581,8 @@ alt="A close up of a circuit board Description automatically generated" />
 7.  **Image the device –** Reinstall the operating system and all
     drivers/firmware by using a USB-drive containing the latest Surface
     BMR for your model. Please see [the Software Tools – Diagnostic,
-    Calibration, and
-    Troubleshooting](#software-tools-diagnostic-calibration-and-troubleshooting)
-    section for links to instructions on how to get the latest image and
-    install it.
+    Calibration, and Troubleshooting](#_Software_Tools_–) section for
+    links to instructions on how to get the latest image and install it.
 
 8.  **Run the Surface Diagnostic Toolkit (SDT) –** With Windows
     installed and sitting at the desktop, insert the USB drive
@@ -599,7 +597,7 @@ alt="A close up of a circuit board Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Battery Replacement
+## Battery Replacement
 
 **Preliminary Requirements**
 
@@ -642,17 +640,17 @@ in sand. **DO NOT** attempt to pick up the device.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1266593 Screws x 2 (Battery FPC Bracket)
-    <img src="./images/media/image46.png"
-    width="0.5in" height="0.10371in"
+    <img src="./images/LT7Repair/media/image16.png"
+    width="48px" height="10px"
     alt="A black text with a white background Description automatically generated" />
 
   - M1272782 Screws x 8 (Battery)
-    <img src="./images/media/image47.png" style="width:0.5in"
+    <img src="./images/LT7Repair/media/image17.png" width="48px" height="10px"
     alt="A black and white logo Description automatically generated" />
 
 **Additional Components (Ordered Separately)**
@@ -704,31 +702,41 @@ section is not required.
 
 5.  **Remove the Battery Connector Metal Bracket –** Using a 3IP
     (Torx-Plus) driver, remove the 2 screws
-    (<img src="./images/media/image48.png" width="0.37005in" height="0.1in" />) securing the metal bracket
+    (<img src="./images/LT7Repair/media/image18.png"
+    width="36px" height="10px" />) securing the metal bracket
     to the motherboard. Lift the metal bracket out of the device to
     expose the Battery FPC.
 
-![A close up of a device Description automatically generated](./images/media/image49.png)
+<img src="./images/LT7Repair/media/image19.png"
+width="250px" height="189px"
+alt="A close up of a device Description automatically generated" />
 
 6.  **Disconnect the Battery FPC -** Using a Nylon Spudger, pry the
     Battery FPC connector, starting from the side of the connector, from
     the Motherboard.
 
-![Image Description](./images/media/image50.jpeg)
+<img src="./images/LT7Repair/media/image20.jpeg"
+width="365px" height="205px"
+alt="A hand holding a black plastic device Description automatically generated" />
 
 7.  **Remove the Battery Screws -** Using a 5IP (Torx-Plus) driver,
     remove the 8 screws
-    (<img src="./images/media/image47.png" style="width:0.5in" alt="A black and white logo Description automatically generated" />)
+    (<img src="./images/LT7Repair/media/image17.png" style="width:0.5in"
+    alt="A black and white logo Description automatically generated" />)
     securing the Battery.
 
-![A close-up of a computer](./images/media/image51.png)
+<img src="./images/LT7Repair/media/image21.png"
+width="365px" height="221px"
+alt="A close up of a computer Description automatically generated" />
 
 8.  **Remove the battery from the device -** Using your hands, grab the
     battery at the four points identified below and carefully lift the
     battery out of the device. Place the battery on a clean ESD-Safe Mat
     free of any debris.
 
-![A close up of a computer description automatically generated](./images/media/image52.png)
+<img src="./images/LT7Repair/media/image22.png"
+width="365px" height="187px"
+alt="A close up of a computer Description automatically generated" />
 
 **WARNING:** Only handle the battery by the plastic frame. Bending,
 twisting, or impacting the battery may damage the battery, the device,
@@ -784,7 +792,7 @@ the battery.
 
 3.  **Install the Battery screws -** Using a 5IP screwdriver, install
     the 8 battery frame screws
-    (<img src="./images/media/image47.png" style="width:0.5in"
+    (<img src="./images/LT7Repair/media/image17.png" width="36px" height="10px"
     alt="A black and white logo Description automatically generated" />)
     until the screws are just snug, then tighten each by an additional
     45-degrees (1/8<sup>th</sup> turn).
@@ -794,8 +802,7 @@ battery. If the frame is cracked, the battery must not be used.
 
 4.  **Assemble the Battery FPC and FPC Bracket -** Assemble the Battery
     FPC to the Motherboard. Using a 3IP (Torx-Plus) driver, install 2
-    FPC Bracket screws (<img src="./images/media/image48.png"
-    width="0.37005in" height="0.1in" />) until the screws are just
+    FPC Bracket screws (<img src="./images/LT7Repair/media/image18.png" width="36px" height="10px" />) until the screws are just
     snug. Turn each screw an additional 45-degrees (1/8<sup>th</sup>
     turn) until fully fastened.
 
@@ -846,7 +853,7 @@ Microsoft Support.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Audio Jack Replacement
+## Audio Jack Replacement
 
 **Preliminary Requirements**
 
@@ -880,21 +887,21 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1265600 Screws x 1 (Hinge & Chassis)
-    <img src="./images/media/image53.png"
-    width="0.30602in" height="0.1in"
+    <img src="./images/LT7Repair/media/image23.png"
+    width="29px" height="10px"
     alt="A black number six on a white background Description automatically generated" />
 
   - M1212080 Screws x 2 (Audio Jack Bridge)
-    <img src="./images/media/image54.png" style="width:0.5in"
+    <img src="./images/LT7Repair/media/image24.png" width="48px"
     alt="A black number on a white background Description automatically generated" />
 
   - M1263960 Screws x 1 (Audio Jack)
-    <img src="./images/media/image55.png" style="width:0.5in"
+    <img src="./images/LT7Repair/media/image25.png" width="48px"
     alt="A black text with letters Description automatically generated" />
 
 **Additional Components (Ordered Separately)**
@@ -924,8 +931,8 @@ within each process section.
     Bridge to the interior. Lift the Audio Jack Bridge out of the
     device.
 
-<img src="./images/media/image56.png"
-width="2.6in" height="2.2181in"
+<img src="./images/LT7Repair/media/image26.png"
+width="250px" height="213px"
 alt="A close up of a device Description automatically generated" />
 
 6.  **Remove the Audio Jack –**
@@ -933,8 +940,8 @@ alt="A close up of a device Description automatically generated" />
     1.  Using a 3IP (Torx-Plus) screwdriver, remove the 1 screw securing
         the Audio Jack to the Motherboard.
 
-<img src="./images/media/image57.png"
-width="2.6in" height="2.08122in"
+<img src="./images/LT7Repair/media/image27.png"
+width="250px" height="200px"
 alt="A close up of a device Description automatically generated" />
 
 2.  Using a Nylon Spudger, flip the latch on the Motherboard to
@@ -956,8 +963,8 @@ alt="A close up of a device Description automatically generated" />
         down.
 
     4.  Using a 3IP (Torx-Plus) driver to install a new Audio Jack screw
-        (<img src="./images/media/image55.png"
-        width="0.6in" height="0.10755in"
+        (<img src="./images/LT7Repair/media/image25.png"
+        width="58px" height="10px"
         alt="A black text with letters Description automatically generated" />)
         until just snug. Then turn the screw an additional 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
@@ -965,11 +972,11 @@ alt="A close up of a device Description automatically generated" />
 2.  **Install the Audio Jack Bridge -** Install the previously removed
     Audio Jack Bridge into its position over the Audio Jack. Using a 3IP
     (Torx-Plus) and 6IP (Torx-Plus) driver, install 3 new screws (2 x
-    <img src="./images/media/image54.png"
-    width="0.6in" height="0.11477in"
+    <img src="./images/LT7Repair/media/image24.png"
+    width="58px" height="11px"
     alt="A black number on a white background Description automatically generated" />,
-    1 x <img src="./images/media/image53.png"
-    width="0.30602in" height="0.1in"
+    1 x <img src="./images/LT7Repair/media/image23.png"
+    width="29px" height="10px"
     alt="A black number six on a white background Description automatically generated" />).
     All screws should be tightened until just snug, and then turned
     another 45-degrees (1/8<sup>th</sup> turn) until fully fastened.
@@ -1000,7 +1007,7 @@ alt="A close up of a device Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Right Speaker Replacement
+## Right Speaker Replacement
 
 **Preliminary Requirements**
 
@@ -1032,8 +1039,8 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1211914 Screws x 2 (Speaker)
@@ -1065,16 +1072,16 @@ within each process section.
 5.  **Remove the Speaker tape –** Remove the tape and clean the surface
     with IPA to remove any residual adhesive.
 
-<img src="./images/media/image58.png"
-width="2.6in" height="2.30835in"
+<img src="./images/LT7Repair/media/image28.png"
+width="250px" height="222px"
 alt="A close up of a fan Description automatically generated" />
 
 6.  **Remove the Right Speaker screws –** Using a 3IP (Torx-Plus) driver
     to remove the 2 screws securing the Right Speaker (which is on the
     left side when working on the device) to the Chassis.
 
-<img src="./images/media/image59.png"
-width="2.6in" height="2.81133in"
+<img src="./images/LT7Repair/media/image29.png"
+width="250px" height="270px"
 alt="A close up of a device Description automatically generated" />
 
 7.  **Remove the Right Speaker –** Remove the Right Speaker from the
@@ -1089,8 +1096,8 @@ alt="A close up of a device Description automatically generated" />
     screws should be installed until just snug, and then turned another
     45-degress (1/8<sup>th</sup> turn) until fully fastened.
 
-<img src="./images/media/image59.png"
-width="2.6in" height="2.81133in"
+<img src="./images/LT7Repair/media/image29.png"
+width="250px" height="270px"
 alt="A close up of a device Description automatically generated" />
 
 2.  **Route and connect the Right Speaker wire –** Route the Right
@@ -1101,15 +1108,15 @@ alt="A close up of a device Description automatically generated" />
 **NOTE:** The connector will have 2 visible gold contacts if it is
 oriented in the correct direction.
 
-<img src="./images/media/image60.png"
-width="6.5in" height="2.29931in"
+<img src="./images/LT7Repair/media/image30.png"
+width="624px" height="221px"
 alt="A close up of a fan Description automatically generated" />
 
 3.  **Place new Speaker Tape -** Place a new Tape over the speaker wire
     as shown below.
 
-<img src="./images/media/image58.png"
-width="2.6in" height="2.30835in"
+<img src="./images/LT7Repair/media/image28.png"
+width="250px" height="222px"
 alt="A close up of a fan Description automatically generated" />
 
 4.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
@@ -1138,7 +1145,7 @@ alt="A close up of a fan Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Left Speaker Replacement
+## Left Speaker Replacement
 
 **Preliminary Requirements**
 
@@ -1170,8 +1177,8 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1211914 Screws x 2 (Speaker)
@@ -1202,8 +1209,8 @@ within each process section.
     the 2 screws securing the Left Speaker, located on the Right side of
     the device when working on it, to the Chassis.
 
-<img src="./images/media/image61.png"
-width="2.6in" height="2.61411in"
+<img src="./images/LT7Repair/media/image31.png"
+width="250px" height="251px"
 alt="A close up of a device Description automatically generated" />
 
 6.  **Remove the Left Speaker –** Remove the Left Speaker from the
@@ -1224,8 +1231,8 @@ alt="A close up of a device Description automatically generated" />
 **NOTE:** The connector will have 2 visible gold contacts if it is
 oriented in the correct direction.
 
-<img src="./images/media/image62.png"
-width="2.6in" height="2.53333in"
+<img src="./images/LT7Repair/media/image32.png"
+width="250px" height="243px"
 alt="A close up of a device Description automatically generated" />
 
 3.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
@@ -1254,7 +1261,7 @@ alt="A close up of a device Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Micro SD Reader Replacement
+## Micro SD Reader Replacement
 
 **Preliminary Requirements**
 
@@ -1286,12 +1293,13 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1235998 Screws x 2 (Micro SD)
-    <img src="./images/media/image63.png" width="0.279in" height="0.1in"
+    <img src="./images/LT7Repair/media/image33.png"
+    width="27px" height="10px"
     alt="A black number on a white background Description automatically generated" />
 
 **Additional Components (Ordered Separately)**
@@ -1324,8 +1332,8 @@ within each process section.
     remove the 2 screws holding the Micro SD Reader into the Chassis and
     lift the Micro SD Reader out of the device.
 
-<img src="./images/media/image64.png"
-width="2.6in" height="2.34984in"
+<img src="./images/LT7Repair/media/image34.png"
+width="250px" height="226px"
 alt="A close up of a computer Description automatically generated" />
 
 **Procedure – Installation (Micro SD Reader)**
@@ -1338,12 +1346,13 @@ alt="A close up of a computer Description automatically generated" />
         outside of the device chassis.
 
     3.  Using a 3IP (Torx-Plus) driver, install 2 new screws
-        (<img src="./images/media/image63.png" width="0.279in" height="0.1in"
+        (<img src="./images/LT7Repair/media/image33.png"
+        width="27px" height="10px"
         alt="A black number on a white background Description automatically generated" />)
         until just snug and then turn each another 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
 
-> <img src="./images/media/image64.png"
+> <img src="./images/LT7Repair/media/image34.png"
 > style="width:2.6in;height:2.34984in"
 > alt="A close up of a computer Description automatically generated" />
 
@@ -1378,7 +1387,7 @@ alt="A close up of a computer Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Display Assembly Replacement
+## Display Assembly Replacement
 
 **Preliminary Requirements**
 
@@ -1412,8 +1421,8 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1265600 Screws x 8 (Hinge & Chassis)
@@ -1492,24 +1501,24 @@ connect an external monitor to the device to perform these steps.
 
     1)  Using a Nylon Spudger, pry up the 2 Coax Cable Lids.
 
-> <img src="./images/media/image65.jpeg"
+> <img src="./images/LT7Repair/media/image35.jpeg"
 > style="width:2.6in;height:1.46263in"
-> alt="A person using a stylus to fix a device Description automatically generated" /><img src="./images/media/image66.jpeg"
+> alt="A person using a stylus to fix a device Description automatically generated" /><img src="./images/LT7Repair/media/image36.jpeg"
 > style="width:2.6in;height:1.46263in"
 > alt="A close-up of a computer chip Description automatically generated" />
 
 2)  Using a Nylon Spudger, disconnect the 2 Coax Cables.
 
-> <img src="./images/media/image67.jpeg"
+> <img src="./images/LT7Repair/media/image37.jpeg"
 > style="width:2.6in;height:1.46263in"
-> alt="A close-up of a device Description automatically generated" /><img src="./images/media/image68.jpeg"
+> alt="A close-up of a device Description automatically generated" /><img src="./images/LT7Repair/media/image38.jpeg"
 > style="width:2.6in;height:1.46263in"
 > alt="A close-up of a device Description automatically generated" />
 
 3)  Using a 3IP (Torx-Plus) driver, remove the 11 screws from the
     antenna.
 
-> <img src="./images/media/image69.png"
+> <img src="./images/LT7Repair/media/image39.png"
 > style="width:4.8in;height:1.94482in"
 > alt="A close up of a computer Description automatically generated" />
 
@@ -1522,7 +1531,7 @@ connect an external monitor to the device to perform these steps.
     1)  Using a Nylon Spudger, pry up the T3 Shield Lid starting with
         the right edge.
 
-> <img src="./images/media/image70.jpeg"
+> <img src="./images/LT7Repair/media/image40.jpeg"
 > style="width:3.79967in;height:1.55417in"
 > alt="A black tool on a black device Description automatically generated with medium confidence" />
 
@@ -1533,9 +1542,9 @@ better access for removal of the shield.
     and shift the shield up and down as you work your way left as the
     shield will get stuck on its latches.
 
-> <img src="./images/media/image71.jpeg"
+> <img src="./images/LT7Repair/media/image41.jpeg"
 > style="width:2.59931in;height:0.96931in"
-> alt="A black object on a white surface Description automatically generated" /><img src="./images/media/image72.jpeg"
+> alt="A black object on a white surface Description automatically generated" /><img src="./images/LT7Repair/media/image42.jpeg"
 > style="width:2.59977in;height:0.96944in"
 > alt="A hand holding a film strip Description automatically generated" />
 
@@ -1550,9 +1559,10 @@ during removal.
 **Caution:** Do not force the connector if it starts to give resistance.
 Rock the connector back in the other direction to remove.
 
-<img src="./images/media/image73.jpeg"
-width="2.59977in" height="1.09444in"
-alt="A hand holding a tweezers Description automatically generated" /><img src="./images/media/image74.jpeg" width="2.6in" height="1.09in"
+<img src="./images/LT7Repair/media/image43.jpeg"
+width="250px" height="105px"
+alt="A hand holding a tweezers Description automatically generated" /><img src="./images/LT7Repair/media/image44.jpeg"
+width="250px" height="105px"
 alt="A close up of a device Description automatically generated" />
 
 9.  **Reorient the Device –**
@@ -1562,15 +1572,16 @@ alt="A close up of a device Description automatically generated" />
     2)  Place the backside of the Display Assembly on the ESD-Safe Mat
         with the screen and keyboard facing up.
 
-> <img src="./images/media/image75.jpeg"
-> style="width:2.6in;height:2.94428in" />
+> <img src="./images/LT7Repair/media/image45.jpeg"
+> style="width:2.6in;height:2.94428in"
+> alt="A computer on a table AI-generated content may be incorrect." />
 
 10. **Remove the Left Hinge Screws – With** one hand holding the device
     still, use a 6IP (Torx-Plus) driver to remove the 3 screws on the
     Left Hinge.
 
-<img src="./images/media/image76.jpeg"
-width="2.6in" height="3.6408in"
+<img src="./images/LT7Repair/media/image46.jpeg"
+width="250px" height="350px"
 alt="A close up of a computer Description automatically generated" />
 
 11. **Remove the Right Hinge Screws -** With one hand holding the device
@@ -1595,15 +1606,15 @@ assembly glass.
 
 3.  **Pre-fasten the right hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 4 new right side hinge screws
-    (<img src="./images/media/image53.png"
-    width="0.42843in" height="0.14in"
+    (<img src="./images/LT7Repair/media/image23.png"
+    width="41px" height="13px"
     alt="A black number six on a white background Description automatically generated" />)
     and tighten until it is just snug.
 
 4.  **Pre-fasten the left hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 3 new left side hinge screws
-    (<img src="./images/media/image53.png"
-    width="0.42843in" height="0.14in"
+    (<img src="./images/LT7Repair/media/image23.png"
+    width="41px" height="13px"
     alt="A black number six on a white background Description automatically generated" />)
     and tighten until just snug.
 
@@ -1616,9 +1627,9 @@ assembly glass.
     3.  Adjust the alignment until the gap between the Display Assembly
         and the Chassis is as even as possible.
 
-> <img src="./images/media/image77.jpeg"
+> <img src="./images/LT7Repair/media/image47.jpeg"
 > style="width:2.6in;height:1.46263in"
-> alt="Close-up of a black electronic device Description automatically generated" /><img src="./images/media/image78.jpeg"
+> alt="Close-up of a black electronic device Description automatically generated" /><img src="./images/LT7Repair/media/image48.jpeg"
 > style="width:2.6in;height:1.46263in"
 > alt="A close-up of a computer Description automatically generated" />
 
@@ -1647,8 +1658,8 @@ assembly glass.
 
 **Important:** Tape should be applied only to the Display Assembly FPC.
 
-<img src="./images/media/image79.png"
-width="2.6in" height="1.58929in"
+<img src="./images/LT7Repair/media/image49.png"
+width="250px" height="153px"
 alt="A close up of a device Description automatically generated" />
 
 9.  **Install the T3 Shield Foams (as needed) –**
@@ -1657,7 +1668,7 @@ alt="A close up of a device Description automatically generated" />
         shield fence for foams. If the foams are not present, install
         the supplied foams as shown.
 
-> <img src="./images/media/image80.png"
+> <img src="./images/LT7Repair/media/image50.png"
 > style="width:2.6in;height:1.59212in"
 > alt="A close up of a device Description automatically generated" />
 
@@ -1671,8 +1682,8 @@ design.
 
 10. **Install the Motherboard screw -** Using a 3IP (Torx-Plus) driver,
     install 1 new Motherboard screw
-    (<img src="./images/media/image81.png"
-    width="0.32757in" height="0.1in"
+    (<img src="./images/LT7Repair/media/image51.png"
+    width="31px" height="10px"
     alt="A black text with a white background Description automatically generated" />)
     until just snug and seated, and then turn another 45-degrees
     (1/8<sup>th</sup> turn) until fully fastened.
@@ -1681,13 +1692,13 @@ design.
 
     1.  Install the previously removed Antenna. Using a 3IP (Torx-Plus)
         driver, install 12 new screws
-        (<img src="./images/media/image82.png"
-        width="0.31705in" height="0.1in"
+        (<img src="./images/LT7Repair/media/image52.png"
+        width="30px" height="10px"
         alt="A black number with a white background Description automatically generated" />).
         All screws should be installed until just snug, and then turned
         another 45-degrees (1/8<sup>th</sup> turn) until fully fastened.
 
-> <img src="./images/media/image69.png"
+> <img src="./images/LT7Repair/media/image39.png"
 > style="width:4.8in;height:1.94482in"
 > alt="A close up of a computer Description automatically generated" />
 
@@ -1697,7 +1708,7 @@ design.
 3.  Install 2 new Coax Cable Lids to the Motherboard over the Coax
     Cables. Align and press into place until a click is felt.
 
-> <img src="./images/media/image83.jpeg"
+> <img src="./images/LT7Repair/media/image53.jpeg"
 > style="width:2.6in;height:1.2421in"
 > alt="A close-up of a device Description automatically generated" />
 
@@ -1754,7 +1765,7 @@ require replacement.
 6.  **Install Feet –** Refer to [Procedure – Installation
     (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
 
-### Surface Connect Replacement
+## Surface Connect Replacement
 
 **Preliminary Requirements**
 
@@ -1790,8 +1801,8 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1277572 Screws x 2 (Surface Connect)
@@ -1824,8 +1835,8 @@ within each process section.
     Spudger, flip up the latch on the Motherboard, and disconnect the
     Surface Connect connector from the Motherboard.
 
-<img src="./images/media/image84.png"
-width="2.6in" height="1.93139in"
+<img src="./images/LT7Repair/media/image54.png"
+width="250px" height="185px"
 alt="A close up of a fan Description automatically generated" />
 
 6.  **Remove the Surface Connect Cable -** Using a 3IP (Torx-Plus)
@@ -1833,8 +1844,8 @@ alt="A close up of a fan Description automatically generated" />
     Motherboard. Lift the cable out of the device and place it on an
     ESD-Safe mat.
 
-<img src="./images/media/image85.png"
-width="2.6in" height="1.98417in"
+<img src="./images/LT7Repair/media/image55.png"
+width="250px" height="190px"
 alt="A fan with a black band Description automatically generated with medium confidence" />
 
 7.  **Remove residual adhesive -** Gently peel up the PSA
@@ -1848,7 +1859,8 @@ alt="A fan with a black band Description automatically generated with medium con
 1.  **Install new PSA -** Place a new piece of PSA down onto the Fan as
     shown.
 
-<img src="./images/media/image86.png" width="2.6in" height="2.6in"
+<img src="./images/LT7Repair/media/image56.png"
+width="250px" height="250px"
 alt="A close up of a fan Description automatically generated" />
 
 2.  **Install the Surface Connect Cable –**
@@ -1863,8 +1875,9 @@ alt="A close up of a fan Description automatically generated" />
         surface of the chassis. The port should be fully aligned with
         the external opening.
 
-> <img src="./images/media/image87.jpeg"
-> style="width:2.6in;height:1.26667in" />
+> <img src="./images/LT7Repair/media/image57.jpeg"
+> style="width:2.6in;height:1.26667in"
+> alt="A close-up of a computer AI-generated content may be incorrect." />
 
 3.  Using a 3IP (Torx-Plus) driver, install the 2 new Surface Connect
     screws until the screw is just snug and seated, and then turn each
@@ -1900,7 +1913,7 @@ alt="A close up of a fan Description automatically generated" />
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Motherboard Replacement Process
+## Motherboard Replacement Process
 
 **Preliminary Requirements**
 
@@ -1942,51 +1955,53 @@ Display Assembly Replacement to ensure proper part operation.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1266593 Screws x 2 (Battery FPC Bracket)
-    <img src="./images/media/image46.png"
-    width="0.6in" height="0.12445in"
+    <img src="./images/LT7Repair/media/image16.png"
+    width="58px" height="12px"
     alt="A black text with a white background Description automatically generated" />
 
-  - M1272782 Screws x 8 (Battery) <img src="./images/media/image47.png"
-    width="0.6in" height="0.11395in"
+  - M1272782 Screws x 8 (Battery)
+    <img src="./images/LT7Repair/media/image17.png"
+    width="58px" height="11px"
     alt="A black and white logo Description automatically generated" />
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1265600 Screws x 1 (Hinge & Chassis)
-    <img src="./images/media/image53.png"
-    width="0.30602in" height="0.1in"
+    <img src="./images/LT7Repair/media/image23.png"
+    width="29px" height="10px"
     alt="A black number six on a white background Description automatically generated" />
 
-  - M1274578 Screws x 14 (Antenna) <img src="./images/media/image82.png"
-    width="0.31705in" height="0.1in"
+  - M1274578 Screws x 14 (Antenna)
+    <img src="./images/LT7Repair/media/image52.png"
+    width="30px" height="10px"
     alt="A black number with a white background Description automatically generated" />
 
   - M1212080 Screws x 1 (Audio Jack Bridge)
-    <img src="./images/media/image54.png"
-    width="0.6in" height="0.11477in"
+    <img src="./images/LT7Repair/media/image24.png"
+    width="58px" height="11px"
     alt="A black number on a white background Description automatically generated" />
 
   - M1263960 Screws x 2 (Audio Jack)
-    <img src="./images/media/image55.png"
-    width="0.6in" height="0.10755in"
+    <img src="./images/LT7Repair/media/image25.png"
+    width="58px" height="10px"
     alt="A black text with letters Description automatically generated" />
 
   - M1235995 Screws x 8 (Motherboard)
-    <img src="./images/media/image81.png"
-    width="0.6in" height="0.12844in"
+    <img src="./images/LT7Repair/media/image51.png"
+    width="58px" height="12px"
     alt="A black text with a white background Description automatically generated" />
 
   - M1263961 Screws x 2 (Motherboard)
-    <img src="./images/media/image88.png"
-    width="0.6in" height="0.12034in"
+    <img src="./images/LT7Repair/media/image58.png"
+    width="58px" height="12px"
     alt="A black letter with a white background Description automatically generated" />
 
   - M1277573 Screws x 1 (Motherboard)
-    <img src="./images/media/image89.png"
-    width="0.6in" height="0.11995in"
+    <img src="./images/LT7Repair/media/image59.png"
+    width="58px" height="12px"
     alt="A black letter with a white background Description automatically generated" />
 
   - M1265416 Shield x 2 (Coax Cable Lid)
@@ -2039,17 +2054,17 @@ Display Assembly Replacement to ensure proper part operation.
 
     1.  Using a Nylon Spudger, pry up the 2 Coax Cable Lids.
 
-> <img src="./images/media/image65.jpeg"
+> <img src="./images/LT7Repair/media/image35.jpeg"
 > style="width:2.6in;height:1.46263in"
-> alt="A person using a stylus to fix a device Description automatically generated" /><img src="./images/media/image66.jpeg"
+> alt="A person using a stylus to fix a device Description automatically generated" /><img src="./images/LT7Repair/media/image36.jpeg"
 > style="width:2.6in;height:1.46263in"
 > alt="A close-up of a computer chip Description automatically generated" />
 
 2.  Using a Nylon Spudger, disconnect the 2 Coax Cables.
 
-> <img src="./images/media/image67.jpeg"
+> <img src="./images/LT7Repair/media/image37.jpeg"
 > style="width:2.6in;height:1.46263in"
-> alt="A close-up of a device Description automatically generated" /><img src="./images/media/image68.jpeg"
+> alt="A close-up of a device Description automatically generated" /><img src="./images/LT7Repair/media/image38.jpeg"
 > style="width:2.6in;height:1.46263in"
 > alt="A close-up of a device Description automatically generated" />
 
@@ -2065,7 +2080,7 @@ Display Assembly Replacement to ensure proper part operation.
     1.  Using a Nylon Spudger, pry up the T3 Shield Lid starting with
         the right edge.
 
-> <img src="./images/media/image70.jpeg"
+> <img src="./images/LT7Repair/media/image40.jpeg"
 > style="width:3.79967in;height:1.31111in"
 > alt="A black tool on a black device Description automatically generated with medium confidence" />
 
@@ -2076,9 +2091,9 @@ better access for removal of the shield.
     and shift the shield up and down as you work your way left as the
     shield will get stuck on its latches.
 
-> <img src="./images/media/image71.jpeg"
+> <img src="./images/LT7Repair/media/image41.jpeg"
 > style="width:2.59977in;height:0.97639in"
-> alt="A black object on a white surface Description automatically generated" /><img src="./images/media/image72.jpeg"
+> alt="A black object on a white surface Description automatically generated" /><img src="./images/LT7Repair/media/image42.jpeg"
 > style="width:2.59977in;height:0.96944in"
 > alt="A hand holding a film strip Description automatically generated" />
 
@@ -2093,10 +2108,10 @@ during removal.
 **Caution:** Do not force the connector if it starts to give resistance.
 Rock the connector back in the other direction to remove.
 
-<img src="./images/media/image73.jpeg"
-width="2.6in" height="1.46263in"
-alt="A hand holding a tweezers Description automatically generated" /><img src="./images/media/image74.jpeg"
-width="2.6in" height="1.46263in"
+<img src="./images/LT7Repair/media/image43.jpeg"
+width="250px" height="140px"
+alt="A hand holding a tweezers Description automatically generated" /><img src="./images/LT7Repair/media/image44.jpeg"
+width="250px" height="140px"
 alt="A close up of a device Description automatically generated" />
 
 10. **Remove the T1 Shield –** Using a Nylon Spudger or ESD-Safe
@@ -2129,16 +2144,16 @@ alt="A close up of a device Description automatically generated" />
     disengage the lock on the Fan FPC. Remove the Fan FPC from the
     connector on the Motherboard.
 
-<img src="./images/media/image90.png"
-width="2.6in" height="2.66687in"
+<img src="./images/LT7Repair/media/image60.png"
+width="250px" height="256px"
 alt="A close up of a computer Description automatically generated" />
 
 17. **Disconnect the Keyboard FPC -** Flip the latch on the Motherboard
     to disengage the lock on the Keyboard FPC. Remove the Keyboard FPC
     from the connector on the Motherboard.
 
-<img src="./images/media/image91.png"
-width="2.6in" height="3.46503in"
+<img src="./images/LT7Repair/media/image61.png"
+width="250px" height="333px"
 alt="A close up of a computer circuit board Description automatically generated" />
 
 18. **Disconnect the Touch FPC –**
@@ -2147,7 +2162,7 @@ alt="A close up of a computer circuit board Description automatically generated"
         connector. Clean the surface with IPA and cleaning swabs to
         ensure all residual adhesive is removed.
 
-> <img src="./images/media/image92.png"
+> <img src="./images/LT7Repair/media/image62.png"
 > style="width:2.6in;height:3.45436in"
 > alt="A close up of a computer Description automatically generated" />
 
@@ -2162,7 +2177,8 @@ alt="A close up of a computer circuit board Description automatically generated"
     Remove the Keyboard Backlight FPC from the connector on the
     Motherboard.
 
-<img src="./images/media/image93.png" width="2.6in" height="1.935in"
+<img src="./images/LT7Repair/media/image63.png"
+width="250px" height="186px"
 alt="A close up of a computer circuit board Description automatically generated" />
 
 20. **Disconnect the Left Speaker -** To remove the connector from the
@@ -2177,23 +2193,23 @@ alt="A close up of a computer circuit board Description automatically generated"
     Driver, remove the 1 screw holding the Motherboard Steel Bracket to
     the Enclosure.
 
-<img src="./images/media/image94.png"
-width="2.9446in" height="1.38202in"
+<img src="./images/LT7Repair/media/image64.png"
+width="283px" height="133px"
 alt="A close up of a device Description automatically generated" />
 
 23. **Remove the Motherboard Shields–** Using ESD-Safe Tweezers,
     carefully remove the two metal shields identified below to expose
     the Motherboard screws underneath.
 
-<img src="./images/media/image95.png"
-width="2.6in" height="1.19482in"
+<img src="./images/LT7Repair/media/image65.png"
+width="250px" height="115px"
 alt="A close up of a circuit board Description automatically generated" />
 
 24. **Remove the Motherboard Screws -** Using a 3IP (Torx-Plus) driver,
     remove the 10 screws holding the Motherboard to the Chassis.
 
-<img src="./images/media/image96.png"
-width="4.8in" height="2.56974in"
+<img src="./images/LT7Repair/media/image66.png"
+width="461px" height="247px"
 alt="A close up of a circuit board Description automatically generated" />
 
 25. **Remove the Motherboard –** Using both hands, carefully lift the
@@ -2223,24 +2239,24 @@ require replacement of the Motherboard or device.
     with the screw bosses.
 
 4.  Using a 3IP (Torx-Plus) driver, install 8 new Motherboard screws
-    (<img src="./images/media/image81.png"
-    width="0.6in" height="0.12844in"
+    (<img src="./images/LT7Repair/media/image51.png"
+    width="58px" height="12px"
     alt="A black text with a white background Description automatically generated" />)
     until just snug. Turn each screw another 45-degrees
     (1/8<sup>th</sup> turn) until fully fastened.
 
-> <img src="./images/media/image96.png"
+> <img src="./images/LT7Repair/media/image66.png"
 > style="width:4.8in;height:2.56974in"
 > alt="A close up of a circuit board Description automatically generated" />
 
 5.  Using a 3IP (Torx-Plus) driver, install 2 new Motherboard screws
-    (<img src="./images/media/image88.png"
-    width="0.6in" height="0.12034in"
+    (<img src="./images/LT7Repair/media/image58.png"
+    width="58px" height="12px"
     alt="A black letter with a white background Description automatically generated" />)
     until just snug. Turn each screw another 45-degrees
     (1/8<sup>th</sup> turn) until fully fastened.
 
-> <img src="./images/media/image97.png"
+> <img src="./images/LT7Repair/media/image67.png"
 > style="width:2.6in;height:2.07879in"
 > alt="A close up of a circuit board Description automatically generated" />
 
@@ -2253,26 +2269,33 @@ sit over the posts in the device chassis.
         equivalent of 2 tick marks (marked on the side of the syringe)
         of thermal paste to the component marked below.
 
-![A close up of a circuit board Description automatically generated](./images/media/image98.png)
+> <img src="./images/LT7Repair/media/image68.png"
+> style="width:1.75704in;height:2.31956in"
+> alt="A close up of a circuit board Description automatically generated" />
 
 2.  Using the same syringe of thermal paste, apply the equivalent of ½
     ticket mark (marked on the side of the syringe) of thermal paste to
     the component marked below.
 
-![A close up of a circuit board Description automatically generated](./images/media/image99.png)
+> <img src="./images/LT7Repair/media/image69.png"
+> style="width:1.8751in;height:2.3404in"
+> alt="A close up of a circuit board Description automatically generated" />
 
 3.  Assemble and install a new T1 Shield.
 
 <!-- -->
 
 4.  **Assemble the Motherboard Steel Bracket -** Using a 3IP (Torx-Plus)
-    driver, install 1 new screw (<img src="./images/media/image89.png"
-    width="0.6in" height="0.11995in"
+    driver, install 1 new screw
+    (<img src="./images/LT7Repair/media/image59.png"
+    width="58px" height="12px"
     alt="A black letter with a white background Description automatically generated" />)
     until just snug, and then turn another 45-degrees (1/8<sup>th</sup>
     turn) until fully fastened.
 
-![A close up of a device Description automatically generated](./images/media/image94.png)
+<img src="./images/LT7Repair/media/image64.png"
+width="283px" height="133px"
+alt="A close up of a device Description automatically generated" />
 
 5.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -2302,7 +2325,7 @@ sit over the posts in the device chassis.
     2.  Apply a new Touchpad FPC Tape across the FPC and the Motherboard
         connector.
 
-> <img src="./images/media/image92.png"
+> <img src="./images/LT7Repair/media/image62.png"
 > style="width:2.6in;height:3.45436in"
 > alt="A close up of a computer Description automatically generated" />
 
@@ -2324,7 +2347,9 @@ sit over the posts in the device chassis.
 13. **Install new PSA -** Place a new piece of PSA down onto the Fan as
     shown.
 
-![A close up of a fan](./images/media/image86.png)
+<img src="./images/LT7Repair/media/image56.png"
+width="250px" height="250px"
+alt="A close up of a fan Description automatically generated" />
 
 14. **Install the Surface Connect Cable –** Insert the connector of the
     Surface Connect Cable into the receptacle on the Motherboard and
@@ -2406,7 +2431,7 @@ Microsoft Support.
 9.  **Install Feet –** Refer to [Procedure – Installation
     (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
 
-### Keyboard Replacement Process
+## Keyboard Replacement Process
 
 **Preliminary Requirements**
 
@@ -2446,44 +2471,54 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1266593 Screws x 2 (Battery FPC Bracket)
-    <img src="./images/media/image46.png"
-    width="0.6in" height="0.12445in"
+    <img src="./images/LT7Repair/media/image16.png"
+    width="58px" height="12px"
     alt="A black text with a white background Description automatically generated" />
 
-  - M1272782 Screws x 8 (Battery) <img src="./images/media/image47.png"
-    width="0.6in" height="0.11395in"
+  - M1272782 Screws x 8 (Battery)
+    <img src="./images/LT7Repair/media/image17.png"
+    width="58px" height="11px"
     alt="A black and white logo Description automatically generated" />
 
   - M1246215 Screws x 1 (Solid-State Drive)
-    <img src="./images/media/image40.png"
-    width="58px" height="12px"
+    <img src="./images/LT7Repair/media/image10.png"
+    width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
 
   - M1265600 Screws x 1 (Hinge & Chassis)
-    <img src="./images/media/image53.png"
-    width="58px" height="12px"
+    <img src="./images/LT7Repair/media/image23.png"
+    width="29px" height="10px"
     alt="A black number six on a white background Description automatically generated" />
 
-  - M1274578 Screws x 14 (Antenna) <img src="./images/media/image82.png"
-    width="58px" height="12px"
+  - M1274578 Screws x 14 (Antenna)
+    <img src="./images/LT7Repair/media/image52.png"
+    width="30px" height="10px"
     alt="A black number with a white background Description automatically generated" />
 
   - M1212080 Screws x 1 (Audio Jack Bridge)
-    <img src="./images/media/image54.png"
-    width="58px" height="12px"
+    <img src="./images/LT7Repair/media/image24.png"
+    width="58px" height="11px"
     alt="A black number on a white background Description automatically generated" />
 
   - M1263960 Screws x 2 (Audio Jack)
-    <img src="./images/media/image55.png" width="58px" height="12px" alt="A black text with letters Description automatically generated" />
+    <img src="./images/LT7Repair/media/image25.png"
+    width="58px" height="10px"
+    alt="A black text with letters Description automatically generated" />
 
   - M1235995 Screws x 8 (Motherboard)
-    <img src="./images/media/image81.png" width="58px" height="12px" />
+    <img src="./images/LT7Repair/media/image51.png"
+    width="58px" height="12px"
+    alt="A black text with a white background Description automatically generated" />
 
   - M1263961 Screws x 2 (Motherboard)
-    <img src="./images/media/image88.png" width="58px" height="12px" alt="A black letter with a white background Description automatically generated" />
+    <img src="./images/LT7Repair/media/image58.png"
+    width="58px" height="12px"
+    alt="A black letter with a white background Description automatically generated" />
 
   - M1277573 Screws x 1 (Motherboard)
-    <img src="./images/media/image89.png" width="58px" height="12px" alt="A black letter with a white background Description automatically generated" />
+    <img src="./images/LT7Repair/media/image59.png"
+    width="58px" height="12px"
+    alt="A black letter with a white background Description automatically generated" />
 
   - M1211014 Screws x 4 (Speakers)
 
@@ -2495,7 +2530,7 @@ within each process section.
 
   - M1265416 Shield x 2 (Coax Cable Lid)
 
-  - M1271279 Shield x 1 (T1 Shield)
+  - M1271279 Shield x 1 (T1 Shield
 
   - M1271924 Shield x 1 (T3 Shield)
 
@@ -2534,7 +2569,7 @@ within each process section.
     document for detailed instructions.
 
 5.  **Remove the Audio Jack -** Refer to the [Procedure – Removal
-    Audio Jack](#audio-jack-replacement) section of this document for
+    (Audio](#audio-jack-replacement) Jack) section of this document for
     detailed instructions.
 
 6.  **Remove the Battery –** Refer to the [Procedure – Removal
@@ -2569,13 +2604,17 @@ within each process section.
     screws securing the Fan to the Keyboard Assembly. Remove the Fan
     from the device.
 
-![A close up of a fan Description automatically generated](./images/media/image100.png)
+> <img src="./images/LT7Repair/media/image70.png"
+> style="width:2.6in;height:2.51501in"
+> alt="A close up of a fan Description automatically generated" />
 
 14. **Remove the Mounting Brackets–** Using a 2IP (Torx-Plus) driver,
     remove the 2 screws holding each of the Mounting Brackets to the
     Keyboard Assembly. Remove the 2 Mounting Brackets from the device.
 
-![A black board with white text and blue and yellow tape Description automatically generated](./images/media/image101.png)
+<img src="./images/LT7Repair/media/image71.png"
+width="250px" height="114px"
+alt="A black board with white text and blue and yellow tape Description automatically generated" />
 
 **Procedure – Installation (Keyboard Assembly)**
 
@@ -2584,7 +2623,9 @@ within each process section.
     1.  Place the 2 previously removed Mounting Brackets so that the
         yellow side is visible, and they are arranged as shown here.
 
-![A black board with white text and blue and yellow tape Description automatically generated](./images/media/image101.png)
+> <img src="./images/LT7Repair/media/image71.png"
+> style="width:2.6in;height:1.19194in"
+> alt="A black board with white text and blue and yellow tape Description automatically generated" />
 
 2.  Using a 2IP (Torx-Plus) driver, install 4 new Mounting Bracket
     screws until the screws are just snug, and then turn each another
@@ -2608,7 +2649,9 @@ within each process section.
         they are just snug, and then turn each another 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
 
-![A close up of a fan Description automatically generated](./images/media/image100.png)
+> <img src="./images/LT7Repair/media/image70.png"
+> style="width:2.6in;height:2.51501in"
+> alt="A close up of a fan Description automatically generated" />
 
 2.  Ensure the latch on the Motherboard connector for the Fan is in a
     vertical position before inserting the Fan FPC. Flip the latch down
@@ -2665,3 +2708,15 @@ within each process section.
 16. **Install the Feet -** Refer to the [Procedure – Installation
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
+
+# Environmental Compliance Requirements
+
+All waste electrical and electronic equipment (WEEE), waste electronic
+components, waste batteries, and electronic waste residuals must be
+managed according to applicable laws and regulations. and H09117,
+“Conformance Standards for Environmentally Sound Management of Waste
+Electrical and Electronic Equipment (WEEE)” which is available at this
+link: <https://www.microsoft.com/en-pk/download/details.aspx?id=11691> .
+In case of questions, please contact <AskECT@microsoft.com> .
+
+©2024 Microsoft.
