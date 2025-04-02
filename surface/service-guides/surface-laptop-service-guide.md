@@ -343,9 +343,7 @@ within each process section.
 1.  **Place Device –** Carefully place the closed device Display side
     down with the Feet facing up on a soft ESD-Safe Mat.
 
-<img src="./images/media/image34.jpeg"
-width="2.6in" height="1.94861in"
-alt="The back of a computer Description automatically generated" />
+<img src="./images/media/image34.jpeg" width="2.6in" height="1.94861in" alt="The back of a computer Description automatically generated"/>
 
 2.  **Remove the Feet –** Using the Nylon Spudger, carefully pry up all
     four feet to expose the screws.
@@ -704,41 +702,31 @@ section is not required.
 
 5.  **Remove the Battery Connector Metal Bracket –** Using a 3IP
     (Torx-Plus) driver, remove the 2 screws
-    (<img src="./images/media/image48.png"
-    width="0.37005in" height="0.1in" />) securing the metal bracket
+    (<img src="./images/media/image48.png" width="0.37005in" height="0.1in" />) securing the metal bracket
     to the motherboard. Lift the metal bracket out of the device to
     expose the Battery FPC.
 
-<img src="./images/media/image49.png"
-width="2.6in" height="1.97019in"
-alt="A close up of a device Description automatically generated" />
+![A close up of a device Description automatically generated](./images/media/image49.png)
 
 6.  **Disconnect the Battery FPC -** Using a Nylon Spudger, pry the
     Battery FPC connector, starting from the side of the connector, from
     the Motherboard.
 
-<img src="./images/media/image50.jpeg"
-width="3.8in" height="2.13769in"
-alt="A hand holding a black plastic device Description automatically generated" />
+![Image Description](./images/media/image50.jpeg)
 
 7.  **Remove the Battery Screws -** Using a 5IP (Torx-Plus) driver,
     remove the 8 screws
-    (<img src="./images/media/image47.png" style="width:0.5in"
-    alt="A black and white logo Description automatically generated" />)
+    (<img src="./images/media/image47.png" style="width:0.5in" alt="A black and white logo Description automatically generated" />)
     securing the Battery.
 
-<img src="./images/media/image51.png"
-width="3.8in" height="2.30274in"
-alt="A close up of a computer Description automatically generated" />
+![A close-up of a computer](./images/media/image51.png)
 
 8.  **Remove the battery from the device -** Using your hands, grab the
     battery at the four points identified below and carefully lift the
     battery out of the device. Place the battery on a clean ESD-Safe Mat
     free of any debris.
 
-<img src="./images/media/image52.png"
-width="3.8in" height="1.94393in"
-alt="A close up of a computer Description automatically generated" />
+![A close up of a computer description automatically generated](./images/media/image52.png)
 
 **WARNING:** Only handle the battery by the plastic frame. Bending,
 twisting, or impacting the battery may damage the battery, the device,
