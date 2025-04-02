@@ -69,6 +69,8 @@ Document Part Number: M1318466
 
 [Component Removal and Replacement Procedures](#component-removal-and-replacement-procedures)
 
+- [Device Disassembly and Reassembly Video](#device-disassembly-and-reassembly-video)
+
 - [Prerequisite Steps](#prerequisite-steps)
 
 - [Feet Replacement](#feet-replacement)
@@ -293,7 +295,7 @@ all required parts before beginning your repair.
 
 ## Component Removal and Replacement Procedures
 
-### Teardown Video
+### Device Disassembly and Reassembly Video
 
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
 
@@ -2454,34 +2456,34 @@ within each process section.
 
   - M1246215 Screws x 1 (Solid-State Drive)
     <img src="./images/media/image40.png"
-    width="0.27668in" height="0.1in"
+    width="58px" height="12px"
     alt="A number with a white background Description automatically generated" />
 
   - M1265600 Screws x 1 (Hinge & Chassis)
     <img src="./images/media/image53.png"
-    width="0.30602in" height="0.1in"
+    width="58px" height="12px"
     alt="A black number six on a white background Description automatically generated" />
 
   - M1274578 Screws x 14 (Antenna) <img src="./images/media/image82.png"
-    width="0.31705in" height="0.1in"
+    width="58px" height="12px"
     alt="A black number with a white background Description automatically generated" />
 
   - M1212080 Screws x 1 (Audio Jack Bridge)
     <img src="./images/media/image54.png"
-    width="0.6in" height="0.11477in"
+    width="58px" height="12px"
     alt="A black number on a white background Description automatically generated" />
 
   - M1263960 Screws x 2 (Audio Jack)
-    <img src="./images/media/image55.png" width="0.6in" height="0.10755in" alt="A black text with letters Description automatically generated" />
+    <img src="./images/media/image55.png" width="58px" height="12px" alt="A black text with letters Description automatically generated" />
 
   - M1235995 Screws x 8 (Motherboard)
-    <img src="./images/media/image81.png" width="0.6in" height="0.12844in" />
+    <img src="./images/media/image81.png" width="58px" height="12px" />
 
   - M1263961 Screws x 2 (Motherboard)
-    <img src="./images/media/image88.png" width="0.6in" height="0.12034in" alt="A black letter with a white background Description automatically generated" />
+    <img src="./images/media/image88.png" width="58px" height="12px" alt="A black letter with a white background Description automatically generated" />
 
   - M1277573 Screws x 1 (Motherboard)
-    <img src="./images/media/image89.png" width="0.6in" height="0.11995in" alt="A black letter with a white background Description automatically generated" />
+    <img src="./images/media/image89.png" width="58px" height="12px" alt="A black letter with a white background Description automatically generated" />
 
   - M1211014 Screws x 4 (Speakers)
 
