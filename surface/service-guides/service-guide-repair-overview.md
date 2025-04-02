@@ -179,6 +179,9 @@ When contacting support, be prepared to provide:
 - Description of the damage
 - Clear photographs of the symptoms
 
+For general Surface support, visit
+  [www.support.microsoft.com](http://www.support.microsoft.com)
+
 ## Environmental Compliance Requirements
 
 All waste electrical and electronic equipment (WEEE), waste electronic

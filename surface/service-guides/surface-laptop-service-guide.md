@@ -890,6 +890,7 @@ within each process section.
     <img src="./images/LT7Repair/media/image10.png"
     width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
+    :::image type="content" source="./images/LT7Repair/media/image10.png" alt-text="A number with a white background Description automatically generated":::
 
   - M1265600 Screws x 1 (Hinge & Chassis)
     <img src="./images/LT7Repair/media/image23.png"
