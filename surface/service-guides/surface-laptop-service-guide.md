@@ -8,53 +8,7 @@ alt="A black and white logo Description automatically generated" />
 width="132px" height="32px"
 alt="A black and white logo AI-generated content may be incorrect." />
 
-*Disclaimer of Warranties and Limitation of Damages*
-
-All information, content, materials, and products made available in or
-in conjunction with this Guide are provided by Microsoft on “as-is” and
-“as available” basis, unless otherwise specified by Microsoft in
-writing. Microsoft makes no representations or warranties of any kind,
-express or implied, as to the information, content, materials, and
-products included or otherwise made available to you or accompanying
-this Guide unless specified in writing. You expressly agree that your
-use of the information, content, materials, and product in or
-accompanying this Guide is at your sole risk.
-
-To the fullest extent permissible by law, Microsoft disclaims all
-warranties, express or implied, including but not limited to implied
-warranties of merchantability and fitness for a particular purpose. To
-the fullest extent permissible by law, Microsoft shall not be liable for
-damages of any kind arising from the use of information, content,
-materials, or product made available in or in conjunction with this
-Guide, including but not limited to direct, indirect, incidental,
-consequential, and/or punitive damages unless otherwise specified in
-writing.
-
-*Notice*
-
-Microsoft and its suppliers may have patents, patent applications,
-trademarks, copyrights, trade secrets and/or other intellectual property
-rights covering subject matter in this document. Microsoft’s furnishing
-of this document to recipient does not grant or imply any license to any
-patents, trademarks, copyrights, trade secrets or other intellectual
-property rights, and recipient’s permitted use of any such intellectual
-property rights, if any, is solely governed by the Agreements.
-
-This document and the information it contains are subject to change
-without notice. You can find the latest information on Surface device
-servicing and repair at <https://aka.ms/surfaceservicing> . Always
-consult the most up-to-date information available before performing
-device service or repair. Document Part Number: M1318466
-
-©2024 Microsoft Corporation. All rights reserved.
-
-
-| **Rev** | **Date**   | **Changes Made** |
-|:-------:|------------|------------------|
-|    A    | 06/18/2024 | Initial Release  |
-|||
-
-## Service Guide Contents
+## Surface Laptop 7<sup>th</sup> Edition Service Guide Contents
 
 [General Safety Precautions](service-guide-repair-overview.md#general-safety-precautions)
 
@@ -890,7 +844,7 @@ within each process section.
     <img src="./images/LT7Repair/media/image10.png"
     width="27px" height="10px"
     alt="A number with a white background Description automatically generated" />
-    :::image type="content" source="./images/LT7Repair/media/image10.png" alt-text="A number with a white background Description automatically generated":::
+
 
   - M1265600 Screws x 1 (Hinge & Chassis)
     <img src="./images/LT7Repair/media/image23.png"
