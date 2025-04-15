@@ -132,7 +132,7 @@ Select your country/region and follow the instructions to obtain a shipping labe
 - [France](https://microsoft-hub.tes-amm.com/_Content/fr-FR/)
 - [Germany](https://microsoft-hub.tes-amm.com/_Content/de-DE/)
 - [Greece](https://microsoft-hub.tes-amm.com/_Content/el-GR/)
-- [Hong Kong](https://microsoft-hub.tes-amm.com/_Content/en-HK/)
+- [Hong Kong SAR](https://microsoft-hub.tes-amm.com/_Content/en-HK/)
 - [Hungary](https://microsoft-hub.tes-amm.com/_Content/hu-HU/)
 - [India](https://microsoft-hub.tes-amm.com/_Content/en-IN/)
 - [Japan](https://microsoft-hub.tes-amm.com/_Content/ja-JP/)
