@@ -1,4 +1,20 @@
-## Tools
+---
+title: Surface Hardware Repair Tools
+description: Hardware repair tools for Surface devices
+ms.service: surface
+ms.localizationpriority: medium
+author: bamifad00
+ms.author: chauncel
+ms.topic: overview
+ms.date: 03/25/2025
+ms.reviewer: 
+manager: frankbu
+appliesto:
+- Windows 10
+- Windows 11
+---
+
+## Surface Hardware Repair Tools
 
 This section documents the tools recommended or required by Microsoft to
 successfully complete a repair on a Surface device. Microsoft Service
@@ -14,7 +30,6 @@ from consumer retailers.
 |:----|:----:|
 | [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | ![ESD-safe Surface Battery Cover](./images/HWTools/media/image1.png) |
 |||
-
 
 ### Required Microsoft Service Tools
 

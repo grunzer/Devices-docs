@@ -3,7 +3,7 @@ title: Surface Software repair tools
 description: Provides information on software repair tools
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: bamifad00
 ms.author: chauncel
 ms.topic: overview
 ms.date: 03/25/2025
