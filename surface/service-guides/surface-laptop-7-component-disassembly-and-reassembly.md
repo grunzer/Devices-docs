@@ -641,9 +641,7 @@ within each process section.
     Audio Jack Bridge into its position over the Audio Jack. Using a 3IP
     (Torx-Plus) and 6IP (Torx-Plus) driver, install 3 new screws (2 x
     :::image type="icon" source="./images/LT7Repair/media/audio-jack-wayfinding-1.png" alt-text="A black number on a white background":::,
-    1 x <img src="./images/LT7Repair/media/hinge-wayfinding.png"
-    style="width:0.30602in;height:0.1in"
-    alt="A black number six on a white background" />).
+    :::image type="icon" source="./images/LT7Repair/media/hinge-wayfinding.png" alt-text="A black number six on a white background":::
     All screws should be tightened until just snug, and then turned
     another 45-degrees (1/8<sup>th</sup> turn) until fully fastened.
 
