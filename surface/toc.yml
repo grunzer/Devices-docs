@@ -300,20 +300,42 @@
             - name: Protect data during service
               href: https://support.microsoft.com/help/4023508/surface-faq-protecting-your-data-service
             - name: Surface Australia On-Site service & repair
-              href: surface-australia-onsite-service-repair.md   
+              href: surface-australia-onsite-service-repair.md          
     - name: Surface Service Guides
       expanded: true
       items:
-       - name: Service Guide repair overview
-         href: service-guides/service-guide-repair-overview.md
+       - name: Repair safety and compliance information
+         href: service-guides/surface-repair-safety-and-compliance.md
        - name: Surface hardware repair tools
          href: service-guides/surface-hardware-repair-tools.md
        - name: Surface software repair tools
-         href: service-guides/surface-software-repair-tools.md  
-       - name: Service Guides
+         href: service-guides/surface-software-repair-tools.md
+       - name: Service Guide Center
+         href: service-guides/surface-service-guides.md
+       - name: Surface Laptop Service Guides
          expanded: true
-         items: 
-         - name: Surface Laptop 7th Edition
-           href: service-guides/surface-laptop-service-guide.md
-
- 
+         items:
+          - name: Surface Laptop 7th Edition
+            expanded: true
+            items:
+              - name: Device information and service parts
+                href: service-guides/surface-laptop-7-device-information-and-service-parts.md
+              - name: Component disassembly and reassembly
+                href: service-guides/surface-laptop-7-component-disassembly-and-reassembly.md
+          - name: Surface Laptop 13-inch
+            expanded: true
+            items:
+              - name: Device information and service parts
+                href: service-guides/surface-laptop-13in-device-information-and-service-parts.md
+              - name: Component disassembly and reassembly
+                href: service-guides/surface-laptop-13in-component-disassembly-and-reassembly.md
+          - name: Surface 2-in-1 Service Guides
+            expanded: true
+            items:
+            - name: Surface Pro 12-inch
+              expanded: true
+              items:
+               - name: Device information and service parts
+                 href: service-guides/surface-pro-12in-device-information-and-service-parts.md
+               - name: Component disassembly and reassembly
+                 href: service-guides/surface-pro-12in-component-disassembly-and-reassembly.md
