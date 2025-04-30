@@ -18,6 +18,8 @@ appliesto:
 
 # Prepare your environment for Surface Hub
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 This page describes dependencies for setting up and managing Surface Hub v1 or Surface Hub 2S.
 
 > [!TIP]
