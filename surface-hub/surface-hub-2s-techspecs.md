@@ -12,6 +12,8 @@ ms.localizationpriority: Medium
 
 # Surface Hub 2S 50-inch tech specs
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 | Item | Details |
 |:------ |:--------- |
 |**Dimensions**| 29.2" x 43.2" x 3.0” (741 mm x 1097 mm x 76 mm) |
