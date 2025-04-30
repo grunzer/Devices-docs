@@ -29,6 +29,8 @@ landingContent:
         links: 
           - text: What's new for Surface Hub 3   
             url: surface-hub-3-whats-new.md
+          - text: End of support options and migration paths for Surface Hub v1 and 2S devices running Windows 10 Team edition
+            url: surface-hub-windows10-eos-migration.md
           - text: Deploy Surface Hub with Windows Autopilot & Teams Rooms Auto-login
             url: surface-hub-autopilot.md
           - text: Migrate Surface Hub 2S to Microsoft Teams Rooms on Windows  
