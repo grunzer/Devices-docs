@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 03/31/2025
+ms.date: 04/30/2025
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -95,7 +95,15 @@ The Tool Library in the Surface IT Toolkit is a centralized repository that prov
 
 ## Release notes
 
-### Version: 1.233.139.0
+### Version: 1.238.139.0
+
+This version of Surface IT Toolkit, released April 30, 2025, includes the following updates:
+
+- Resolved an issue where the Surface Enterprise Management Mode (SEMM) Current Settings sample script did not return accurate values.  
+- Updated sample scripts for Surface Thunderbolt 4 Dock to improve layout and readability.  
+- Improved overall application stability.
+
+### Version:1.234.139.0
 
 This version of Surface IT Toolkit, released April 1, 2025, includes the following updates:
 
