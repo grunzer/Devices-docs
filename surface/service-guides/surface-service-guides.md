@@ -20,7 +20,8 @@ Follow the link in the table below to access the repair guide for your Surface d
 
 | **Product Category** | **Product Name** |
 |:--:|:--:|
-| *Laptop* |  |  |
+| *Laptop* |  |
+|  | [Surface Laptop 13-inch](surface-laptop-13in-component-disassembly-and-reassembly.md) |
 |  | [Surface Laptop 7<sup>th</sup> Edition](surface-laptop-7-component-disassembly-and-reassembly.md) |
 |  | Surface Laptop 7th Edition for Business |
 |  | Surface Laptop 6 for Business |
@@ -34,6 +35,7 @@ Follow the link in the table below to access the repair guide for your Surface d
 |  | Surface Laptop SE |
 |  |  |
 | *2-in-1* |  |
+|  | [Surface Pro 12-inch](surface-pro-12in-component-disassembly-and-reassembly.md) |
 |  | Surface Pro 11<sup>th</sup> Edition and Pro 10 for Business |
 |  | Surface Pro 11<sup>th</sup> Edition for Business w/ Intel |
 |  | Surface Pro 11<sup>th</sup> Edition w/ 5G and Pro 10 w/ 5G for Business |
