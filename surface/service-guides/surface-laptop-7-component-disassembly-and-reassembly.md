@@ -44,7 +44,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -84,7 +85,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 - **Device Serial Number Notation –** The replacement Enclosure supplied
   for repair will not have a serial number. To ensure the customer has
@@ -160,7 +162,8 @@ repair on a Surface device.
     (1/8<sup>th</sup> turn) to fully fasten. Adjust the position of the
     Enclosure as you go to ensure even gaps around the perimeter.
 
-> [!CAUTION] Ensure that the Enclosure is not stuck on a ledge as you are installing the screws. Shift the Enclosure as needed to avoid this condition.
+> [!CAUTION]
+> Ensure that the Enclosure is not stuck on a ledge as you are installing the screws. Shift the Enclosure as needed to avoid this condition.
 
 4.  **Install the Feet –** Refer to the [Procedure – Installation
     (Feet)](#feet-replacement) section of this document for detailed
@@ -170,7 +173,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -232,7 +236,8 @@ repair on a Surface device.
     on the motherboard while keeping the Removable Solid-State Drive as
     close as possible to horizontal.
 
-> [!CAUTION] Ensure that the Speaker wire does not get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
+> [!CAUTION]
+> Ensure that the Speaker wire does not get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
 
 :::image type="content" source="./images/LT7Repair/media/insert-ssd.jpeg" alt-text="A close up of a computer chip":::
 
@@ -289,11 +294,14 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
-> [!WARNING] Prior to handling the battery, the operator must remove all jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
+> [!WARNING]
+> Prior to handling the battery, the operator must remove all jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
 
-> [!WARNING] In the case of a battery event, submerge the entire device in sand. **DO NOT** attempt to pick up the device.
+> [!WARNING]
+> In the case of a battery event, submerge the entire device in sand. **DO NOT** attempt to pick up the device.
 
 **Required Tools**
 
@@ -338,7 +346,8 @@ repair on a Surface device.
 
 **Procedure – Preparation (Battery)**
 
-> [!IMPORTANT] This section is only for instances where you are replacing the battery. If the battery is being re-used, then this section is not required.
+> [!IMPORTANT]
+> This section is only for instances where you are replacing the battery. If the battery is being re-used, then this section is not required.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -405,15 +414,20 @@ repair on a Surface device.
 
 :::image type="content" source="./images/LT7Repair/media/remove-battery.png" alt-text="A close up of a computer":::
 
-> [!WARNING] Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
+> [!WARNING]
+> Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
 
-> [!IMPORTANT] Place the battery somewhere where the battery cannot accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
+> [!IMPORTANT]
+> Place the battery somewhere where the battery cannot accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
 
-> [!IMPORTANT] When disposing of the battery, ensure you are recycling according to local laws.
+> [!IMPORTANT]
+> When disposing of the battery, ensure you are recycling according to local laws.
 
-> [!IMPORTANT] The Motherboard Module and Battery are extremely sensitive to ESD and can be easily damaged. It is critical that you ensure proper grounding before performing any work on these parts.
+> [!IMPORTANT]
+> The Motherboard Module and Battery are extremely sensitive to ESD and can be easily damaged. It is critical that you ensure proper grounding before performing any work on these parts.
 
-> [!WARNING] In the instance of a battery event, submerge the entire device in a 4-gallon bucket filled with 2.0 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
+> [!WARNING]
+> In the instance of a battery event, submerge the entire device in a 4-gallon bucket filled with 2.0 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
 
 **Procedure – Installation (Battery)**
 
@@ -437,7 +451,8 @@ repair on a Surface device.
 2.  **Insert the Battery -** Using the attached loops, carefully lower
     the battery into the new device.
 
-> [!IMPORTANT] Only handle new batteries with the plastic loops that come attached. If reusing a battery, handle by the frame as indicated in the battery removal instructions. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
+> [!IMPORTANT]
+> Only handle new batteries with the plastic loops that come attached. If reusing a battery, handle by the frame as indicated in the battery removal instructions. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
 
 3.  **Install the Battery screws -** Using a 5IP screwdriver, install
     the 8 battery frame screws
@@ -445,7 +460,8 @@ repair on a Surface device.
     until the screws are just snug, then tighten each by an additional
     45-degrees (1/8<sup>th</sup> turn).
 
-> [!IMPORTANT] Do not overtighten the screws on the battery frame or battery. If the frame is cracked, the battery must not be used.
+> [!IMPORTANT]
+> Do not overtighten the screws on the battery frame or battery. If the frame is cracked, the battery must not be used.
 
 4.  **Assemble the Battery FPC and FPC Bracket -** Assemble the Battery
     FPC to the Motherboard. Using a 3IP (Torx-Plus) driver, install 2
@@ -484,7 +500,8 @@ repair on a Surface device.
     Repair (Validation)** tool and follow the on-screen prompts until a
     successful authentication is completed.
 
-> [!IMPORTANT] Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
+> [!IMPORTANT]
+> Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
 
 6.  **Run the Surface Diagnostic Toolkit (SDT) –** Run all diagnostics
     to ensure the device is functioning as expected before moving
@@ -498,7 +515,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -635,7 +653,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -720,7 +739,8 @@ repair on a Surface device.
     receptacle on the Motherboard by pressing vertically until a snap is
     felt.
 
-> [!CAUTION] The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+> [!NOTE]
+> The connector will have 2 visible gold contacts if it is oriented in the correct direction.
 
 :::image type="content" source="./images/LT7Repair/media/spk-connector.png" alt-text="A close up of a fan":::
 
@@ -759,7 +779,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -833,7 +854,8 @@ repair on a Surface device.
     receptable on the Motherboard by pressing vertically until a snap is
     felt.
 
-> [!CAUTION] The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+> [!NOTE]
+> The connector will have 2 visible gold contacts if it is oriented in the correct direction.
 
 :::image type="content" source="./images/LT7Repair/media/l-spk-connector.png" alt-text="A close up of a device":::
 
@@ -867,7 +889,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -982,7 +1005,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -1039,7 +1063,8 @@ repair on a Surface device.
 
 **Procedure – Preparation (Display Assembly)**
 
-> [!IMPORTANT] This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section is not required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> [!IMPORTANT]
+> This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section is not required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -1110,7 +1135,8 @@ repair on a Surface device.
 
 > :::image type="content" source="./images/LT7Repair/media/t3-lid.jpeg" alt-text="A black tool on a black device with medium confidence":::
 
-> [!CAUTION] Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
+> [!NOTE]
+> Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
 
 2)  Slide the Nylon Spudger under the shield moving right to left. Pause
     and shift the shield up and down as you work your way left as the
@@ -1119,14 +1145,16 @@ repair on a Surface device.
 :::image type="content" source="./images/LT7Repair/media/t3-lid-2.jpeg" alt-text="A black object on a white surface":::
 :::image type="content" source="./images/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
 
-> [!CAUTION] Ensure that the shield does not damage the Display FPC’s during removal.
+> [!CAUTION]
+> Ensure that the shield does not damage the Display FPC’s during removal.
 
 8.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
     the connectors start giving resistance as they are being pried up,
     lightly push the edge being pried back down.
 
-> [!CAUTION] Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
+> [!CAUTION]
+> Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
 
 :::image type="content" source="./images/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
 :::image type="content" source="./images/LT7Repair/media/display-fpc-2.jpeg" alt-text="A close up of a device":::
@@ -1163,7 +1191,8 @@ repair on a Surface device.
 2.  **Install the new Display Assembly –** Carefully align the hinges
     into the packets on the device Enclosure.
 
-> [!IMPORTANT] Ensure the Enclosure does not impact on the display assembly glass.
+> [!IMPORTANT]
+> Ensure the Enclosure does not impact on the display assembly glass.
 
 3.  **Pre-fasten the right hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 4 new right side hinge screws
@@ -1210,7 +1239,8 @@ repair on a Surface device.
 8.  **Place the Display Assembly FPC Tape –** Place the Display Assembly
     FPC Tape to the Display Assembly FPC as shown.
 
-> [!IMPORTANT] Tape should be applied only to the Display Assembly FPC.
+> [!IMPORTANT]
+> Tape should be applied only to the Display Assembly FPC.
 
 :::image type="content" source="./images/LT7Repair/media/display-fpc-tape.png" alt-text="A close up of a device":::
 
@@ -1226,7 +1256,8 @@ repair on a Surface device.
     shield fence for foams. Any foams on the shield fence should be
     removed.
 
-> [!IMPORTANT] New Display Assemblies will only have 2 FPCs. The remaining 2 connections on the Motherboard will remain empty. This is by design.
+> [!IMPORTANT]
+> New Display Assemblies will only have 2 FPCs. The remaining 2 connections on the Motherboard will remain empty. This is by design.
 
 10. **Install the Motherboard screw -** Using a 3IP (Torx-Plus) driver,
     install 1 new Motherboard screw
@@ -1271,7 +1302,8 @@ repair on a Surface device.
 
 **Procedure – Finalize (Display Assembly)**
 
-> [!IMPORTANT] This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section is not required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> [!IMPORTANT]
+> This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section is not required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -1287,7 +1319,8 @@ repair on a Surface device.
     Follow all on-screen instructions and allow the device to restart
     when prompted.
 
-> [!IMPORTANT] If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
+> [!IMPORTANT]
+> If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
 
 4.  **Launch SDT –** Once the device has rebooted and is at the Windows
     Desktop, use Windows Explorer to navigate to the USB drive. Select
@@ -1304,7 +1337,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
@@ -1441,9 +1475,11 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
-> [!IMPORTANT] If replacing both the Motherboard and the Display Assembly – complete the Motherboard replacement prior to performing the Display Assembly Replacement to ensure proper part operation.
+> [!IMPORTANT]
+> If replacing both the Motherboard and the Display Assembly – complete the Motherboard replacement prior to performing the Display Assembly Replacement to ensure proper part operation.
 
 **Required Tools**
 
@@ -1577,7 +1613,8 @@ repair on a Surface device.
 
 > :::image type="content" source="./images/LT7Repair/media/t3-lid.jpeg" alt-text="A black tool on a black device with medium confidence":::
 
-> [!CAUTION] Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
+> [!NOTE]
+> Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
 
 2.  Slide the Nylon Spudger under the shield moving right to left. Pause
     and shift the shield up and down as you work your way left as the
@@ -1586,14 +1623,16 @@ repair on a Surface device.
 :::image type="content" source="./images/LT7Repair/media/t3-lid-2.jpeg" alt-text="A black object on a white surface":::
 :::image type="content" source="./images/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
 
-> [!CAUTION] Ensure that the shield does not damage the Display FPC’s during removal.
+> [!CAUTION]
+> Ensure that the shield does not damage the Display FPC’s during removal.
 
 9.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
     the connectors start giving resistance as they are being pried up,
     lightly push the edge being pried back down.
 
-> [!CAUTION] Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
+> [!CAUTION]
+> Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
 
 :::image type="content" source="./images/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
 :::image type="content" source="./images/LT7Repair/media/display-fpc-2.jpeg" alt-text="A close up of a device":::
@@ -1693,7 +1732,8 @@ repair on a Surface device.
 
 2.  **Install the Motherboard –**
 
-> [!IMPORTANT] The Thermal Module should be installed onto the Motherboard. Take caution during installation of the Motherboard to avoid damage to the Thermal Module. Damage to the Thermal Module will require replacement of the Motherboard or device.
+> [!IMPORTANT]
+> The Thermal Module should be installed onto the Motherboard. Take caution during installation of the Motherboard to avoid damage to the Thermal Module. Damage to the Thermal Module will require replacement of the Motherboard or device.
 
 1.  Lower the Motherboard USB-C side first into the device chassis.
     Ensure that the USB-C connectors fit in the corresponding holes in
@@ -1719,7 +1759,8 @@ repair on a Surface device.
 
 > :::image type="content" source="./images/LT7Repair/media/mb-screws-2.png" alt-text="A close up of a circuit board":::
 
-> [!IMPORTANT] Ensure that the slots next to the thermal module screws sit over the posts in the device chassis.
+> [!IMPORTANT]
+> Ensure that the slots next to the thermal module screws sit over the posts in the device chassis.
 
 3.  **Assemble the T1 Shield –**
 
@@ -1821,7 +1862,8 @@ repair on a Surface device.
 
 **Procedure – Finalize (Motherboard)**
 
-> [!IMPORTANT] If replacing both the Motherboard Module and the Display Assembly – complete the Motherboard Module replacement prior to performing the Display Assembly Replacement to ensure proper part operation.
+> [!IMPORTANT]
+> If replacing both the Motherboard Module and the Display Assembly – complete the Motherboard Module replacement prior to performing the Display Assembly Replacement to ensure proper part operation.
 
 1.  **Power on Device –** Connect a Power Supply to the device and power
     it on until it reaches the Windows Desktop.
@@ -1840,7 +1882,8 @@ repair on a Surface device.
     Follow all on-screen instructions and allow the device to restart
     when prompted.
 
-> [!IMPORTANT] If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
+> [!IMPORTANT]
+> If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
 
 5.  **Allow the Battery to charge –** With the device connected to a
     power supply, allow the battery to charge until the battery icon in
@@ -1857,7 +1900,8 @@ repair on a Surface device.
     properly authenticated. If the battery reads anything other than
     authenticated, run the Validation tool in its entirety.
 
-> [!IMPORTANT] Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
+> [!IMPORTANT]
+> Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
 
 8.  **Run the Surface Diagnostic Toolkit (SDT) –** Run all diagnostics
     to ensure the device is functioning as expected before moving
@@ -1870,7 +1914,8 @@ repair on a Surface device.
 
 **Preliminary Requirements**
 
-> [!IMPORTANT] Be sure to follow all special notes of caution within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special notes of caution within each process section.
 
 **Required Tools**
 
