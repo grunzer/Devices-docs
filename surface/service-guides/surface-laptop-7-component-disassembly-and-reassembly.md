@@ -16,11 +16,9 @@ appliesto:
 
 ## Surface Laptop 7<sup>th</sup> Edition
 
-## Component Removal and Replacement Procedure
-
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
 
-### Prerequisite Steps
+## Prerequisite Steps
 
 Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
@@ -42,7 +40,7 @@ repair on a Surface device.
 > [!IMPORTANT]
 > Review the [General Safety Precautions](surface-repair-safety-and-compliance.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-and-compliance.md#Battery-Safety) sections before proceeding with the repair instructions
 
-### Feet Replacement
+## Feet Replacement
 
 **Preliminary Requirements**
 
@@ -83,7 +81,7 @@ within each process section.
 
 :::image type="content" source="./images/LT7Repair/media/install-feet.jpeg" alt-text="A close up of a hole in a metal surface":::
 
-### Enclosure Replacement
+## Enclosure Replacement
 
 **Preliminary Requirements**
 
@@ -172,7 +170,7 @@ within each process section.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Removable Solid-State Drive Replacement
+## Removable Solid-State Drive Replacement
 
 **Preliminary Requirements**
 
@@ -293,7 +291,7 @@ when fastening the Removable Solid-State Drive to the Motherboard.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Battery Replacement
+## Battery Replacement
 
 **Preliminary Requirements**
 
@@ -533,7 +531,7 @@ Microsoft Support.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Audio Jack Replacement
+## Audio Jack Replacement
 
 **Preliminary Requirements**
 
@@ -671,7 +669,7 @@ within each process section.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Right Speaker Replacement
+## Right Speaker Replacement
 
 **Preliminary Requirements**
 
@@ -797,7 +795,7 @@ oriented in the correct direction.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Left Speaker Replacement
+## Left Speaker Replacement
 
 **Preliminary Requirements**
 
@@ -907,7 +905,7 @@ oriented in the correct direction.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Micro SD Reader Replacement
+## Micro SD Reader Replacement
 
 **Preliminary Requirements**
 
@@ -1023,7 +1021,7 @@ within each process section.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Display Assembly Replacement
+## Display Assembly Replacement
 
 **Preliminary Requirements**
 
@@ -1360,7 +1358,7 @@ require replacement.
 6.  **Install Feet –** Refer to [Procedure – Installation
     (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
 
-### Surface Connect Replacement
+## Surface Connect Replacement
 
 **Preliminary Requirements**
 
@@ -1498,7 +1496,7 @@ within each process section.
     (Feet)](#feet-replacement) section of this document for detailed
     instructions.
 
-### Motherboard Replacement Process
+## Motherboard Replacement Process
 
 **Preliminary Requirements**
 
@@ -1948,7 +1946,7 @@ Microsoft Support.
 9.  **Install Feet –** Refer to [Procedure – Installation
     (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
 
-### Keyboard Replacement Process
+## Keyboard Replacement Process
 
 **Preliminary Requirements**
 
