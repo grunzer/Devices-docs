@@ -3,7 +3,7 @@ title: Surface Repair Safety and Compliance
 description: Provides safety instructions and related information 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: bamifad00
 ms.author: chauncel
 ms.topic: overview
 ms.date: 03/25/2025
