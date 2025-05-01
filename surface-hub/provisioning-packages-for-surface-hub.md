@@ -19,6 +19,8 @@ appliesto:
 
 # Create provisioning packages for Surface Hub
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 Provisioning packages allow you to automate the deployment of key features, helping deliver a consistent experience across all Surface Hubs in your organization. Using  Windows Configuration Designer (WCD) on a separate PC, you can complete the following tasks:
 
 - Enroll in Active Directory or Microsoft Entra ID
