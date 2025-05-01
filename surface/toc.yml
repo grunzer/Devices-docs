@@ -304,14 +304,14 @@
     - name: Surface Service Guides
       expanded: true
       items:
+       - name: Service guide center
+         href: service-guides/surface-service-guides.md
        - name: Repair safety and compliance information
          href: service-guides/surface-repair-safety-and-compliance.md
        - name: Surface hardware repair tools
          href: service-guides/surface-hardware-repair-tools.md
        - name: Surface software repair tools
          href: service-guides/surface-software-repair-tools.md
-       - name: Service Guide Center
-         href: service-guides/surface-service-guides.md
        - name: Surface Laptop Service Guides
          expanded: true
          items:
