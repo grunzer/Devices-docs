@@ -393,7 +393,7 @@ section is not required.
 
 5.  **Remove the Battery Connector Metal Bracket –** Using a 3IP
     (Torx-Plus) driver, remove the 2 screws
-    (:::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-1-repeat.png" alt-text="A black text with a white background":::) securing the metal bracket
+    (:::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-1.png" alt-text="A black text with a white background":::) securing the metal bracket
     to the motherboard. Lift the metal bracket out of the device to
     expose the Battery FPC.
 
@@ -482,7 +482,7 @@ battery. If the frame is cracked, the battery must not be used.
 
 4.  **Assemble the Battery FPC and FPC Bracket -** Assemble the Battery
     FPC to the Motherboard. Using a 3IP (Torx-Plus) driver, install 2
-    FPC Bracket screws :::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-1-repeat.png" alt-text="A black text with a white background"::: until the screws are just
+    FPC Bracket screws :::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-1.png" alt-text="A black text with a white background"::: until the screws are just
     snug. Turn each screw an additional 45-degrees (1/8<sup>th</sup>
     turn) until fully fastened.
 
@@ -769,7 +769,7 @@ oriented in the correct direction.
 3.  **Place new Speaker Tape -** Place a new Tape over the speaker wire
     as shown below.
 
-:::image type="content" source="./images/LT7Repair/media/image25.png" alt-text="A close up of a fan":::
+:::image type="content" source="./images/LT7Repair/media/speaker-tape.png" alt-text="A close up of a fan":::
 
 4.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -1540,7 +1540,7 @@ Display Assembly Replacement to ensure proper part operation.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1266593 Screws x 2 (Battery FPC Bracket)
-    :::image type="icon" source="./images/LT7Repair/media/image13.png" alt-text="A black text with a white background":::
+    :::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-1.png" alt-text="A black text with a white background":::
 
   - M1272782 Screws x 8 (Battery)
     :::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-2.png" alt-text="A black and white logo":::
@@ -1798,7 +1798,7 @@ sit over the posts in the device chassis.
         equivalent of 2 tick marks (marked on the side of the syringe)
         of thermal paste to the component marked below.
 
-> :::image type="content" source="./images/LT7Repair/media/image65.png" alt-text="A close up of a circuit board":::
+> :::image type="content" source="./images/LT7Repair/media/t-putty.png" alt-text="A close up of a circuit board":::
 
 2.  Using the same syringe of thermal paste, apply the equivalent of ½
     ticket mark (marked on the side of the syringe) of thermal paste to
@@ -1988,7 +1988,7 @@ within each process section.
   - M1301718 Screws x 4 (Foot screws)
 
   - M1266593 Screws x 2 (Battery FPC Bracket)
-    :::image type="icon" source="./images/LT7Repair/media/image13.png" alt-text="A black text with a white background":::
+    :::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-1.png" alt-text="A black text with a white background":::
 
   - M1272782 Screws x 8 (Battery)
     :::image type="icon" source="./images/LT7Repair/media/battery-wayfinding-2.png" alt-text="A black and white logo":::
