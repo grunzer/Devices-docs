@@ -14,6 +14,8 @@ ms.localizationpriority: medium
 
 # Create and test a device account on Surface Hub
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 Creating a Surface Hub device account (also known as a resource account/room mailbox) allows the Surface Hub to receive, approve, or decline meeting requests and join meetings.
 
 Once the device account is provisioned on a Surface Hub, people can add this account to a meeting invitation the same way that they would invite a conference room. 
