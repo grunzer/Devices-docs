@@ -10,14 +10,22 @@
       items: 
       - name: Tech specs
         items:
-         - name: Surface Pro 11th Edition (Intel)
-           href: tech-specs/surface-pro-intel-tech-specs.md
-         - name: Surface Laptop 7th Edition (Intel)
-           href: tech-specs/surface-laptop-intel-tech-specs.md
-         - name: Surface Pro 11th Edition (Snapdragon)
-           href: tech-specs/surface-pro-snapdragon-tech-specs.md 
-         - name: Surface Laptop 7th Edition (Snapdragon)
-           href: tech-specs/surface-laptop-snapdragon-tech-specs.md  
+          - name: Surface Pro, Copilot+ PC
+            items:
+              - name: Surface Pro for Business, 12-inch
+                href: tech-specs/surface-pro-copilot+pc-12inch-tech-specs.md
+              - name: Surface Pro 11th Edition (Intel)
+                href: tech-specs/surface-pro-intel-tech-specs.md
+              - name: Surface Pro 11th Edition (Snapdragon)
+                href: tech-specs/surface-pro-snapdragon-tech-specs.md 
+          - name: Surface Laptop, Copilot+ PC
+            items:
+              - name: Surface Laptop for Business, 13-inch
+                href: tech-specs/surface-laptop-copilot+pc-13inch-tech-specs.md
+              - name: Surface Laptop 7th Edition (Intel)
+                href: tech-specs/surface-laptop-intel-tech-specs.md
+              - name: Surface Laptop 7th Edition (Snapdragon)
+                href: tech-specs/surface-laptop-snapdragon-tech-specs.md
       - name: Tech overviews
         items:
          - name: NFC support in Surface Pro
