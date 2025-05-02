@@ -14,6 +14,8 @@ appliesto:
 
 # Surface Hub 2S quick start
 
+[!INCLUDE [Hub 2S EoS](includes/hub2s-eos.md)]
+
 ## Unpack Surface Hub 2S
 
 1. Use the handles on each side of the box to move it to your desired space.
