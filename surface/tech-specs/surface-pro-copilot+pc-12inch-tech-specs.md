@@ -64,10 +64,11 @@ appliesto:
 17. Bold keyset option available only in US English in select markets.
 18. Enclosure includes bucket and kickstand. 100% recycled aluminum alloy in bucket. 100% recycled rare earth metals in magnets. Based on validation performed by Underwriters Laboratories, Inc. using Environmental Claim Validation Procedure (ECVP) for Recycled Content, UL ECVP 2809-2, Second Edition, dated June 20, 2024.
 19. Excluding PSU. Contains 4.7% recycled cobalt, consisting of 100% recycled cobalt in the battery cell. Based on validation performed by Underwriter Laboratories, Inc. using Environmental Claim Validation Procedure (ECVP) for Recycled Content, UL EVCP-2809-2, Second Edition, dated June 20, 2024. Recycled Content is defined in accordance with ISO 14021.
-20. Replacement components available through Surface Commercial authorized device resellers. Components can be replaced on-site by a skilled technician following Microsoft’s Service Guide. Microsoft tools (sold separately) may also be required. Availability of replacement components and service options may vary by product, market and over time. See [Surface service options - Surface | Microsoft Learn](https://learn.microsoft.com/surface/surface-service-options). 
+20. Replacement components available through Surface Commercial authorized device resellers. Components can be replaced on-site by a skilled technician following Microsoft’s Service Guide. Microsoft tools (sold separately) may also be required. Availability of replacement components and service options may vary by product, market and over time. See [Surface service options - Surface | Microsoft Learn](/surface/surface-service-options.md). 
 > [!CAUTION]
 > Opening and/or repairing a device can pose risks of electric shock, fire, personal injury, or damage to the device. Unless required by law, damage incurred during self-repair may not be covered by Microsoft’s Limited Hardware Warranty.
-21. ld separately in certain markets.
+
+21. Sold separately in certain markets.
 22. Microsoft’s Limited Warranty is in addition to your consumer law rights. 
 
 
