@@ -26,8 +26,8 @@ appliesto:
 | **Size**[<sup>5</sup>](#references) & **weight**[<sup>6</sup>](#references)    | - Length: 10.8 inch (274 mm)<br>- Width: 7.47 inch (190 mm)<br>- Height: 0.30 inch (7.8 mm)<br>- Weight: 1.5 lbs. (686 g) |
 | **Battery life** | - Up to 16 hours of local video playback[<sup>7</sup>](#references)<br>- Up to 12 hours of active web usage[<sup>8</sup>](#references) |
 | **Security**           | - Enhanced security with Microsoft Pluton TPM 2.0 and BitLocker support<br>- Windows 11 Secured-core PC<br>- Windows Hello facial recognition with Enhanced Sign-in Security<br>- NFC authentication[<sup>7</sup>](#references) |
-| **Cameras**[<sup>3</sup>](#references) | - Full HD front-facing Surface Studio Camera (1080p)<br>- Windows Studio Effects: automatic framing, portrait blur, creative filters, eye contact, portrait light<br>- 10 MP Ultra HD rear-facing camera<br>- Windows Hello face authentication camera with Enhanced Sign-in Security |
-| **Audio**[<sup>4</sup>](#references) | - Dual Studio Mics with enhanced voice focus[<sup>9</sup>](#references)<br>- 2W stereo speakers with Dolby Atmos[<sup>10</sup>](#references)<br>- Support for Bluetooth LE Audio |
+| **Cameras** | - Full HD front-facing Surface Studio Camera (1080p)<br>- Windows Studio Effects: automatic framing, portrait blur, creative filters, eye contact, portrait light<br>- 10 MP Ultra HD rear-facing camera<br>- Windows Hello face authentication camera with Enhanced Sign-in Security |
+| **Audio**| - Dual Studio Mics with enhanced voice focus[<sup>9</sup>](#references)<br>- 2W stereo speakers with Dolby Atmos[<sup>10</sup>](#references)<br>- Support for Bluetooth LE Audio |
 | **Ports and charging** | - 2 × USB-C with USB4/Thunderbolt 4 ports:<br>- Charging<br>- Data transfer<br>- DisplayPort 1.4a (up to 2 × 4K @ 60Hz)<br>- Surface Thunderbolt™ 4 Dock support<br>- Fast charging with minimum 45W USB-C charger[<sup>11</sup>](#references)<br>- Surface Pro 12-inch keyboard connector |
 | **Network and connectivity** | - Wi-Fi 7[<sup>12</sup>](#references)<br>- Bluetooth Core 5.4 technology |
 | **Pen compatibility**[<sup>13</sup>](#references) | - Designed for Surface Slim Pen<br>- Integrated storage and wireless charging located on the back of device<br>- Supports haptic feedback with Surface Slim Pen<br>- Supports Microsoft Pen Protocol (MPP) |
@@ -56,7 +56,7 @@ appliesto:
 9. Voice focus requires activation, requires Windows 11 and is available in apps which use integrated device microphones and use certain Windows audio processing modes.
 10. Requires Dolby Atmos encoded content/audio.
 11. In select markets, only specific configurations come with Surface 45W USB-C Wall Charger. Fast charging is supported with minimum 60W USB Type-C PD charger or higher (sold separately). Testing conducted by Microsoft in March, 2025 For details on fast charging see - [USB-C and Fast Charging for Surface - Microsoft Support](https://support.microsoft.com/surface/usb-c-and-fast-charging-for-surface-d320ab19-e4ed-c36d-7458-7d7aec69d34a).
-12 6GHz band not available in all regions.
+12. 6GHz band not available in all regions.
 13. Accessories sold separately.
 14. Surface Slim Pen sold separately. Software license required for some features.
 15. Sold separately. Software license required for some features.
