@@ -15,6 +15,8 @@ appliesto:
 
 # Tech specs: Surface Laptop for Business, Copilot+ PC 13-inch
 
+The new Surface Laptop for Business, available to pre-order, ships July 22 in select markets. 
+
 | Feature                | Description |
 |------------------------|-------------|
 | **Processor**          | - Snapdragon X Plus (8 Core) X1P-42-100 |

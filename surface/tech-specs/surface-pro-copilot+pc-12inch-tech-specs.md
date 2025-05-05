@@ -15,6 +15,8 @@ appliesto:
 
 # Tech specs: Surface Pro for Business, Copilot+ PC 12-inch
 
+The new Surface Pro for Business, available to pre-order, ships July 22 in select markets.
+
 | Feature                | Description |
 |------------------------|-------------|
 | **Processor**          | - Snapdragon X Plus (8 Core) X1P-42-100 |
