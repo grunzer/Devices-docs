@@ -17,7 +17,7 @@ appliesto:
 
 | Feature                | Description |
 |------------------------|-------------|
-| **Processor**          | - Snapdragon X Plus (8 Core) X1P-46-100 |
+| **Processor**          | - Snapdragon X Plus (8 Core) X1P-42-100 |
 | **NPU**                | - Qualcomm Hexagon with 45 TOPS |
 | **Graphics**           | - Qualcomm Adreno GPU |
 | **Memory**             | - 16 GB, 24 GB LPDDR5x RAM |
