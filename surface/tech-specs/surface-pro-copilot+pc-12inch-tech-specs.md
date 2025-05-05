@@ -15,7 +15,7 @@ appliesto:
 
 # Tech specs: Surface Pro for Business, Copilot+ PC 12-inch
 
-The new Surface Pro for Business, available to pre-order, ships July 22 in select markets.
+The new Surface Pro for Business, available to [pre-order](https://www.microsoft.com/surface), ships July 22 in select markets.
 
 | Feature                | Description |
 |------------------------|-------------|

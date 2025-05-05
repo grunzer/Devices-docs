@@ -15,7 +15,7 @@ appliesto:
 
 # Tech specs: Surface Laptop for Business, Copilot+ PC 13-inch
 
-The new Surface Laptop for Business, available to pre-order, ships July 22 in select markets. 
+The new Surface Laptop for Business, available to [pre-order](https://www.microsoft.com/surface), ships July 22 in select markets. 
 
 | Feature                | Description |
 |------------------------|-------------|
