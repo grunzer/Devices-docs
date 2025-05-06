@@ -322,11 +322,6 @@
                 href: service-guides/surface-laptop-7-device-information-and-service-parts.md
               - name: Component disassembly and reassembly
                 href: service-guides/surface-laptop-7-component-disassembly-and-reassembly.md
-              - name: Test tree depth
-                expanded: true
-                items:
-                  - name: Component test
-                    href: service-guides/surface-laptop-7-device-information-and-service-parts.md
           - name: Surface Laptop 13-inch
             expanded: true
             items:
