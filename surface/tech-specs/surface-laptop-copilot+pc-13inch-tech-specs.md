@@ -45,7 +45,7 @@ The new Surface Laptop for Business, available to [pre-order](https://www.micros
 
 ## References
 
-1. System software uses significant storage space. Available storage is subject to change based on system software updates and apps usage. 1 GB = 1 billion bytes. 1 TB = 1,000 GB. See Surface.com/Storage for more details.
+1. System software uses significant storage space. Available storage is subject to change based on system software updates and apps usage. 1 GB = 1 billion bytes. 1 TB = 1,000 GB. See [Surface.com/Storage](https://support.microsoft.com/surface/surface-storage-options-and-hard-drive-sizes-9915981d-3e38-f06c-4706-82b5dedf33bc) for more details.
 2. Removable flash storage. Flash storage Retention is only available on Microsoft Surface devices in which the flash storage is marketed as removable per the Technical Specifications. Flash storage Retention is included in both Extended Hardware Service Plus and Microsoft Complete for Business Plus and is also available as an Optional Add-on when purchasing Microsoft Extended Hardware Service and Microsoft Complete for Business. Devices returned to Microsoft with a missing flash storage are subject to a flash storage replacement fee unless the device is enrolled in the flash storage Retention offer.
 3. Surface Laptop for Business display has rounded corners within a standard rectangle. When measured as a standard rectangular shape the screen is 13” diagonally (actual viewable area is less).
 4. The Surface Laptop for Business display has been designed to minimize unwanted reflections and has been certified by TÜV SÜD to meet the requirements of ISO 9241-307.
