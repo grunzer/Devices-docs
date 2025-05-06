@@ -1,5 +1,5 @@
 ---
-title: Surface Repair Safety and Compliance
+title: Repair Safety Guidelines
 description: Provides safety instructions and related information 
 ms.service: surface
 ms.localizationpriority: medium
@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Repair Safety and Compliance
+## Repair Safety Guidelines
 
 ### General safety precautions
 
@@ -191,5 +191,3 @@ managed according to applicable laws and regulations. and H09117,
 Electrical and Electronic Equipment (WEEE)” which is available at this
 link: <https://www.microsoft.com/en-pk/download/details.aspx?id=11691> .
 In case of questions, please contact <AskECT@microsoft.com> .
-
-©2024 Microsoft.
