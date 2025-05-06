@@ -446,7 +446,8 @@ repair on a Surface device.
     4.  Loose screws should never be stored on the magnetic areas of the
         bucket.
 
-> [!IMPORTANT] Verify the battery’s condition. Batteries exhibiting any damage indicated in the Lithium-Ion Battery Inspection section must be replaced.
+> [!IMPORTANT]
+> Verify the battery’s condition. Batteries exhibiting any damage indicated in the Lithium-Ion Battery Inspection section must be replaced.
 
 2.  **Insert the Battery -** Using the attached loops, carefully lower
     the battery into the new device.
