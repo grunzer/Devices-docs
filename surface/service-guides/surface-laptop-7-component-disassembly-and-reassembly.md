@@ -38,7 +38,7 @@ repair on a Surface device.
   device is placed on a clean surface free of debris.
 
 > [!IMPORTANT]
-> Review the [General Safety Precautions](surface-repair-safety-and-compliance.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-and-compliance.md#Battery-Safety) sections before proceeding with the repair instructions
+> Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) sections before proceeding with the repair instructions
 
 ## Feet Replacement
 
