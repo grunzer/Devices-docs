@@ -18,6 +18,9 @@ appliesto:
 
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
 
+> [!CAUTION]
+> Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) sections before proceeding with the repair instructions.
+
 ## Prerequisite Steps
 
 Steps outlined in this section should be conducted prior to starting any
@@ -37,8 +40,6 @@ repair on a Surface device.
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
 
-> [!IMPORTANT]
-> Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) sections before proceeding with the repair instructions
 
 ## Feet Replacement
 
@@ -552,7 +553,7 @@ repair on a Surface device.
     :::image type="icon" source="./images/LT7Repair/media/hinge-wayfinding.png" alt-text="A black number six on a white background":::
 
   - M1212080 Screws x 2 (Audio Jack Bridge)
-    :::image type="icon" source="./images/LT7Repair/media/audi-jack-wayfinding-1.png" alt-text="A black number on a white background":::
+    :::image type="icon" source="./images/LT7Repair/media/audio-jack-wayfinding-1.png" alt-text="A black number on a white background":::
 
   - M1263960 Screws x 1 (Audio Jack)
     :::image type="icon" source="./images/LT7Repair/media/audio-jack-wayfinding-2.png" alt-text="A black text with letters":::
