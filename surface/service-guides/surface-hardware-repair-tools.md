@@ -6,9 +6,9 @@ ms.localizationpriority: medium
 author: bamifad00
 ms.author: chauncel
 ms.topic: overview
-ms.date: 03/25/2025
+ms.date: 05/20/2025
 ms.reviewer: 
-manager: frankbu
+manager: coravens
 appliesto:
 - Windows 10
 - Windows 11
@@ -36,7 +36,8 @@ from consumer retailers.
 |    |    |
 |:----|:----:|
 | [Surface Display Debonding Tool (M1214770-001) - iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001) | ![Surface Display Debonding Tool (M1214770-001) New](./images/HWTools/media/image2.jpeg) |
-| [Surface Display Bonding Frame (M1260233-001) - iFixit](https://www.ifixit.com/products/surface-display-bonding-frame-m1260233-001) | ![Surface Display Bonding Frame (M1260233-001) New](./images/HWTools/media/image3.jpeg) |
+| [Surface Display Bonding Frame (M1260233-001) - iFixit](https://www.ifixit.com/products/surface-display-bonding-frame-m1260233-001) | ![Surface Display Bonding Frame (M1260233-001) New](./images/HWTools/media/pro13in-bonding-frame.jpeg) |
+| Surface Display Bonding Frame for Pro 12-inch (M1368685-001) | ![Surface Display Bonding Frame (M1260233-001) New](./images/HWTools/media/pro12in-bonding-frame.png) |
 |||
 
 ### Required Electronic Repair Hardware or Tools

@@ -6,9 +6,9 @@ ms.localizationpriority: medium
 author: bamifad00
 ms.author: chauncel
 ms.topic: overview
-ms.date: 03/25/2025
+ms.date: 05/20/2025
 ms.reviewer: 
-manager: frankbu
+manager: coravens
 appliesto:
 - Windows 10
 - Windows 11
@@ -39,7 +39,6 @@ repair on a Surface device.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
-
 
 ## Feet Replacement
 
