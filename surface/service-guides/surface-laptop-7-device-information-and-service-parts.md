@@ -18,19 +18,17 @@ appliesto:
 
 ### Device Identity Information
 
-- Surface Laptop 7<sup>th</sup> Edition
-
 Support Link –
 [Link](https://support.microsoft.com/en-us/hub/4295675/surface-laptop-help)
 
 The model and serial number for Surface Laptops is on the bottom center
 closest to the display hinge point.
 
-![A white rectangular object with a blue label Description automatically generated](./images/media/image5.png)
+![A white rectangular object with a blue label Description automatically generated](./images/Laptop7/LT7_device_ID/image5.png)
 
 ### Illustrated Service Parts List
 
-![A computer parts diagram showing the parts of a computer](./images/media/image16.png)
+![A computer parts diagram showing the parts of a computer](./images/Laptop7/LT7_device_ID/image16.png)
 
 **IMPORTANT:** Repair workflows may require multiple parts to be ordered
 to complete the repair successfully. Please check the primary and
@@ -187,19 +185,19 @@ all required parts before beginning your repair.
 
 | **Description**                          | **Enter Key**                                                                 | **“4,5,6” Keys**                                                                 |
 |------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 104 English, US                          | ![Enter Key](./images/media/image17.png)                                      | ![4,5,6 Keys](./images/media/image18.png)                                        |
-| 105 Canadian, Bilingual                  | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image20.jpeg)                                       |
-| 109 Japan                                | ![Enter Key](./images/media/image21.jpeg)                                     | ![4,5,6 Keys](./images/media/image22.png)                                        |
-| 105 Austria/Germany                      | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image23.png)                                        |
-| 105 Belgium AZERTY                       | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image24.png)                                        |
-| 105 Nordic Denmark, Finland, Norway, Sweden | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image25.png)                                        |
-| 105 French                               | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image26.png)                                        |
-| 105 English, UK Ireland                  | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image27.png)                                        |
-| 105 Italy                                | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image28.png)                                        |
-| 105 Switzerland, Luxembourg              | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image29.png)                                        |
-| 104 English, International Netherlands   | ![Enter Key](./images/media/image30.png)                                      | ![4,5,6 Keys](./images/media/image31.png)                                        |
-| 105 Portuguese                           | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image32.png)                                        |
-| 105 Spanish, European                    | ![Enter Key](./images/media/image19.png)                                      | ![4,5,6 Keys](./images/media/image33.png)                                        |
+| 104 English, US                          | ![Enter Key](./images/Laptop7/LT7_device_ID/image17.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image18.png)                                        |
+| 105 Canadian, Bilingual                  | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image20.jpeg)                                       |
+| 109 Japan                                | ![Enter Key](./images/Laptop7/LT7_device_ID/image21.jpeg)                                     | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image22.png)                                        |
+| 105 Austria/Germany                      | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image23.png)                                        |
+| 105 Belgium AZERTY                       | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image24.png)                                        |
+| 105 Nordic Denmark, Finland, Norway, Sweden | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image25.png)                                        |
+| 105 French                               | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image26.png)                                        |
+| 105 English, UK Ireland                  | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image27.png)                                        |
+| 105 Italy                                | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image28.png)                                        |
+| 105 Switzerland, Luxembourg              | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image29.png)                                        |
+| 104 English, International Netherlands   | ![Enter Key](./images/Laptop7/LT7_device_ID/image30.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image31.png)                                        |
+| 105 Portuguese                           | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image32.png)                                        |
+| 105 Spanish, European                    | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image33.png)                                        |
 
 ### Genuine Microsoft Replacement Parts
 
