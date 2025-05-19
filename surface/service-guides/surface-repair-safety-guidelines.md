@@ -195,7 +195,7 @@ Act immediately if you see any of the following symptoms of a battery thermal ev
 
 ### Stop repair and contact Microsoft
 
-Before and during repair of any Microsoft device, watch for the following indicators of a potential problem. If you see any of these, stop repairing. Visit the [Microsoft Product Safety](http://aka.ms/productsafety) page to report and obtain next steps:
+Before and during repair of any Microsoft device, watch for the following indicators of a potential problem. If you see any of these, stop repairing. Visit the [Microsoft Product Safety](https://aka.ms/productsafety) page to report and obtain next steps:
 
 - Any burned or melted components, traces, or plastic parts on the outside of the device, or which otherwise exhibits heat damage, including charring seen in charging or other ports.
 - Any burned or melted components, traces, or plastic parts on the inside of the device, or which otherwise exhibits heat damage.
@@ -209,4 +209,4 @@ When contacting support, be prepared to provide:
 - Description of the damage
 - Clear photographs of the symptoms
 
-For general Surface support, visit [www.support.microsoft.com](http://www.support.microsoft.com)
+For general Surface support, visit [www.support.microsoft.com](https://www.support.microsoft.com)

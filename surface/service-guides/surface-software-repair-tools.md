@@ -77,18 +77,18 @@ The following terms are used throughout this guide.
 ## Service Diagnostics/Troubleshooting Overview
 
 - For general Surface support, visit
-  [www.support.microsoft.com](http://www.support.microsoft.com/)
+  [www.support.microsoft.com](https://www.support.microsoft.com/)
 
 - To troubleshoot device feature/function problems or learn more about
   Surface Pro visit
-  [www.aka.ms/SurfaceProHelp](http://www.aka.ms/SurfaceProHelp)
+  [www.aka.ms/SurfaceProHelp](https://www.aka.ms/SurfaceProHelp)
 
 - If you’d like to learn more about Windows, visit
-  [aka.ms/WindowsHelp](http://www.aka.ms/WindowsHelp)
+  [aka.ms/WindowsHelp](https://www.aka.ms/WindowsHelp)
 
 - To learn more about the accessibility features of the Surface Pro, go
   to the online user guide at
-  [aka.ms/Windows-Accessibility](http://www.aka.ms/Windows-Accessibility)
+  [aka.ms/Windows-Accessibility](https://www.aka.ms/Windows-Accessibility)
 
 ## Prerequisite Steps – Software
 
