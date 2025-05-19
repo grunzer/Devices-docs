@@ -745,7 +745,7 @@ repair on a Surface device.
 3.  **Place new Speaker Tape -** Place a new Tape over the speaker wire
     as shown below.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/speaker-tape.png" alt-text="A close up of a fan":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/speaker-tape.png" alt-text="A close up of a fan":::
 
 4.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -835,7 +835,7 @@ repair on a Surface device.
     the 2 screws securing the Left Speaker, located on the Right side of
     the device when working on it, to the Chassis.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/l-spk-screws.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/l-spk-screws.png" alt-text="A close up of a device":::
 
 6.  **Remove the Left Speaker –** Remove the Left Speaker from the
     Chassis. To Remove the connector from the Motherboard, pull up
@@ -852,10 +852,10 @@ repair on a Surface device.
     receptable on the Motherboard by pressing vertically until a snap is
     felt.
 
-> [!NOTE]
-> The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+    > [!NOTE]
+    > The connector will have 2 visible gold contacts if it is oriented in the correct direction.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/l-spk-connector.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/l-spk-connector.png" alt-text="A close up of a device":::
 
 3.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -950,7 +950,7 @@ repair on a Surface device.
     remove the 2 screws holding the Micro SD Reader into the Chassis and
     lift the Micro SD Reader out of the device.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/microSD-screws.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/microSD-screws.png" alt-text="A close up of a computer":::
 
 **Procedure – Installation (Micro SD Reader)**
 
@@ -966,7 +966,7 @@ repair on a Surface device.
         until just snug and then turn each another 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/microSD-screws.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/microSD-screws.png" alt-text="A close up of a computer":::
 
 2.  **Connect the Micro SD Reader Cable -** Insert the Micro SD Reader
     cable into the receptacle on the Micro SD Reader board and close the
@@ -1109,18 +1109,20 @@ repair on a Surface device.
 
     1)  Using a Nylon Spudger, pry up the 2 Coax Cable Lids.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/antenna.jpeg" alt-text="A person using a stylus to fix a device":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/antenna2.jpeg" alt-text="A close-up of a computer chip":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna.jpeg" alt-text="A person using a stylus to fix a device":::
+
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna2.jpeg" alt-text="A close-up of a computer chip":::
 
 2)  Using a Nylon Spudger, disconnect the 2 Coax Cables.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/coax-cable.jpeg" alt-text="A close-up of a device":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/coax-lid.jpeg" alt-text="A close-up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/coax-cable.jpeg" alt-text="A close-up of a device":::
+
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/coax-lid.jpeg" alt-text="A close-up of a device":::
 
 3)  Using a 3IP (Torx-Plus) driver, remove the 11 screws from the
     antenna.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna-screws.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna-screws.png" alt-text="A close up of a computer":::
 
 4)  Lift the Antenna out of the Chassis.
 
@@ -1131,31 +1133,33 @@ repair on a Surface device.
     1)  Using a Nylon Spudger, pry up the T3 Shield Lid starting with
         the right edge.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid.jpeg" alt-text="A black tool on a black device with medium confidence":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid.jpeg" alt-text="A black tool on a black device with medium confidence":::
 
-> [!NOTE]
-> Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
+    > [!NOTE]
+    > Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
 
 2)  Slide the Nylon Spudger under the shield moving right to left. Pause
     and shift the shield up and down as you work your way left as the
     shield will get stuck on its latches.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-2.jpeg" alt-text="A black object on a white surface":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-2.jpeg" alt-text="A black object on a white surface":::
 
-> [!CAUTION]
-> Ensure that the shield does not damage the Display FPC’s during removal.
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
+
+    > [!CAUTION]
+    > Ensure that the shield does not damage the Display FPC’s during removal.
 
 8.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
     the connectors start giving resistance as they are being pried up,
     lightly push the edge being pried back down.
 
-> [!CAUTION]
-> Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
+    > [!CAUTION]
+    > Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-2.jpeg" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
+
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-2.jpeg" alt-text="A close up of a device":::
 
 9.  **Reorient the Device –**
 
@@ -1164,13 +1168,13 @@ repair on a Surface device.
     2)  Place the backside of the Display Assembly on the ESD-Safe Mat
         with the screen and keyboard facing up.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/reorient-device.jpeg" alt-text="A computer on a table":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/reorient-device.jpeg" alt-text="A computer on a table":::
 
 10. **Remove the Left Hinge Screws – With** one hand holding the device
     still, use a 6IP (Torx-Plus) driver to remove the 3 screws on the
     Left Hinge.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/l-hinge-screw.jpeg" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/l-hinge-screw.jpeg" alt-text="A close up of a computer":::
 
 11. **Remove the Right Hinge Screws -** With one hand holding the device
     still, use a 6IP (Torx-Plus) driver to remove the 4 screws on the
@@ -1189,8 +1193,8 @@ repair on a Surface device.
 2.  **Install the new Display Assembly –** Carefully align the hinges
     into the packets on the device Enclosure.
 
-> [!IMPORTANT]
-> Ensure the Enclosure does not impact on the display assembly glass.
+    > [!IMPORTANT]
+    > Ensure the Enclosure does not impact on the display assembly glass.
 
 3.  **Pre-fasten the right hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 4 new right side hinge screws
@@ -1211,8 +1215,9 @@ repair on a Surface device.
     3.  Adjust the alignment until the gap between the Display Assembly
         and the Chassis is as even as possible.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/check-alignment.jpeg" alt-text="Close-up of a black electronic device":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/check-alignment-2.jpeg" alt-text="A close-up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/check-alignment.jpeg" alt-text="Close-up of a black electronic device":::
+
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/check-alignment-2.jpeg" alt-text="A close-up of a computer":::
 
 4.  Tighten down 1 screw on the left hinge until snug. Adjust to the
     right side so that the Chassis surface is flush with the Display
@@ -1225,8 +1230,6 @@ repair on a Surface device.
 6.  Repeat as necessary until the left and right gaps are even and the
     back surfaces are flush.
 
-
-
 6.  **Tighten all hinge screws -** Tighten all 7 hinge screws until they
     are snug, and then tighten an additional 90 degrees (1/4 turn) to
     ensure they are securely fastened.
@@ -1237,10 +1240,10 @@ repair on a Surface device.
 8.  **Place the Display Assembly FPC Tape –** Place the Display Assembly
     FPC Tape to the Display Assembly FPC as shown.
 
-> [!IMPORTANT]
-> Tape should be applied only to the Display Assembly FPC.
+    > [!IMPORTANT]
+    > Tape should be applied only to the Display Assembly FPC.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-tape.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-tape.png" alt-text="A close up of a device":::
 
 9.  **Install the T3 Shield Foams (as needed) –**
 
@@ -1248,14 +1251,14 @@ repair on a Surface device.
         shield fence for foams. If the foams are not present, install
         the supplied foams as shown.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-foam.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-foam.png" alt-text="A close up of a device":::
 
 2.  If the Display Assembly being installed has 4 FPCs, inspect the
     shield fence for foams. Any foams on the shield fence should be
     removed.
 
-> [!IMPORTANT]
-> New Display Assemblies will only have 2 FPCs. The remaining 2 connections on the Motherboard will remain empty. This is by design.
+    > [!IMPORTANT]
+    > New Display Assemblies will only have 2 FPCs. The remaining 2 connections on the Motherboard will remain empty. This is by design.
 
 10. **Install the Motherboard screw -** Using a 3IP (Torx-Plus) driver,
     install 1 new Motherboard screw
@@ -1271,7 +1274,7 @@ repair on a Surface device.
         All screws should be installed until just snug, and then turned
         another 45-degrees (1/8<sup>th</sup> turn) until fully fastened.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna-screws.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna-screws.png" alt-text="A close up of a computer":::
 
 2.  Connect the 2 Coax Cables to the Motherboard by aligning each with
     the socket, and pressing down until a click is felt.
@@ -1279,7 +1282,7 @@ repair on a Surface device.
 3.  Install 2 new Coax Cable Lids to the Motherboard over the Coax
     Cables. Align and press into place until a click is felt.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/install-coax-lid.jpeg" alt-text="A close-up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/install-coax-lid.jpeg" alt-text="A close-up of a device":::
 
 12. **Install the Audio Jack –** Refer to [Procedure – Installation
     (Audio Jack)](#audio-jack-replacement) section of this document for
@@ -1317,8 +1320,8 @@ repair on a Surface device.
     Follow all on-screen instructions and allow the device to restart
     when prompted.
 
-> [!IMPORTANT]
-> If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
+    > [!IMPORTANT]
+    > If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
 
 4.  **Launch SDT –** Once the device has rebooted and is at the Windows
     Desktop, use Windows Explorer to navigate to the USB drive. Select
@@ -1398,14 +1401,14 @@ repair on a Surface device.
     Spudger, flip up the latch on the Motherboard, and disconnect the
     Surface Connect connector from the Motherboard.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/disconnect-sl-connector.png" alt-text="A close up of a fan":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/disconnect-sl-connector.png" alt-text="A close up of a fan":::
 
 6.  **Remove the Surface Connect Cable -** Using a 3IP (Torx-Plus)
     driver, remove the 2 screws securing the Surface Connect port to the
     Motherboard. Lift the cable out of the device and place it on an
     ESD-Safe mat.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/remove-sl-cable.png" alt-text="A fan with a black band with medium confidence":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/remove-sl-cable.png" alt-text="A fan with a black band with medium confidence":::
 
 7.  **Remove residual adhesive -** Gently peel up the PSA
     (pressure-sensitive adhesive) under the Surface Connect Cable (on
@@ -1418,7 +1421,7 @@ repair on a Surface device.
 1.  **Install new PSA -** Place a new piece of PSA down onto the Fan as
     shown.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/fan-psa.png" alt-text="A close up of a fan":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-psa.png" alt-text="A close up of a fan":::
 
 2.  **Install the Surface Connect Cable –**
 
@@ -1432,15 +1435,13 @@ repair on a Surface device.
         surface of the chassis. The port should be fully aligned with
         the external opening.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/install-sl-cable.jpeg" alt-text="A close-up of a computer.":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/install-sl-cable.jpeg" alt-text="A close-up of a computer.":::
 
 3.  Using a 3IP (Torx-Plus) driver, install the 2 new Surface Connect
     screws until the screw is just snug and seated, and then turn each
     another 45-degrees (1/8<sup>th</sup> turn) until fully fastened.
 
 4.  Lightly press the cable into the PSA to adhere the cable to the fan.
-
-
 
 3.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -1588,13 +1589,15 @@ repair on a Surface device.
 
     1.  Using a Nylon Spudger, pry up the 2 Coax Cable Lids.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/antenna.jpeg" alt-text="A person using a stylus to fix a device":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/antenna2.jpeg" alt-text="A close-up of a computer chip":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna.jpeg" alt-text="A person using a stylus to fix a device":::
+
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/antenna2.jpeg" alt-text="A close-up of a computer chip":::
 
 2.  Using a Nylon Spudger, disconnect the 2 Coax Cables.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/coax-cable.jpeg" alt-text="A close-up of a device":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/coax-lid.jpeg" alt-text="A close-up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/coax-cable.jpeg" alt-text="A close-up of a device":::
+
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/coax-lid.jpeg" alt-text="A close-up of a device":::
 
 3.  Using a 3IP (Torx-Plus) driver, remove the 11 screws from the
     antenna.
@@ -1608,31 +1611,33 @@ repair on a Surface device.
     1.  Using a Nylon Spudger, pry up the T3 Shield Lid starting with
         the right edge.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid.jpeg" alt-text="A black tool on a black device with medium confidence":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid.jpeg" alt-text="A black tool on a black device with medium confidence":::
 
-> [!NOTE]
-> Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
+    > [!NOTE]
+    > Remove the Motherboard screw next to the T3 Shield can give better access for removal of the shield.
 
 2.  Slide the Nylon Spudger under the shield moving right to left. Pause
     and shift the shield up and down as you work your way left as the
     shield will get stuck on its latches.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-2.jpeg" alt-text="A black object on a white surface":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-2.jpeg" alt-text="A black object on a white surface":::
 
-> [!CAUTION]
-> Ensure that the shield does not damage the Display FPC’s during removal.
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
+
+    > [!CAUTION]
+    > Ensure that the shield does not damage the Display FPC’s during removal.
 
 9.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
     the connectors start giving resistance as they are being pried up,
     lightly push the edge being pried back down.
 
-> [!CAUTION]
-> Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
+    > [!CAUTION]
+    > Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
-:::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-2.jpeg" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
+
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-2.jpeg" alt-text="A close up of a device":::
 
 10. **Remove the T1 Shield –** Using a Nylon Spudger or ESD-Safe
     Tweezers, peel up the corner of the shield. Pry up the rest of the
@@ -1664,13 +1669,13 @@ repair on a Surface device.
     disengage the lock on the Fan FPC. Remove the Fan FPC from the
     connector on the Motherboard.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/fan-fpc.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-fpc.png" alt-text="A close up of a computer":::
 
 17. **Disconnect the Keyboard FPC -** Flip the latch on the Motherboard
     to disengage the lock on the Keyboard FPC. Remove the Keyboard FPC
     from the connector on the Motherboard.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/keyboard-fpc.png" alt-text="A close up of a computer circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/keyboard-fpc.png" alt-text="A close up of a computer circuit board":::
 
 18. **Disconnect the Touch FPC –**
 
@@ -1678,20 +1683,18 @@ repair on a Surface device.
         connector. Clean the surface with IPA and cleaning swabs to
         ensure all residual adhesive is removed.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/touchpad-fpc.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/touchpad-fpc.png" alt-text="A close up of a computer":::
 
 2.  Flip the latch on the Motherboard to disengage the lock on the
     Touchpad FPC. Remove the Touchpad FPC from the connector on the
     Motherboard.
-
-
 
 19. **Disconnect the Keyboard Backlight FPC -** Flip the latch on the
     Motherboard to disengage the lock on the Keyboard Backlight FPC.
     Remove the Keyboard Backlight FPC from the connector on the
     Motherboard.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/backlight-fpc.png" alt-text="A close up of a computer circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/backlight-fpc.png" alt-text="A close up of a computer circuit board":::
 
 20. **Disconnect the Left Speaker -** To remove the connector from the
     Motherboard, pull up vertically on the wires until the connector
@@ -1705,18 +1708,18 @@ repair on a Surface device.
     Driver, remove the 1 screw holding the Motherboard Steel Bracket to
     the Enclosure.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/steel-bracket.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/steel-bracket.png" alt-text="A close up of a device":::
 
 23. **Remove the Motherboard Shields–** Using ESD-Safe Tweezers,
     carefully remove the two metal shields identified below to expose
     the Motherboard screws underneath.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/mb-shields.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/mb-shields.png" alt-text="A close up of a circuit board":::
 
 24. **Remove the Motherboard Screws -** Using a 3IP (Torx-Plus) driver,
     remove the 10 screws holding the Motherboard to the Chassis.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/mb-screws.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/mb-screws.png" alt-text="A close up of a circuit board":::
 
 25. **Remove the Motherboard –** Using both hands, carefully lift the
     Motherboard out and up, taking care to avoid pulling on the thermal
@@ -1729,8 +1732,8 @@ repair on a Surface device.
 
 2.  **Install the Motherboard –**
 
-> [!IMPORTANT]
-> The Thermal Module should be installed onto the Motherboard. Take caution during installation of the Motherboard to avoid damage to the Thermal Module. Damage to the Thermal Module will require replacement of the Motherboard or device.
+    > [!IMPORTANT]
+    > The Thermal Module should be installed onto the Motherboard. Take caution during installation of the Motherboard to avoid damage to the Thermal Module. Damage to the Thermal Module will require replacement of the Motherboard or device.
 
 1.  Lower the Motherboard USB-C side first into the device chassis.
     Ensure that the USB-C connectors fit in the corresponding holes in
@@ -1747,17 +1750,17 @@ repair on a Surface device.
     until just snug. Turn each screw another 45-degrees
     (1/8<sup>th</sup> turn) until fully fastened.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/mb-screws.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/mb-screws.png" alt-text="A close up of a circuit board":::
 
 5.  Using a 3IP (Torx-Plus) driver, install 2 new Motherboard screws
     (:::image type="icon" source="./images/Laptop7/LT7Repair/media/mb-wayfinding-2.png" alt-text="A black letter with a white background":::)
     until just snug. Turn each screw another 45-degrees
     (1/8<sup>th</sup> turn) until fully fastened.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/mb-screws-2.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/mb-screws-2.png" alt-text="A close up of a circuit board":::
 
-> [!IMPORTANT]
-> Ensure that the slots next to the thermal module screws sit over the posts in the device chassis.
+    > [!IMPORTANT]
+    > Ensure that the slots next to the thermal module screws sit over the posts in the device chassis.
 
 3.  **Assemble the T1 Shield –**
 
@@ -1765,17 +1768,15 @@ repair on a Surface device.
         equivalent of 2 tick marks (marked on the side of the syringe)
         of thermal paste to the component marked below.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/t-putty.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t-putty.png" alt-text="A close up of a circuit board":::
 
 2.  Using the same syringe of thermal paste, apply the equivalent of ½
     ticket mark (marked on the side of the syringe) of thermal paste to
     the component marked below.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/t-putty-2.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/t-putty-2.png" alt-text="A close up of a circuit board":::
 
 3.  Assemble and install a new T1 Shield.
-
-
 
 4.  **Assemble the Motherboard Steel Bracket -** Using a 3IP (Torx-Plus)
     driver, install 1 new screw
@@ -1783,7 +1784,7 @@ repair on a Surface device.
     until just snug, and then turn another 45-degrees (1/8<sup>th</sup>
     turn) until fully fastened.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/steel-bracket.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/steel-bracket.png" alt-text="A close up of a device":::
 
 5.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -1813,7 +1814,7 @@ repair on a Surface device.
     2.  Apply a new Touchpad FPC Tape across the FPC and the Motherboard
         connector.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/touchpad-fpc.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/touchpad-fpc.png" alt-text="A close up of a computer":::
 
 10. **Connect the Keyboard FPC -** Ensure the latch on the Motherboard
     connector for the Keyboard FPC is in a vertical position before
@@ -1833,7 +1834,7 @@ repair on a Surface device.
 13. **Install new PSA -** Place a new piece of PSA down onto the Fan as
     shown.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/fan-psa.png" alt-text="A close up of a fan":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-psa.png" alt-text="A close up of a fan":::
 
 14. **Install the Surface Connect Cable –** Insert the connector of the
     Surface Connect Cable into the receptacle on the Motherboard and
@@ -1879,8 +1880,8 @@ repair on a Surface device.
     Follow all on-screen instructions and allow the device to restart
     when prompted.
 
-> [!IMPORTANT]
-> If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
+    > [!IMPORTANT]
+    > If the calibration fails, reboot the device, and attempt again. If the failure continues, then the Display may be faulty and require replacement.
 
 5.  **Allow the Battery to charge –** With the device connected to a
     power supply, allow the battery to charge until the battery icon in
@@ -1897,8 +1898,8 @@ repair on a Surface device.
     properly authenticated. If the battery reads anything other than
     authenticated, run the Validation tool in its entirety.
 
-> [!IMPORTANT]
-> Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
+    > [!IMPORTANT]
+    > Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
 
 8.  **Run the Surface Diagnostic Toolkit (SDT) –** Run all diagnostics
     to ensure the device is functioning as expected before moving
@@ -2059,13 +2060,13 @@ repair on a Surface device.
     screws securing the Fan to the Keyboard Assembly. Remove the Fan
     from the device.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-screws.png" alt-text="A close up of a fan":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-screws.png" alt-text="A close up of a fan":::
 
 14. **Remove the Mounting Brackets–** Using a 2IP (Torx-Plus) driver,
     remove the 2 screws holding each of the Mounting Brackets to the
     Keyboard Assembly. Remove the 2 Mounting Brackets from the device.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/mounting-bracket.png" alt-text="A black board with white text and blue and yellow tape":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/mounting-bracket.png" alt-text="A black board with white text and blue and yellow tape":::
 
 **Procedure – Installation (Keyboard Assembly)**
 
@@ -2074,13 +2075,11 @@ repair on a Surface device.
     1.  Place the 2 previously removed Mounting Brackets so that the
         yellow side is visible, and they are arranged as shown here.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/mounting-bracket.png" alt-text="A black board with white text and blue and yellow tape":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/mounting-bracket.png" alt-text="A black board with white text and blue and yellow tape":::
 
 2.  Using a 2IP (Torx-Plus) driver, install 4 new Mounting Bracket
     screws until the screws are just snug, and then turn each another
     45-degrees (1/8<sup>th</sup> turn) until fully fastened.
-
-
 
 2.  **Install the Motherboard -** Refer to the [Procedure – Installation
     (Motherboard)](#motherboard-replacement-process) section of this
@@ -2098,13 +2097,11 @@ repair on a Surface device.
         they are just snug, and then turn each another 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-screws.png" alt-text="A close up of a fan":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-screws.png" alt-text="A close up of a fan":::
 
 2.  Ensure the latch on the Motherboard connector for the Fan is in a
     vertical position before inserting the Fan FPC. Flip the latch down
     to secure the Fan FPC.
-
-
 
 5.  **Install the Left Speaker -** Refer to [Procedure – Installation
     (Left Speaker)](#left-speaker-replacement) section of this document

@@ -117,8 +117,9 @@ The following terms are used throughout this guide.
 - Locate **Microsoft.Surface.Diagnostics.App.Wpf.exe** and double-click
   to launch the Surface Diagnostic Toolkit application on your device.
 
-:::image type="content" source="./images/SWTools/media/image10.jpeg" alt-text="Screenshot of the software loading and arriving at the Welcome screen.":::
-The software will launch and after a few moments of loading will arrive at the Welcome screen.
+  :::image type="content" source="./images/SWTools/media/image10.jpeg" alt-text="Screenshot of the software loading and arriving at the Welcome screen.":::
+
+  The software will launch and after a few moments of loading will arrive at the Welcome screen.
 
 ### Navigating the Welcome screen
 
@@ -370,6 +371,7 @@ device’s capabilities.
 ## Surface Diagnostic Toolkit – Repair Workflow
 
 :::image type="content" source="./images/SWTools/media/image14.jpeg" alt-text="Illustration showing the Diagnostic workflow in the Surface Diagnostic Toolkit.":::
+
 This section will detail the Diagnostic workflow in the SDT tool. Please see <u>Navigating the
 Welcome Screen</u> for details on how to access this workflow.
 
@@ -419,13 +421,13 @@ for your device.
   battery. It then evaluates the battery device functions to ensure all
   are within defined parameters.
 
-> [!NOTE]
-> Requires a connection to the internet to successfully
-> authenticate the replacement battery with Microsoft. Additionally, the
-> Surface Management Extension also needs to be installed and up to
-> date. The latest version of the Surface Management Extension can be
-> downloaded
-> [<u>here</u>.](https://www.microsoft.com/store/apps/9NCT159F4QVG)
+  > [!NOTE]
+  > Requires a connection to the internet to successfully
+  > authenticate the replacement battery with Microsoft. Additionally, the
+  > Surface Management Extension also needs to be installed and up to
+  > date. The latest version of the Surface Management Extension can be
+  > downloaded
+  > [<u>here</u>.](https://www.microsoft.com/store/apps/9NCT159F4QVG)
 
 - **Touch Display Repair (Setup)** – o **For:** Display Replacement o
   **When:** Prior to Display replacement. o **Actions:** Follow the
@@ -545,10 +547,9 @@ included for triage purposes.</strong></p>
 :::image type="content" source="./images/SWTools/media/image16.jpeg" alt-text="Illustration showing the Surface Diagnostic Toolkit details screen.":::
 
 Select **Copy** in the lower left section of the screen and paste the
-contents into the **Surface Diagnostic Toolkit**
+contents into the **Surface Diagnostic Toolkit** **(SDT) Details** section above.
 
 :::image type="content" source="./images/SWTools/media/image17.jpeg" alt-text="Illustration showing the Surface Diagnostic Toolkit details section.":::
-**(SDT) Details** section above.
 
 ### Locating Touch/TDM Logs:
 
@@ -566,11 +567,12 @@ a display pre or post-repair, also provide the calibration logs:
 
 - Attach the ZIP archive to this email.
 
-- **Note**: The LogFiles location will only be present if a Display
-  Calibration has been attempted. If the folder does not exist or no
-  logs are present, attempt the Display Calibration again and ensure
-  Surface Diagnostic Toolkit reaches the **Results** screen before
-  exiting the program.
+  > [!NOTE]
+  > The LogFiles location will only be present if a Display
+  > Calibration has been attempted. If the folder does not exist or no
+  > logs are present, attempt the Display Calibration again and ensure
+  > Surface Diagnostic Toolkit reaches the **Results** screen before
+  > exiting the program.
 
 ### Locating SDT Logs:
 
