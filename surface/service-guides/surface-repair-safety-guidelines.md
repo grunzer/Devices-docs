@@ -14,9 +14,9 @@ appliesto:
 - Windows 11
 ---
 
-## Repair Safety Guidelines
+# Repair Safety Guidelines
 
-### General safety precautions
+## General safety precautions
 
 > [!WARNING]
 > Always follow these general safety precautions when servicing a Microsoft Surface device:
@@ -48,7 +48,7 @@ appliesto:
 
 ---
 
-### Electrostatic discharge (ESD) precautions
+## Electrostatic discharge (ESD) precautions
 
 - Follow all general and ESD-specific safety steps in this guide before starting.
 - Work on a flat, level surface covered with a soft, ESD-safe, nonmarring material.
@@ -57,7 +57,7 @@ appliesto:
 
 ---
 
-### Repair-specific precautions and warnings
+## Repair-specific precautions and warnings
 
 > [!WARNING]
 > Before opening a device, ensure it is powered off and disconnected from its power source. Disconnect the device charger or power cord from mains power.
@@ -82,7 +82,7 @@ appliesto:
 > [!IMPORTANT]
 > The serial number for your device model is located on its original cover. To keep track of the device’s serial number, please record it using waterproof ink on a sticker or label and apply the sticker or label to an easily accessible area on the device exterior. For serial number location please see the Device Information section in the service guide for your device. The serial number cannot be added permanently to a replacement part. Microsoft may have provided a label for this use in the replacement part’s packaging.
 
-#### Personal protective equipment
+### Personal protective equipment
 
 - We recommend wearing protective eyewear and gloves when disassembling/re-assembling a device. 
 - While working on devices, avoid the use of clothing accessories such as bracelets, rings, or watches that can cause electrical shorts.
@@ -93,7 +93,7 @@ Workspace
 
 ---
 
-### Battery safety
+## Battery safety
 
 If your device contains a built-in, lithium-ion rechargeable battery, exercise caution when handling or replacing the battery. Battery safety is a significant concern when repairing a device.
 
@@ -119,14 +119,14 @@ If your device contains a built-in, lithium-ion rechargeable battery, exercise c
     - Avoid exposing the device to environmental conditions and objects that could damage the battery pack.
     - Reinspect the battery pack as outlined in this Guide prior to restarting repair and installing the new battery pack.
 
-#### Battery Warning Level
+### Battery Warning Level
 
 > [!WARNING]
 > Please note that the device battery bears the following warning label. Please heed the information provided on the label.
 
 :::image type="content" source="./images/Safety/battery-warning-level.png" alt-text="Battery Warning Level":::
 
-#### Lithium-Ion Battery Inspection
+### Lithium-Ion Battery Inspection
 
 Upon device opening, we recommend that you visually inspect the battery for signs of damage. Factors to consider when inspecting the battery include, but are not limited to:
 
@@ -144,7 +144,7 @@ Upon device opening, we recommend that you visually inspect the battery for sign
 > Any battery exhibiting the signs listed above must be replaced immediately.
 ---
 
-#### Handling Used, Damaged, or Defective Lithium-Ion Batteries
+### Handling Used, Damaged, or Defective Lithium-Ion Batteries
 
 - **Do not discard lithium-ion batteries** (even undamaged ones) in household garbage or recycling bins.
 
@@ -165,7 +165,7 @@ Undamaged batteries can be taken to certified e-waste or hazardous waste collect
 
 ---
 
-#### Actions to take in a thermal event
+### Actions to take in a thermal event
 
 A thermal event is a rapid chemical reaction within a battery that can release heat, smoke, or flames.
 
@@ -181,7 +181,7 @@ If a thermal event occurs:
 
 ---
 
-#### Report battery thermal events to Microsoft
+### Report battery thermal events to Microsoft
 
 A thermal event is a rapid chemical chain reaction that can occur inside a battery cell. During a thermal event, the energy stored inside the battery is released suddenly, resulting in heating and/or smoke and, in some instances, fire or flame. A battery thermal event can be triggered by physical damage to the battery (including during replacement/repair), improper storage, or exposure to temperatures outside of the battery’s operating range.
 
@@ -193,7 +193,7 @@ Act immediately if you see any of the following symptoms of a battery thermal ev
 
 ---
 
-#### Stop repair and contact Microsoft
+### Stop repair and contact Microsoft
 
 Before and during repair of any Microsoft device, watch for the following indicators of a potential problem. If you see any of these, stop repairing. Visit the [Microsoft Product Safety](http://aka.ms/productsafety) page to report and obtain next steps:
 

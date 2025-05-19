@@ -17,7 +17,7 @@ appliesto:
 # Surface Laptop 13-in Component Disassembly and Reassembly
 
 > [!CAUTION]
-> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) guidelines in their entirety before proceeding with any repair steps.
+> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 
 ## Prerequisite Steps
 
@@ -25,12 +25,12 @@ Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
-  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#Repair-specific-precautions-and-warnings) for details.
+  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for details.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#Electro-Static-Discharge-(ESD)-precautions) for details.
+  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for details.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
@@ -600,7 +600,7 @@ within each process section.
 
 1.  Follow “Procedure – Removal (SSD)”
 
-<!-- -->
+
 
 1.  Use a 3IP Torx Plus Screwdriver to remove the 2 screws holding down
     the battery connector. Be very careful as you are near the battery.
@@ -614,7 +614,7 @@ within each process section.
 2.  With a Plastic ESD Safe Prybar, gently disconnect the battery
     connector from the PCBA.
 
-<!-- -->
+
 
 2.  With a 5IP Torx Plus Screwdriver, remove the 9 screws around the
     perimeter of the battery. Be very careful as you are near the
@@ -1100,7 +1100,7 @@ within each process section.
 
 6.  Follow “Procedure – Installation (Fan)”
 
-<!-- -->
+
 
 12. Follow “Procedure – Installation (SSD)”
 
@@ -1247,7 +1247,7 @@ within each process section.
 8.  Use plastic tweezers to line up and install the USB-A and Audio Jack
     gasket to the edge of the bracket. Be sure not to cover any screws.
 
-<!-- -->
+
 
 15. Follow “Procedure – Installation (SSD)”
 
@@ -1687,7 +1687,7 @@ alt="A person fixing a device AI-generated content may be incorrect." />
     alcohol (70% IPA) and cleaning swabs to clean any adhesive remaining
     on the top display cable.
 
-<!-- -->
+
 
 8.  Apply the new tape underneath the top display cable and firmly press
     the tape down for 30
@@ -1695,7 +1695,7 @@ alt="A person fixing a device AI-generated content may be incorrect." />
     style="width:4.78241in;height:3.16204in"
     alt="A close up of a cable AI-generated content may be incorrect." />
 
-<!-- -->
+
 
 24. Follow “Procedure – Installation (Thermal Module)”
 
@@ -1812,7 +1812,7 @@ style="width:4.78056in;height:3.28056in" />
 
 18. Follow “Procedure – Installation (Feet)”
 
-# Environmental Compliance Requirements
+## Environmental Compliance Requirements
 
 All waste electrical and electronic equipment (WEEE), waste electronic
 components, waste batteries, and electronic waste residuals must be

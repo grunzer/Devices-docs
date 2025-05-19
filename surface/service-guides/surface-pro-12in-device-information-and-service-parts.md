@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-# Surface Pro 12-in Service Guide
+# Surface Pro 12-in Device Information and Service Parts
 
 ## Device Identity Information
 

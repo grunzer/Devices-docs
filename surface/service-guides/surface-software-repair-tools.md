@@ -14,12 +14,12 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Software Tools – Diagnostics, Calibration, Troubleshooting, and Support
+# Surface Software Tools – Diagnostics, Calibration, Troubleshooting, and Support
 
 
-### Glossary of Terms
+## Glossary of Terms
 
-> The following terms are used throughout this guide.
+The following terms are used throughout this guide.
 
 - **SDT** – Surface Diagnostic Toolkit
 
@@ -39,7 +39,7 @@ appliesto:
 - **Zip Archive –** A single file that contains one or more compressed
   files or directories.
 
-### Software Tools & References
+## Software Tools & References
 
 - How
   To[:](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
@@ -62,7 +62,7 @@ appliesto:
   Recovery](https://support.microsoft.com/en-us/surfacerecoveryimage)
   Images</u>
 
-### Required Tools
+## Required Tools
 
 - USB 3.0 Flash Drive – 16GB for SDT
 
@@ -74,7 +74,7 @@ appliesto:
 
 - Surface Power Supply
 
-### Service Diagnostics/Troubleshooting Overview
+## Service Diagnostics/Troubleshooting Overview
 
 - For general Surface support, visit
   [www.support.microsoft.com](http://www.support.microsoft.com/)
@@ -90,11 +90,11 @@ appliesto:
   to the online user guide at
   [aka.ms/Windows-Accessibility](http://www.aka.ms/Windows-Accessibility)
 
-### Prerequisite Steps – Software
+## Prerequisite Steps – Software
 
-> Prior to running SDT for Diagnostic or Repair purposes, please ensure
-> the following tasks are completed to ensure the best possible chance
-> of a successful run and accurate diagnostics.
+ Prior to running SDT for Diagnostic or Repair purposes, please ensure
+ the following tasks are completed to ensure the best possible chance
+ of a successful run and accurate diagnostics.
 
 - Ensure the device is updated to the latest OS/FW versions available
   using [<u>Windows
@@ -104,12 +104,12 @@ appliesto:
   If it is unable to do so, please reimage the device using the Surface
   Recovery Image for your model.
 
-### Surface Diagnostic Toolkit – Navigation
+## Surface Diagnostic Toolkit – Navigation
 
-> This section will take you through the Surface Diagnostic Toolkit in
-> detail.
+ This section will take you through the Surface Diagnostic Toolkit in
+ detail.
 
-#### Launching the Surface Diagnostic Toolkit
+### Launching the Surface Diagnostic Toolkit
 
 - Insert the USB 3.0 Flash Drive loaded with the [<u>Surface Diagnostic
   Toolkit</u>](https://download.microsoft.com/download/9/3/5/93501ba4-9f8f-430b-97ca-9d603f42a0b7/Surface%20Diagnostic%20Toolkit%20-%20Repair%20Build%20for%20Consumer%20and%20Commercial%20x64.zip)
@@ -121,13 +121,13 @@ appliesto:
 :::image type="content" source="./images/SWTools/media/image10.jpeg" alt-text="Screenshot of the software loading and arriving at the Welcome screen.":::
 The software will launch and after a few moments of loading will arrive at the Welcome screen.
 
-#### Navigating the Welcome screen
+### Navigating the Welcome screen
 
 - In the upper left corner, selecting the hamburger (menu will bring out
   the Menu sidebar detailing additional sections of the Surface
   Diagnostic Toolkit outside of the Diagnostic and Repair workflows.
 
-<!-- -->
+
 
 - **About** – provides the user with the software information for SDT
   including build version, current language, modality, and location of
@@ -151,12 +151,12 @@ The software will launch and after a few moments of loading will arrive at the W
 - **Settings** – Allows the user to change the display language for the
   SDT software to another supported language.
 
-<!-- -->
+
 
 - On the right side of the screen, there is a drop-down menu that allows
   you to choose between the diagnostic workflow and the repair workflow.
 
-<!-- -->
+
 
 - The **Diagnostic** workflow allows you to perform a series of
   diagnostic tests to determine the functionality of the devices core
@@ -169,22 +169,23 @@ The software will launch and after a few moments of loading will arrive at the W
   This is done to allow for accuracy in tracking the frequency of how
   users utilize our software.
 
-<!-- -->
+
 
 - Select an option from the drop-down menu and select **Continue** to
   continue to the workflow selection screen.
 
-#### The Results Screen
+### The Results Screen
 
-> The results screen is the end screen that appears once you have
-> completed the **<u>Diagnostic</u>** or **<u>Repair</u>** workflows.
-> This screen displays the outputs of any completed diagnostic test or
-> repair script.
->
-> **Key Tip:** You can use the **Save Results** icon from the <u>Side
+The results screen is the end screen that appears once you have
+completed the **<u>Diagnostic</u>** or **<u>Repair</u>** workflows.
+This screen displays the outputs of any completed diagnostic test or
+repair script.
+
+> [!TIP]
+> You can use the **Save Results** icon from the <u>Side
 > Bar</u> on the left to save an output of all results in an easyto-read
 > format.
->
+
 :::image type="content" source="./images/SWTools/media/image13.jpeg" alt-text="Screenshot of the Surface Diagnostic Toolkit showing the Diagnostic workflow home screen.":::
 
 - The color above the **Details** box denotes the result of the test.
@@ -194,12 +195,12 @@ The software will launch and after a few moments of loading will arrive at the W
   - **Green:** Tests passed. o **Yellow:** Additional details available
     – test failures, additional information, next steps.
 
-### Surface Diagnostic Toolkit – Diagnostic Workflow
+## Surface Diagnostic Toolkit – Diagnostic Workflow
 
-> This section will detail the Diagnostic workflow in the SDT tool.
-> Please see <u>Navigating the Welcome Screen</u> for details on how to
-> access this workflow.
->
+This section will detail the Diagnostic workflow in the SDT tool.
+Please see <u>Navigating the Welcome Screen</u> for details on how to
+access this workflow.
+
 :::image type="content" source="./images/SWTools/media/image14.jpeg" alt-text="Illustration showing the Diagnostic workflow in the Surface Diagnostic Toolkit.":::
 
 - Select **Diagnostic** in the drop-down menu on the welcome screen and
@@ -217,14 +218,15 @@ The software will launch and after a few moments of loading will arrive at the W
       where they can select from the suite of tests to run a customized
       list. Useful for targeted testing of specific components.
 
-### Diagnostic Workflow – Test Overview
+## Diagnostic Workflow – Test Overview
 
-> This section will provide details for each of the tests in the SDT
-> diagnostic suite. Please note that not every test will be present for
-> every model of Microsoft Surface as the test suite is tailored to the
-> device’s capabilities.
->
-> **Note:** it is critical to follow the instructions for each test as
+This section will provide details for each of the tests in the SDT
+diagnostic suite. Please note that not every test will be present for
+every model of Microsoft Surface as the test suite is tailored to the
+device’s capabilities.
+
+> [!NOTE]
+> It is critical to follow the instructions for each test as
 > detailed on the screen to ensure the most accurate result.
 
 - **Battery & Charging** (User Interaction Required) – o **Action:**
@@ -293,14 +295,16 @@ The software will launch and after a few moments of loading will arrive at the W
 - **Keyboard** (User Interaction Required) – o **Action:** Press each
   key on the keyboard until all keys have been pressed.
 
-> **Note:** it is critical that the correct keyboard language is
-> selected for your device’s keyboard to ensure an accurate test.
+  > [!NOTE]
+  > It is critical that the correct keyboard language is
+  > selected for your device’s keyboard to ensure an accurate test.
 
 - **What to look for:** keys that do not register on-screen when
   pressed.
 
-> **Note:** The Fn key must be toggled on to ensure all key presses are
-> recorded.
+  > [!NOTE]
+  > The Fn key must be toggled on to ensure all key presses are
+  > recorded.
 
 - **Touchpad Double-Click** (User Interaction Required) – o **Action:**
   Using the touchpad, double- click the icon on the screen.
@@ -364,11 +368,11 @@ The software will launch and after a few moments of loading will arrive at the W
   test will automatically pass or fail dependent on several storage
   statistics with the on-board storage.
 
-### Surface Diagnostic Toolkit – Repair Workflow
+## Surface Diagnostic Toolkit – Repair Workflow
 
-> :::image type="content" source="./images/SWTools/media/image14.jpeg" alt-text="Illustration showing the Diagnostic workflow in the Surface Diagnostic Toolkit.":::
-> This section will detail the Diagnostic workflow in the SDT tool. Please see <u>Navigating the
-> Welcome Screen</u> for details on how to access this workflow.
+:::image type="content" source="./images/SWTools/media/image14.jpeg" alt-text="Illustration showing the Diagnostic workflow in the Surface Diagnostic Toolkit.":::
+This section will detail the Diagnostic workflow in the SDT tool. Please see <u>Navigating the
+Welcome Screen</u> for details on how to access this workflow.
 
 - Select **Repair** in the drop-down menu on the welcome screen and
   select **Continue** to be brought to the Repair workflow home screen.
@@ -384,14 +388,15 @@ The software will launch and after a few moments of loading will arrive at the W
       list. This is where the **Repair** setup and validation scripts
       are located.
 
-### Repair Workflow – Script Overview
+## Repair Workflow – Script Overview
 
-> This section will provide details for each of the repair scripts in
-> the SDT diagnostic suite. Please note that each script is only
-> required for specific repairs and is called out in the Service Guide
-> for your device.
->
-> **Note:** it is critical to follow the instructions for each script as
+This section will provide details for each of the repair scripts in
+the SDT diagnostic suite. Please note that each script is only
+required for specific repairs and is called out in the Service Guide
+for your device.
+
+> [!NOTE]
+> It is critical to follow the instructions for each script as
 > detailed on the screen to ensure a successful result.
 
 - **Battery Repair (Setup)**- o **For:** Battery replacement o **When:**
@@ -404,18 +409,19 @@ The software will launch and after a few moments of loading will arrive at the W
 - **Battery Repair (Validation)** - o **For:** Battery Replacement,
   PCBA/Motherboard replacement o
 
-> **When:** First power-on after replacement of a battery OR
-> PCBA/Motherboard.
+  **When:** First power-on after replacement of a battery OR
+  PCBA/Motherboard.
 
 - **Actions:** Follow the on-screen instructions to authenticate and
   evaluate the installed battery. o
 
-> **What does it do:** this script checks with Microsoft to ensure the
-> battery installed is an authentic Microsoft replacement Surface
-> battery. It then evaluates the battery device functions to ensure all
-> are within defined parameters.
->
-> **Note:** Requires a connection to the internet to successfully
+  **What does it do:** this script checks with Microsoft to ensure the
+  battery installed is an authentic Microsoft replacement Surface
+  battery. It then evaluates the battery device functions to ensure all
+  are within defined parameters.
+
+> [!NOTE]
+> Requires a connection to the internet to successfully
 > authenticate the replacement battery with Microsoft. Additionally, the
 > Surface Management Extension also needs to be installed and up to
 > date. The latest version of the Surface Management Extension can be
@@ -428,21 +434,22 @@ The software will launch and after a few moments of loading will arrive at the W
   prompted. o **What does it do:** it gathers calibration data from the
   original display and prepares the device to receive a new display.
 
-> **Note:** Not needed if you are re-using the same display. Only for
-> replacement of a defective or damaged display with a replacement
-> display.
+  > [!NOTE]
+  > Not needed if you are re-using the same display. Only for
+  > replacement of a defective or damaged display with a replacement
+  > display.
 
 - **Touch Display Repair (Calibration)** – o **For:** Display
   Replacement, PCBA/Motherboard replacement o **When:** first power-on
   after replacement of the display OR
 
-> PCBA/Motherboard. o **Actions:** Follow the on-screen instructions to
-> perform a calibration of the new display.
+  PCBA/Motherboard. o **Actions:** Follow the on-screen instructions to
+  perform a calibration of the new display.
 
 - **What does it do:** it applies a calibration dataset to the new
   display to ensure optimal operation.
 
-<!-- -->
+
 
 - **Touch Display Repair (Validation)** – o **For:** Display Replacement
   o **When:** After calibration of the new display.
@@ -452,23 +459,24 @@ The software will launch and after a few moments of loading will arrive at the W
     does it do:** it performs a series of targeted diagnostic tests to
     ensure the new display is functioning to specification.
 
-### Reporting Issues and Log Locations
+## Reporting Issues and Log Locations
 
-> In instances where you encounter an issue with the Surface Diagnostic
-> Toolkit, Microsoft may request log files to determine the root cause
-> of the problem.
->
-> **Important:** If you encounter a bug while running SDT, please
+In instances where you encounter an issue with the Surface Diagnostic
+Toolkit, Microsoft may request log files to determine the root cause
+of the problem.
+
+> [!IMPORTANT]
+> If you encounter a bug while running SDT, please
 > complete the test completely until you reach the test summary page or
 > the main page of the application. This will provide the most complete
 > log files for review.
 
-#### Reporting a software error with SDT
+### Reporting a software error with SDT
 
-> If an error is encountered while running the Surface Diagnostic
-> Toolkit (SDT) on a device in for repair, the following information
-> must be gathered and included with the escalation to ensure proper
-> support.
+If an error is encountered while running the Surface Diagnostic
+Toolkit (SDT) on a device in for repair, the following information
+must be gathered and included with the escalation to ensure proper
+support.
 
 <table>
 <colgroup>
@@ -478,59 +486,59 @@ The software will launch and after a few moments of loading will arrive at the W
 <thead>
 <tr>
 <th><strong>ASP Company:</strong></th>
-<th><blockquote>
-<p><em>Insert Company Name</em></p>
-</blockquote></th>
+<th>
+<p>Insert Company Name</p>
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Site:</strong></td>
-<td><blockquote>
-<p><em>Insert Partner Work /Store location</em></p>
-</blockquote></td>
+<td>
+<p>Insert Partner Work /Store location</p>
+</td>
 </tr>
 <tr>
 <td><strong>Surface Device Models:</strong></td>
-<td><blockquote>
+<td>
 <p>Insert the Model of Surface device impacted</p>
-</blockquote></td>
+</td>
 </tr>
 <tr>
 <td><strong>Number of Impacted Devices:</strong></td>
-<td><blockquote>
+<td>
 <p>Insert the number of impacted devices experiencing the issue</p>
-</blockquote></td>
+</td>
 </tr>
 <tr>
 <td><p><strong>Surface Diagnostic Toolkit (SDT) Details:</strong></p>
 <p>See the instructions below this table</p></td>
-<td><blockquote>
-<p><em>Insert Surface Diagnostic Toolkit details found in the About
-section here. Instructions are located below.</em></p>
-</blockquote></td>
+<td>
+<p>Insert Surface Diagnostic Toolkit details found in the About
+section here. Instructions are located below.</p>
+</td>
 </tr>
 <tr>
 <td><strong>Issue Description:</strong></td>
-<td><blockquote>
-<p><em>Provide a quick summary of your issue and any steps to recreate
-it.</em></p>
-</blockquote></td>
+<td>
+<p>Provide a quick summary of your issue and any steps to recreate
+it.</p>
+</td>
 </tr>
 <tr>
 <td><p><strong>Logs Attached:</strong></p>
 <p>See the instructions below this table</p></td>
-<td><blockquote>
+<td>
 <p><strong>Attach logs to this email in a ZIP format.</strong></p>
 <p><strong>Additional logs are required for issues related to Display
 Calibration. All Logs pertinent to your experienced issue must be
 included for triage purposes.</strong></p>
-</blockquote></td>
+</td>
 </tr>
 </tbody>
 </table>
 
-#### Retrieving Surface Diagnostic Toolkit Details
+### Retrieving Surface Diagnostic Toolkit Details
 
 - Launch the Surface Diagnostic Toolkit (SDT) on a device.
 
@@ -546,10 +554,10 @@ contents into the **Surface Diagnostic Toolkit**
 :::image type="content" source="./images/SWTools/media/image17.jpeg" alt-text="Illustration showing the Surface Diagnostic Toolkit details section.":::
 **(SDT) Details** section above.
 
-#### Locating Touch/TDM Logs:
+### Locating Touch/TDM Logs:
 
-> If you are experiencing an error in SDT related to the calibration of
-> a display pre or post-repair, also provide the calibration logs:
+If you are experiencing an error in SDT related to the calibration of
+a display pre or post-repair, also provide the calibration logs:
 
 - Navigate to the folder directory where the Surface Diagnostic Toolkit
   executable (Microsoft.Surface.Diagnostics.App.Wpf.exe) is located.
@@ -568,7 +576,7 @@ contents into the **Surface Diagnostic Toolkit**
   Surface Diagnostic Toolkit reaches the **Results** screen before
   exiting the program.
 
-#### Locating SDT Logs:
+### Locating SDT Logs:
 
 - General SDT logs are located at the folder location identified in the
   **About** section in SDT in the Log Location entry of the About

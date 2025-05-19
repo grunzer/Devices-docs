@@ -14,12 +14,12 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Service Guide Center
+# Surface Service Guide Center
 
 Follow the link in the table below to access the repair guide for your Surface device. Each guide includes detailed instructions for disassembly, reassembly, and repair procedures.
 
 > [!CAUTION]
-> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) guidelines in their entirety before proceeding with any repair actions for your device.
+> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair actions for your device.
 
 | **Product Category** | **Product Name** |
 |:--:|:--:|
@@ -53,4 +53,3 @@ Follow the link in the table below to access the repair guide for your Surface d
 |  |  |
 | *Desktop* |  |
 |  | [Surface Studio 2+](https://www.microsoft.com/en-us/download/details.aspx?id=100440&msockid=3356787f36696b570c686c1c37e16a08) |
-|  |  |

@@ -270,8 +270,7 @@ repair on a Surface device.
 
 7.  **Image the device –** Reinstall the operating system and all
     drivers/firmware by using a USB-drive containing the latest Surface
-    BMR for your model. Please see [the Software Tools – Diagnostic,
-    Calibration, and Troubleshooting](#_Software_Tools_–) section for
+    BMR for your model. Please see the [Surface Software Tools – Diagnostics, Calibration, Troubleshooting, and Support](surface-software-repair-tools.md#surface-software-tools--diagnostics-calibration-troubleshooting-and-support) section for
     links to instructions on how to get the latest image and install it.
 
 8.  **Run the Surface Diagnostic Toolkit (SDT) –** With Windows
@@ -1124,7 +1123,7 @@ repair on a Surface device.
 
 4)  Lift the Antenna out of the Chassis.
 
-<!-- -->
+
 
 7.  **Remove the T3 Shield Lid –**
 
@@ -1225,7 +1224,7 @@ repair on a Surface device.
 6.  Repeat as necessary until the left and right gaps are even and the
     back surfaces are flush.
 
-<!-- -->
+
 
 6.  **Tighten all hinge screws -** Tighten all 7 hinge screws until they
     are snug, and then tighten an additional 90 degrees (1/4 turn) to
@@ -1328,8 +1327,7 @@ repair on a Surface device.
     to ensure the device is functioning as expected before moving
     forward.
 
-6.  **Install Feet –** Refer to [Procedure – Installation
-    (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
+6.  **Install Feet –** Refer to [Feet Replacement](#feet-replacement) for steps to install Feet.
 
 ## Surface Connect Replacement
 
@@ -1441,7 +1439,7 @@ repair on a Surface device.
 
 4.  Lightly press the cable into the PSA to adhere the cable to the fan.
 
-<!-- -->
+
 
 3.  **Install the Removable Solid-State Drive –** Refer to [Procedure –
     Installation (Removable Solid-State
@@ -1602,7 +1600,7 @@ repair on a Surface device.
 
 4.  Lift the Antenna out of the Chassis.
 
-<!-- -->
+
 
 8.  **Remove the T3 Shield Lid –**
 
@@ -1685,7 +1683,7 @@ repair on a Surface device.
     Touchpad FPC. Remove the Touchpad FPC from the connector on the
     Motherboard.
 
-<!-- -->
+
 
 19. **Disconnect the Keyboard Backlight FPC -** Flip the latch on the
     Motherboard to disengage the lock on the Keyboard Backlight FPC.
@@ -1776,7 +1774,7 @@ repair on a Surface device.
 
 3.  Assemble and install a new T1 Shield.
 
-<!-- -->
+
 
 4.  **Assemble the Motherboard Steel Bracket -** Using a 3IP (Torx-Plus)
     driver, install 1 new screw
@@ -1905,8 +1903,7 @@ repair on a Surface device.
     to ensure the device is functioning as expected before moving
     forward.
 
-9.  **Install Feet –** Refer to [Procedure – Installation
-    (Feet)](#_Feet_Replacement_Process) for steps to install Feet.
+9.  **Install Feet –** Refer to [Feet Replacement](#feet-replacement) for steps to install Feet.
 
 ## Keyboard Replacement Process
 
@@ -2082,7 +2079,7 @@ repair on a Surface device.
     screws until the screws are just snug, and then turn each another
     45-degrees (1/8<sup>th</sup> turn) until fully fastened.
 
-<!-- -->
+
 
 2.  **Install the Motherboard -** Refer to the [Procedure – Installation
     (Motherboard)](#motherboard-replacement-process) section of this
@@ -2106,7 +2103,7 @@ repair on a Surface device.
     vertical position before inserting the Fan FPC. Flip the latch down
     to secure the Fan FPC.
 
-<!-- -->
+
 
 5.  **Install the Left Speaker -** Refer to [Procedure – Installation
     (Left Speaker)](#left-speaker-replacement) section of this document

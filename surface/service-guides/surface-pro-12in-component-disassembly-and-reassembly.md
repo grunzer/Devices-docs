@@ -14,10 +14,10 @@ appliesto:
 - Windows 11
 ---
 
-# Surface Pro 12-in Service Guide
+# Surface Pro 12-in Component Disassembly and Reassembly
 
 > [!CAUTION]
-> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) guidelines in their entirety before proceeding with any repair steps.
+> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 > [!IMPORTANT]
 > During repair of the Surface Pro 12-inch, screws used to secure components in the device can be reused and are not provided in the FRU replacement kits. To obtain replacement screws, you will have to purchase the screw kit. Refer to the [Service Parts List](surface-pro-12in-device-information-and-service-parts.md#illustrated-service-parts-list) for the screw kit SKU and [Screw Map](surface-pro-12in-device-information-and-service-parts.md#surface-pro-12-inch-fru-screw-map) for screw type and tracking information.
 
@@ -27,12 +27,12 @@ Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
-  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#Repair-specific-precautions-and-warnings) for details.
+  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for details.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#Electro-Static-Discharge-(ESD)-precautions) for details.
+  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for details.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
@@ -78,7 +78,7 @@ repair on a Surface device.
     clear of any abrasive material that may scratch the Touch Display
     Module (TDM) glass.
 
-<!-- -->
+
 
 1.  **Extend the kickstand to approximately 120-degrees.**
 
@@ -303,7 +303,7 @@ Required Tools
     before proceeding forward.
 
 5.  **Power Off Device** – Ensure the device is powered off by fully
-    discharging the battery. Refer to the [Repair-Specific-Precautions-and-Warnings](surface-repair-safety-guidelines.md#_Repair-Specific-Precautions-and-warnings) section of the safety guidelines page. The device
+    discharging the battery. Refer to the [Repair-Specific-Precautions-and-Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) section of the safety guidelines page. The device
     should be disconnected from a power supply and all cables and drives
     are removed.
 
@@ -538,7 +538,7 @@ alt="A finger holding a black strip." />
     was disassembled from the Motherboard. Follow the steps below to
     install the Display FPC.
 
-<!-- -->
+
 
 1.  **Connect Display FPC to the Motherboard** – Align the Display FPC
     connector to the receptacle on the Motherboard using the gold-marked
@@ -565,7 +565,7 @@ alt="A finger holding a black strip." />
     FPC, and conductive tape 1. Refer to [Procedure Installation Thermal Module](#procedure-installation-%28thermal-module%29) for
     detailed instructions.
 
-<!-- -->
+
 
 4.  **Reconnect the Battery FPC to the Motherboard** – Follow the steps
     below to connect the battery connector to the Motherboard.
@@ -832,7 +832,7 @@ Required Tools
     proceeding forward.
 
 5.  **Power Off Device** – Ensure the device is powered off by fully
-    discharging the battery. Refer to the [Repair-Specific-Precautions-and-Warnings](surface-repair-safety-guidelines.md#_Repair-Specific-Precautions-and-warnings) section of the safety guidelines page. The device
+    discharging the battery. Refer to the [Repair-Specific-Precautions-and-Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) section of the safety guidelines page. The device
     should be disconnected from a power supply and all cables and drives
     are removed.
 
@@ -932,7 +932,7 @@ Required Tools
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image54.png" alt-text="A close-up of a black sticker.":::
 
-<!-- -->
+
 
 6.  **Install** **the Display Module** – Re-assemble the battery
     connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
@@ -1188,7 +1188,7 @@ Required Tools
 7.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
-<!-- -->
+
 
 1.  **Re-assemble Microphone rubber** – Inspect the underside of the
     microphone deck to check that the 2 microphone rubbers are assembled
@@ -1444,7 +1444,7 @@ Required Tools
 5.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
-<!-- -->
+
 
 1.  **Re-assemble Microphone rubber** – Inspect the underside of the
     microphone deck to check that the 2 microphone rubbers are assembled
@@ -1718,7 +1718,7 @@ Required Tools
 5.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
-<!-- -->
+
 
 1.  **Re-assemble Microphone rubber** – Inspect the underside of the
     microphone deck to check that the 2 microphone rubbers are assembled
@@ -2473,12 +2473,12 @@ Required Tools
     the flat end of a nylon spudger, press the Front Camera and IR
     Camera FPCs into the connector on the Motherboard.
 
-<!-- -->
+
 
 7.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
-<!-- -->
+
 
 1.  **Re-assemble Microphone rubber** – Inspect the underside of the
     microphone deck to check that the 2 microphone rubbers are assembled
@@ -3014,7 +3014,7 @@ Required Tools
 8.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
-<!-- -->
+
 
 1.  **Re-assemble Microphone rubber** – Inspect the underside of the
     microphone deck to check that the 2 microphone rubbers are assembled
