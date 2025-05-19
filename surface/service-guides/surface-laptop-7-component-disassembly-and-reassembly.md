@@ -63,12 +63,12 @@ repair on a Surface device.
 1.  **Place Device –** Carefully place the closed device Display side
     down with the Feet facing up on a soft ESD-Safe Mat.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/d-cover.jpeg" alt-text="The back of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/d-cover.jpeg" alt-text="The back of a computer":::
 
 2.  **Remove the Feet –** Using the Nylon Spudger, carefully pry up all
     four feet to expose the screws.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/feet-removal.png" alt-text="A drawing of a person cutting a piece of paper":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/feet-removal.png" alt-text="A drawing of a person cutting a piece of paper":::
 
 **Procedure – Installation (Feet)**
 
@@ -76,7 +76,7 @@ repair on a Surface device.
     hole pattern on the Enclosure. Press firmly until the foot clicks
     into place. Repeat for the other 3 feet.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/install-feet.jpeg" alt-text="A close up of a hole in a metal surface":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/install-feet.jpeg" alt-text="A close up of a hole in a metal surface":::
 
 ## Enclosure Replacement
 
@@ -121,7 +121,7 @@ repair on a Surface device.
 3.  **Remove the Enclosure screws –** Using a 5IP (Torx-Plus) driver,
     uninstall each of the 4 screws from under the feet.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/d-cover.jpeg" alt-text="The back of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/d-cover.jpeg" alt-text="The back of a computer":::
 
 4.  **Separate the Enclosure from the Device –** Carefully insert the
     tip of a Plastic Opening Pick into the space between the Enclosure
@@ -130,9 +130,10 @@ repair on a Surface device.
     hands, carefully lift the Enclosure off the device and place it on a
     soft ESD-Safe mat.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/remove-d-cover.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/remove-d-cover.png" alt-text="A close up of a computer":::
 
-**Caution: Do Not** lift the Enclosure from the black plastic antenna.
+    > [!CAUTION]
+    > **Do Not** lift the Enclosure from the black plastic antenna.
 
 **Procedure – Installation (Enclosure)**
 
@@ -141,7 +142,7 @@ repair on a Surface device.
     for any loose articles that may be present. Of specific importance
     are the magnets (identified below).
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/inspect-device.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/inspect-device.png" alt-text="A close up of a computer":::
 
 2.  **Install the Enclosure -** Using both hands, carefully lower the
     top or bottom edge of the Enclosure onto the device ensuring you
@@ -151,7 +152,7 @@ repair on a Surface device.
     and none of the sides are catching when you press the Enclosure down
     flat.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/install-d-cover.jpeg" alt-text="Close-up of a silver computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/install-d-cover.jpeg" alt-text="Close-up of a silver computer":::
 
 3.  **Fasten the Enclosure -** Using a 5IP (Torx-Plus) driver, install
     the 4 screws into the foot wells on the Enclosure. Each screw should
@@ -159,8 +160,8 @@ repair on a Surface device.
     (1/8<sup>th</sup> turn) to fully fasten. Adjust the position of the
     Enclosure as you go to ensure even gaps around the perimeter.
 
-> [!CAUTION]
-> Ensure that the Enclosure is not stuck on a ledge as you are installing the screws. Shift the Enclosure as needed to avoid this condition.
+    > [!CAUTION]
+    > Ensure that the Enclosure is not stuck on a ledge as you are installing the screws. Shift the Enclosure as needed to avoid this condition.
 
 4.  **Install the Feet –** Refer to the [Procedure – Installation
     (Feet)](#feet-replacement) section of this document for detailed
@@ -224,7 +225,7 @@ repair on a Surface device.
     holding the Removable Solid-State Drive onto the Motherboard. Lift
     the drive out of the device and place it on a soft ESD-Safe mat.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/ssd-screw.png" alt-text="A close up of a computer chip":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/ssd-screw.png" alt-text="A close up of a computer chip":::
 
 **Procedure – Installation (Removable Solid-State Drive)**
 
@@ -233,10 +234,10 @@ repair on a Surface device.
     on the motherboard while keeping the Removable Solid-State Drive as
     close as possible to horizontal.
 
-> [!CAUTION]
-> Ensure that the Speaker wire does not get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
+    > [!CAUTION]
+    > Ensure that the Speaker wire does not get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/insert-ssd.jpeg" alt-text="A close up of a computer chip":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/insert-ssd.jpeg" alt-text="A close up of a computer chip":::
 
 2.  **Install Removable Solid-State Drive screw –** Using a 5IP
     (Torx-Plus) driver, install the 1 new rSSD screw
@@ -244,13 +245,13 @@ repair on a Surface device.
     until the screw is just snug. Then turn the screw an additional
     45-degrees (1/8<sup>th</sup> turn) until screw is fully fastened.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/install-ssd-screw.png" alt-text="A close-up of a screwdriver":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/install-ssd-screw.png" alt-text="A close-up of a screwdriver":::
 
 3.  **Install Black Tape on Motherboard Receptacle –** Carefully place a
     new tape on the receptacle, making sure the cutout on the tape
     matches the shape of the raised flange on the receptacle.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/insert-black-tape.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/insert-black-tape.png" alt-text="A close up of a circuit board":::
 
 4.  **Install Spacer –** Place a new spacer on top of the Black Tape,
     parallel and as close as possible to the silver flange on the
@@ -258,7 +259,7 @@ repair on a Surface device.
     oriented towards the display hinge and that the spacer is centered
     lengthwise with the silver flange.
 
-> :::image type="content" source="./images/Laptop7/LT7Repair/media/install-spacer.png" alt-text="A close up of a circuit board":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/install-spacer.png" alt-text="A close up of a circuit board":::
 
 5.  **Install Enclosure -** Refer to the [Procedure – Installation
     (Enclosure)](#enclosure-replacement) section of this document for
@@ -388,27 +389,27 @@ repair on a Surface device.
     to the motherboard. Lift the metal bracket out of the device to
     expose the Battery FPC.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/bty-bracket-screws.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/bty-bracket-screws.png" alt-text="A close up of a device":::
 
 6.  **Disconnect the Battery FPC -** Using a Nylon Spudger, pry the
     Battery FPC connector, starting from the side of the connector, from
     the Motherboard.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/battery-fpc.jpeg" alt-text="A hand holding a black plastic device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/battery-fpc.jpeg" alt-text="A hand holding a black plastic device":::
 
 7.  **Remove the Battery Screws -** Using a 5IP (Torx-Plus) driver,
     remove the 8 screws
     (:::image type="icon" source="./images/Laptop7/LT7Repair/media/battery-wayfinding-2.png" alt-text="A black and white logo":::)
     securing the Battery.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/battery-screws.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/battery-screws.png" alt-text="A close up of a computer":::
 
 8.  **Remove the battery from the device -** Using your hands, grab the
     battery at the four points identified below and carefully lift the
     battery out of the device. Place the battery on a clean ESD-Safe Mat
     free of any debris.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/remove-battery.png" alt-text="A close up of a computer":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/remove-battery.png" alt-text="A close up of a computer":::
 
 > [!WARNING]
 > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
@@ -442,14 +443,14 @@ repair on a Surface device.
     4.  Loose screws should never be stored on the magnetic areas of the
         bucket.
 
-> [!IMPORTANT]
-> Verify the battery’s condition. Batteries exhibiting any damage indicated in the Lithium-Ion Battery Inspection section must be replaced.
+    > [!IMPORTANT]
+    > Verify the battery’s condition. Batteries exhibiting any damage indicated in the Lithium-Ion Battery Inspection section must be replaced.
 
 2.  **Insert the Battery -** Using the attached loops, carefully lower
     the battery into the new device.
 
-> [!IMPORTANT]
-> Only handle new batteries with the plastic loops that come attached. If reusing a battery, handle by the frame as indicated in the battery removal instructions. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
+    > [!IMPORTANT]
+    > Only handle new batteries with the plastic loops that come attached. If reusing a battery, handle by the frame as indicated in the battery removal instructions. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
 
 3.  **Install the Battery screws -** Using a 5IP screwdriver, install
     the 8 battery frame screws
@@ -457,8 +458,8 @@ repair on a Surface device.
     until the screws are just snug, then tighten each by an additional
     45-degrees (1/8<sup>th</sup> turn).
 
-> [!IMPORTANT]
-> Do not overtighten the screws on the battery frame or battery. If the frame is cracked, the battery must not be used.
+    > [!IMPORTANT]
+    > Do not overtighten the screws on the battery frame or battery. If the frame is cracked, the battery must not be used.
 
 4.  **Assemble the Battery FPC and FPC Bracket -** Assemble the Battery
     FPC to the Motherboard. Using a 3IP (Torx-Plus) driver, install 2
@@ -497,8 +498,8 @@ repair on a Surface device.
     Repair (Validation)** tool and follow the on-screen prompts until a
     successful authentication is completed.
 
-> [!IMPORTANT]
-> Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
+    > [!IMPORTANT]
+    > Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
 
 6.  **Run the Surface Diagnostic Toolkit (SDT) –** Run all diagnostics
     to ensure the device is functioning as expected before moving
@@ -580,14 +581,14 @@ repair on a Surface device.
     Bridge to the interior. Lift the Audio Jack Bridge out of the
     device.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/remove-aj-bridge.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/remove-aj-bridge.png" alt-text="A close up of a device":::
 
 6.  **Remove the Audio Jack –**
 
     1.  Using a 3IP (Torx-Plus) screwdriver, remove the 1 screw securing
         the Audio Jack to the Motherboard.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/remove-aj.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/remove-aj.png" alt-text="A close up of a device":::
 
 2.  Using a Nylon Spudger, flip the latch on the Motherboard to
     disengage the lock on the Audio Jack FPC. Remove the Audio Jack FPC
@@ -715,7 +716,7 @@ repair on a Surface device.
     to remove the 2 screws securing the Right Speaker (which is on the
     left side when working on the device) to the Chassis.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/r-speaker-screws.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/r-speaker-screws.png" alt-text="A close up of a device":::
 
 7.  **Remove the Right Speaker –** Remove the Right Speaker from the
     Chassis and de-route the cable. To remove the connector from the
@@ -729,17 +730,17 @@ repair on a Surface device.
     screws should be installed until just snug, and then turned another
     45-degress (1/8<sup>th</sup> turn) until fully fastened.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/r-speaker-screws.png" alt-text="A close up of a device":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/r-speaker-screws.png" alt-text="A close up of a device":::
 
 2.  **Route and connect the Right Speaker wire –** Route the Right
     Speaker wire as shown below. Install the speaker connector into the
     receptacle on the Motherboard by pressing vertically until a snap is
     felt.
 
-> [!NOTE]
-> The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+    > [!NOTE]
+    > The connector will have 2 visible gold contacts if it is oriented in the correct direction.
 
-:::image type="content" source="./images/Laptop7/LT7Repair/media/spk-connector.png" alt-text="A close up of a fan":::
+    :::image type="content" source="./images/Laptop7/LT7Repair/media/spk-connector.png" alt-text="A close up of a fan":::
 
 3.  **Place new Speaker Tape -** Place a new Tape over the speaker wire
     as shown below.

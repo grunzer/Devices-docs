@@ -30,10 +30,8 @@ closest to the display hinge point.
 
 ![A computer parts diagram showing the parts of a computer](./images/Laptop7/LT7_device_ID/image16.png)
 
-**IMPORTANT:** Repair workflows may require multiple parts to be ordered
-to complete the repair successfully. Please check the primary and
-additional components section in each repair workflow to ensure you have
-all required parts before beginning your repair.
+> [!IMPORTANT]
+> Repair workflows may require multiple parts to be ordered to complete the repair successfully. Please check the primary and additional components section in each repair workflow to ensure you have all required parts before beginning your repair.
 
 | **Item** | **Component** | **SKU Part No.** |
 |:--:|----|----|

@@ -142,7 +142,6 @@ Upon device opening, we recommend that you visually inspect the battery for sign
 
 > [!WARNING]
 > Any battery exhibiting the signs listed above must be replaced immediately.
----
 
 ### Handling Used, Damaged, or Defective Lithium-Ion Batteries
 
