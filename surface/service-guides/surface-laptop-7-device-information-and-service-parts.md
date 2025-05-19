@@ -19,7 +19,7 @@ appliesto:
 ### Device Identity Information
 
 Support Link –
-[Link](https://support.microsoft.com/en-us/hub/4295675/surface-laptop-help)
+[Link](https://support.microsoft.com/hub/4295675/surface-laptop-help)
 
 The model and serial number for Surface Laptops is on the bottom center
 closest to the display hinge point.
@@ -203,7 +203,7 @@ all required parts before beginning your repair.
 
 - Genuine Microsoft replacement parts can be obtained directly from
   Microsoft on
-  [Microsoft.com](https://www.microsoft.com/en-us/store/b/surface-repair-parts).
+  [Microsoft.com](https://www.microsoft.com/store/b/surface-repair-parts).
 
 - Genuine Microsoft replacement parts are also available on the partner
   sites below:

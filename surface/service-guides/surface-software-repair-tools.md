@@ -42,24 +42,24 @@ The following terms are used throughout this guide.
 ## Software Tools & References
 
 - How
-  To[:](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
+  To[:](https://www.microsoft.com/download/details.aspx?id=100440)
   [<u>Surface Service
-  Guides</u>](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
+  Guides</u>](https://www.microsoft.com/download/details.aspx?id=100440)
 
 - How To: [<u>Update Surface device firmware and
-  OS</u>](https://support.microsoft.com/en-us/help/4023505)
+  OS</u>](https://support.microsoft.com/help/4023505)
 
 - Download: [<u>Surface drivers and
-  firmware</u>](https://support.microsoft.com/en-us/help/4023482)
+  firmware</u>](https://support.microsoft.com/help/4023482)
 
 - Download: [<u>Surface Diagnostic Toolkit
-  (SDT)</u>](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
+  (SDT)</u>](https://www.microsoft.com/download/details.aspx?id=100440)
 
 - Download: [<u>Surface Data
-  Eraser</u>](https://msdn.microsoft.com/en-us/library/mt605308.aspx)
+  Eraser</u>](https://msdn.microsoft.com/library/mt605308.aspx)
 
 - Download: <u>[Surface
-  Recovery](https://support.microsoft.com/en-us/surfacerecoveryimage)
+  Recovery](https://support.microsoft.com/surfacerecoveryimage)
   Images</u>
 
 ## Required Tools
@@ -98,7 +98,7 @@ The following terms are used throughout this guide.
 
 - Ensure the device is updated to the latest OS/FW versions available
   using [<u>Windows
-  Update.</u>](https://support.microsoft.com/en-us/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
+  Update.</u>](https://support.microsoft.com/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
 
 - The device **must** be capable of booting into a Windows user account.
   If it is unable to do so, please reimage the device using the Surface
@@ -566,7 +566,7 @@ a display pre or post-repair, also provide the calibration logs:
 
 - Copy the contents of the LogFiles folder and create a ZIP archive.
   Instructions for creating a ZIP archive can be found
-  [<u>here</u>.](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
+  [<u>here</u>.](https://support.microsoft.com/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
 
 - Attach the ZIP archive to this email.
 
@@ -588,4 +588,4 @@ a display pre or post-repair, also provide the calibration logs:
 
 - Once copied, create a ZIP archive of the folders and all content.
   Instructions for creating a ZIP archive can be found
-  [<u>here</u>.](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
+  [<u>here</u>.](https://support.microsoft.com/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)

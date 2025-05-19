@@ -108,7 +108,8 @@ repair on a Surface device.
     threaded bosses have not slipped back into the recess on the hinges.
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image6.png" alt-text="A person holding a white box.":::
 
-> [!WARNING] Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
+> [!WARNING] 
+>Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
@@ -469,8 +470,7 @@ Required Tools
 
     1.  **Remove Thermal Module** – Remove the conductive tape 1, T1
         Shield Lid, NFC FPC module, 7 screws
-        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-         />) and the Thermal
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) and the Thermal
         Module. Refer to [Procedure Removal Thermal Module](#procedure-removal-thermal-module) for detailed
         instructions.
 
@@ -506,9 +506,12 @@ Required Tools
 
 ### Procedure Installation Display
 
-> [!IMPORTANT] Verify the battery’s condition prior to beginning the installation of the display. Devices exhibiting battery issues as outlined in the [Lithium-Ion Battery Inspection](surface-repair-safety-guidelines.md#Lithium-Ion-Battery-Inspection) section of the safety guidelines require whole device replacement.
+> [!IMPORTANT] 
+> Verify the battery’s condition prior to beginning the installation of the display. Devices exhibiting battery issues as outlined in the [Lithium-Ion Battery Inspection](surface-repair-safety-guidelines.md#lithium-ion-battery-inspection) section of the safety guidelines require whole device replacement.
+
 > [!IMPORTANT]
 > Leave the protective cling on the new display during all installation steps to prevent damage to the display panel.
+
 > [!IMPORTANT]
 > Carefully inspect all internal areas of the enclosure for any loose foreign objects prior to installing the display.
 
@@ -558,10 +561,8 @@ Required Tools
 3.  **Install Thermal Module** – Re-apply a new TIM Pad and install the
     Thermal Module, 7 screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
-    FPC, and conductive tape 1. Refer to [Procedure Installation Thermal Module](#procedure-installation-%28thermal-module%29) for
+    FPC, and conductive tape 1. Refer to [Procedure Installation Thermal Module](#procedure-installation-thermal-module) for
     detailed instructions.
-
-
 
 4.  **Reconnect the Battery FPC to the Motherboard** – Follow the steps
     below to connect the battery connector to the Motherboard.
@@ -572,8 +573,7 @@ Required Tools
 
     2.  Assemble the battery connector bracket and fasten it into the
         enclosure using the 2 bracket screws
-        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-         />) and a 3IP
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and a 3IP
         screwdriver.
 
     3.  Install the Conductive tape 2 according to the orientation shown
@@ -796,12 +796,10 @@ Required Tools
 - Screw Kit (Refer to Illustrated Service Parts List)
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
-    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-     /> – M1334202/203-001
+    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png" /> – M1334202/203-001
 
   - M1.6 \* L2.3 3IP (Battery Frame Screws)
-    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"
-     /> – M1341578/79-001
+    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png" /> – M1341578/79-001
 
 ### Procedure Preparation Battery
 
@@ -859,18 +857,21 @@ Required Tools
 
 > [!NOTE]
 > If the Display FPC is still connected to the motherboard and rests on the battery, the battery will be removed by gently lifting it up from the screw bosses and towards the bottom side of the device. Ensure that the Display FPC connection is not bent at a 90⁰ angle.
+
 > [!WARNING]
 > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
+
 > [!IMPORTANT]
-> Place the battery somewhere where the battery cannot
-> accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
+> Place the battery somewhere where the battery cannot accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
+
 > [!IMPORTANT]
 > When disposing of the battery, ensure you are recycling according to local laws.
 
-> [!IMPORTANT] The Motherboard and Battery are very sensitive to ESD
+> [!IMPORTANT] 
+> The Motherboard and Battery are very sensitive to ESD
 > and can be easily damaged. It is critical that you ensure proper
 > grounding before performing any work on these parts.
->
+
 > [!WARNING]
 > In the instance of a battery event, submerge the entire device in a 1-gallon Enclosure filled with .5 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
 

@@ -97,7 +97,7 @@ Workspace
 
 If your device contains a built-in, lithium-ion rechargeable battery, exercise caution when handling or replacing the battery. Battery safety is a significant concern when repairing a device.
 
-- For optimum compatibility, performance, and product safety, we recommend using genuine Microsoft replacement parts available on [microsoft.com](https://www.microsoft.com/en-us/store/b/surface-repair-parts) or authorized partners like [iFixit](https://www.ifixit.com). Use of non-Microsoft (non-genuine), incompatible, reused, or modified batteries; improper battery installation; improper handling or storage of batteries; and/or failure to follow the instructions in this Guide could cause battery overheating, expansion, venting, leaking, or a thermal event which could result in fire, serious personal injury, death, data loss, or damage to the device or other property damage.
+- For optimum compatibility, performance, and product safety, we recommend using genuine Microsoft replacement parts available on [microsoft.com](https://www.microsoft.com/store/b/surface-repair-parts) or authorized partners like [iFixit](https://www.ifixit.com). Use of non-Microsoft (non-genuine), incompatible, reused, or modified batteries; improper battery installation; improper handling or storage of batteries; and/or failure to follow the instructions in this Guide could cause battery overheating, expansion, venting, leaking, or a thermal event which could result in fire, serious personal injury, death, data loss, or damage to the device or other property damage.
 - Before beginning device repair, ensure your workspace is free of flammable debris or materials, has adequate ventilation, and that you have a fire suppressant device (example: fire blanket, container of sand, Class B fire extinguisher) within easy reach or you are within 20 feet of a fireproof enclosure. Fireproof enclosures should be kept free of combustible or flammable materials
 
 > [!WARNING]
@@ -161,7 +161,7 @@ Prior to transport:
 > [!TIP]  
 > Learn more from the [PHMSA Lithium Battery Recycling Safety Advisory](https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/2022-05/Final-5-16-Lithium-Battery-Recycling-Safety-Advisory.pdf).
 
-Undamaged batteries can be taken to certified e-waste or hazardous waste collection sites. For more info, see [Microsoft recycling resources](https://www.microsoft.com/en-us/legal/compliance/recycling).
+Undamaged batteries can be taken to certified e-waste or hazardous waste collection sites. For more info, see [Microsoft recycling resources](https://www.microsoft.com/legal/compliance/recycling).
 
 ---
 

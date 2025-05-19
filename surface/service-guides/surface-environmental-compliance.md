@@ -20,7 +20,7 @@ All waste electrical and electronic equipment (WEEE), waste electronic
 components, waste batteries, and electronic waste residuals must be
 managed according to applicable laws and regulations. Microsoft offers
 recycling programs for Microsoft-branded products, including components and batteries.
-You can find your nearest recycling program [here](https://www.microsoft.com/en-us/legal/compliance/recycling).
+You can find your nearest recycling program [here](https://www.microsoft.com/legal/compliance/recycling).
 
 If you are a Microsoft supplier that performs services that generate WEEE
 (including waste components and batteries) or provides end-of-life management
