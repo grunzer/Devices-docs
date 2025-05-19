@@ -70,7 +70,7 @@ Up to 14 hours of battery life based on web browsing test on Surface Laptop 15".
 18. Recycled content calculation based on IEEE Std 1680.1-2018. IEEE Standard for Environmental and Social Responsibility Assessment of Computers and Displays. 4.7.3.1 Required—Recycled content in wood-based fiber packaging.
 19. Based on FSC certification.
 20. Computers that have earned the ENERGY STAR label are third-party certified to be energy efficient and use 25% - 40% less than conventional models by using the most efficient components and better managing energy use when idle.
-21. Please refer to the EPEAT registry for current ratings. Ratings can vary by country, may change over time, and products are eventually archived. 
+21. Please refer to the EPEAT registry for current ratings. Ratings can vary by country/region, may change over time, and products are eventually archived. 
 22. Replacement components available through Surface Commercial authorized device resellers. Components can be replaced on-site by a skilled technician following [Microsoft’s Service Guide](https://www.microsoft.com/download/details.aspx?id=100440). Microsoft tools (sold separately) may also be required. Availability of replacement components and service options may vary by product, market, and over time. See [Surface service options](../surface-service-options.md). 
 
 > [!CAUTION]

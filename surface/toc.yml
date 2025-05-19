@@ -1,95 +1,102 @@
-
 - name: Surface
   href: index.yml
   expanded: true
-  items: 
+  items:
     - name: Surface devices documentation
       href: get-started.yml
     - name: Overview
       expanded: true
-      items: 
+      items:
       - name: Tech specs
         items:
-         - name: Surface Pro 11th Edition (Intel)
-           href: tech-specs/surface-pro-intel-tech-specs.md
-         - name: Surface Laptop 7th Edition (Intel)
-           href: tech-specs/surface-laptop-intel-tech-specs.md
-         - name: Surface Pro 11th Edition (Snapdragon)
-           href: tech-specs/surface-pro-snapdragon-tech-specs.md 
-         - name: Surface Laptop 7th Edition (Snapdragon)
-           href: tech-specs/surface-laptop-snapdragon-tech-specs.md  
+          - name: Surface Pro, Copilot+ PC
+            items:
+              - name: Surface Pro for Business, 12-inch
+                href: tech-specs/surface-pro-copilot-plus-pc-12inch-tech-specs.md
+              - name: Surface Pro 11th Edition (Intel)
+                href: tech-specs/surface-pro-intel-tech-specs.md
+              - name: Surface Pro 11th Edition (Snapdragon)
+                href: tech-specs/surface-pro-snapdragon-tech-specs.md
+          - name: Surface Laptop, Copilot+ PC
+            items:
+              - name: Surface Laptop for Business, 13-inch
+                href: tech-specs/surface-laptop-copilot-plus-pc-13inch-tech-specs.md
+              - name: Surface Laptop 7th Edition (Intel)
+                href: tech-specs/surface-laptop-intel-tech-specs.md
+              - name: Surface Laptop 7th Edition (Snapdragon)
+                href: tech-specs/surface-laptop-snapdragon-tech-specs.md
       - name: Tech overviews
         items:
          - name: NFC support in Surface Pro
            href: surface-pro-nfc.md
          - name: Surface Laptop Smart Card Reader overview
-           href: surface-laptop-smart-card-reader.md 
-         - name: Set up Surface devices for SDR & HDR display measurements  
+           href: surface-laptop-smart-card-reader.md
+         - name: Set up Surface devices for SDR & HDR display measurements
            href: configure-sdr-and-hdr-display.md
          - name: Azure Virtual Desktop on Surface
-           href: windows-virtual-desktop-surface.md	
+           href: windows-virtual-desktop-surface.md
          - name: Downgrade to Windows 10
            href: surface-os-choice.md
          - name: Surface security overview
-           href: surface-security.md    		   
+           href: surface-security.md
       - name: Accessories
         items:
          - name: Surface power supplies & charging requirements
-           href: https://support.microsoft.com/surface/surface-power-supplies-and-charging-requirements-0d9d51d4-594b-464d-9086-c90f35b80c01  
+           href: https://support.microsoft.com/surface/surface-power-supplies-and-charging-requirements-0d9d51d4-594b-464d-9086-c90f35b80c01
          - name: Surface USB4 Dock overview
-           href: surface-usb4-dock.md   
+           href: surface-usb4-dock.md
          - name: Surface Thunderbolt 4 Dock overview
-           href: surface-thunderbolt4-dock.md  
+           href: surface-thunderbolt4-dock.md
          - name: Surface Dock 2 overview
            href: surface-dock2-overview.md
          - name: Surface Pro Flex Keyboard overview
            href: surface-pro-flex-keyboard.md
          - name: Surface Headphones 2+ overview
-           href: surface-headphones.md    
+           href: surface-headphones.md
          - name: Surface Slim Pen haptics
-           href: surface-slim-pen2-haptics-dev-notes.md           
+           href: surface-slim-pen2-haptics-dev-notes.md
       - name: Surface professional graphics
-        items: 
+        items:
          - name: Surface Laptop Studio graphics overview
            href: surface-laptop-studio-graphics.md
          - name: Surface Laptop Studio 2 ISV-tested/certified apps
-           href: surface-laptop-studio2-isv-certification.md                  
+           href: surface-laptop-studio2-isv-certification.md
          - name: Surface Laptop Studio ISV-tested/certified apps
-           href: surface-laptop-studio-isv-certification.md      
+           href: surface-laptop-studio-isv-certification.md
          - name: Surface Book 3 overview
            href: surface-book-GPU-overview.md
          - name: Surface Book 3 Quadro RTX 3000 overview
-           href: surface-book-quadro.md      
+           href: surface-book-quadro.md
       - name: Order Surface devices
-        items:      
+        items:
         - name: Find an authorized reseller
           href: https://www.microsoft.com/surface/business/where-to-buy-microsoft-surface
-        - name: Surface Pro for Business, Copilot+ PC Intel 
-          href: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc-intel/8qfmn9xp1rl9  
+        - name: Surface Pro for Business, Copilot+ PC Intel
+          href: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc-intel/8qfmn9xp1rl9
         - name: Surface Pro for Business, Copilot+ PC Snapdragon
-          href: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc/8nl1w61jw8zm       
+          href: https://www.microsoft.com/d/surface-pro-for-business-copilot-pc/8nl1w61jw8zm
         - name: Surface Pro 10 for Business
-          href: https://www.microsoft.com/d/surface-pro-10-for-business/8v73d6qwrss1 
+          href: https://www.microsoft.com/d/surface-pro-10-for-business/8v73d6qwrss1
         - name: Surface Laptop for Business, Copilot+ PC Intel
           href: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-intel/93dzmw6q4w2b
         - name: Surface Laptop for Business, Copilot+ PC Snapdragon
-          href: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-snapdragon/8tkcbz02bdvk        
+          href: https://www.microsoft.com/d/surface-laptop-for-business-copilot-pc-snapdragon/8tkcbz02bdvk
         - name: Surface Laptop 6 for Business
-          href: https://www.microsoft.com/d/surface-laptop-6-for-business/8pz3fvs57qcv        
+          href: https://www.microsoft.com/d/surface-laptop-6-for-business/8pz3fvs57qcv
         - name: Surface Laptop Studio 2 for Business
-          href: https://www.microsoft.com/surface/business/surface-laptop-studio-2   
+          href: https://www.microsoft.com/surface/business/surface-laptop-studio-2
         - name: Surface Laptop Go 3 for Business
-          href: https://www.microsoft.com/surface/business/surface-laptop-go-3     
-        - name: Surface Go 4 for Business   
-          href: https://www.microsoft.com/surface/business/surface-go-4         
+          href: https://www.microsoft.com/surface/business/surface-laptop-go-3
+        - name: Surface Go 4 for Business
+          href: https://www.microsoft.com/surface/business/surface-go-4
         - name: Surface Studio 2+ for Business
-          href: https://www.microsoft.com/surface/business/surface-studio-2-plus                     
+          href: https://www.microsoft.com/surface/business/surface-studio-2-plus
     - name: Plan
-      items: 
+      items:
         - name: Surface devices driver & firmware lifecycle
           href: surface-driver-firmware-lifecycle-support.md
         - name: Surface accessories driver & firmware lifecycle
-          href: surface-accessories-driver-firmware-lifecycle-support.md         
+          href: surface-accessories-driver-firmware-lifecycle-support.md
         - name: Surface device compatibility with Windows LTSC
           href: surface-device-compatibility-with-windows-ltsc.md
         - name: Ethernet adapters & Surface deployment
@@ -98,7 +105,7 @@
           href: surface-system-sku-reference.md
     - name: Deploy & manage
       expanded: true
-      items: 
+      items:
       - name: Surface portals overview
         href: surface-portals.md
         expanded: true
@@ -108,18 +115,18 @@
         - name: Surface Support Portal overview
           href: surface-support-portal.md
         - name: Assign admin roles for Surface portals
-          href: surface-portal-admin-roles.md  
+          href: surface-portal-admin-roles.md
       - name: Surface tools
         expanded: true
-        items:   
+        items:
         - name: Surface IT Toolkit
           href: surface-it-toolkit.md
           expanded: true
           items:
           - name: Recovery Tool
-            href: surface-it-toolkit-usb-recover.md  
+            href: surface-it-toolkit-usb-recover.md
           - name: Data Eraser
-            href: surface-it-toolkit-data-eraser.md  
+            href: surface-it-toolkit-data-eraser.md
           - name: UEFI Configurator
             expanded: true
             items:
@@ -131,10 +138,10 @@
               href: surface-it-toolkit-uefi-config.md
             - name: Configure Surface Docks
               href: secure-surface-dock-ports-semm.md
-            - name: Configure Surface devices with PowerShell 
+            - name: Configure Surface devices with PowerShell
               href: surface-it-toolkit-powershell-surface.md
-            - name: Unenroll devices from SEMM  
-              href: unenroll-surface-devices-from-semm.md    
+            - name: Unenroll devices from SEMM
+              href: unenroll-surface-devices-from-semm.md
           - name: Tool Library
             href: surface-it-toolkit-library.md
             expanded: true
@@ -146,20 +153,20 @@
             - name: Diagnostics App console
               href: surface-diagnostic-toolkit-command-line.md
             - name: Surface Brightness Control
-              href: microsoft-surface-brightness-control.md 
+              href: microsoft-surface-brightness-control.md
         - name: Surface Diagnostic Toolkit for Business
           href: surface-diagnostic-toolkit-business.md
           items:
           - name: Use Surface Diagnostic Toolkit for Business in desktop mode
             href: surface-diagnostic-toolkit-desktop-mode.md
         - name: Archived tools
-          items: 
+          items:
           - name: Surface Data Eraser (legacy)
             href: microsoft-surface-data-eraser.md
         - name: Surface Dock 1 Firmware Update
-          href: surface-dock-firmware-update.md 
+          href: surface-dock-firmware-update.md
       - name: Windows Autopilot
-        items:      
+        items:
         - name: Windows Autopilot & Surface devices
           href: windows-autopilot-and-surface-devices.md
         - name: Surface Registration Support for Windows Autopilot
@@ -169,7 +176,7 @@
         - name: Surface System SKU reference
           href: surface-system-sku-reference.md
       - name: Automate deployment
-        items: 
+        items:
         - name: Surface Deployment Accelerator
           href: microsoft-surface-deployment-accelerator.md
         - name: Prepare Surface deployment with MDT
@@ -177,15 +184,15 @@
         - name: Enable keyboards during Windows deployment
           href: enable-surface-keyboard-for-windows-pe-deployment.md
         - name: Customize the OOBE for Surface deployments
-          href: customize-the-oobe-for-surface-deployments.md          
-        - name: Deploy Surface app in enterprise environments 
+          href: customize-the-oobe-for-surface-deployments.md
+        - name: Deploy Surface app in enterprise environments
           href: deploy-surface-app.md
       - name : Manage updates
         items:
         - name: Surface supported operating systems
           href: surface-supported-operating-systems.md
         - name: Manage & deploy Surface driver & firmware updates
-          href: manage-surface-driver-and-firmware-updates.md     
+          href: manage-surface-driver-and-firmware-updates.md
         - name: Surface driver & firmware lifecycle for Windows-based devices
           href: surface-driver-firmware-lifecycle-support.md
         - name: Manage Surface driver updates in Configuration Manager
@@ -197,7 +204,7 @@
         - name: Manage DFCI on Surface devices
           href: surface-manage-dfci-guide.md
         - name: Advanced UEFI security features for Surface Pro 3
-          href: advanced-uefi-security-features-for-surface-pro-3.md 
+          href: advanced-uefi-security-features-for-surface-pro-3.md
       - name: Surface Dock
         items:
          - name: Surface USB4 Dock overview
@@ -205,25 +212,25 @@
          - name: Surface Thunderbolt 4 Dock overview
            href: surface-thunderbolt4-dock.md
          - name: Manage USB ports on Surface devices
-           href: manage-usb-ports-on-surface.md    
+           href: manage-usb-ports-on-surface.md
          - name: Manage Surface Docks with WMI
-           href: surface-dock2-wmi.md  
+           href: surface-dock2-wmi.md
          - name: Wake-on-LAN with Surface Thunderbolt 4 Dock
            href: wake-on-lan-surface-thunderbolt4-dock.md
          - name: Wake-on-LAN with Surface Dock 2
            href: wake-on-lan-surface-dock2.md
          - name: Surface Dock 2 overview
-           href: surface-dock2-overview.md          
+           href: surface-dock2-overview.md
       - name: Remotely wake devices
-        items: 
+        items:
         - name: Wake-on-LAN for Surface devices
           href: wake-on-lan-for-surface-devices.md
         - name: Wake-on-LAN with Surface Dock 2
           href: wake-on-lan-surface-dock2.md
         - name: Wake-on-Power for Surface devices
-          href: wake-on-power-for-surface.md  
+          href: wake-on-power-for-surface.md
       - name: Best practices
-        items:  
+        items:
         - name: Tested peripherals for Surface devices
           href: surface-tested-peripherals.md
         - name: NFC support in Surface Go for Business
@@ -231,24 +238,24 @@
         - name: NFC support in Surface Pro for Business
           href: surface-pro-nfc.md
         - name: Optimize video conferencing on Surface devices
-          href: optimize-video-conferencing-on-surface.md   
+          href: optimize-video-conferencing-on-surface.md
         - name: Optimize Wi-Fi connectivity on Surface devices
-          href: surface-wireless-connect.md 
+          href: surface-wireless-connect.md
         - name: Surface DMA Protection
-          href: dma-protect.md   
+          href: dma-protect.md
         - name: Considerations for Configuration Manager
           href: considerations-for-surface-and-system-center-configuration-manager.md
         - name: Streamline asset management with SN QR codes
           href: surface-sn-qr-codes-for-asset-management.md
       - name: Arm devices
-        items:          
+        items:
         - name: Deploy, manage, & service Arm-based Surface devices
           href: surface-pro-arm-app-management.md
         - name: Arm-based Surface devices FAQ
           href: surface-arm-faq.md
     - name: Troubleshoot commercial devices
       expanded: true
-      items: 
+      items:
         - name: Get help via Surface portals
           href: surface-portals.md
         - name: Browse top support solutions
@@ -258,23 +265,23 @@
         - name: Contact Surface Support for Business & Education
           href: contact-surface-business-education-support.md
         - name: Surface hardware environmental test results
-          href: surface-hardware-environmental-test-results.md 
-    - name: Commercial warranty & protection 
+          href: surface-hardware-environmental-test-results.md
+    - name: Commercial warranty & protection
       expanded: true
-      items:   
+      items:
         - name: Surface for Business warranty & protection plans
           href: https://www.microsoft.com/surface/business/warranty-protection-plans-and-support
         - name: Warranty & protection plan terms & conditions
           href: https://support.microsoft.com/help/4493926/warranties-extended-service-plans-and-terms-conditions-for-your-device
         - name: Manage your Surface warranty & service requests
-          href: surface-portals.md 
+          href: surface-portals.md
         - name: Check device warranty status
-          href: https://mybusinessservice.surface.com         
+          href: https://mybusinessservice.surface.com
         - name: Out of warranty repair & cost
-          href: https://support.microsoft.com/topic/how-much-does-out-of-warranty-service-cost-for-your-surface-device-or-accessory-4c77ac8a-e8c3-d0e4-7e8a-a29f768d43ff         
+          href: https://support.microsoft.com/topic/how-much-does-out-of-warranty-service-cost-for-your-surface-device-or-accessory-4c77ac8a-e8c3-d0e4-7e8a-a29f768d43ff
     - name: Commercial service & repair
       expanded: true
-      items:        
+      items:
        - name: Surface for Business service & repair
          href: surface-service-and-repair.md
        - name: Service & repair options
