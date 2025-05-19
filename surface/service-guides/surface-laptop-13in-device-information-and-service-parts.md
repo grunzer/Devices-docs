@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Laptop 13-in Service Guide
+# Surface Laptop 13-in Service Guide
 
 ### Device Identity Information
 

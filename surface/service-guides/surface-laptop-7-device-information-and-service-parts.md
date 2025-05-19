@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Laptop 7<sup>th</sup> Edition
+# Surface Laptop 7<sup>th</sup> Edition
 
 ### Device Identity Information
 

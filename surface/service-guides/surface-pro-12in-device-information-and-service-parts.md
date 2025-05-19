@@ -14,9 +14,9 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Pro 12-in Service Guide
+# Surface Pro 12-in Service Guide
 
-### Device Identity Information
+## Device Identity Information
 
 Supported Models
 
@@ -27,7 +27,7 @@ the kickstand.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12ID/media/image1.png" alt-text="A person holding a phone AI-generated content may be incorrect.":::
 
-### Illustrated Service Parts List
+## Illustrated Service Parts List
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12ID/media/image2.png" alt-text="A diagram of a computer AI-generated content may be incorrect.":::
 
@@ -38,7 +38,7 @@ to complete the repair successfully. Please check the primary and
 additional components section in each repair workflow to ensure you have
 all required parts before beginning your repair.
 
-### Surface Pro 12-inch Part List
+## Surface Pro 12-inch Part List
 
 | **Item** | **Component** | **SKU Part No.** |
 |:--:|----|:--:|

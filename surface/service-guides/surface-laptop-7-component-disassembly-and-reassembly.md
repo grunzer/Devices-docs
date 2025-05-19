@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Laptop 7<sup>th</sup> Edition
+# Surface Laptop 7<sup>th</sup> Edition
 
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
 >
