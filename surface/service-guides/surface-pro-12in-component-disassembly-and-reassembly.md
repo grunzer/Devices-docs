@@ -437,11 +437,10 @@ Required Tools
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image28.png" alt-text="A close up of a device.":::
 > <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image29.png"
-> style="width:3.0692in;height:1.96071in" />
+>  />
 
 2.  Remove the 2 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) securing the battery
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) securing the battery
     connector bracket using a 3IP screwdriver and remove the bracket.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image30.png" alt-text="A screwdriver on a device.":::
@@ -457,9 +456,8 @@ Required Tools
     to disconnect the FPC connector by inserting the flat end of a
     plastic spudger.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image32.png" alt-text="A person removing a piece of paper.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image33.png"
-style="width:2.64585in;height:2.56726in"
-alt="A finger holding a black strip." />
+:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image32.png" alt-text="A person removing a piece of paper.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image33.png" alt="A finger holding a black strip." />
 
 > [!IMPORTANT]
 > Do not pull on the Display FPC to disconnect the display.
@@ -472,7 +470,7 @@ alt="A finger holding a black strip." />
     1.  **Remove Thermal Module** – Remove the conductive tape 1, T1
         Shield Lid, NFC FPC module, 7 screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-        style="width:0.52778in;height:0.10417in" />) and the Thermal
+         />) and the Thermal
         Module. Refer to [Procedure Removal Thermal Module](#procedure-removal-thermal-module) for detailed
         instructions.
 
@@ -530,9 +528,8 @@ alt="A finger holding a black strip." />
     damaged, remove them using a plastic tweezer, and replace them with
     the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 3.  **Install the Display FPC to the Motherboard** – If the Display FPC
     was disassembled from the Motherboard. Follow the steps below to
@@ -560,8 +557,7 @@ alt="A finger holding a black strip." />
 
 3.  **Install Thermal Module** – Re-apply a new TIM Pad and install the
     Thermal Module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />), T1 Shield Lid, NFC
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
     FPC, and conductive tape 1. Refer to [Procedure Installation Thermal Module](#procedure-installation-%28thermal-module%29) for
     detailed instructions.
 
@@ -577,7 +573,7 @@ alt="A finger holding a black strip." />
     2.  Assemble the battery connector bracket and fasten it into the
         enclosure using the 2 bracket screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-        style="width:0.52083in;height:0.10417in" />) and a 3IP
+         />) and a 3IP
         screwdriver.
 
     3.  Install the Conductive tape 2 according to the orientation shown
@@ -654,7 +650,7 @@ alt="A finger holding a black strip." />
     minutes to ensure PSA activation.
 
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image48.png"
-    style="width:6.0612in;height:2.79342in" />
+     />
 
 > [!IMPORTANT]
 > It is critical that the exact requirements are met (both weight, layout, and material) to ensure proper Display adhesion to the Enclosure.
@@ -801,11 +797,11 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.6 \* L2.3 3IP (Battery Frame Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"
-    style="width:0.52083in;height:0.10417in" /> – M1341578/79-001
+     /> – M1341578/79-001
 
 ### Procedure Preparation Battery
 
@@ -841,14 +837,12 @@ Required Tools
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove the Battery Screws** – Remove the 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"
-    style="width:0.52083in;height:0.10417in" />) from the Battery frame
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"/>) from the Battery frame
     using a 3IP (Torx-Plus) driver in the order shown below.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image52.png" alt-text="A close up of a device.":::
@@ -909,8 +903,7 @@ Required Tools
 
 3.  **Install the Battery screws –** Using a 3IP (Torx-plus) driver,
     install the 7 Battery frame screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"
-    style="width:0.52083in;height:0.10417in" />) and then tighten each
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"/>) and then tighten each
     by an additional 1/8<sup>th</sup> turn (45⁰).
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image52.png" alt-text="A close up of a device.":::
@@ -935,8 +928,7 @@ Required Tools
 
 
 6.  **Install** **the Display Module** – Re-assemble the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -1072,28 +1064,26 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" /> – M1369668-001
+     /> – M1369668-001
 
   - M1.2 x L2.1 3IP (Microphone Board Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" /> – M1341576/77-001
+     /> – M1341576/77-001
 
 ### Procedure Removal Microphone
 
 1.  **Remove Display Module –** De-bond the Display using the Surface
     Debonding Tool. Remove the TDM shield lid and disconnect the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove the Microphone Deck** – Using a 3IP screwdriver, remove the
-    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) securing the deck to
+    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) securing the deck to
     the enclosure in the order shown below. Carefully lift out the deck
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
@@ -1101,8 +1091,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 3.  **Remove the Left Microphone Board** – Using a 3IP screwdriver,
-    remove the screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />) securing the left
+    remove the screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>) securing the left
     microphone board to the enclosure. With the plastic opening tool or
     nylon spudger, gently lift on the edge of the board and disconnect
     it from the Motherboard.
@@ -1116,8 +1105,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image59.png" alt-text="A close up of a device.":::
 
 5.  **Remove the Right Microphone Board** – Using a 3IP screwdriver,
-    remove the screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />) securing the right
+    remove the screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>) securing the right
     microphone board to the enclosure. With the plastic opening tool or
     nylon spudger, gently lift on the edge of the board and disconnect
     it from the Motherboard.
@@ -1151,8 +1139,7 @@ Required Tools
     Motherboard as reference for the bottom of the board. Gently press
     on the board to connect it to the main Motherboard. Using a 3IP
     screwdriver, fasten the right microphone board screw
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />). Remove the blue
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
     release paper to expose the PSA.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image63.jpeg" alt-text="A close-up of a device.":::
@@ -1174,8 +1161,7 @@ Required Tools
     on the Motherboard as reference for the bottom of the board. Gently
     press on the board to connect it to the main Motherboard. Using a
     3IP screwdriver, fasten the left microphone board screw
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />). Remove the blue
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
     release paper to expose the PSA.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image65.jpeg" alt-text="A screwdriver on a device.":::
@@ -1204,22 +1190,20 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
     into position using the enclosure contours and alignment posts.
     Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) of the microphone deck
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
     into place in the order shown.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 8.  **Install** **the Display Module** – Re-assemble the battery
     connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    />) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -1331,11 +1315,11 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" /> – M1369668-001
+     /> – M1369668-001
 
   - 
 
@@ -1344,8 +1328,7 @@ Required Tools
 1.  **Remove the** **Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
@@ -1368,8 +1351,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image69.jpeg" alt-text="A close up of a device.":::
 
 5.  **Remove the Microphone Deck** – Using a 3IP screwdriver, remove the
-    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) securing the deck to
+    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) securing the deck to
     the enclosure in the order shown below. Carefully lift out the deck
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
@@ -1460,15 +1442,13 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
     into position using the enclosure contours and alignment posts.
     Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />)of the microphone deck
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>)of the microphone deck
     into place in the order shown.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
@@ -1479,8 +1459,7 @@ Required Tools
     shield cover with your hand. Check to ensure that there is no damage
     or deformation to the shield snaps.
 
-> <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png"
-> style="width:4.03911in;height:1.58272in" />
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png"/>
 
 7.  **Assemble NFC FPC onto T1 Shield Lid** – If your device is an
     NFC-enabled device, connect the NFC module FPC into the ZIF
@@ -1494,8 +1473,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
 
 9.  **Install the Display Module** – Re-assemble the battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -1608,19 +1586,18 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" /> – M1369668-001
+     /> – M1369668-001
 
 ### Procedure Removal Infrared Camera
 
 1.  **Remove the** **Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
@@ -1643,8 +1620,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image78.jpeg" alt-text="A close up of a device.":::
 
 5.  **Remove the Microphone Deck** – Using a 3IP screwdriver, remove the
-    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) securing the deck to
+    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) securing the deck to
     the enclosure in the order shown below. Carefully lift out the deck
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
@@ -1656,7 +1632,7 @@ Required Tools
     disconnect it from the Motherboard.
 
 > <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg"
-> style="width:2.69321in;height:2.09649in" />
+>  />
 
 7.  **Remove IR Camera** – Using the flat end of the plastic opening
     tool, position the tool underneath the bottom edge of the front
@@ -1734,15 +1710,13 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
     into position using the enclosure contours and alignment posts.
     Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) of the microphone deck
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
     into place in the order shown.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
@@ -1767,8 +1741,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
 
 9.  **Install the Display Module** – Re-assemble the battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -1877,19 +1850,18 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.9 3IP (Rear Camera Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334206/07-001
+     /> – M1334206/07-001
 
 ### Procedure Removal Rear Camera
 
 1.  **Remove the** **Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
@@ -1916,8 +1888,7 @@ Required Tools
 
 5.  **Remove the Rear Camera** – Using a 3IP screwdriver, remove the 2
     rear camera screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />). Gently peel the camera
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>). Gently peel the camera
     FPC away from the conductive foam underneath it and lift it out of
     the enclosure.
 
@@ -1939,8 +1910,7 @@ Required Tools
 2.  **Install the Rear Camera** – Assemble the rear camera into the
     enclosure using the locating pins as reference. Using a 3IP
     screwdriver, fasten the 2 rear camera screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />) into the enclosure.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) into the enclosure.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image87.jpeg" alt-text="A close up of a screwdriver.":::
 
@@ -1969,13 +1939,11 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 7.  **Install the Display Module** – Re-assemble the battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -2086,19 +2054,18 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.9 3IP (Thermal Module Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
 ### Procedure Removal Thermal Module
 
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
@@ -2122,8 +2089,7 @@ Required Tools
 
 5.  **Remove the Thermal Module Screws** – Using a 3IP Screwdriver,
     remove the 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />) securing the thermal
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) securing the thermal
     module to the Motherboard in the order shown below. Use caution not
     to lose any screws in the enclosure during the removal process.
 
@@ -2191,8 +2157,7 @@ Required Tools
     liner of the TIM on the thermal module and assemble it into place on
     the motherboard, using the locating posts as reference. Fasten the 7
     thermal module screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />) in the order shown
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) in the order shown
     below using a 3IP screwdriver.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image95.png" alt-text="A close up of a device.":::
@@ -2226,13 +2191,11 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 8.  **Install the Display Module** – Re-assemble the battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -2344,41 +2307,38 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.9 3IP (Thermal Module Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" /> – M1369668-001
+     /> – M1369668-001
 
   - M1.2 x L1.9 3IP (Antenna Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
 ### Procedure Removal Antenna Deck
 
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove Thermal Module** – Remove the conductive tape 1, T1 Shield
     Lid, NFC FPC module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />) and the Thermal Module.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) and the Thermal Module.
     Refer to [Procedure Removal (Thermal
     Module)](#procedure-removal-thermal-module) for detailed
     instructions.
 
 3.  **Remove the Microphone Deck** – Using a 3IP screwdriver, remove the
-    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) securing the deck to
+    3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) securing the deck to
     the enclosure in the order shown below. Carefully lift out the deck
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
@@ -2389,9 +2349,8 @@ Required Tools
     opening tool, carefully disconnect the front camera and IR camera
     FPC connectors from the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg"
-> style="width:2.69321in;height:2.09649in"
-> alt="A hand holding a tool to a circuit board." />
+> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg" alt="A hand holding a tool to a circuit board." />
 
 5.  **Disconnect the Antenna Coax cable connectors** – Using a nylon
     spudger or plastic opening tool, carefully disconnect the two Wifi
@@ -2403,8 +2362,7 @@ Required Tools
 
 6.  **Remove the Left Antenna Deck** **screws** – Using a 3IP
     screwdriver, remove the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" />) securing the left
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) securing the left
     antenna deck to the enclosure in the order shown below.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image99.png" alt-text="A close up of a device.":::
@@ -2419,8 +2377,7 @@ Required Tools
 
 8.  **Remove the Right Antenna Deck** **screws** – Using a 3IP
     screwdriver, remove the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" />) securing the right
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) securing the right
     antenna deck to the enclosure in the order shown below.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image101.png" alt-text="A close up of a device.":::
@@ -2447,15 +2404,13 @@ Required Tools
 2.  **Install Right Antenna Deck** – Assemble the right Antenna deck
     into the enclosure using the locating posts as guidance. Using a 3IP
     screwdriver, fasten the 3 Antenna deck
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" />) screws into the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) screws into the
     enclosure.
 
 3.  **Install Left Antenna Deck** – Assemble the left Antenna deck into
     the enclosure using the locating posts as guidance. Using a 3IP
     screwdriver, fasten the 3 Antenna deck
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" />) screws into the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) screws into the
     enclosure.
 
 4.  **Install Antenna Coax cable connectors** – Route the left Antenna
@@ -2494,30 +2449,26 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
     into position using the enclosure contours and alignment posts.
     Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) of the microphone deck
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
     into place in the order shown.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 7.  **Install Thermal Module** – Re-apply a new TIM Pad and install the
     Thermal Module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />), T1 Shield Lid, NFC
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
     FPC, and conductive tape 1. Refer to [Procedure Installation
     Thermal Module](#procedure-installation-thermal-module) for
     detailed instructions.
 
 8.  **Install** **the Display Module** – Re-assemble the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -2627,41 +2578,38 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.9 3IP (Thermal Module Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
   - M1.2 x L1.9 3IP (Rear Camera Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334206/07-001
+     /> – M1334206/07-001
 
   - M1.2 x L2.8 3IP (Speaker Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" /> – M1352116/17-001
+     /> – M1352116/17-001
 
 ### Procedure Removal Speaker
 
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove Thermal Module** – Remove the conductive tape 1, T1 Shield
     Lid, NFC FPC module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />) and the Thermal Module.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) and the Thermal Module.
     Refer to [Procedure Removal (Thermal
     Module)](#procedure-removal-thermal-module) for detailed
     instructions.
 
 3.  **Remove the Right Speaker** – Using a 3IP screwdriver, remove the 4
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) securing the right
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the right
     speaker and lift the speaker out of the enclosure.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image104.png" alt-text="A close up of a device.":::
@@ -2673,8 +2621,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image105.jpeg" alt-text="A close up of a device.":::
 
 5.  **Remove the Rear Camera** – Using a 3IP screwdriver, remove the 2
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />) securing the rear
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Once removed, gently lift the rear camera upwards to expose
     the top screw securing the left speaker. Refer to [Procedure    Removal Rear Camera](#procedure-removal-rear-camera) for detailed
     instructions to remove the Rear Camera if needed.
@@ -2684,8 +2631,7 @@ Required Tools
 > to proceed to the next step
 
 6.  **Remove the Left Speaker** – Using a 3IP screwdriver, remove the 4
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) securing the left
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the left
     speaker and lift the speaker out of the enclosure.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image106.png" alt-text="A close up of a device.":::
@@ -2695,15 +2641,13 @@ Required Tools
 1.  **Install the Right Speaker** – Place the right speaker into the
     device, using the locating pins for guidance. Using a 3IP
     screwdriver, fasten the 4 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) securing the right
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the right
     speaker.
 
 2.  **Install the Left Speaker** – Place the left speaker into the
     device, using the locating pins for guidance. Using a 3IP
     screwdriver, fasten the 4 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) securing the left
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the left
     speaker.
 
 3.  **Install the Left Speaker Connector** – Install the left speaker
@@ -2712,16 +2656,14 @@ Required Tools
 4.  **Install the Rear Camera** – Assemble the rear camera back into its
     position using the positioning pins for guidance. Using a 3IP
     screwdriver, install the 2 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />) securing the rear
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Refer to [Procedure Installation (Rear
     Camera)](#procedure-installation-rear-camera) for detailed
     instructions on assembling the Rear Camera if needed.
 
 5.  **Install the Thermal Module** – Re-apply a new TIM Pad and install
     the Thermal Module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />), T1 Shield Lid, NFC
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
     FPC, and conductive tape 1. Refer to [Procedure Installation
     Thermal Module](#procedure-installation-thermal-module) for
     detailed instructions.
@@ -2731,13 +2673,11 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 7.  **Install** **the Display Module** – Re-assemble the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -2867,37 +2807,35 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" /> – M1369668-001
+     /> – M1369668-001
 
   - M1.2 x L1.9 3IP (Antenna Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
   - M1.2 x L1.9 3IP (Rear Camera Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334206/07-001
+     /> – M1334206/07-001
 
   - M1.2 x L2.5 3IP (Button Switch Board Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"
-    style="width:0.52083in;height:0.10417in" /> – M1352134/35-001
+     /> – M1352134/35-001
 
 ### Procedure Removal Buttons
 
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove** **the Microphone Deck** – Using a 3IP screwdriver, remove
-    the 3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) securing the deck to
+    the 3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) securing the deck to
     the enclosure in the order shown below. Carefully lift out the deck
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
@@ -2905,8 +2843,7 @@ Required Tools
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 3.  **Remove the Left Antenna Deck** – Using a 3IP screwdriver, remove
-    the 3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" />) securing the left
+    the 3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) securing the left
     Antenna deck. Gently lift the Antenna deck out from the enclosure
     using a spudger or plastic opening tool to pry it from its side.
     Refer to [Procedure Removal (Antenna
@@ -2918,8 +2855,7 @@ Required Tools
 > entirety to proceed to the next step
 
 4.  **Remove** **the Rear Camera** – Using a 3IP screwdriver, remove the
-    2 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />) securing the rear
+    2 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Once removed, gently lift the rear camera upwards and to the
     side to expose the Button Switch Board. Refer to [Procedure
     Removal Rear Camera](#procedure-removal-rear-camera) for detailed
@@ -2937,8 +2873,7 @@ Required Tools
 
 6.  **Remove the Button Switch Board and FPC** – Using a 3IP
     screwdriver, remove the 2 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"
-    style="width:0.52083in;height:0.10417in" />) securing the switch
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"/>) securing the switch
     board. Lift the switchboard and FPC out of the enclosure, carefully
     peeling the cable away from the enclosure.
 
@@ -2991,8 +2926,7 @@ Required Tools
 5.  **Install the Button SW Board** – Place the Button Switch board into
     the enclosure using the positioning posts as guidance. Using a 3IP
     screwdriver, fasten the 2 button board screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"
-    style="width:0.52083in;height:0.10417in" />).
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"/>).
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image109.png" alt-text="A close-up of a machine.":::
 
@@ -3005,8 +2939,7 @@ Required Tools
 7.  **Install the Rear Camera** – Assemble the rear camera back into its
     position using the positioning pins for guidance. Using a 3IP
     screwdriver, install the 2 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />) securing the rear
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Refer to [Procedure Installation (Rear
     Camera)](#procedure-installation-rear-camera) for detailed
     instructions on assembling the Rear Camera if needed.
@@ -3030,22 +2963,19 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
     into position using the enclosure contours and alignment posts.
     Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) of the microphone deck
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
     into place in the order shown.
 
 :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 9.  **Install** **the Display Module** – Re-assemble the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -3157,23 +3087,23 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.9 3IP (Thermal Module Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
   - M1.2 x L2.8 3IP (Speaker Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" /> – M1352116/17-001
+     /> – M1352116/17-001
 
   - M1.2 x L1.5 3IP (USB-C Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.5 3IP (USB-C FPC Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"
-    style="width:0.52778in;height:0.10417in" /> –
+     /> –
     M1334177-001/M1334229-001
 
 ### Procedure Removal USB-C Charging Port
@@ -3181,22 +3111,19 @@ Required Tools
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove Thermal Module** – Remove the conductive tape 1, T1 Shield
     Lid, NFC FPC module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />) and the Thermal Module.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) and the Thermal Module.
     Refer to [Procedure Removal (Thermal
     Module)](#procedure-removal-thermal-module) for detailed
     instructions.
 
 3.  **Remove the Right Speaker** – Using a 3IP screwdriver, remove the 4
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) securing the right
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the right
     speaker. Lift the speaker out from the enclosure. Refer to
     [Procedure Removal Speaker](#procedure-removal-speaker) for
     detailed instructions.
@@ -3206,15 +3133,13 @@ Required Tools
 > with the next step
 
 4.  **Remove the USB-C Bracket** – Using a 3IP screwdriver, remove the
-    screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" />) securing the USB-C
+    screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>) securing the USB-C
     bracket. Remove the bracket.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image117.png" alt-text="A close up of a screwdriver.":::
 
 5.  **Remove the USB-C screws** – Using a 3IP screwdriver, remove the 2
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"
-    style="width:0.52778in;height:0.10417in" />) securing the USB-C FPC
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"/>) securing the USB-C FPC
     into the enclosure.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image118.png" alt-text="A screwdriver on a device.":::
@@ -3251,8 +3176,7 @@ Required Tools
     from the back of the USB-C FPC module. Align the module onto the
     enclosure and assemble it using the locating posts as reference.
     Using a 3IP screwdriver, fasten the 2 USB-C FPC screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"
-    style="width:0.52778in;height:0.10417in" />) to secure it to the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"/>) to secure it to the
     enclosure.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image118.png" alt-text="A screwdriver on a device.":::
@@ -3264,23 +3188,20 @@ Required Tools
 
 4.  **Assemble the USB-C Bracket** – Place the USB-C bracket over the
     FPC connectors. Using a 3IP screwdriver, fasten the bracket screw
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" />) as shown below.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>) as shown below.
 
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image117.png" alt-text="A close up of a screwdriver.":::
 
 5.  **Install the Right Speaker** – Place the right speaker into the
     enclosure, using the positioning posts for guidance. Using a 3IP
     screwdriver, fasten the 4 speaker screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />). Refer to [Procedure
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>). Refer to [Procedure
     Installation Speaker](#procedure-installation-speaker) for
     detailed instructions.
 
 6.  **Install the Thermal Module** – Re-apply a new TIM Pad and install
     the Thermal Module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />), T1 Shield Lid, NFC
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
     FPC, and conductive tape 1. Refer to [Procedure Installation
     Thermal Module](#procedure-installation-thermal-module) for
     detailed instructions.
@@ -3290,13 +3211,11 @@ Required Tools
     meshes are damaged. If damaged, remove them using a plastic tweezer,
     and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png"
-    style="width:0.94909in;height:1.68167in"
-    alt="A close-up of a small piece of plastic." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
 
 8.  **Install** **the Display Module** – Re-assemble the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -3420,46 +3339,44 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.9 3IP (Thermal Module Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" /> – M1369668-001
+     /> – M1369668-001
 
   - M1.2 x L2.1 3IP (Microphone Board Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" /> – M1341576/77-001
+     /> – M1341576/77-001
 
   - M1.2 x L2.8 3IP (Speaker Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" /> – M1352116/17-001
+     /> – M1352116/17-001
 
   - M1.2 x L1.5 3IP (USB-C Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.5 3IP (Motherboard Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
 ### Procedure Removal Motherboard
 
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove Thermal Module** – Remove the conductive tape 1, T1 Shield
     Lid, NFC FPC module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />) and the Thermal Module.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) and the Thermal Module.
     Refer to [Procedure Removal (Thermal
     Module)](#procedure-removal-thermal-module) for detailed
     instructions.
@@ -3470,11 +3387,9 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image35.png" alt-text="A hand holding a black device.":::
 
 4.  **Remove the Microphone Modules –** Remove the 3 microphone deck
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />) and the microphone
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) and the microphone
     deck, left and right microphone module
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />), and remove any residue
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>), and remove any residue
     thermal putty and mesh PSA. Refer to [Procedure Removal
     Microphone](#procedure-removal-microphone) for detailed
     instructions.
@@ -3483,9 +3398,8 @@ Required Tools
     opening tool, carefully disconnect the front camera and IR camera
     FPC connectors from the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg"
-> style="width:2.69321in;height:2.09649in"
-> alt="A hand holding a tool to a circuit board." />
+> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::
+<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg" alt="A hand holding a tool to a circuit board." />
 
 6.  **Disconnect the Antenna Coax cable connectors** – Using a nylon
     spudger or plastic opening tool, carefully disconnect the two Wifi
@@ -3502,8 +3416,7 @@ Required Tools
 > decks in their entirety to proceed with the next step.
 
 7.  **Remove the Right Speaker** – Using a 3IP screwdriver, remove the 4
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) securing the right
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the right
     speaker. Lift the speaker out from the enclosure. Refer to
     [Procedure Removal Speaker](#procedure-removal-speaker) for
     detailed instructions.
@@ -3513,8 +3426,7 @@ Required Tools
 > with the next step
 
 8.  **Disconnect the USB-C FPC connectors** – Remove the USB-C bracket
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" />) and the bracket.
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>) and the bracket.
     Disconnect the USB-C FPC connectors from the Motherboard using a
     nylon spudger or plastic opening tool. Refer to [Procedure Removal USB-C Charging Port](#procedure-removal-usb-c-charging-port) for
     detailed instructions.
@@ -3551,8 +3463,7 @@ Required Tools
 > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image36.png" alt-text="A person using a tool to fix a circuit board.":::
 
 13. **Remove the Motherboard** – Using a 3IP screwdriver, remove the 4
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"
-    style="width:0.52083in;height:0.10417in" />) securing the
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"/>) securing the
     Motherboard to the enclosure. Gently lift out the Motherboard away
     from the enclosure.
 
@@ -3564,8 +3475,7 @@ Required Tools
     enclosure, using the locating posts as reference and ensuring the
     screw holes are properly aligned. Using a 3IP screwdriver, fasten
     the 4 motherboard screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"
-    style="width:0.52083in;height:0.10417in" />) to the enclosure.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"/>) to the enclosure.
 
 2.  **Install the T3 Shield Lid (New Motherboard only)** – Assemble the
     T3 shield Lid onto the Motherboard, pressing around the shield cover
@@ -3592,8 +3502,7 @@ Required Tools
 6.  **Install the USB-C FPC connectors** - Align the USB-C FPC
     connectors with the receptacles and gently press to install them on
     the Motherboard. Assembled the USB-C bracket and fasten the bracket
-    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" />) using a 3IP
+    screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>) using a 3IP
     screwdriver. Refer to [Procedure Installation (USB-C Charging
     Port)](#procedure-installation-usb-c-charging-port) for detailed
     instructions.
@@ -3601,8 +3510,7 @@ Required Tools
 7.  **Install the Right Speaker** – Place the right speaker into the
     enclosure, using the positioning posts for guidance. Using a 3IP
     screwdriver, fasten the 4 speaker screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />). Refer to [Procedure
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>). Refer to [Procedure
     Installation Speaker](#procedure-installation-speaker) for
     detailed instructions.
 
@@ -3626,12 +3534,10 @@ Required Tools
     underneath the Left Microphone board, replace the microphone mesh
     PSA for the left and right microphone boards and install the
     Microphone boards
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />) into the enclosure.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>) into the enclosure.
     Replace the ACS diffuser and microphone mesh on the Microphone deck
     if damaged and install the Microphone deck
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />). Refer to [Procedure Installation Microphone](#procedure-installation-microphone) for
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>). Refer to [Procedure Installation Microphone](#procedure-installation-microphone) for
     detailed instructions.
 
 11. **Install the Display FPC to the** **Motherboard** – Align the
@@ -3654,15 +3560,13 @@ Required Tools
 
 13. **Install Thermal Module** – Re-apply a new TIM Pad and install the
     Thermal Module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />), T1 Shield Lid, NFC
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
     FPC, and conductive tape 1. Refer to [Procedure Installation
     Thermal Module](#procedure-installation-thermal-module) for
     detailed instructions.
 
 14. **Install** **the Display Module** – Re-assemble the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
@@ -3834,66 +3738,64 @@ Required Tools
 
   - M1.2 x L1.5 3IP (Battery Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.6 \* L2.3 3IP (Battery Frame Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"
-    style="width:0.52083in;height:0.10417in" /> – M1341578/79-001
+     /> – M1341578/79-001
 
   - M1.2 x L1.9 3IP (Thermal Module Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" /> – M1369668-001
+     /> – M1369668-001
 
   - M1.2 x L2.1 3IP (Microphone Board Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" /> – M1341576/77-001
+     /> – M1341576/77-001
 
   - M1.2 x L1.9 3IP (Antenna Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334230/31-001
+     /> – M1334230/31-001
 
   - M1.2 x L1.9 3IP (Rear Camera Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334206/07-001
+     /> – M1334206/07-001
 
   - M1.2 x L2.5 3IP (Button Switch Board Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"
-    style="width:0.52083in;height:0.10417in" /> – M1352134/35-001
+     /> – M1352134/35-001
 
   - M1.2 x L2.8 3IP (Speaker Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" /> – M1352116/17-001
+     /> – M1352116/17-001
 
   - M1.2 x L1.5 3IP (USB-C Bracket Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
   - M1.2 x L1.5 3IP (USB-C FPC Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"
-    style="width:0.52778in;height:0.10417in" /> –
+     /> –
     M1334177-001/M1334229-001
 
   - M1.2 x L1.5 3IP (Motherboard Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"
-    style="width:0.52083in;height:0.10417in" /> – M1334202/203-001
+     /> – M1334202/203-001
 
 ### Procedure Removal Enclosure
 
 1.  **Remove the Display Module –** De-bond the Display using the
     Surface Debonding Tool. Remove the TDM shield lid and disconnect the
     battery connector
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) from the Motherboard to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) from the Motherboard to
     ensure complete battery shutoff. Refer to [Procedure Removal
     Display](#procedure-removal-display) for detailed instructions.
 
 2.  **Remove the Battery** – Remove the 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"
-    style="width:0.52083in;height:0.10417in" />) securing the battery to
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"/>) securing the battery to
     the enclosure. Lift the battery out from the enclosure carefully and
     place it on a clean ESD-safe flat surface. Refer to [Procedure
     Removal Battery](#procedure-removal-battery) for detailed
@@ -3901,18 +3803,15 @@ Required Tools
 
 3.  **Remove Thermal Module** – Remove the conductive tape 1, T1 Shield
     Lid, NFC FPC module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />) and the Thermal Module.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) and the Thermal Module.
     Refer to [Procedure Removal (Thermal
     Module)](#procedure-removal-thermal-module) for detailed
     instructions.
 
 4.  **Remove the Microphone Modules –** Remove the microphone deck
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />), left and right
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>), left and right
     microphone modules
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />), and remove any residue
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>), and remove any residue
     thermal putty and mesh PSA. Refer to [Procedure Removal
     Microphone](#procedure-removal-microphone) for detailed
     instructions.
@@ -3931,14 +3830,12 @@ Required Tools
 7.  **Remove the Left and Right Antenna Decks** – Remove the Antenna
     cables and cable tapes from the Motherboard. Remove the left and
     right Antenna Decks
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" />) from the enclosure.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) from the enclosure.
     Refer to [Procedure Removal (Antenna
     Deck)](#procedure-removal-antenna-deck) for detailed instructions.
 
 8.  **Remove** **the Rear Camera** – Using a 3IP screwdriver, remove the
-    2 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />) securing the rear
+    2 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Remove the aluminum foil tape, T3 top shield lid assembly,
     and the Rear Camera FPC connector. Refer to [Procedure Removal
     Rear Camera](#procedure-removal-rear-camera) for detailed
@@ -3946,26 +3843,22 @@ Required Tools
 
 9.  **Remove the Button Switch Board and FPC** – Disconnect the
     switchboard FPC from the Motherboard. Remove the Button switchboard
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"
-    style="width:0.52083in;height:0.10417in" />) and FPC from the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"/>) and FPC from the
     enclosure, carefully peeling the FPC away from the enclosure. Refer
     to [Procedure Removal Buttons](#procedure-removal-buttons) for
     detailed instructions.
 
 10. **Remove the Left and Right Speakers** – Disconnect the left speaker
     connector and use a 3IP screwdriver to remove the screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) securing the left and
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the left and
     right speakers. Remove the speakers from the enclosure. Refer to
     [Procedure Removal Speaker](#procedure-removal-speaker) for
     detailed instructions.
 
 11. **Remove the USB-C Charging Port** – Remove the USB-C FPC bracket
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" />). Disconnect the FPC
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>). Disconnect the FPC
     connectors and remove the USB-FPC
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"
-    style="width:0.52778in;height:0.10417in" />) from the enclosure.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"/>) from the enclosure.
     Clean any residual adhesive from the enclosure and USB-C FPC. Refer
     to [Procedure Removal (USB-C Charging
     Port)](#procedure-removal-usb-c-charging-port) for detailed
@@ -3973,8 +3866,7 @@ Required Tools
 
 12. **Remove the Motherboard** – Remove the T2 Shield lid and TDM FPC.
     Remove the screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"
-    style="width:0.52083in;height:0.10417in" />) securing the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"/>) securing the
     Motherboard to the enclosure and gently lift the Motherboard out of
     the enclosure. Refer to [Procedure Removal
     Motherboard](#procedure-removal-motherboard) for detailed
@@ -3984,27 +3876,23 @@ Required Tools
 
 1.  **Install the Motherboard** – Assemble the Motherboard into the new
     enclosure, install the Motherboard screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"
-    style="width:0.52083in;height:0.10417in" />), TDM FPC, and T2 Shield
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"/>), TDM FPC, and T2 Shield
     Lid. Refer to [Procedure Installation
     Motherboard](#procedure-installation-motherboard) for detailed
     instructions.
 
 2.  **Install the USB-C Charging Port** – Reapply the USB-C FPC PSA.
     Install the USB-FPC
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"
-    style="width:0.52778in;height:0.10417in" />) and fasten it to the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"/>) and fasten it to the
     new enclosure. Connect the USB-C FPCs to the Motherboard and install
-    the FPC bracket (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"
-    style="width:0.52778in;height:0.10417in" />). Refer to [Procedure
+    the FPC bracket (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>). Refer to [Procedure
     Installation (USB-C Charging
     Port)](#procedure-removal-usb-c-charging-port) for detailed
     instructions.
 
 3.  **Install the Left and Right Speakers** – Assemble the left and
     right speakers into the device and fasten the speaker screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) using a 3IP
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) using a 3IP
     screwdriver. Connect the left speaker connector to the Motherboard.
     Refer to [Procedure Installation
     Speaker](#procedure-installation-speaker) for detailed
@@ -4012,8 +3900,7 @@ Required Tools
 
 4.  **Install the Button Switch Board and FPC** – Reapply the Switch FPC
     PSA, install the Button Switch board
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"
-    style="width:0.52083in;height:0.10417in" />) and FPC. Connect the
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) and FPC. Connect the
     switchboard FPC to the Motherboard. Refer to [Procedure
     Installation Buttons](#procedure-installation-buttons) for
     detailed instructions.
@@ -4021,8 +3908,7 @@ Required Tools
 5.  **Install the Rear Camera** – Assemble the rear camera back into its
     position using the positioning pins for guidance. Using a 3IP
     screwdriver, install the 2 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"
-    style="width:0.52083in;height:0.10417in" />) securing the rear
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Install the Rear Camera FPC connector, T3 top shield lid
     assembly, aluminum foil tape. Refer to [Procedure Installation
     Rear Camera](#procedure-installation-rear-camera) for detailed
@@ -4030,8 +3916,7 @@ Required Tools
 
 6.  **Install the Left and Right Antenna Decks** – Install the left and
     right antenna decks
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"
-    style="width:0.52083in;height:0.10417in" />) into the enclosure.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) into the enclosure.
     Replace the Antenna cable tape if the original one cannot be reused.
     Install both cable connectors into the receptable on the
     Motherboard. Refer to [Procedure Installation (Antenna
@@ -4054,34 +3939,29 @@ Required Tools
 9.  **Install the Microphone Modules** – Insert new thermal putty
     underneath the Left Microphone board, replace the microphone mesh
     PSA for the left and right microphone boards and install the boards
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"
-    style="width:0.52083in;height:0.10417in" />) into the enclosure.
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>) into the enclosure.
     Replace the ACS diffuser and microphone mesh on the Microphone deck
     if damaged and install the Microphone deck
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
-    style="width:0.52083in;height:0.10417in" />). Refer to [Procedure
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>). Refer to [Procedure
     Installation Microphone](#procedure-installation-microphone) for
     detailed instructions.
 
 10. **Install Thermal Module** – Re-apply a new TIM Pad and install the
     Thermal Module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"
-    style="width:0.52778in;height:0.10417in" />), T1 Shield Lid, NFC
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
     FPC, and conductive tape 1. Refer to [Procedure Installation
     Thermal Module](#procedure-installation-thermal-module) for
     detailed instructions.
 
 11. **Install the Battery** – Carefully assemble the battery into the
     enclosure, using the locating posts for reference. Fasten the 7
-    battery screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"
-    style="width:0.52083in;height:0.10417in" />) to the enclosure. Refer
+    battery screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"/>) to the enclosure. Refer
     [to Procedure Installation
     Battery](#procedure-installation-battery) for detailed
     instructions.
 
 12. **Install** **the Display Module** – Re-assemble the battery
-    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
-    style="width:0.52083in;height:0.10417in" />) and install the
+    connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
