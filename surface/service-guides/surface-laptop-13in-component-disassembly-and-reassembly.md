@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-# Surface Laptop 13-in Service Guide
+# Surface Laptop 13-in Component Disassembly and Reassembly
 
 > [!CAUTION]
 > Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) guidelines in their entirety before proceeding with any repair steps.

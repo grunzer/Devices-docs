@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-## Environmental Compliance Requirements
+# Environmental Compliance Requirements
 
 All waste electrical and electronic equipment (WEEE), waste electronic
 components, waste batteries, and electronic waste residuals must be

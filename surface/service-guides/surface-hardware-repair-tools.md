@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-## Surface Hardware Repair Tools
+# Surface Hardware Repair Tools
 
 This section documents the tools recommended or required by Microsoft to
 successfully complete a repair on a Surface device. Microsoft Service
@@ -24,25 +24,23 @@ commonly purchased from electronic repair retailers. Lastly, items under
 standard tools and misc. items on this list can be commonly purchased
 from consumer retailers.
 
-### Recommended Microsoft Service Tools
+## Recommended Microsoft Service Tools
 
-|    |    |
+| Tool   | Image   |
 |:----|:----:|
 | [ESD-safe Surface Battery Cover - iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001) | ![ESD-safe Surface Battery Cover](./images/HWTools/media/image1.png) |
-|||
 
-### Required Microsoft Service Tools
+## Required Microsoft Service Tools
 
-|    |    |
+| Tool   | Image   |
 |:----|:----:|
 | [Surface Display Debonding Tool (M1214770-001) - iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001) | ![Surface Display Debonding Tool (M1214770-001) New](./images/HWTools/media/image2.jpeg) |
 | [Surface Display Bonding Frame (M1260233-001) - iFixit](https://www.ifixit.com/products/surface-display-bonding-frame-m1260233-001) | ![Surface Display Bonding Frame (M1260233-001) New](./images/HWTools/media/pro13in-bonding-frame.jpeg) |
 | Surface Display Bonding Frame for Pro 12-inch (M1368685-001) | ![Surface Display Bonding Frame (M1260233-001) New](./images/HWTools/media/pro12in-bonding-frame.png) |
-|||
 
-### Required Electronic Repair Hardware or Tools
+## Required Electronic Repair Hardware or Tools
 
-|    |    |
+| Tool   | Image   |
 |:----|:----:|
 | Anti-static Wrist Strap (1 MOhm resistance) | ![Anti-static Wrist Strap](./images/HWTools/media/image4.jpeg) |
 | ESD-safe mat or benchtop | ![ESD-safe mat or benchtop](./images/HWTools/media/image5.jpeg) |
@@ -51,9 +49,8 @@ from consumer retailers.
 | Plastic Opening Pick | ![Plastic Opening Pick](./images/HWTools/media/image7.jpeg) |
 | Plastic Opening Tool | ![Plastic Opening Tool](./images/HWTools/media/image8.png) |
 | ESD-safe Tweezers | ![ESD-safe Tweezers](./images/HWTools/media/image9.png) |
-|||
 
-### Required Standard Tools and Miscellaneous Items
+## Required Standard Tools and Miscellaneous Items
 
 - 3IP Torx-Plus Driver
 
