@@ -77,18 +77,18 @@ The following terms are used throughout this guide.
 ## Service Diagnostics/Troubleshooting Overview
 
 - For general Surface support, visit
-  [www.support.microsoft.com](https://www.support.microsoft.com/)
+  [support.microsoft.com](https://support.microsoft.com/)
 
 - To troubleshoot device feature/function problems or learn more about
   Surface Pro visit
-  [www.aka.ms/SurfaceProHelp](https://www.aka.ms/SurfaceProHelp)
+  [aka.ms/SurfaceProHelp](https://aka.ms/SurfaceProHelp)
 
 - If you’d like to learn more about Windows, visit
-  [aka.ms/WindowsHelp](https://www.aka.ms/WindowsHelp)
+  [aka.ms/WindowsHelp](https://aka.ms/WindowsHelp)
 
 - To learn more about the accessibility features of the Surface Pro, go
   to the online user guide at
-  [aka.ms/Windows-Accessibility](https://www.aka.ms/Windows-Accessibility)
+  [aka.ms/Windows-Accessibility](https://aka.ms/Windows-Accessibility)
 
 ## Prerequisite Steps – Software
 
@@ -97,8 +97,7 @@ The following terms are used throughout this guide.
  of a successful run and accurate diagnostics.
 
 - Ensure the device is updated to the latest OS/FW versions available
-  using [<u>Windows
-  Update.</u>](https://support.microsoft.com/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
+  using [<u>Windows Update.</u>](https://support.microsoft.com/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
 
 - The device **must** be capable of booting into a Windows user account.
   If it is unable to do so, please reimage the device using the Surface
@@ -112,7 +111,7 @@ The following terms are used throughout this guide.
 ### Launching the Surface Diagnostic Toolkit
 
 - Insert the USB 3.0 Flash Drive loaded with the [<u>Surface Diagnostic
-  Toolkit</u>](https://download.microsoft.com/download/9/3/5/93501ba4-9f8f-430b-97ca-9d603f42a0b7/Surface%20Diagnostic%20Toolkit%20-%20Repair%20Build%20for%20Consumer%20and%20Commercial%20x64.zip)
+  Toolkit</u>](https://www.microsoft.com/download/details.aspx?id=46703)
   files
 
 - Locate **Microsoft.Surface.Diagnostics.App.Wpf.exe** and double-click
@@ -479,10 +478,7 @@ must be gathered and included with the escalation to ensure proper
 support.
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 75%" />
-</colgroup>
+
 <thead>
 <tr>
 <th><strong>ASP Company:</strong></th>
