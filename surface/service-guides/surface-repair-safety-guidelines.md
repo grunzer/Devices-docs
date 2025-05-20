@@ -207,5 +207,3 @@ When contacting support, be prepared to provide:
 - Model and serial number of the device or accessories
 - Description of the damage
 - Clear photographs of the symptoms
-
-For general Surface support, visit [www.support.microsoft.com](https://www.support.microsoft.com)
