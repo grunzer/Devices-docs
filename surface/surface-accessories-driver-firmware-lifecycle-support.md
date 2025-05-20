@@ -56,6 +56,8 @@ Surface Pro Signature Keyboard                       | February 21, 2023   | Feb
 Surface Thunderbolt 4 dock                           | April 4, 2023       | April 4, 2029
 Surface Pro Flex Keyboard                            | June 18, 2024       | June 18, 2030
 Surface USB4 Dock for Business                       | February 18, 2025   | February 18, 2031
+Surface Pro 12-inch                                  | May 20, 2025        | May 20, 2031
+Surface Laptop 13-inch                               | May 20, 2025        | May 20, 2031
 
 ## Legacy products
 
@@ -67,6 +69,7 @@ Surface Modern Keyboard with Fingerprint ID          | June 15, 2017       | Sep
 Surface Headphones                                   | November 19, 2018   | September 30, 2024
 Surface Slim Pen                                     | October 1, 2019     | September 30, 2024
 Microsoft Classroom Pen                              | February 28, 2019   | November 19, 2024
+Surface Pro 12-inch Keyboard                         | May 20, 2025        | May 20, 2031
 
 ## Learn more
 
