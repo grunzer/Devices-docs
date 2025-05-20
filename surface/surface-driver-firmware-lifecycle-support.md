@@ -77,7 +77,9 @@ The following table shows the release and end-of-servicing dates for Surface dev
 | Surface Pro 10 with 5G                 | October 11, 2024    | October 11, 2030                             |
 | Surface Pro 11th Edition, Intel processor       | February 18, 2025   | February 18, 2031                           |
 | Surface Laptop 7th Edition, Intel processor     | Feburary 18, 2025   | February 18, 2031                          |
-
+| Surface Pro 12-inch                    | May 20, 2025          | May 20, 2031 |
+| Surface Laptop 13-inch                 | May 20, 2025          | May 20, 2031 |
+	
 ## Legacy products
 
 The following table lists products that have passed their end-of-servicing date based on the driver and firmware lifecycle policy. These devices no longer receive newer driver and firmware updates than those listed on [Surface update history](https://support.microsoft.com/surface/surface-update-history-6036fff5-edec-c8ec-9796-a5633aac9488).
