@@ -17,7 +17,7 @@ appliesto:
 # Surface Laptop 13-in Component Disassembly and Reassembly
 
 > [!CAUTION]
-> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
+> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) guidelines in their entirety before proceeding with any repair steps.
 
 ## Prerequisite Steps
 
@@ -25,46 +25,33 @@ Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
-  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for details.
+  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#Repair-specific-precautions-and-warnings) for details.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for details.
+  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#Electro-Static-Discharge-(ESD)-precautions) for details.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
 
-**Important: Device Serial Number Notation.** The serial number for this
-device is located on its original bottom cover. It is crucial to retain
-the device’s original serial number for future support from Microsoft.
-The D Bucket FRU will remove the device’s original serial number and
-the original device serial number cannot be permanently added to a
-replacement part. To ensure the original serial number is retained,
-record it using waterproof ink on a label. Affix the label to an easily
-accessible area on the device exterior and keep a record of the serial
-number in a secure location. Microsoft has provided a label for this
-purpose within the replacement part’s packaging. The label included in
-the part’s packaging has space designated for the original serial number
-as well as the part's product identifier.
-
-<span class="mark">  
-</span>
+> [!IMPORTANT]
+> **Device Serial Number Notation:** The serial number for this device is located on its original bottom cover. It is crucial to retain the device’s original serial number for future support from Microsoft. The D Bucket FRU will remove the device’s original serial number and the original device serial number cannot be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
 
 ## Feet Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - Soft ESD-Safe Mat
 
 - Plastic Guitar Pick
 
-**Primary Components**
+#### Primary Components
 
 - 4 Feet (Refer to the Illustrated Service Parts List)
 
@@ -73,19 +60,22 @@ within each process section.
 1.  Place the device on an ESD safe soft surface with the bottom side
     facing up.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image1.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image1.jpeg"
+style="width:2.32407in;height:3.09877in" />
 
 2.  Gently insert a plastic guitar pick between the foot and the bottom
     D bucket to pry the foot up. You may need to try gently inserting
     the pick from a different direction, but **do not use a metal tool
     and only use the specified plastic tool.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image2.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image2.jpeg"
+style="width:1.58209in;height:2.10945in" />
 
 3.  Repeat steps 1 and 2 to remove the remaining 3 feet and place them
     aside for reuse (if not damaged).
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image3.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image3.jpeg"
+style="width:3.52083in;height:4.69444in" />
 
 **Procedure – Installation (feet)**
 
@@ -101,12 +91,12 @@ within each process section.
 
 ## C Cover Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - Soft ESD-Safe Mat
 
@@ -118,7 +108,7 @@ within each process section.
 
 - Ruler
 
-**Primary Components**
+#### Primary Components
 
 - C Cover Keyset Subassembly
 
@@ -142,19 +132,22 @@ within each process section.
     please keep track and count the number of screws removed to ensure
     there are no extra screws in the area.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg"
+style="width:3.41667in;height:4.55556in" />
 
 3.  Gently flip the device around and open the display cover to the
     maximum angle.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image6.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image6.jpeg"
+style="width:2.15741in;height:2.87654in" />
 
 4.  Use a sharpie and ruler to draw a line 3mm away from the edge of 2
     guitar picks to prevent inserting the guitar pick too deep while
     removing the C Cover. **If this step is not followed, you may risk
     damaging your device.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image7.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image7.png"
+style="width:3.05556in;height:1.91694in" />
 
 5.  With your device flat on an ESD safe surface for the remainder of
     this removal process, firmly but carefully insert the plastic guitar
@@ -162,7 +155,8 @@ within each process section.
     right corner; this requires some force and patience. **Do not use a
     metal tool and only use the specified plastic tool.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image8.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image8.jpeg"
+style="width:3.02239in;height:4.02985in" />
 
 6.  Firmly but carefully, wiggle the guitar pick up and down until you
     hear a popping sound to disengage the nearby snap. With the snap
@@ -189,13 +183,15 @@ within each process section.
     Cover and the D bucket - allowing you to gently slide the guitar
     pick along the top edge.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image9.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image9.jpeg"
+style="width:2.78731in;height:3.71642in" />
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image10.jpeg" alt-text="A person&#39;s hands holding a blue pick on a computer keyboard AI-generated content may be incorrect.":::
 
 10. Firmly but carefully, insert the plastic guitar pick between the C
     Cover and the D bucket 5mm below the top left corner.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image11.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image11.jpeg"
+style="width:2.76146in;height:3.68194in" />
 
 11. Firmly but carefully, wiggle the guitar pick up and down until you
     hear a popping sound to disengage the nearby snap. With the snap
@@ -215,11 +211,14 @@ within each process section.
     Cover upwards towards the display cover and away from the battery to
     separate it from the D bucket.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image12.jpeg" /><img src="./images/Surface_LT_13in/LT13in_Repair/media/image13.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image12.jpeg"
+style="width:2.23881in;height:2.98507in" /><img src="./images/Surface_LT_13in/LT13in_Repair/media/image13.jpeg"
+style="width:2.18657in;height:2.91542in" />
 
 14. Use a plastic guitar pick to disengage the trackpad FPC buckle.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image14.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image14.jpeg"
+style="width:2.96269in;height:3.95025in" />
 
 15. Disconnect the trackpad FPC and place the C Cover on an ESD safe,
     soft surface for reuse. **Carefully inspect and count all 23 snaps
@@ -228,7 +227,8 @@ within each process section.
     cracked snaps on the C Cover, it cannot be reused. If there are any
     missing or cracked hooks on the D bucket, it cannot be reused.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image15.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image15.png"
+style="width:3.04706in;height:2.23935in" />
 
 **Procedure – Installation (C Cover)**
 
@@ -269,12 +269,12 @@ within each process section.
 
 ## Trackpad Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - Soft ESD-Safe Mat
 
@@ -292,7 +292,7 @@ within each process section.
 
 - <span class="mark">Calipers</span>
 
-**Primary Components**
+#### Primary Components
 
 - Trackpad Subassembly
 
@@ -444,12 +444,12 @@ within each process section.
 
 ## SSD Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
@@ -457,7 +457,7 @@ within each process section.
 
 - <span class="mark">Plastic ESD Safe Tweezers</span>
 
-**Primary Components**
+#### Primary Components
 
 - <span class="mark">Feet (Refer to the Illustrated Service Parts
   List)</span>
@@ -550,12 +550,12 @@ within each process section.
 
 ## Battery Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">5IP Torx Plus Screwdriver</span>
 
@@ -565,7 +565,7 @@ within each process section.
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - Battery Subassembly
 
@@ -587,7 +587,7 @@ within each process section.
 
 1.  Follow “Procedure – Removal (SSD)”
 
-
+<!-- -->
 
 1.  Use a 3IP Torx Plus Screwdriver to remove the 2 screws holding down
     the battery connector. Be very careful as you are near the battery.
@@ -601,7 +601,7 @@ within each process section.
 2.  With a Plastic ESD Safe Prybar, gently disconnect the battery
     connector from the PCBA.
 
-
+<!-- -->
 
 2.  With a 5IP Torx Plus Screwdriver, remove the 9 screws around the
     perimeter of the battery. Be very careful as you are near the
@@ -663,18 +663,18 @@ within each process section.
 
 ## Speaker Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic ESD Safe Tweezers</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - 2 Speakers (right and left)
 
@@ -751,18 +751,18 @@ within each process section.
 
 ## USB-C Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - USB-C Subassembly
 
@@ -853,7 +853,8 @@ within each process section.
 6.  Use plastic tweezers to line up and install the USB-C tape to the
     edge of the D Bucket. Be sure not to cover any screws.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image62.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image62.png"
+style="width:4.125in;height:3.15625in" />
 
 7.  Firmly press the tape down for 30 seconds.
 
@@ -870,18 +871,18 @@ within each process section.
 
 ## Fan Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - Fan Subassembly
 
@@ -988,18 +989,18 @@ within each process section.
 
 ## Thermal Module Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - Thermal Module Subassembly
 
@@ -1086,7 +1087,7 @@ within each process section.
 
 6.  Follow “Procedure – Installation (Fan)”
 
-
+<!-- -->
 
 12. Follow “Procedure – Installation (SSD)”
 
@@ -1099,18 +1100,18 @@ within each process section.
 
 ## USB-A and Audio Jack Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - USB-A and Audio Jack Subassembly
 
@@ -1233,7 +1234,7 @@ within each process section.
 8.  Use plastic tweezers to line up and install the USB-A and Audio Jack
     gasket to the edge of the bracket. Be sure not to cover any screws.
 
-
+<!-- -->
 
 15. Follow “Procedure – Installation (SSD)”
 
@@ -1246,18 +1247,18 @@ within each process section.
 
 ## AB Cover (Display) Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - 1 AB Cover (Display) Subassembly
 
@@ -1340,13 +1341,15 @@ within each process section.
     connector buckle on the PCBA and gently disconnect the cable with
     your fingers.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image93.jpeg" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image93.jpeg"
+style="width:3.09577in;height:2.32249in" />
 
 10. With a plastic ESD safe prybar, gently lift the top display cable
     upwards and use your fingers to remove the tape.
 
-:::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image94.jpeg" alt-text="A close-up of a computer AI-generated content may be incorrect.":::
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image95.jpeg" alt="A person fixing a device AI-generated content may be incorrect." />
+:::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image94.jpeg" alt-text="A close-up of a computer AI-generated content may be incorrect.":::<img src="./images/Surface_LT_13in/LT13in_Repair/media/image95.jpeg"
+style="width:2.3459in;height:1.75942in"
+alt="A person fixing a device AI-generated content may be incorrect." />
 
 11. Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
     adhesive remaining from the removed tape.
@@ -1383,9 +1386,11 @@ within each process section.
     please keep track and count the number of screws removed to ensure
     there are no extra screws in the area.**
 
-:::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image97.jpeg" alt-text="A close-up of a machine AI-generated content may be incorrect.":::
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image100.png" alt="A close up of a device AI-generated content may be incorrect." />
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image101.png" alt="A hand holding a black glove AI-generated content may be incorrect." />
+:::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image97.jpeg" alt-text="A close-up of a machine AI-generated content may be incorrect.":::<img src="./images/Surface_LT_13in/LT13in_Repair/media/image100.png"
+style="width:1.8513in;height:2.4875in"
+alt="A close up of a device AI-generated content may be incorrect." /><img src="./images/Surface_LT_13in/LT13in_Repair/media/image101.png"
+style="width:1.71806in;height:2.56042in"
+alt="A hand holding a black glove AI-generated content may be incorrect." />
 
 3.  Close the AB Cover display but be careful not to clamp down on any
     wires. Adjust the positioning of the AB Cover display while the
@@ -1446,7 +1451,8 @@ within each process section.
 14. Use a plastic spudger to firmly secure the display connector tape
     into the gap and crease with the USB-C connector on the PCBA.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image111.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image111.png"
+style="width:4.64583in;height:3.20833in" />
 
 15. Firmly press the display connector tape down for 30 seconds at the
     location below.
@@ -1456,14 +1462,16 @@ within each process section.
 16. Use a plastic spudger to firmly secure the display connector tape
     into the gap and crease with the AB Cover Display hinge.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image113.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image113.png"
+style="width:4.76042in;height:3.17708in" />
 
 17. Follow “Procedure – Installation (USB-C)” Steps 4-7
 
 18. Use plastic tweezers to install the display connector foam aligned
     with the USB-C bracket like below.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image114.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image114.png"
+style="width:4.08333in;height:3.09375in" />
 
 19. Gently route the left display cable through the ridges on the D
     Bucket and connect it with the bottom receptacle on the PCBA. Be
@@ -1471,7 +1479,8 @@ within each process section.
     damage.
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image55.png" alt-text="A close up of a computer AI-generated content may be incorrect.":::
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image115.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image115.png"
+style="width:4.5625in;height:3.13542in" />
 
 20. Use a plastic spudger to ensure the buckle on the display connector
     is closed.
@@ -1489,18 +1498,18 @@ within each process section.
 
 ## PCBA Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - <span class="mark">1 PCBA Subassembly</span>
 
@@ -1606,8 +1615,9 @@ within each process section.
 12. With a plastic ESD safe prybar, gently lift the top display cable
     upwards and use your fingers to remove the tape.
 
-:::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image94.jpeg" alt-text="A close-up of a computer AI-generated content may be incorrect.":::
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image95.jpeg" alt="A person fixing a device AI-generated content may be incorrect." />
+:::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image94.jpeg" alt-text="A close-up of a computer AI-generated content may be incorrect.":::<img src="./images/Surface_LT_13in/LT13in_Repair/media/image95.jpeg"
+style="width:2.3459in;height:1.75942in"
+alt="A person fixing a device AI-generated content may be incorrect." />
 
 13. With a plastic ESD safe prybar, disengage the top display connector
     buckle on the PCBA and gently disconnect the cable with your
@@ -1664,13 +1674,15 @@ within each process section.
     alcohol (70% IPA) and cleaning swabs to clean any adhesive remaining
     on the top display cable.
 
-
+<!-- -->
 
 8.  Apply the new tape underneath the top display cable and firmly press
     the tape down for 30
-    seconds.<img src="./images/Surface_LT_13in/LT13in_Repair/media/image123.png" alt="A close up of a cable AI-generated content may be incorrect." />
+    seconds.<img src="./images/Surface_LT_13in/LT13in_Repair/media/image123.png"
+    style="width:4.78241in;height:3.16204in"
+    alt="A close up of a cable AI-generated content may be incorrect." />
 
-
+<!-- -->
 
 24. Follow “Procedure – Installation (Thermal Module)”
 
@@ -1692,26 +1704,21 @@ within each process section.
 
 ## D Bucket Replacement
 
-**Preliminary Requirements**
+### Preliminary Requirements
 
-**Important:** Be sure to follow all special (bolded) notes of caution
-within each process section.
+> [!IMPORTANT]
+> Be sure to follow all special (bolded) notes of caution within each process section.
 
-**Important:** This replacement part does not include the original
-serial number of the device. For future Microsoft support, please
-handwrite the original serial number on the label provided by Microsoft
-and attach it to either the exterior of the device or directly onto an
-exposed part. The label included in the part’s packaging has space
-designated for the original serial number as well as the part's product
-identifier.
+> [!IMPORTANT]
+> This replacement part does not include the original serial number of the device. For future Microsoft support, please handwrite the original serial number on the label provided by Microsoft and attach it to either the exterior of the device or directly onto an exposed part. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
 
-**Required Tools**
+#### Required Tools
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-**Primary Components**
+#### Primary Components
 
 - <span class="mark">Feet (Refer to the Illustrated Service Parts
   List)</span>
@@ -1743,7 +1750,8 @@ identifier.
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image125.png" alt-text="A metal strip on a mesh surface AI-generated content may be incorrect.":::
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image126.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image126.png"
+style="width:4.31875in;height:2.74111in" />
 
 4.  Before pressing and installing the USB-A and Audio Jack FPC
     subassembly onto the D Bucket, connect the ends of the FPC to the
@@ -1751,7 +1759,8 @@ identifier.
 
 5.  Use a plastic spudger to press the buckle on both connectors closed.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image127.png" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image127.png"
+style="width:4.78056in;height:3.28056in" />
 
 6.  Install the USB-A and Audio Jack FPC subassembly to the D Bucket and
     be sure to firmly press the foil down for 30 seconds each.
@@ -1785,7 +1794,7 @@ identifier.
 
 18. Follow “Procedure – Installation (Feet)”
 
-## Environmental Compliance Requirements
+# Environmental Compliance Requirements
 
 All waste electrical and electronic equipment (WEEE), waste electronic
 components, waste batteries, and electronic waste residuals must be

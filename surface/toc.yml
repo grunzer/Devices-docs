@@ -313,7 +313,7 @@
       items:
        - name: Service guide center
          href: service-guides/surface-service-guides.md
-       - name: Repair Safety Guidelines
+       - name: Repair safety Guidelines
          href: service-guides/surface-repair-safety-guidelines.md
        - name: Environmental compliance requirements
          href: service-guides/surface-environmental-compliance.md
