@@ -45,13 +45,13 @@ repair on a Surface device.
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - Soft ESD-Safe Mat
 
 - Plastic Guitar Pick
 
-#### Primary Components
+**Primary Components**
 
 - 4 Feet (Refer to the Illustrated Service Parts List)
 
@@ -96,7 +96,7 @@ style="width:3.52083in;height:4.69444in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - Soft ESD-Safe Mat
 
@@ -108,7 +108,7 @@ style="width:3.52083in;height:4.69444in" />
 
 - Ruler
 
-#### Primary Components
+**Primary Components**
 
 - C Cover Keyset Subassembly
 
@@ -274,7 +274,7 @@ style="width:3.04706in;height:2.23935in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - Soft ESD-Safe Mat
 
@@ -292,7 +292,7 @@ style="width:3.04706in;height:2.23935in" />
 
 - <span class="mark">Calipers</span>
 
-#### Primary Components
+**Primary Components**
 
 - Trackpad Subassembly
 
@@ -449,7 +449,7 @@ style="width:3.04706in;height:2.23935in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
@@ -457,7 +457,7 @@ style="width:3.04706in;height:2.23935in" />
 
 - <span class="mark">Plastic ESD Safe Tweezers</span>
 
-#### Primary Components
+**Primary Components**
 
 - <span class="mark">Feet (Refer to the Illustrated Service Parts
   List)</span>
@@ -555,7 +555,7 @@ style="width:3.04706in;height:2.23935in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">5IP Torx Plus Screwdriver</span>
 
@@ -565,7 +565,7 @@ style="width:3.04706in;height:2.23935in" />
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - Battery Subassembly
 
@@ -668,13 +668,13 @@ style="width:3.04706in;height:2.23935in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic ESD Safe Tweezers</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - 2 Speakers (right and left)
 
@@ -756,13 +756,13 @@ style="width:3.04706in;height:2.23935in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - USB-C Subassembly
 
@@ -876,13 +876,13 @@ style="width:4.125in;height:3.15625in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - Fan Subassembly
 
@@ -994,13 +994,13 @@ style="width:4.125in;height:3.15625in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - Thermal Module Subassembly
 
@@ -1105,13 +1105,13 @@ style="width:4.125in;height:3.15625in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - USB-A and Audio Jack Subassembly
 
@@ -1252,13 +1252,13 @@ style="width:4.125in;height:3.15625in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - 1 AB Cover (Display) Subassembly
 
@@ -1503,13 +1503,13 @@ style="width:4.5625in;height:3.13542in" />
 > [!IMPORTANT]
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - <span class="mark">1 PCBA Subassembly</span>
 
@@ -1712,13 +1712,13 @@ alt="A person fixing a device AI-generated content may be incorrect." />
 > [!IMPORTANT]
 > This replacement part does not include the original serial number of the device. For future Microsoft support, please handwrite the original serial number on the label provided by Microsoft and attach it to either the exterior of the device or directly onto an exposed part. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
 
-#### Required Tools
+**Required Tools**
 
 - <span class="mark">Plastic Opening Pick</span>
 
 - <span class="mark">Soft ESD-Safe Mat</span>
 
-#### Primary Components
+**Primary Components**
 
 - <span class="mark">Feet (Refer to the Illustrated Service Parts
   List)</span>

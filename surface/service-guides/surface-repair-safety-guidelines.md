@@ -23,7 +23,7 @@ appliesto:
 
 - **Repairing electronic devices can be hazardous.** Opening and/or repairing any electronic device can present a risk of electric shock, fire, serious personal injury, death, damage to the device or other property, and/or other hazards. Exercise caution when undertaking the repair activities described in this Guide. The repair activities identified in this Guide should only be undertaken by technically inclined individuals with the knowledge, experience, and specialized tools required to repair Microsoft devices.
 
-- **Use caution when working with batteries.** Improper use or handling of devices or their batteries may result in fire or explosion. Only open the enclosure on a device as outlined in this Guide.
+- **Use caution when working with batteries.** Improper use or handling of devices or their batteries can result in fire or explosion. Only open the enclosure on a device as outlined in this Guide.
 
 - **Do not heat, puncture, mutilate, or dispose of devices or their batteries in fire.** Do not leave or charge devices in direct sunlight or expose devices or their batteries to temperatures outside the recommended operating range of 0°C to 60°C/32°F to 140°F for an extended period. Doing so can result in battery failure, electric shock, fire, serious personal injury, death, and/or damage to the device or other property.
 
@@ -35,11 +35,11 @@ appliesto:
 
 - **Organize components during disassembly.** As you remove each subassembly from the device, place the subassembly (and all accompanying screws) away from the work area to prevent damage to the device or to the subassembly.
 
-- **Do not proceed if the battery is damaged.** If battery damage (e.g., leaking, expansion, folds or other) is discovered during device repair or if the battery is impacted or damaged during replacement, DO NOT proceed. Refer to the [Actions to take in case of a Thermal Event](#actions-to-take-in-a-thermal-event) section or contact Microsoft directly for proper device disposition.
+- **Do not proceed if the battery is damaged.** If battery damage (for example, leaking, expansion, folds, or other) is discovered during device repair or if the battery is impacted or damaged during replacement, DO NOT proceed. Refer to the [Actions to take if there is a Thermal Event](#actions-to-take-in-a-thermal-event) section or contact Microsoft directly for proper device disposition.
 
 - **Use genuine AC power supply.** Always select and use a genuine AC power supply and AC power cord for your Microsoft device. A genuine Microsoft power supply unit is provided with every device. Failure to take the following steps during device repair or component replacement can result in serious personal injury or death from electric shock or in damage to your device.
 
-- **Use standard power outlet.** Use only AC power provided by a standard (mains) wall outlet. Do not use non-standard power sources, such as generators or inverters, even if the voltage and frequency appear acceptable.
+- **Use standard power outlet.** Use only AC power provided by a standard (mains) wall outlet. Do not use nonstandard power sources, such as generators or inverters, even if the voltage and frequency appear acceptable.
 
 - **Proper disposal** Do not dispose of your old device in a household garbage can or recycling bin. Refer to the [Environmental compliance requirements](surface-environmental-compliance.md) for electronic waste management guidelines.
 
@@ -74,13 +74,13 @@ appliesto:
 - Operate the device in this mode until the battery is fully discharged and the device powers off.
 
 > [!WARNING]
-> For Surface devices where the battery is affixed to the back cover, place the back cover with the battery in a location where it will be protected from possible punctures, impacts, crushing, or drops during the repair process. Refer to the [Battery Safety](#battery-safety) section in this guide for more information.
+> For Surface devices where the battery is affixed to the back cover, place the back cover with the battery in a location where it can be protected from possible punctures, impacts, crushing, or drops during the repair process. For more information, see [Battery Safety](#battery-safety).
 > [!WARNING]
 > During all activities check to ensure that no loose articles are on the back cover or remain inside the device before reassembling it.
 > [!IMPORTANT]
-> **For devices with a rSSD (removable Solid-State Drive)**: Remove the rSSD whenever the Keyboard is removed from the device (for laptops). rSSD removal disconnects the battery from all device logical components for safety purposes.Whenever the rSSD has been removed, powering on the device requires that the rSSD and Keyboard are installed
+> **For devices with a rSSD (removable Solid-State Drive)**: Remove the rSSD whenever the Keyboard is removed from the device (for laptops). rSSD removal disconnects the battery from all device logical components for safety purposes. Whenever the rSSD is removed, powering on the device requires that the rSSD and Keyboard are installed.
 > [!IMPORTANT]
-> The serial number for your device model is located on its original cover. To keep track of the device’s serial number, please record it using waterproof ink on a sticker or label and apply the sticker or label to an easily accessible area on the device exterior. For serial number location please see the Device Information section in the service guide for your device. The serial number cannot be added permanently to a replacement part. Microsoft may have provided a label for this use in the replacement part’s packaging.
+> The serial number for your device model is located on its original cover. To keep track of the device’s serial number, record it using waterproof ink on a sticker or label and apply the sticker or label to an easily accessible area on the device exterior. For serial number location, see the Device Information section in the service guide for your device. The serial number cannot be added permanently to a replacement part. Microsoft may provide a label for this use in the replacement part’s packaging.
 
 ### Personal protective equipment
 
@@ -101,7 +101,7 @@ If your device contains a built-in, lithium-ion rechargeable battery, exercise c
 - Before beginning device repair, ensure your workspace is free of flammable debris or materials, has adequate ventilation, and that you have a fire suppressant device (example: fire blanket, container of sand, Class B fire extinguisher) within easy reach or you are within 20 feet of a fireproof enclosure. Fireproof enclosures should be kept free of combustible or flammable materials
 
 > [!WARNING]
-> It is recommended that an ESD-safe battery cover be placed across the device to protect the battery from any physical contact or accidental damage whenever the display is removed for internal repairs. Ensure corners of cover are always aligned with the corners of the device while battery is exposed. If the battery cover is misaligned during activities in any way, re-align before continuing work.
+> It is recommended that you place an ESD-safe battery cover across the device to protect the battery from any physical contact or accidental damage whenever the display is removed for internal repairs. Ensure corners of cover are always aligned with the corners of the device while battery is exposed. If the battery cover is misaligned during activities in any way, re-align before continuing work.
 
 - Use personal protective equipment (PPE) when handling damaged, venting, or hot battery packs.
 - Use the following best practices when handling batteries:
@@ -113,7 +113,7 @@ If your device contains a built-in, lithium-ion rechargeable battery, exercise c
     - Avoid using tools that conduct electricity.
     - Do not drop or throw a lithium-ion battery.
     - Do not expose the battery to excessive heat, sunlight, or temperatures outside the battery’s normal operating range (0°C to 60°C) / (32°F to 140°F)
-    - Ensure you handle, recycle, and/or dispose of used or damaged batteries in accordance with local laws and regulations. Follow Handling Used, Damaged or Defective Li-ion Batteries below.
+    - Ensure you handle, recycle, and/or dispose of used or damaged batteries in accordance with local laws and regulations. Follow [Handling Used, Damaged, or Defective Li-ion Batteries](#handling-used-damaged-or-defective-lithium-ion-batteries) below.
 - If the device repair cannot be completed immediately and the device needs to be stored temporarily before restarting the repair
     - Select a storage location and process that follows the battery safety precautions in this Guide.
     - Avoid exposing the device to environmental conditions and objects that could damage the battery pack.
