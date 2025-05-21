@@ -17,11 +17,28 @@ appliesto:
 # Surface Laptop 13-in Component Disassembly and Reassembly
 
 > [!CAUTION]
-> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
+> Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 > [!IMPORTANT]
 > Read this Guide in its entirety before starting any repairs. If at any point you are unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
 > [!WARNING]
 > Failure to follow the instructions in this Guide, use of non-Microsoft (non-genuine), incompatible, or modified replacement parts, and/or failure to use proper tools could result in serious injury, death, and/or damage to the product or other property.
+
+## Calibration and Authentication
+
+Specific components require additional software calibration or authentication after completing the installation of the component before the part will function to full capability. The specific steps will be called out in the pertinent repair workflows.
+
+### Impacted Parts
+
+- **AB Cover Display (TDM) –**
+    - Pre-installation – requires a pre-installation repair workflow, completed in SDT, to put the device into repair setup mode.Post-installation – requires a post-installation workflow, completed in SDT, to calibrate and validate the display to the correct settings.
+- **Trackpad –**
+    - Pre-installation – requires a pre-installation repair workflow, completed in SDT, to put the device into repair setup mode.
+    - Post-installation – requires a post-installation workflow, completed in SDT, to validate the touchpad to the correct keyset language settings.
+- **Battery –**
+    - Pre-installation - requires a pre-installation repair workflow, completed in SDT, to put the device into repair setup mode.
+    - Post-installation – requires a post-installation authentication workflow, completed in SDT, to validate and authenticate the new battery as a valid Microsoft part.
+- **Motherboard (PCBA) –**
+    - Post-installation - requires a post-installation workflow for Display calibration, Display validation, touchpad validation, and an authentication/validation for Battery, completed in SDT, to calibrate the display to the correct settings with the new board and ensure the battery is detected as an authentic part.
 
 ## Prerequisite Steps
 
@@ -29,12 +46,12 @@ Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
-  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for details.
+  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for guidelines.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for details.
+  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for guidelines.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
@@ -128,10 +145,10 @@ repair on a Surface device.
 1.  Follow “Procedure – removal (feet)”
 
 2.  With the feet removed, use a 5IP Torx Plus screwdriver to remove the
-    4 newly exposed screws. **Be sure to press down firmly with the
-    screwdriver to avoid any chance for screw stripping. Additionally,
-    please keep track and count the number of screws removed to ensure
-    there are no extra screws in the area.**
+    4 newly exposed screws.
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 <img src="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg"/>
 
@@ -142,35 +159,31 @@ repair on a Surface device.
 
 4.  Use a sharpie and ruler to draw a line 3mm away from the edge of 2
     guitar picks to prevent inserting the guitar pick too deep while
-    removing the C Cover. **If this step is not followed, you may risk
-    damaging your device.**
+    removing the C Cover.
 
 <img src="./images/Surface_LT_13in/LT13in_Repair/media/image7.png"/>
 
 5.  With your device flat on an ESD safe surface for the remainder of
     this removal process, firmly but carefully insert the plastic guitar
-    pick between the C Cover and the D bucket at least 5mm below the top
-    right corner; this requires some force and patience. **Do not use a
-    metal tool and only use the specified plastic tool.**
+    pick between the C Cover and the D bucket at least 5mm **below the top right corner**; this requires some force and patience.
+    > [!IMPORTANT]
+    > **Do not use a metal tool and only use the specified plastic tool.**
 
 <img src="./images/Surface_LT_13in/LT13in_Repair/media/image8.jpeg"/>
 
-6.  Firmly but carefully, wiggle the guitar pick up and down until you
-    hear a popping sound to disengage the nearby snap. With the snap
-    disengaged, there will be some space between the C Cover and D
-    bucket to gently slide the guitar pick along the right edge of the
-    device. **At this point, you may insert the guitar pick past the 3mm
-    marked line but** **when halfway down the right edge of the device,
-    do not insert the guitar pick beyond the 3mm line marked or you may
-    risk damaging your device.**
+6.  Firmly but carefully, wiggle the guitar pick up and down until you hear a popping sound to disengage the nearby snap.
+    With the snap disengaged, there will be some space between the C Cover and D bucket to gently slide the guitar pick along the right edge of the device.
+
+    > [!NOTE]
+    > For the portion next to the keyboard the pick may be inserted beyond 3mm to aid with removal. Below the keyboard, insertion must be limited to a maximum of 3mm.
 
 7.  Repeat this process until all 5 snaps on the right edge are
     disengaged. Stop when you reach the bottom corner of the device.
-    **It is very important to take your time during this step, or you
-    may risk damaging your device.**
 
-8.  Leave the guitar pick in the bottom right corner to ensure the
-    covers stay separated.
+    > [!IMPORTANT]
+    > It is very important to take your time during this step
+
+8.  Without inserting the guitar pick beyond the 3mm marked line, leave it in the bottom right corner to ensure the covers stay separated.
 
 9.  With one hand, very gently lift and hold the top right corner of the
     C Cover. With your other hand, using another guitar pick, carefully
@@ -181,7 +194,7 @@ repair on a Surface device.
     pick along the top edge.
 
 <img src="./images/Surface_LT_13in/LT13in_Repair/media/image9.jpeg"/>
-:::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image10.jpeg" alt-text="A person&#39;s hands holding a blue pick on a computer keyboard AI-generated content may be incorrect.":::
+    :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image10.jpeg" alt-text="A person&#39;s hands holding a blue pick on a computer keyboard AI-generated content may be incorrect.":::
 
 10. Firmly but carefully, insert the plastic guitar pick between the C
     Cover and the D bucket 5mm below the top left corner.

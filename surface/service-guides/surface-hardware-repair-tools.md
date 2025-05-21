@@ -49,14 +49,43 @@ from consumer retailers.
 | Plastic Opening Pick | ![Plastic Opening Pick](./images/HWTools/media/image7.jpeg) |
 | Plastic Opening Tool | ![Plastic Opening Tool](./images/HWTools/media/image8.png) |
 | ESD-safe Tweezers | ![ESD-safe Tweezers](./images/HWTools/media/image9.png) |
+| Adjustable Torque Screwdriver (compatible with 3IP/5IP Torx Plus bits) with 1.2 kgf*cm setting| ![Adjustable Torque Screwdriver](./images/HWTools/media/torque_screwdriver.png) |
+| Calipers (with resolution and accuracy of 0.01mm) | ![Calipers](./images/HWTools/media/calipers.png) |
+| Thick Feeler Gauge set (0.05mm to 0.3mm) | ![Feeler Gauge](./images/HWTools/media/thick_feeler_gauge.png) |
 
 ## Required Standard Tools and Miscellaneous Items
 
-- 3IP Torx-Plus Driver
+- 3IP, 5IP Torx-Plus Driver
 
 - Metric ruler
 
 - 3mm Allen Driver
+
+- Loctite 7649 Retaining Compound
+
+- Loctite 243 Threadlocker
+
+- USB 3.0 Thumb drive – 16 GB minimum storage
+
+- Isopropyl alcohol dispenser bottle (use 70% IPA)
+
+- Cleaning swabs
+
+- Microfiber Cloth
+
+- Isopropyl alcohol (IPA) wipes
+
+- Lint free cleaning cloth
+
+- 1 Gallon Enclosure
+
+- 0.5 Gallons Sand, Clean
+
+- Surface Dock
+
+- 65W Microsoft Surface Power Supply
+
+## 2-in-1 Specific Tools
 
 - Display Bonding Weights
 
@@ -94,26 +123,6 @@ from consumer retailers.
 
   - Dimensions: Minimum 229 mm x 305 mm (9 in x 12 in)
 
-- Loctite 7649 Retaining Compound
-
-- Loctite 243 Threadlocker
-
-- USB 3.0 Thumb drive – 16 GB minimum storage
-
-- Isopropyl alcohol dispenser bottle (use 70% IPA)
-
-- Cleaning swabs
-
-- Microfiber Cloth
-
-- Lint free cleaning cloth
-
-- 1 Gallon Enclosure
-
-- 0.5 Gallons Sand, Clean
-
-- Surface Dock
-
-- 65W Microsoft Surface Power Supply
-
 - Two 2-in spring clamps
+
+## Laptop Specific Tools

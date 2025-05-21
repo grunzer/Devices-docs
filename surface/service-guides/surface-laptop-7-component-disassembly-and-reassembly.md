@@ -19,7 +19,7 @@ appliesto:
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
 >
 > [!CAUTION]
-> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
+> Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 > [!IMPORTANT]
 > Read this Guide in its entirety before starting any repairs. If at any point you are unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
 > [!WARNING]
@@ -31,12 +31,12 @@ Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
-  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for details.
+  the battery has been fully discharged. Refer to the [Repair-specific precautions and warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for guidelines.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for details.
+  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for guidelines.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.

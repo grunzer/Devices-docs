@@ -26,6 +26,20 @@ closest to the display hinge point.
 
 ![A white rectangular object with a blue label Description automatically generated](./images/Laptop7/LT7_device_ID/image5.png)
 
+> [!IMPORTANT]
+> Device Serial Number Notation. The serial number for this device is located on its original bottom cover. It is crucial to retain the device’s original serial number for future support from Microsoft. The Enclosure FRU will remove the device’s original serial number and the original device serial number cannot be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
+
+## Genuine Microsoft Replacement Parts
+
+- Genuine Microsoft replacement parts can be obtained directly from
+  Microsoft on
+  [Microsoft.com](https://www.microsoft.com/store/b/surface-repair-parts).
+
+- Genuine Microsoft replacement parts are also available on the partner
+  sites below:
+
+  - [iFixit](https://www.ifixit.com/collaborations/microsoft)
+
 ## Illustrated Service Parts List
 
 ![A computer parts diagram showing the parts of a computer](./images/Laptop7/LT7_device_ID/image16.png)
@@ -196,14 +210,3 @@ closest to the display hinge point.
 | 104 English, International Netherlands   | ![Enter Key](./images/Laptop7/LT7_device_ID/image30.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image31.png)                                        |
 | 105 Portuguese                           | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image32.png)                                        |
 | 105 Spanish, European                    | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image33.png)                                        |
-
-## Genuine Microsoft Replacement Parts
-
-- Genuine Microsoft replacement parts can be obtained directly from
-  Microsoft on
-  [Microsoft.com](https://www.microsoft.com/store/b/surface-repair-parts).
-
-- Genuine Microsoft replacement parts are also available on the partner
-  sites below:
-
-  - [iFixit](https://www.ifixit.com/collaborations/microsoft)

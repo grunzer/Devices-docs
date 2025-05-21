@@ -27,6 +27,20 @@ closest to the display hinge point.
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_ID/media/image2.png" alt-text="A computer parts and symbols AI-generated content may be incorrect.":::
 
+> [!IMPORTANT]
+> Device Serial Number Notation. The serial number for this device is located on its original bottom cover. It is crucial to retain the device’s original serial number for future support from Microsoft. The D Bucket FRU will remove the device’s original serial number and the original device serial number cannot be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
+
+## Genuine Microsoft Replacement Parts
+
+- Genuine Microsoft replacement parts can be obtained directly from
+  Microsoft on
+  [Microsoft.com](https://www.microsoft.com/store/b/surface-repair-parts).
+
+- Genuine Microsoft replacement parts are also available on the partner
+  sites below:
+
+  - [iFixit](https://www.ifixit.com/collaborations/microsoft)
+
 ## Illustrated Service Parts List
 
 **IMPORTANT:** Repair workflows may require multiple parts to be ordered
