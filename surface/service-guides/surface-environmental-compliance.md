@@ -1,4 +1,5 @@
 ---
+title: Environmental Compliance Requirements
 description: Provides environmental compliance requirements for Surface devices.
 ms.service: surface
 ms.localizationpriority: medium

@@ -1,4 +1,5 @@
 ---
+title: Surface Pro 12-in Component Disassembly and Reassembly
 description: Repair Instructions for Surface Pro 12-in Edition
 ms.service: surface
 ms.localizationpriority: medium
@@ -1307,8 +1308,6 @@ Required Tools
   - M1.2 x L2.7 3IP (Microphone Deck Screws)
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"
      /> – M1369668-001
-
-  - 
 
 ### Procedure Removal Front Camera
 

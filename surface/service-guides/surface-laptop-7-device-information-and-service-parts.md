@@ -1,4 +1,5 @@
 ---
+title: Surface Laptop 7th Device Information and Service Parts
 description: Device information and service parts for Surface Laptop 7th Edition
 ms.service: surface
 ms.localizationpriority: medium
@@ -15,7 +16,7 @@ appliesto:
 
 # Surface Laptop 7th Device Information and Service Parts
 
-### Device Identity Information
+## Device Identity Information
 
 Support Link –
 [Link](https://support.microsoft.com/hub/4295675/surface-laptop-help)
@@ -25,7 +26,7 @@ closest to the display hinge point.
 
 ![A white rectangular object with a blue label Description automatically generated](./images/Laptop7/LT7_device_ID/image5.png)
 
-### Illustrated Service Parts List
+## Illustrated Service Parts List
 
 ![A computer parts diagram showing the parts of a computer](./images/Laptop7/LT7_device_ID/image16.png)
 
@@ -196,7 +197,7 @@ closest to the display hinge point.
 | 105 Portuguese                           | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image32.png)                                        |
 | 105 Spanish, European                    | ![Enter Key](./images/Laptop7/LT7_device_ID/image19.png)                                      | ![4,5,6 Keys](./images/Laptop7/LT7_device_ID/image33.png)                                        |
 
-### Genuine Microsoft Replacement Parts
+## Genuine Microsoft Replacement Parts
 
 - Genuine Microsoft replacement parts can be obtained directly from
   Microsoft on

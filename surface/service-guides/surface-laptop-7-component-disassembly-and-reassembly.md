@@ -1,4 +1,5 @@
 ---
+title: Surface Laptop 7th Edition Component Disassembly and Reassembly
 description: Component Disassembly and Reassembly for Surface Laptop 7th Edition
 ms.service: surface
 ms.localizationpriority: medium
@@ -52,7 +53,6 @@ repair on a Surface device.
 **Primary Components**
 
 - Feet (Refer to the [Illustrated Service Parts List](surface-laptop-7-device-information-and-service-parts.md#illustrated-service-parts-list))
-
 
   - M1301718 Screws x 4 (Foot screws)
 

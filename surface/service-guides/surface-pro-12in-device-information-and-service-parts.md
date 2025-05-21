@@ -1,4 +1,5 @@
 ---
+title: Surface Pro 12-in Device Information and Service Parts
 description: Device information and service parts for Surface Pro 12-in Edition
 ms.service: surface
 ms.localizationpriority: medium
@@ -36,8 +37,6 @@ the kickstand.
 to complete the repair successfully. Please check the primary and
 additional components section in each repair workflow to ensure you have
 all required parts before beginning your repair.
-
-## Surface Pro 12-inch Part List
 
 | **Item** | **Component** | **SKU Part No.** |
 |:--:|----|:--:|

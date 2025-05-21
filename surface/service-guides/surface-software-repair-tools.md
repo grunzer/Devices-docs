@@ -1,4 +1,5 @@
 ---
+title: Surface Software Tools – Diagnostics, Calibration, Troubleshooting, and Support
 description: Provides information on software repair tools
 ms.service: surface
 ms.localizationpriority: medium

@@ -1,4 +1,5 @@
 ---
+title: Repair Safety Guidelines
 description: Provides safety instructions and related information 
 ms.service: surface
 ms.localizationpriority: medium
