@@ -1645,24 +1645,24 @@ Required Tools
 
     1.  Carefully remove the NFC module from the old T1 Shield Lid.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
->
-> [!IMPORTANT]
-> Ensure that you do not start removal from the
-> mid-section of the module as that will damage it permanently.
+    > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
+    >
+    > [!IMPORTANT]
+    > Ensure that you do not start removal from the
+    > mid-section of the module as that will damage it permanently.
 
-2.  Clean any remnant adhesive from the back of the module using a
-    cleaning swab and IPA.
+    2.  Clean any remnant adhesive from the back of the module using a
+        cleaning swab and IPA.
 
-> [!IMPORTANT]
-> Use sparing amounts of IPA to clean the back surface of
-> the module as excessive use could cause the IPA to seep into the
-> module, damaging it.
+    > [!IMPORTANT]
+    > Use sparing amounts of IPA to clean the back surface of
+    > the module as excessive use could cause the IPA to seep into the
+    > module, damaging it.
+    >
+    3.  Apply the new PSA provided in the replacement kit to the back of the
+        NFC module, according to the picture below.
 
-3.  Apply the new PSA provided in the replacement kit to the back of the
-    NFC module, according to the picture below.
-
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image75.png" alt-text="A person holding a small device.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image75.png" alt-text="A person holding a small device.":::
 
 3.  **Install the IR Camera** – Remove the blue PSA liner away from the
     IR camera PSA. Using tweezers to handle the camera, install the
@@ -1677,8 +1677,6 @@ Required Tools
 
 5.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
-
-
 
 1.  **Re-assemble Microphone rubber** – Inspect the underside of the
     microphone deck to check that the 2 microphone rubbers are assembled
