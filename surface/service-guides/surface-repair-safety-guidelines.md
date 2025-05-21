@@ -1,5 +1,4 @@
 ---
-title: Repair Safety Guidelines
 description: Provides safety instructions and related information 
 ms.service: surface
 ms.localizationpriority: medium
@@ -62,7 +61,7 @@ appliesto:
 > [!WARNING]
 > Before opening a device, ensure it is powered off and disconnected from its power source. Disconnect the device charger or power cord from mains power.
 
-- For Autopilot-managed devices, refer to the [Windows Autopilot guidance](https://docs.microsoft.com/mem/autopilot/autopilot-mbr).
+- For Autopilot-managed devices, refer to the [Windows Autopilot guidance](/mem/autopilot/autopilot-mbr).
 
 - For devices with rechargeable lithium-ion batteries that power on, fully discharge the battery before beginning repair. To expedite the battery discharge process:
     - Disconnect the charger from the device.
@@ -113,7 +112,7 @@ If your device contains a built-in, lithium-ion rechargeable battery, exercise c
     - Avoid using tools that conduct electricity.
     - Do not drop or throw a lithium-ion battery.
     - Do not expose the battery to excessive heat, sunlight, or temperatures outside the battery’s normal operating range (0°C to 60°C) / (32°F to 140°F)
-    - Ensure you handle, recycle, and/or dispose of used or damaged batteries in accordance with local laws and regulations. Follow [Handling Used, Damaged, or Defective Li-ion Batteries](#handling-used-damaged-or-defective-lithium-ion-batteries) below.
+    - Ensure you handle, recycle, and/or dispose of used or damaged batteries in accordance with local laws and regulations. Follow [Handling Used, Damaged, or Defective Li-ion Batteries](#handling-used-damaged-or-defective-lithium-ion-batteries).
 - If the device repair cannot be completed immediately and the device needs to be stored temporarily before restarting the repair
     - Select a storage location and process that follows the battery safety precautions in this Guide.
     - Avoid exposing the device to environmental conditions and objects that could damage the battery pack.
@@ -122,7 +121,7 @@ If your device contains a built-in, lithium-ion rechargeable battery, exercise c
 ### Battery Warning Level
 
 > [!WARNING]
-> Please note that the device battery bears the following warning label. Please heed the information provided on the label.
+> Note that the device battery bears the following warning label. Heed the information provided on the label.
 
 :::image type="content" source="./images/Safety/battery-warning-level.png" alt-text="Battery Warning Level":::
 
@@ -136,19 +135,19 @@ Upon device opening, we recommend that you visually inspect the battery for sign
 - Discoloration of the battery casing.
 - Odor, smell, or visible corrosion. Leaked battery electrolyte smells like nail polish remover (acetone).
 - Dents along the battery cell edges or on the top surface.
-- Surface scratches that have exposed the aluminum beneath the black coating layer on the battery.
+- Surface scratches that expose the aluminum beneath the black coating layer on the battery.
 - Loose or damaged wires.
 - Known misuse or abuse.
 
 > [!WARNING]
-> Any battery exhibiting the signs listed above must be replaced immediately.
+> Any battery exhibiting the signs listed must be replaced immediately.
 
 ### Handling Used, Damaged, or Defective Lithium-Ion Batteries
 
 - **Do not discard lithium-ion batteries** (even undamaged ones) in household garbage or recycling bins.
 
 > [!WARNING]
-> **Do not ship damaged or defective batteries alone or inside a device.** These require specialized packaging and transport procedures.
+> **Do not ship damaged or defective batteries alone or inside a device.** These batteries require specialized packaging and transport procedures.
 
 Prior to transport:
 
@@ -194,12 +193,12 @@ Act immediately if you see any of the following symptoms of a battery thermal ev
 
 ### Stop repair and contact Microsoft
 
-Before and during repair of any Microsoft device, watch for the following indicators of a potential problem. If you see any of these, stop repairing. Visit the [Microsoft Product Safety](https://aka.ms/productsafety) page to report and obtain next steps:
+Before and during repair of any Microsoft device, watch for the following indicators of a potential problem. If you see any of these indicators, stop repairing. Visit the [Microsoft Product Safety](https://aka.ms/productsafety) page to report and obtain next steps:
 
 - Any burned or melted components, traces, or plastic parts on the outside of the device, or which otherwise exhibits heat damage, including charring seen in charging or other ports.
 - Any burned or melted components, traces, or plastic parts on the inside of the device, or which otherwise exhibits heat damage.
 - Any accessories exhibiting melting or heat damage that are included with the Microsoft device such as power supplies, keyboards, mice, cables, charging connectors, etc. included with the Microsoft device.
-- Any devices that exhibit a case that has separated apart or opened for reasons other than impact damage from dropping or evidence of tampering.
+- Any devices that exhibit a separated or opened case for reasons other than impact damage from dropping or evidence of tampering.
 - Any other finding that may constitute a potential safety hazard to the user, such as sharp edges on plastics.
 
 When contacting support, be prepared to provide:

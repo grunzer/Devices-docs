@@ -51,7 +51,8 @@ repair on a Surface device.
 
 **Primary Components**
 
-- Feet (Refer to the [Illustrated Service Parts List](surface-laptop-7-component-disassembly-and-reassembly.md#illustrated-service-parts-list))
+- Feet (Refer to the [Illustrated Service Parts List](surface-laptop-7-device-information-and-service-parts.md#illustrated-service-parts-list))
+
 
   - M1301718 Screws x 4 (Foot screws)
 
