@@ -59,7 +59,7 @@ repair on a Surface device.
 
 - Kickstand (Refer to Illustrated Service Parts List)
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -106,8 +106,7 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image6.png" alt-text="A person holding a white box.":::
 
 > [!WARNING]
->Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
-
+> Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
 ### Procedure Installation Kickstand
@@ -263,7 +262,7 @@ Required Tools
 
 - 1 x Conductive tape 2 – M1357605/606-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -788,7 +787,7 @@ Required Tools
 
 - 1 x Battery FPC tape – M1369599/600-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1056,7 +1055,7 @@ Required Tools
 
 - 1 x Thermal Paste 1cc – M1019757-006
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1307,7 +1306,7 @@ Required Tools
 
 - 1 x Front Camera PSA – M1369590/91-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1578,7 +1577,7 @@ Required Tools
 
 - 1 x IR Camera PSA – M1369594/95-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1842,7 +1841,7 @@ Required Tools
 
 - 1 x Aluminum Foil Tape – M1357596/97-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2046,7 +2045,7 @@ Required Tools
 
 - 1 x TIM Pad – M1369584-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2299,7 +2298,7 @@ Required Tools
 
 - 1 x Antenna Cable Tape – M1369589-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2570,7 +2569,7 @@ Required Tools
 
 - 1 x TIM Pad – M1369584-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2799,7 +2798,7 @@ Required Tools
 
 - 1 x Button Clip Assembly – M1356638-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -3079,7 +3078,7 @@ Required Tools
 
 - 2 x USB-C FPC PSA – M1369593-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -3331,7 +3330,7 @@ Required Tools
 
 - 2 x Antenna Cable Tape – M1369589-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -3730,7 +3729,7 @@ Required Tools
 
 - 1 x Switch Board FPC PSA – M1369597-001
 
-**Additional Components (Ordered Separately)**
+**Optional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
