@@ -337,7 +337,7 @@ Required Tools
         Use a 3mm Allen Driver to adjust the pick height to the 3.5mm
         mark.
 
-        > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
 
     2. Clamp the debonding tool to the edge of your workbench using a hand
         clamp on each side as shown in the image below. Ensure the cut depth
@@ -345,7 +345,7 @@ Required Tools
         cannot be accessed, the clamps will have to be removed to access the
         bottom of the tool and then re-clamped after adjusting the height.
 
-        > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
 
 5. **De-bond the Display** – The display of this device will follow the
     directional debonding process highlighted in the below image.
@@ -1130,7 +1130,7 @@ Required Tools
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
     release paper to expose the PSA.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image63.jpeg" alt-text="A close-up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image63.jpeg" alt-text="A close-up of a device.":::
 
 > [!IMPORTANT]
 > Check to ensure that the coax cable of the right
@@ -1141,7 +1141,7 @@ Required Tools
     provided in the replacement kit, apply half a grid of thermal paste
     (about 32mg) onto the location highlighted below
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image64.png" alt-text="A close-up of a blue device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image64.png" alt-text="A close-up of a blue device.":::
 
 4.  **Install** **the Left Microphone Board** – Align the left
     microphone board with the groove on the bucket, using the locating
@@ -1152,7 +1152,7 @@ Required Tools
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
     release paper to expose the PSA.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image65.jpeg" alt-text="A screwdriver on a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image65.jpeg" alt-text="A screwdriver on a device.":::
 
 > [!IMPORTANT]
 > Check to ensure that the coax cable of the left Antenna
@@ -1160,34 +1160,33 @@ Required Tools
 > or beside the board.
 
 7.  **Install the Microphone Deck** – Follow the steps below to install
-    the microphone deck
+    the microphone deck.
 
+    1.  **Re-assemble Microphone rubber** – Inspect the underside of the
+        microphone deck to check that the 2 microphone rubbers are assembled
+        into the deck. If they were removed during the de-bonding process,
+        re-install them into the microphone deck. Ensure that they are
+        installed in the proper orientation with the smooth side of the
+        rubber facing outward as shown below.
 
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+    
+    2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
+        microphone deck to observe if the ACS diffuser or two Microphone
+        meshes are damaged. If damaged, remove them using a plastic tweezer,
+        and replace them with the new materials provided in the repair kit.
 
-1.  **Re-assemble Microphone rubber** – Inspect the underside of the
-    microphone deck to check that the 2 microphone rubbers are assembled
-    into the deck. If they were removed during the de-bonding process,
-    re-install them into the microphone deck. Ensure that they are
-    installed in the proper orientation with the smooth side of the
-    rubber facing outward as shown below.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt-text="A close-up of a small piece of plastic.":::
+    
+    3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
+        into position using the enclosure contours and alignment posts.
+        Using a 3IP screwdriver, fasten the 3 screws
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
+        into place in the order shown.
 
-2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
-    microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
-    and replace them with the new materials provided in the repair kit.
-
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
-
-3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
-    into position using the enclosure contours and alignment posts.
-    Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
-    into place in the order shown.
-
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 8.  **Install** **the Display Module** – Re-assemble the battery
     connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
@@ -1196,8 +1195,7 @@ Required Tools
     install new speaker meshes on the display. Reconnect the TDM FPC and
     install the TDM Shield lid. Align the display on the bottom edge and
     press onto the device. Use the bonding frame tool to apply weight.
-    Refer to [Procedure Installation (Display
-    Module)](#procedure-installation-display) for detailed instructions.
+    Refer to [Procedure Installation (Display Module)](#procedure-installation-display) for detailed instructions.
 
 9.  **Power on device** – Carefully place device screen side up. Connect
     the device to a power supply, open display, and power on to the
@@ -1382,24 +1380,23 @@ Required Tools
 
     1.  Carefully remove the NFC module from the old T1 Shield Lid.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
->
-> [!IMPORTANT]
-> Ensure that you do not start removal from the
-> mid-section of the module as that will damage it permanently.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
 
-2.  Clean any remnant adhesive from the back of the module using a
-    cleaning swab and IPA.
+    > [!IMPORTANT]
+    > Ensure that you do not start removal from the mid-section of the module as that will damage it permanently.
 
-> [!IMPORTANT]
-> Use sparing amounts of IPA to clean the back surface of
-> the module as excessive use could cause the IPA to seep into the
-> module, damaging it.
+    2.  Clean any remnant adhesive from the back of the module using a
+        cleaning swab and IPA.
 
-3.  Apply the new PSA provided in the replacement kit to the back of the
-    NFC module, according to the picture below.
+    > [!IMPORTANT]
+    > Use sparing amounts of IPA to clean the back surface of
+    > the module as excessive use could cause the IPA to seep into the
+    > module, damaging it.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image75.png" alt-text="A person holding a small device.":::
+    3.  Apply the new PSA provided in the replacement kit to the back of the
+        NFC module, according to the picture below.
+
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image75.png" alt-text="A person holding a small device.":::
 
 3.  **Install the Front Camera** – Remove the blue PSA liner at the back
     of the front camera. Using tweezers to handle the camera, install
@@ -1414,32 +1411,31 @@ Required Tools
 5.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
+    1.  **Re-assemble Microphone rubber** – Inspect the underside of the
+        microphone deck to check that the 2 microphone rubbers are assembled
+        into the deck. If they were removed during the de-bonding process,
+        re-install them into the microphone deck. Ensure that they are
+        installed in the proper orientation with the smooth side of the
+        rubber facing outward as shown below.
 
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
 
-1.  **Re-assemble Microphone rubber** – Inspect the underside of the
-    microphone deck to check that the 2 microphone rubbers are assembled
-    into the deck. If they were removed during the de-bonding process,
-    re-install them into the microphone deck. Ensure that they are
-    installed in the proper orientation with the smooth side of the
-    rubber facing outward as shown below.
+    2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
+        microphone deck to observe if the ACS diffuser or two Microphone
+        meshes are damaged. If damaged, remove them using a plastic tweezer,
+        and replace them with the new materials provided in the repair kit.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
 
-2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
-    microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
-    and replace them with the new materials provided in the repair kit.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt-text="A close-up of a small piece of plastic.":::
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
-    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
+    3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
+        into position using the enclosure contours and alignment posts.
+        Using a 3IP screwdriver, fasten the 3 screws
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>)of the microphone deck
+        into place in the order shown.
 
-3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
-    into position using the enclosure contours and alignment posts.
-    Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>)of the microphone deck
-    into place in the order shown.
-
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 6.  **Install the T1 Shield**– Remove the release paper from the TIM pad
     on the T1 shield lid. Gently lift the battery cable and assemble the
@@ -1447,7 +1443,7 @@ Required Tools
     shield cover with your hand. Check to ensure that there is no damage
     or deformation to the shield snaps.
 
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png"/>
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
 
 7.  **Assemble NFC FPC onto T1 Shield Lid** – If your device is an
     NFC-enabled device, connect the NFC module FPC into the ZIF
