@@ -337,7 +337,7 @@ Required Tools
         Use a 3mm Allen Driver to adjust the pick height to the 3.5mm
         mark.
 
-        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
+        > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
 
     2. Clamp the debonding tool to the edge of your workbench using a hand
         clamp on each side as shown in the image below. Ensure the cut depth
@@ -345,7 +345,7 @@ Required Tools
         cannot be accessed, the clamps will have to be removed to access the
         bottom of the tool and then re-clamped after adjusting the height.
 
-        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
+        > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
 
 5. **De-bond the Display** – The display of this device will follow the
     directional debonding process highlighted in the below image.
