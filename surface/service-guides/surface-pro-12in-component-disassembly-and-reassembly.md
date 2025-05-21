@@ -640,7 +640,7 @@ Required Tools
     of the foam pad and bonding frame. Leave weight in place for 2
     minutes to ensure PSA activation.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image48.png":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image48.png" alt-text="Bonding frame over Display":::
 
     1.  Ruck Weight Configuration
 
