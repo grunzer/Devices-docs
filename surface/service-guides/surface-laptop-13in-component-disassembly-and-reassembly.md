@@ -17,7 +17,7 @@ appliesto:
 # Surface Laptop 13-in Component Disassembly and Reassembly
 
 > [!CAUTION]
-> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#Battery-Safety) guidelines in their entirety before proceeding with any repair steps.
+> Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 
 ## Prerequisite Steps
 
@@ -60,22 +60,19 @@ repair on a Surface device.
 1.  Place the device on an ESD safe soft surface with the bottom side
     facing up.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image1.jpeg"
-style="width:2.32407in;height:3.09877in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image1.jpeg"/>
 
 2.  Gently insert a plastic guitar pick between the foot and the bottom
     D bucket to pry the foot up. You may need to try gently inserting
     the pick from a different direction, but **do not use a metal tool
     and only use the specified plastic tool.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image2.jpeg"
-style="width:1.58209in;height:2.10945in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image2.jpeg"/>
 
 3.  Repeat steps 1 and 2 to remove the remaining 3 feet and place them
     aside for reuse (if not damaged).
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image3.jpeg"
-style="width:3.52083in;height:4.69444in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image3.jpeg"/>
 
 **Procedure – Installation (feet)**
 
@@ -132,22 +129,19 @@ style="width:3.52083in;height:4.69444in" />
     please keep track and count the number of screws removed to ensure
     there are no extra screws in the area.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg"
-style="width:3.41667in;height:4.55556in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg"/>
 
 3.  Gently flip the device around and open the display cover to the
     maximum angle.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image6.jpeg"
-style="width:2.15741in;height:2.87654in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image6.jpeg"/>
 
 4.  Use a sharpie and ruler to draw a line 3mm away from the edge of 2
     guitar picks to prevent inserting the guitar pick too deep while
     removing the C Cover. **If this step is not followed, you may risk
     damaging your device.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image7.png"
-style="width:3.05556in;height:1.91694in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image7.png"/>
 
 5.  With your device flat on an ESD safe surface for the remainder of
     this removal process, firmly but carefully insert the plastic guitar
@@ -155,8 +149,7 @@ style="width:3.05556in;height:1.91694in" />
     right corner; this requires some force and patience. **Do not use a
     metal tool and only use the specified plastic tool.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image8.jpeg"
-style="width:3.02239in;height:4.02985in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image8.jpeg"/>
 
 6.  Firmly but carefully, wiggle the guitar pick up and down until you
     hear a popping sound to disengage the nearby snap. With the snap
@@ -183,15 +176,13 @@ style="width:3.02239in;height:4.02985in" />
     Cover and the D bucket - allowing you to gently slide the guitar
     pick along the top edge.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image9.jpeg"
-style="width:2.78731in;height:3.71642in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image9.jpeg"/>
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image10.jpeg" alt-text="A person&#39;s hands holding a blue pick on a computer keyboard AI-generated content may be incorrect.":::
 
 10. Firmly but carefully, insert the plastic guitar pick between the C
     Cover and the D bucket 5mm below the top left corner.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image11.jpeg"
-style="width:2.76146in;height:3.68194in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image11.jpeg"/>
 
 11. Firmly but carefully, wiggle the guitar pick up and down until you
     hear a popping sound to disengage the nearby snap. With the snap
@@ -211,14 +202,11 @@ style="width:2.76146in;height:3.68194in" />
     Cover upwards towards the display cover and away from the battery to
     separate it from the D bucket.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image12.jpeg"
-style="width:2.23881in;height:2.98507in" /><img src="./images/Surface_LT_13in/LT13in_Repair/media/image13.jpeg"
-style="width:2.18657in;height:2.91542in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image12.jpeg"/><img src="./images/Surface_LT_13in/LT13in_Repair/media/image13.jpeg"/>
 
 14. Use a plastic guitar pick to disengage the trackpad FPC buckle.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image14.jpeg"
-style="width:2.96269in;height:3.95025in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image14.jpeg"/>
 
 15. Disconnect the trackpad FPC and place the C Cover on an ESD safe,
     soft surface for reuse. **Carefully inspect and count all 23 snaps
@@ -227,8 +215,7 @@ style="width:2.96269in;height:3.95025in" />
     cracked snaps on the C Cover, it cannot be reused. If there are any
     missing or cracked hooks on the D bucket, it cannot be reused.**
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image15.png"
-style="width:3.04706in;height:2.23935in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image15.png"/>
 
 **Procedure – Installation (C Cover)**
 
@@ -853,8 +840,7 @@ style="width:3.04706in;height:2.23935in" />
 6.  Use plastic tweezers to line up and install the USB-C tape to the
     edge of the D Bucket. Be sure not to cover any screws.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image62.png"
-style="width:4.125in;height:3.15625in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image62.png"/>
 
 7.  Firmly press the tape down for 30 seconds.
 
@@ -1341,14 +1327,13 @@ style="width:4.125in;height:3.15625in" />
     connector buckle on the PCBA and gently disconnect the cable with
     your fingers.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image93.jpeg"
-style="width:3.09577in;height:2.32249in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image93.jpeg"/>
 
 10. With a plastic ESD safe prybar, gently lift the top display cable
     upwards and use your fingers to remove the tape.
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image94.jpeg" alt-text="A close-up of a computer AI-generated content may be incorrect.":::<img src="./images/Surface_LT_13in/LT13in_Repair/media/image95.jpeg"
-style="width:2.3459in;height:1.75942in"
+
 alt="A person fixing a device AI-generated content may be incorrect." />
 
 11. Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
@@ -1387,9 +1372,9 @@ alt="A person fixing a device AI-generated content may be incorrect." />
     there are no extra screws in the area.**
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image97.jpeg" alt-text="A close-up of a machine AI-generated content may be incorrect.":::<img src="./images/Surface_LT_13in/LT13in_Repair/media/image100.png"
-style="width:1.8513in;height:2.4875in"
+
 alt="A close up of a device AI-generated content may be incorrect." /><img src="./images/Surface_LT_13in/LT13in_Repair/media/image101.png"
-style="width:1.71806in;height:2.56042in"
+
 alt="A hand holding a black glove AI-generated content may be incorrect." />
 
 3.  Close the AB Cover display but be careful not to clamp down on any
@@ -1451,8 +1436,7 @@ alt="A hand holding a black glove AI-generated content may be incorrect." />
 14. Use a plastic spudger to firmly secure the display connector tape
     into the gap and crease with the USB-C connector on the PCBA.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image111.png"
-style="width:4.64583in;height:3.20833in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image111.png"/>
 
 15. Firmly press the display connector tape down for 30 seconds at the
     location below.
@@ -1462,16 +1446,14 @@ style="width:4.64583in;height:3.20833in" />
 16. Use a plastic spudger to firmly secure the display connector tape
     into the gap and crease with the AB Cover Display hinge.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image113.png"
-style="width:4.76042in;height:3.17708in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image113.png"/>
 
 17. Follow “Procedure – Installation (USB-C)” Steps 4-7
 
 18. Use plastic tweezers to install the display connector foam aligned
     with the USB-C bracket like below.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image114.png"
-style="width:4.08333in;height:3.09375in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image114.png"/>
 
 19. Gently route the left display cable through the ridges on the D
     Bucket and connect it with the bottom receptacle on the PCBA. Be
@@ -1479,8 +1461,7 @@ style="width:4.08333in;height:3.09375in" />
     damage.
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image55.png" alt-text="A close up of a computer AI-generated content may be incorrect.":::
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image115.png"
-style="width:4.5625in;height:3.13542in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image115.png"/>
 
 20. Use a plastic spudger to ensure the buckle on the display connector
     is closed.
@@ -1616,7 +1597,7 @@ style="width:4.5625in;height:3.13542in" />
     upwards and use your fingers to remove the tape.
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image94.jpeg" alt-text="A close-up of a computer AI-generated content may be incorrect.":::<img src="./images/Surface_LT_13in/LT13in_Repair/media/image95.jpeg"
-style="width:2.3459in;height:1.75942in"
+
 alt="A person fixing a device AI-generated content may be incorrect." />
 
 13. With a plastic ESD safe prybar, disengage the top display connector
@@ -1679,7 +1660,7 @@ alt="A person fixing a device AI-generated content may be incorrect." />
 8.  Apply the new tape underneath the top display cable and firmly press
     the tape down for 30
     seconds.<img src="./images/Surface_LT_13in/LT13in_Repair/media/image123.png"
-    style="width:4.78241in;height:3.16204in"
+    
     alt="A close up of a cable AI-generated content may be incorrect." />
 
 <!-- -->
@@ -1750,8 +1731,7 @@ alt="A person fixing a device AI-generated content may be incorrect." />
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image125.png" alt-text="A metal strip on a mesh surface AI-generated content may be incorrect.":::
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image126.png"
-style="width:4.31875in;height:2.74111in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image126.png"/>
 
 4.  Before pressing and installing the USB-A and Audio Jack FPC
     subassembly onto the D Bucket, connect the ends of the FPC to the
@@ -1759,8 +1739,7 @@ style="width:4.31875in;height:2.74111in" />
 
 5.  Use a plastic spudger to press the buckle on both connectors closed.
 
-<img src="./images/Surface_LT_13in/LT13in_Repair/media/image127.png"
-style="width:4.78056in;height:3.28056in" />
+<img src="./images/Surface_LT_13in/LT13in_Repair/media/image127.png"/>
 
 6.  Install the USB-A and Audio Jack FPC subassembly to the D Bucket and
     be sure to firmly press the foil down for 30 seconds each.
@@ -1793,16 +1772,6 @@ style="width:4.78056in;height:3.28056in" />
 17. Follow “Procedure – Installation (C Cover)”
 
 18. Follow “Procedure – Installation (Feet)”
-
-# Environmental Compliance Requirements
-
-All waste electrical and electronic equipment (WEEE), waste electronic
-components, waste batteries, and electronic waste residuals must be
-managed according to applicable laws and regulations. and H09117,
-“Conformance Standards for Environmentally Sound Management of Waste
-Electrical and Electronic Equipment (WEEE)” which is available at this
-link: <https://www.microsoft.com/en-pk/download/details.aspx?id=11691> .
-In case of questions, please contact <AskECT@microsoft.com> .
 
 19. **do not use a metal tool and only use the specified plastic tool.**
 
