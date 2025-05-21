@@ -103,12 +103,13 @@ repair on a Surface device.
     pull. Pull with a moderate amount of force until the foam inserts
     slide out of the device. If the kickstand is stuck, ensure the
     threaded bosses have not slipped back into the recess on the hinges.
+    
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image6.png" alt-text="A person holding a white box.":::
+
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
 > [!WARNING]
 > Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
-
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
 ### Procedure Installation Kickstand
 
@@ -131,7 +132,7 @@ repair on a Surface device.
 > [!CAUTION]
 > Do not use any tool or sharp object to assist in inserting the tabs into the slots. Only the tabs should be inserted. Doing so could damage internal components.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
 
 3.  **Slot Outer Lip of Hinge into Kickstand –** Using fingers on the
     underside of the kickstand and thumb on the topside, slightly rotate
@@ -380,10 +381,10 @@ Required Tools
     debonding tool at the left speaker edge. Push the device towards the
     top left corner and rotate it to cut through the top edge.
 
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image24.png" alt-text="A hand holding a black rectangular object.":::
+
 > [!CAUTION]
 > Stop pushing the device once the pick meets the debonding tape placed at the center of the top edge (shown in the red arrow). If the debonding pick goes over the front camera and damages the front camera foam gasket, you will have to replace the front camera with a new one.
-
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image24.png" alt-text="A hand holding a black rectangular object.":::
 
 7.  Remove the device from the Surface Debonding tool and place the
     device into the debonding tool at the right speaker edge. Push the
@@ -830,7 +831,7 @@ Required Tools
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"/>) from the Battery frame
     using a 3IP (Torx-Plus) driver in the order shown below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image52.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image52.png" alt-text="A close up of a device.":::
 
 3.  **Lift out the Battery from the Enclosure** – Using two hands, grab
     the battery by the points shown in the photo below and gently lift
@@ -840,7 +841,7 @@ Required Tools
     into the new enclosure after inspecting the device for any foreign
     objects and screws.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image53.png" alt-text="A hand holding a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image53.png" alt-text="A hand holding a device.":::
 
 > [!NOTE]
 > If the Display FPC is still connected to the motherboard and rests on the battery, the battery will be removed by gently lifting it up from the screw bosses and towards the bottom side of the device. Ensure that the Display FPC connection is not bent at a 90⁰ angle.
@@ -1076,7 +1077,7 @@ Required Tools
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 3.  **Remove the Left Microphone Board** – Using a 3IP screwdriver,
     remove the screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>) securing the left
@@ -1084,13 +1085,13 @@ Required Tools
     nylon spudger, gently lift on the edge of the board and disconnect
     it from the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image58.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image58.png" alt-text="A close up of a device.":::
 
 4.  **Clean the Thermal paste** – Clean any residue thermal paste
     underneath the left underneath the left microphone board using a
     cleaning swab.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image59.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image59.png" alt-text="A close up of a device.":::
 
 5.  **Remove the Right Microphone Board** – Using a 3IP screwdriver,
     remove the screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>) securing the right
@@ -1098,7 +1099,7 @@ Required Tools
     nylon spudger, gently lift on the edge of the board and disconnect
     it from the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image60.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image60.png" alt-text="A close up of a device.":::
 
 6.  **Remove Microphone Mesh PSA** - Using plastic tweezers, remove the
     old mesh PSA from the left and right microphone boards.
@@ -1115,22 +1116,22 @@ Required Tools
         attach them to the left and right microphone boards using the
         gold-marked lines as locating reference.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image62.png" alt-text="A close up of a finger.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image62.png" alt-text="A close up of a finger.":::
 
-> [!IMPORTANT]
->Ensure the mesh is not attached in a wrong position as
-> this will lead to poor sound quality.
+    > [!IMPORTANT]
+    >Ensure the mesh is not attached in a wrong position as
+    > this will lead to poor sound quality.
 
-2.  **Install the Right Microphone Board** – Align the right microphone
-    board with the groove on the bucket, using the locating pins as
-    reference for the top of the board, and the gold-marked line on the
-    Motherboard as reference for the bottom of the board. Gently press
-    on the board to connect it to the main Motherboard. Using a 3IP
-    screwdriver, fasten the right microphone board screw
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
-    release paper to expose the PSA.
+    2.  **Install the Right Microphone Board** – Align the right microphone
+        board with the groove on the bucket, using the locating pins as
+        reference for the top of the board, and the gold-marked line on the
+        Motherboard as reference for the bottom of the board. Gently press
+        on the board to connect it to the main Motherboard. Using a 3IP
+        screwdriver, fasten the right microphone board screw
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
+        release paper to expose the PSA.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image63.jpeg" alt-text="A close-up of a device.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image63.jpeg" alt-text="A close-up of a device.":::
 
 > [!IMPORTANT]
 > Check to ensure that the coax cable of the right
@@ -1321,20 +1322,20 @@ Required Tools
 2.  **Remove conductive tape 1** – Using a pair of plastic tweezers,
     remove the conductive tape 1 from the T1 Shield Lid.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image67.jpeg" alt-text="A close up of a computer.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image67.jpeg" alt-text="A close up of a computer.":::
 
 3.  **Disconnect NFC FPC** – If your device is NFC-enabled, use a
     plastic spudger to disengage the NFC connector latch highlighted in
     the below picture and gently remove the NFC FPC from the connector.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image68.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image68.jpeg" alt-text="A close up of a device.":::
 
 4.  **Remove the T1 Shield Lid** – Using an ESD-safe tweezers, carefully
     remove the T1 shield lid identified below. If your device is
     NFC-enabled, do not discard the T1 Shield Lid as the NFC FPC will be
     reused during re-assembly.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image69.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image69.jpeg" alt-text="A close up of a device.":::
 
 5.  **Remove the Microphone Deck** – Using a 3IP screwdriver, remove the
     3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) securing the deck to
@@ -1342,27 +1343,27 @@ Required Tools
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 6.  **Disconnect the Front Camera FPC** – Using the plastic opening
     tool, gently lift on the edge of the front camera FPC connector to
     disconnect it from the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image70.jpeg" alt-text="A hand holding a blue tool.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image70.jpeg" alt-text="A hand holding a blue tool.":::
 
 7.  **Remove Front Camera** – Using the flat end of the plastic opening
     tool, position the tool underneath the bottom edge of the front
     camera and carefully lift to peel the front camera off the
     enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image71.jpeg" alt-text="A close-up of a blue device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image71.jpeg" alt-text="A close-up of a blue device.":::
 
 8.  **Clean Front Camera PSA** – Using a pair of plastic tweezers or
     Nylon spudger, remove the old front camera PSA from the bucket
     and/or the camera. Clean the bucket area with IPA and cleaning
     swabs.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image72.png" alt-text="A person using a small device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image72.png" alt-text="A person using a small device.":::
 
 ### Procedure Installation Front Camera
 
@@ -1373,7 +1374,7 @@ Required Tools
     back of the front camera using the holes and cutout on the camera as
     guidance. Press firmly on the PSA against the camera for 10 seconds.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image73.png" alt-text="A close-up of a finger holding a small piece of electronic device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image73.png" alt-text="A close-up of a finger holding a small piece of electronic device.":::
 
 2.  **Prepare NFC FPC for re-assembly** – follow the instructions below
     to prepare the NFC module for re-assembly
@@ -1454,7 +1455,7 @@ Required Tools
 8.  **Install the Conductive Tape 1** – assemble the conductive tape 1
     onto the area marked below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
 
 9.  **Install the Display Module** – Re-assemble the battery connector
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
@@ -1588,20 +1589,20 @@ Required Tools
 2.  **Remove conductive tape 1** – Using a pair of plastic tweezers,
     remove the conductive tape 1 from the T1 Shield Lid.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image67.jpeg" alt-text="A close up of a computer.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image67.jpeg" alt-text="A close up of a computer.":::
 
 3.  **Disconnect NFC FPC** – If your device is NFC-enabled, use a
     plastic spudger to disengage the NFC connector latch highlighted in
     the below picture and gently remove the NFC FPC from the connector.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image68.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image68.jpeg" alt-text="A close up of a device.":::
 
 4.  **Remove the T1 Shield Lid** – Using an ESD-safe tweezers, carefully
     remove the T1 shield lid identified below. If your device is
     NFC-enabled, do not discard the T1 Shield Lid as the NFC FPC will be
     reused during re-assembly.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image78.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image78.jpeg" alt-text="A close up of a device.":::
 
 5.  **Remove the Microphone Deck** – Using a 3IP screwdriver, remove the
     3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) securing the deck to
@@ -1609,7 +1610,7 @@ Required Tools
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 6.  **Disconnect the IR Camera FPC** – Using the plastic opening tool,
     gently lift on the edge of the front camera FPC connector to
@@ -1623,13 +1624,13 @@ Required Tools
     camera and carefully lift to peel the front camera off the
     enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image80.jpeg" alt-text="A hand holding a blue tool.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image80.jpeg" alt-text="A hand holding a blue tool.":::
 
 8.  **Clean IR Camera PSA** – Using a pair of plastic tweezers or Nylon
     spudger, remove the old front camera PSA from the bucket and/or the
     camera. Clean the bucket area with IPA and cleaning swabs.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image81.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image81.jpeg" alt-text="A close up of a device.":::
 
 ### Procedure Installation Infrared Camera
 
@@ -1638,14 +1639,14 @@ Required Tools
     the enclosure region highlighted below using the enclosure outline
     as guidance. Press firmly on the PSA for 10 seconds.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image82.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image82.png" alt-text="A close up of a device.":::
 
 2.  **Prepare NFC FPC for re-assembly** – follow the instructions below
     to prepare the NFC module for re-assembly
 
     1.  Carefully remove the NFC module from the old T1 Shield Lid.
 
-    > :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
     >
     > [!IMPORTANT]
     > Ensure that you do not start removal from the
@@ -1678,30 +1679,31 @@ Required Tools
 5.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
-1.  **Re-assemble Microphone rubber** – Inspect the underside of the
-    microphone deck to check that the 2 microphone rubbers are assembled
-    into the deck. If they were removed during the de-bonding process,
-    re-install them into the microphone deck. Ensure that they are
-    installed in the proper orientation with the smooth side of the
-    rubber facing outward as shown below.
+    1.  **Re-assemble Microphone rubber** – Inspect the underside of the
+        microphone deck to check that the 2 microphone rubbers are assembled
+        into the deck. If they were removed during the de-bonding process,
+        re-install them into the microphone deck. Ensure that they are
+        installed in the proper orientation with the smooth side of the
+        rubber facing outward as shown below.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
 
-2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
-    microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
-    and replace them with the new materials provided in the repair kit.
+    2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
+        microphone deck to observe if the ACS diffuser or two Microphone
+        meshes are damaged. If damaged, remove them using a plastic tweezer,
+        and replace them with the new materials provided in the repair kit.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
 
-3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
-    into position using the enclosure contours and alignment posts.
-    Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
-    into place in the order shown.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt-text="A close-up of a small piece of plastic.":::
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+    3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
+        into position using the enclosure contours and alignment posts.
+        Using a 3IP screwdriver, fasten the 3 screws
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
+        into place in the order shown.
+
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 6.  **Install the T1 Shield**– Remove the release paper from the TIM pad
     on the T1 shield lid. Gently lift the battery cable and assemble the
@@ -1709,7 +1711,7 @@ Required Tools
     shield cover with your hand. Check to ensure that there is no damage
     or deformation to the shield snaps.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
 
 7.  **Assemble NFC FPC onto T1 Shield Lid** – If your device is an
     NFC-enabled device, connect the NFC module FPC into the ZIF
@@ -1720,7 +1722,7 @@ Required Tools
 8.  **Install the Conductive Tape 1** – assemble the conductive tape 1
     onto the area marked below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
 
 9.  **Install the Display Module** – Re-assemble the battery connector
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
@@ -1850,19 +1852,19 @@ Required Tools
 2.  **Remove the Aluminum foil tape** – Using a nylon spudger, remove
     the aluminum foil tape on the T3 top lid.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image84.jpeg" alt-text="A hand holding a black tool.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image84.jpeg" alt-text="A hand holding a black tool.":::
 
 3.  **Remove the T3 Top Shield Lid assembly** – Using plastic tweezers
     or a nylon spudger, remove the T3 top shield lid along with the tape
     that is attached to it.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image85.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image85.jpeg" alt-text="A close up of a device.":::
 
 4.  **Remove the Rear Camera FPC** – Using the plastic opening tool or a
     nylon spudger, gently pry up the rear camera FPC connector from
     bottom edge of the connector.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image86.jpeg" alt-text="A hand holding a blue tool.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image86.jpeg" alt-text="A hand holding a blue tool.":::
 
 > [!NOTE]
 > Avoid excessively bending the rear camera FPC when prying
@@ -1874,7 +1876,7 @@ Required Tools
     FPC away from the conductive foam underneath it and lift it out of
     the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image87.jpeg" alt-text="A close up of a screwdriver.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image87.jpeg" alt-text="A close up of a screwdriver.":::
 
 6.  **Remove the conductive foam** – Using your fingers, remove the
     conductive foam from the enclosure. Use IPA and cleaning swabs to
@@ -1894,7 +1896,7 @@ Required Tools
     screwdriver, fasten the 2 rear camera screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) into the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image87.jpeg" alt-text="A close up of a screwdriver.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image87.jpeg" alt-text="A close up of a screwdriver.":::
 
 3.  **Connect the Rear Camera FPC** – Remove the release paper on the
     top of the conductive foam, then connect the rear camera FPC
@@ -1908,7 +1910,7 @@ Required Tools
     shield lid. Using a pair of plastic tweezers, press down on the tape
     using the circular post for placement reference.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image89.png" alt-text="A finger pressing a button on a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image89.png" alt-text="A finger pressing a button on a device.":::
 
 5.  **Assemble the Aluminum foil tape** – Remove the liner on the
     aluminum tape provided in the replacement kit. Use a pair of
@@ -2054,20 +2056,20 @@ Required Tools
 2.  **Remove conductive tape 1** – Using a pair of plastic tweezers,
     remove the conductive tape 1 from the T1 Shield Lid.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image67.jpeg" alt-text="A close up of a computer.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image67.jpeg" alt-text="A close up of a computer.":::
 
 3.  **Disconnect NFC FPC** – If your device is NFC-enabled, use a
     plastic spudger to disengage the NFC connector latch highlighted in
     the below picture and gently remove the NFC FPC from the connector.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image68.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image68.jpeg" alt-text="A close up of a device.":::
 
 4.  **Remove the T1 Shield Lid** – Using an ESD-safe tweezers, carefully
     remove the T1 shield lid identified below. If your device is
     NFC-enabled, do not discard the T1 Shield Lid as the NFC FPC will be
     reused during re-assembly.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image78.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image78.jpeg" alt-text="A close up of a device.":::
 
 5.  **Remove the Thermal Module Screws** – Using a 3IP Screwdriver,
     remove the 7 screws
@@ -2083,20 +2085,20 @@ Required Tools
     the motherboard. Holding the thermal module securely with your
     hands, remove the module and set it aside.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image91.png" alt-text="A person using a tool to remove the copper parts of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image91.png" alt-text="A person using a tool to remove the copper parts of a device.":::
 
 7.  **Clean TIM residue from Motherboard** – Using a nylon spudger,
     scrape any TIM residue from the motherboard. Use IPA and a cleaning
     swab to clean any leftover residue.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image92.png" alt-text="A person removing a chip from a computer.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image92.png" alt-text="A person removing a chip from a computer.":::
 
 8.  **Clean TIM residue from Thermal Module (Re-use only)** – If the
     thermal module is being reused, scrape any TIM residue from the area
     shown using a nylon spudger. Use IPA and a cleaning swab to clean
     any leftover residue.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image93.png" alt-text="A person holding a chip.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image93.png" alt-text="A person holding a chip.":::
 
 ### Procedure Installation Thermal Module
 
@@ -2104,7 +2106,7 @@ Required Tools
     reapply the TIM material provided in the replacement kit onto the
     back of the thermal module.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image94.png" alt-text="A person holding a small chip.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image94.png" alt-text="A person holding a small chip.":::
 >
 > [!NOTE]
 > This step is only required if you are re-using the original
@@ -2116,24 +2118,24 @@ Required Tools
 
     1.  Carefully remove the NFC module from the old T1 Shield Lid.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
->
-> [!IMPORTANT]
-> Ensure that you do not start removal from the
-> mid-section of the module as that will damage it permanently.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
 
-2.  Clean any remnant adhesive from the back of the module using a
-    cleaning swab and IPA.
+        > [!IMPORTANT]
+        > Ensure that you do not start removal from the
+        > mid-section of the module as that will damage it permanently.
 
-> [!IMPORTANT]
-> Use sparing amounts of IPA to clean the back surface of
-> the module as excessive use could cause the IPA to seep into the
-> module, damaging it.
+    2.  Clean any remnant adhesive from the back of the module using a
+        cleaning swab and IPA.
 
-3.  Apply the new PSA provided in the replacement kit to the back of the
-    NFC module, according to the picture below.
+        > [!IMPORTANT]
+        > Use sparing amounts of IPA to clean the back surface of
+        > the module as excessive use could cause the IPA to seep into the
+        > module, damaging it.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image75.png" alt-text="A person holding a small device.":::
+    3.  Apply the new PSA provided in the replacement kit to the back of the
+        NFC module, according to the picture below.
+
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image75.png" alt-text="A person holding a small device.":::
 
 3.  **Assemble the Thermal Module onto the Motherboard** – Remove the
     liner of the TIM on the thermal module and assemble it into place on
@@ -2142,7 +2144,7 @@ Required Tools
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) in the order shown
     below using a 3IP screwdriver.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image95.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image95.png" alt-text="A close up of a device.":::
 >
 > [!IMPORTANT]
 > Take extra care not to bend or twist the Thermal
@@ -2155,7 +2157,7 @@ Required Tools
     shield cover with your hand. Check to ensure that there is no damage
     or deformation to the shield snaps.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
 
 5.  **Assemble NFC FPC onto T1 Shield Lid** – If your device is an
     NFC-enabled device, connect the NFC module FPC into the ZIF
@@ -2166,7 +2168,7 @@ Required Tools
 6.  **Install the Conductive Tape 1** – assemble the conductive tape 1
     onto the area marked below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image77.png" alt-text="A close up of a computer.":::
 
 7.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
     microphone deck to observe if the ACS diffuser or two Microphone
@@ -2325,14 +2327,15 @@ Required Tools
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 4.  **Disconnect Front Camera and IR Camera FPC**– Using the plastic
     opening tool, carefully disconnect the front camera and IR camera
     FPC connectors from the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg" alt="A hand holding a tool to a circuit board." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::
+
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg" alt-text="A hand holding a tool to a circuit board.":::
 
 5.  **Disconnect the Antenna Coax cable connectors** – Using a nylon
     spudger or plastic opening tool, carefully disconnect the two Wifi
@@ -2340,14 +2343,14 @@ Required Tools
     the routing clips L1, L2, and L3 shown below. Remove the right cable
     from clips R1, and R2.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
 
 6.  **Remove the Left Antenna Deck** **screws** – Using a 3IP
     screwdriver, remove the 3 screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) securing the left
     antenna deck to the enclosure in the order shown below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image99.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image99.png" alt-text="A close up of a device.":::
 
 7.  **Remove the Left Antenna Deck** – Remove the left antenna deck from
     the enclosure, using the plastic opening tool to lift it out from
@@ -2355,14 +2358,14 @@ Required Tools
     left magnet. Avoid crumpling the antenna cable tape as it can be
     re-used during re-assembly.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image100.jpeg" alt-text="A close-up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image100.jpeg" alt-text="A close-up of a device.":::
 
 8.  **Remove the Right Antenna Deck** **screws** – Using a 3IP
     screwdriver, remove the 3 screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) securing the right
     antenna deck to the enclosure in the order shown below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image101.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image101.png" alt-text="A close up of a device.":::
 
 9.  **Remove the Right Antenna Deck** – Remove the right antenna deck
     from the enclosure, using the plastic opening tool to lift it out
@@ -2378,7 +2381,7 @@ Required Tools
     Continuously wrap the tape around the cable, stopping once the
     release paper on the end of the tape is reached.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image102.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image102.png" alt-text="A close up of a device.":::
 
 > [!NOTE]
 > This step is only required if you are reusing the original Antenna decks and the original cable tape is unfit for re-use (i.e. torn or crumpled).
@@ -2400,7 +2403,7 @@ Required Tools
     go. Then gently bent it to the right and guide it into clip L3.
     Route the right Antenna cable through clips R1 and R2.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
 
 5.  **Attach Antenna Cable Tape** – Remove the release paper on the back
     of the cable tapes for the left and right Antenna decks. Attach the
@@ -2409,8 +2412,6 @@ Required Tools
 6.  **Install Front Camera and IR Camera FPC**– Using your fingers, or
     the flat end of a nylon spudger, press the Front Camera and IR
     Camera FPCs into the connector on the Motherboard.
-
-
 
 7.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
@@ -2594,13 +2595,13 @@ Required Tools
     screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the right
     speaker and lift the speaker out of the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image104.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image104.png" alt-text="A close up of a device.":::
 
 4.  **Disconnect the Left Speaker connector** – With a plastic spudger
     or pair of tweezers, disconnect the left speaker connector from the
     Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image105.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image105.jpeg" alt-text="A close up of a device.":::
 
 5.  **Remove the Rear Camera** – Using a 3IP screwdriver, remove the 2
     screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
@@ -2616,7 +2617,7 @@ Required Tools
     screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the left
     speaker and lift the speaker out of the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image106.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image106.png" alt-text="A close up of a device.":::
 
 ### Procedure Installation Speaker
 
@@ -2851,7 +2852,7 @@ Required Tools
     switch FPC Motherboard connector and remove the FPC from the
     connector.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image108.png" alt-text="A person fixing a cell phone.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image108.png" alt-text="A person fixing a cell phone.":::
 
 6.  **Remove the Button Switch Board and FPC** – Using a 3IP
     screwdriver, remove the 2 screws
@@ -2859,7 +2860,7 @@ Required Tools
     board. Lift the switchboard and FPC out of the enclosure, carefully
     peeling the cable away from the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image109.png" alt-text="A close-up of a machine.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image109.png" alt-text="A close-up of a machine.":::
 
 7.  **Clean Button Switch FPC** –Using IPA and cleaning swabs, clean any
     adhesive residue from the bottom of the Button Switch FPC.
@@ -2868,12 +2869,12 @@ Required Tools
     nylon spudger, remove the two button clips shown below from the
     enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image110.png" alt-text="A hand holding a pair of tweezers.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image110.png" alt-text="A hand holding a pair of tweezers.":::
 
 9.  **Remove the Power and Volume Buttons** – Using a nylon spudger,
     push out the power and volume buttons from the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image111.png" alt-text="A close-up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image111.png" alt-text="A close-up of a device.":::
 
 ### Procedure Installation Buttons
 
@@ -2883,14 +2884,14 @@ Required Tools
     that the FPC is properly aligned parallel to the connector and not
     bent.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image112.jpeg" alt-text="A close up of a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image112.jpeg" alt-text="A close up of a circuit board.":::
 
 2.  **Install Button SW FPC PSA (Re-use only)** – This step is only
     required if you are reusing the original Button Switch FPC. Remove
     the liner on the Switch FPC PSA provided in the replacement kit and
     apply the PSA onto the underside of the SW FPC.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image113.png" alt-text="A close-up of hands holding a small device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image113.png" alt-text="A close-up of hands holding a small device.":::
 
 3.  **Install the Power and Volume Buttons** – Align the positioning
     posts of the power and volume buttons with the hole in the enclosure
@@ -2903,14 +2904,14 @@ Required Tools
     of the clip with the “Button Side” marking is facing upward. Bend
     the button clip downward and upward until it breaks off.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image114.png" alt-text="A hand holding a black object.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image114.png" alt-text="A hand holding a black object.":::
 
 5.  **Install the Button SW Board** – Place the Button Switch board into
     the enclosure using the positioning posts as guidance. Using a 3IP
     screwdriver, fasten the 2 button board screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"/>).
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image109.png" alt-text="A close-up of a machine.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image109.png" alt-text="A close-up of a machine.":::
 
 6.  **Install the Button SW FPC** – Remove the release paper underneath
     the Switch board FPC. Install the FPC into the ZIF connector on the
@@ -2938,7 +2939,7 @@ Required Tools
     installed in the proper orientation with the smooth side of the
     rubber facing outward as shown below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
 
 2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
     microphone deck to observe if the ACS diffuser or two Microphone
@@ -3118,32 +3119,32 @@ Required Tools
     screw (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>) securing the USB-C
     bracket. Remove the bracket.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image117.png" alt-text="A close up of a screwdriver.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image117.png" alt-text="A close up of a screwdriver.":::
 
 5.  **Remove the USB-C screws** – Using a 3IP screwdriver, remove the 2
     screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"/>) securing the USB-C FPC
     into the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image118.png" alt-text="A screwdriver on a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image118.png" alt-text="A screwdriver on a device.":::
 
 6.  **Disconnect the USB-C FPCs** – Using a nylon spudger or plastic
     opening tool, disconnect the USB-C FPCs from the Motherboard by
     gently lifting on the corner of the connector.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image119.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image119.jpeg" alt-text="A close up of a device.":::
 
 7.  **Remove the USB-C** – Using the flat end of a nylon spudger,
     separate the USB-C FPC from the enclosure, inserting the spudger at
     the entry point identified below and carefully pushing it through
     till the two FPCs come off from the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image120.jpeg" alt-text="A hand holding a black tool.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image120.jpeg" alt-text="A hand holding a black tool.":::
 
 8.  **Clean PSA residue** – Using a nylon spudger, IPA, and cleaning
     swabs, remove any PSA residue left on the laser marked region of the
     enclosure as well as from underneath the USB-C FPC.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image121.png" alt-text="A person removing a small device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image121.png" alt-text="A person removing a small device.":::
 
 ### Procedure Installation USB-C Charging Port
 
@@ -3172,7 +3173,7 @@ Required Tools
     FPC connectors. Using a 3IP screwdriver, fasten the bracket screw
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image115.png"/>) as shown below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image117.png" alt-text="A close up of a screwdriver.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image117.png" alt-text="A close up of a screwdriver.":::
 
 5.  **Install the Right Speaker** – Place the right speaker into the
     enclosure, using the positioning posts for guidance. Using a 3IP
@@ -3366,7 +3367,7 @@ Required Tools
 3.  **Remove the T2 Shield Lid** – Using an ESD-safe tweezers, carefully
     remove the T2 shield lid identified below
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image35.png" alt-text="A hand holding a black device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image35.png" alt-text="A hand holding a black device.":::
 
 4.  **Remove the Microphone Modules –** Remove the 3 microphone deck
     screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) and the microphone
@@ -3377,11 +3378,11 @@ Required Tools
     instructions.
 
 5.  **Disconnect Front Camera and IR Camera FPC**– Using the plastic
-    opening tool, carefully disconnect the front camera and IR camera
-    FPC connectors from the Motherboard.
+    Using a plastic opening tool, carefully disconnect the front camera and IR camera FPC connectors from the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg" alt="A hand holding a tool to a circuit board." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image97.jpeg" alt-text="A hand holding a blue tool.":::
+
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg" alt-text="A hand holding a tool to a circuit board.":::
 
 6.  **Disconnect the Antenna Coax cable connectors** – Using a nylon
     spudger or plastic opening tool, carefully disconnect the two Wifi
@@ -3391,7 +3392,7 @@ Required Tools
     Refer to [Procedure Removal (Antenna
     Deck)](#procedure-removal-antenna-deck) for detailed instructions.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
 
 > [!NOTE]
 > It is not required to remove the Left and Right Antenna
@@ -3430,26 +3431,26 @@ Required Tools
     switch FPC Motherboard connector and remove the FPC from the
     connector.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image108.png" alt-text="A person fixing a cell phone.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image108.png" alt-text="A person fixing a cell phone.":::
 
 11. **Disconnect the Left Speaker connector** – With a plastic spudger
     or pair of tweezers, disconnect the left speaker connector from the
     Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image105.jpeg" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image105.jpeg" alt-text="A close up of a device.":::
 
 12. **Remove the Display FPC** – Using the plastic opening tool or nylon
     spudger, remove the display FPC from the Motherboard by gently
     lifting at the top edge of the FPC.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image36.png" alt-text="A person using a tool to fix a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image36.png" alt-text="A person using a tool to fix a circuit board.":::
 
 13. **Remove the Motherboard** – Using a 3IP screwdriver, remove the 4
     screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"/>) securing the
     Motherboard to the enclosure. Gently lift out the Motherboard away
     from the enclosure.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image124.png" alt-text="A close up of a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image124.png" alt-text="A close up of a circuit board.":::
 
 ### Procedure Installation Motherboard
 
@@ -3464,7 +3465,7 @@ Required Tools
     with your hand. Check to ensure that there is no damage or
     deformation to the shield snaps.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image125.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image125.png" alt-text="A close up of a device.":::
 
 3.  **Install the Left Speaker Connector** – Install the left speaker
     connector to the Motherboard.
@@ -3473,7 +3474,7 @@ Required Tools
     connector on the Motherboard and engage the latch to secure the
     connection.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image108.png" alt-text="A person fixing a cell phone.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image108.png" alt-text="A person fixing a cell phone.":::
 
 5.  **Install the Rear Camera FPC connector** – Install the Rear Camera
     FPC connector, T3 top shield lid assembly, aluminum foil tape. Refer
@@ -3506,7 +3507,7 @@ Required Tools
     Deck)](#procedure-installation-antenna-deck) for detailed
     instructions.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
 
 9.  **Install Front Camera and IR Camera FPC**– Using your fingers, or
     the flat end of a nylon spudger, press the Front Camera and IR
@@ -3527,7 +3528,7 @@ Required Tools
     gold-marked lines for reference on positioning. Once aligned, gently
     press on the connector to connect it to the Motherboard.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image41.png" alt-text="A close up of a circuit board.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image41.png" alt-text="A close up of a circuit board.":::
 
 > [!IMPORTANT] 
 > If the Display FPC is not aligned properly and is pressed upon, the connector pins will be damaged and the FPC will need to be replaced with a new one.
