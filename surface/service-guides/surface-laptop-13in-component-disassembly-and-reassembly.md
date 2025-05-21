@@ -1,4 +1,5 @@
 ---
+title: Surface Laptop 13-in Component Disassembly and Reassembly
 description: Repair Instructions for Surface Laptop 13-in Edition
 ms.service: surface
 ms.localizationpriority: medium

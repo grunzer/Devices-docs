@@ -1104,7 +1104,7 @@ Required Tools
 6.  **Remove Microphone Mesh PSA** - Using plastic tweezers, remove the
     old mesh PSA from the left and right microphone boards.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image61.png" alt-text="A close up of a person holding a small device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image61.png" alt-text="A close up of a person holding a small device.":::
 
 ### Procedure Installation Microphone
 
