@@ -333,13 +333,13 @@ Required Tools
 
 4. **Prepare the Surface Display Debonding Tool** –
 
-    a.  Install the marked pick in the holder with the marks visible.
+    1. Install the marked pick in the holder with the marks visible.
         Use a 3mm Allen Driver to adjust the pick height to the 3.5mm
         mark.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
 
-    b.  Clamp the debonding tool to the edge of your workbench using a hand
+    2. Clamp the debonding tool to the edge of your workbench using a hand
         clamp on each side as shown in the image below. Ensure the cut depth
         adjustor can be accessed while the tool is clamped down. If it
         cannot be accessed, the clamps will have to be removed to access the
