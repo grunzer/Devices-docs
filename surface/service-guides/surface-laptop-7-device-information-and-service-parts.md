@@ -1,5 +1,4 @@
 ---
-title: Surface Laptop 7th Device Information and Service Parts
 description: Device information and service parts for Surface Laptop 7th Edition
 ms.service: surface
 ms.localizationpriority: medium

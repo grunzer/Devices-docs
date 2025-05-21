@@ -1,5 +1,4 @@
 ---
-title: Surface Software repair tools
 description: Provides information on software repair tools
 ms.service: surface
 ms.localizationpriority: medium
@@ -15,7 +14,6 @@ appliesto:
 ---
 
 # Surface Software Tools – Diagnostics, Calibration, Troubleshooting, and Support
-
 
 ## Glossary of Terms
 

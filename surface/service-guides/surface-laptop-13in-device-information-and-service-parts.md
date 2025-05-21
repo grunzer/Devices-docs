@@ -1,5 +1,4 @@
 ---
-title: Surface Laptop 13-in Device Information and Service Parts
 description: Device information and service parts for Surface Laptop 13-in Edition
 ms.service: surface
 ms.localizationpriority: medium
@@ -16,7 +15,7 @@ appliesto:
 
 # Surface Laptop 13-in Device Information and Service Parts
 
-### Device Identity Information
+## Device Identity Information
 
 - Microsoft Surface Laptop 13”
 
@@ -26,6 +25,8 @@ closest to the display hinge point.
 :::image type="content" source="./images/Surface_LT_13in/LT13in_ID/media/image1.png" alt-text="A white rectangular object with a blue label Description automatically generated":::
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_ID/media/image2.png" alt-text="A computer parts and symbols AI-generated content may be incorrect.":::
+
+## Illustrated Service Parts List
 
 **IMPORTANT:** Repair workflows may require multiple parts to be ordered
 to complete the repair successfully. Please check the primary and

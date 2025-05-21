@@ -1,5 +1,4 @@
 ---
-title: Surface Hardware Repair Tools
 description: Hardware repair tools for Surface devices
 ms.service: surface
 ms.localizationpriority: medium

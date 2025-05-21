@@ -1,5 +1,4 @@
 ---
-title: Surface Laptop 13-in Component Disassembly and Reassembly
 description: Repair Instructions for Surface Laptop 13-in Edition
 ms.service: surface
 ms.localizationpriority: medium
@@ -25,12 +24,12 @@ Steps outlined in this section should be conducted prior to starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
-  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#Repair-specific-precautions-and-warnings) for details.
+  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for details.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#Electro-Static-Discharge-(ESD)-precautions) for details.
+  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for details.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.

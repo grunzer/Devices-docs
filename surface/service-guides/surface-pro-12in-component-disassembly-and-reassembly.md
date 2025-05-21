@@ -1,5 +1,4 @@
 ---
-title: Surface Pro 12-in Component Disassembly and Reassembly
 description: Repair Instructions for Surface Pro 12-in Edition
 ms.service: surface
 ms.localizationpriority: medium
@@ -56,11 +55,11 @@ repair on a Surface device.
 
 - Microfiber cloth
 
-  **Primary Components**
+**Primary Components**
 
 - Kickstand (Refer to Illustrated Service Parts List)
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -78,29 +77,27 @@ repair on a Surface device.
     clear of any abrasive material that may scratch the Touch Display
     Module (TDM) glass.
 
-
-
-1.  **Extend the kickstand to approximately 120-degrees.**
+2.  **Extend the kickstand to approximately 120-degrees.**
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image2.png" alt-text="A hand holding a phone.":::
 
-2.  **Remove the hinge screws –** Use your finger to hold the back of
+3.  **Remove the hinge screws –** Use your finger to hold the back of
     the kickstand behind the hinge. Using a 3IP (Torx-Plus) driver,
     remove one screw from each hinge. Ensure screws do not fall into the
     hinge opening.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image3.png" alt-text="A camera on a metal hinge.":::
 
-3.  **Angle Kickstand Down –** Firmly grip the hinges and the kickstand
+4.  **Angle Kickstand Down –** Firmly grip the hinges and the kickstand
     between thumb and index fingers. Rotate the kickstand from 120
     degrees to approximately 45 degrees.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image4.png" alt-text="A person using a tablet.":::
 
-4.  **Release Kickstand Threaded Bosses –** Using fingers on the
+5.  **Release Kickstand Threaded Bosses –** Using fingers on the underside of the kickstand and thumb on the topside, slightly rotate the kickstand about the axis as shown below. The kickstand should rotate ~5 degrees to free the two threaded bosses of the kickstand from the recesses of the hinges
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image5.png" alt-text="A person using a computer.":::
 
-5.  **Remove Kickstand –** Using the palm of your hand, firmly hold the
+6.  **Remove Kickstand –** Using the palm of your hand, firmly hold the
     device down from the center of the IBC. Simultaneously, grip the
     kickstand off-center between your thumb and index finger and firmly
     pull. Pull with a moderate amount of force until the foam inserts
@@ -108,10 +105,10 @@ repair on a Surface device.
     threaded bosses have not slipped back into the recess on the hinges.
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image6.png" alt-text="A person holding a white box.":::
 
-> [!WARNING] 
+> [!WARNING]
 >Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
 ### Procedure Installation Kickstand
 
@@ -134,28 +131,28 @@ repair on a Surface device.
 > [!CAUTION]
 > Do not use any tool or sharp object to assist in inserting the tabs into the slots. Only the tabs should be inserted. Doing so could damage internal components.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
 
-6.  **Slot Outer Lip of Hinge into Kickstand –** Using fingers on the
+3.  **Slot Outer Lip of Hinge into Kickstand –** Using fingers on the
     underside of the kickstand and thumb on the topside, slightly rotate
     the kickstand about the axis as shown below. The kickstand should
     rotate ~5-degrees to catch the outer lip of the hinge. Push the
     kickstand toward the device.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image13.png" alt-text="A person holding a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image13.png" alt-text="A person holding a device.":::
 
-7.  **Rotate the Kickstand Up –** Firmly grip the hinges and the
+4.  **Rotate the Kickstand Up –** Firmly grip the hinges and the
     kickstand between thumb and index fingers as shown below. Rotate the
     kickstand from 45-degrees to approximately 90-degrees.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image14.png" alt-text="A person using a tablet.":::
 
-8.  **Apply thread locker to screws bosses –** Apply one drop of Loctite
+5.  **Apply thread locker to screws bosses –** Apply one drop of Loctite
     243 thread locker to each screw boss.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image15.png" alt-text="A white rectangular object with a blue dot":::
 
-9.  **Install hinge screws –** Use your finger to hold the back of the
+6.  **Install hinge screws –** Use your finger to hold the back of the
     kickstand behind the hinge while installing the screws with a 3IP
     (Torx-Plus) driver until they are fully seated in each hinge. Ensure
     the kickstand is properly aligned and seated in the hinges, then
@@ -165,13 +162,13 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image3.png" alt-text="A camera on a metal hinge.":::
 
-10. **Final inspection Kickstand installation –** Fold the kickstand
+7. **Final inspection Kickstand installation –** Fold the kickstand
     down and peel off protective plastic from the kickstand and logo if
     present. Verify the side edges of the kickstand are aligned with the
     midframe walls and there are no obvious steps/gaps between the
     kickstand and the enclosure.
 
-11. **Clean the device –** Wipe the device thoroughly (including under
+8. **Clean the device –** Wipe the device thoroughly (including under
     the kickstand) with the microfiber cloth to remove any fingerprints.
 
 ## Display Module Replacement Process
@@ -226,7 +223,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Display Module (Refer to Illustrated Service Parts List)
 
@@ -266,7 +263,7 @@ Required Tools
 
 - 1 x Conductive tape 2 – M1357605/606-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -761,7 +758,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Battery (Refer to Illustrated Service Parts List)
 
@@ -791,7 +788,7 @@ Required Tools
 
 - 1 x Battery FPC tape – M1369599/600-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1027,7 +1024,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Microphone Module (Refer to Illustrated Service Parts List)
 
@@ -1059,7 +1056,7 @@ Required Tools
 
 - 1 x Thermal Paste 1cc – M1019757-006
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1272,7 +1269,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Front Camera (Refer to Illustrated Service Parts List)
 
@@ -1310,7 +1307,7 @@ Required Tools
 
 - 1 x Front Camera PSA – M1369590/91-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1543,7 +1540,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Infrared Camera (Refer to Illustrated Service Parts List)
 
@@ -1581,7 +1578,7 @@ Required Tools
 
 - 1 x IR Camera PSA – M1369594/95-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -1811,7 +1808,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Rear Camera (Refer to Illustrated Service Parts List)
 
@@ -1845,7 +1842,7 @@ Required Tools
 
 - 1 x Aluminum Foil Tape – M1357596/97-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2013,7 +2010,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Thermal Module (Refer to Illustrated Service Parts List)
 
@@ -2049,7 +2046,7 @@ Required Tools
 
 - 1 x TIM Pad – M1369584-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2264,7 +2261,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Antenna Deck (Refer to Illustrated Service Parts List)
 
@@ -2302,7 +2299,7 @@ Required Tools
 
 - 1 x Antenna Cable Tape – M1369589-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2537,7 +2534,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Speakers (Refer to Illustrated Service Parts List)
 
@@ -2573,7 +2570,7 @@ Required Tools
 
 - 1 x TIM Pad – M1369584-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -2746,7 +2743,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Buttons (Refer to Illustrated Service Parts List)
 
@@ -2802,7 +2799,7 @@ Required Tools
 
 - 1 x Button Clip Assembly – M1356638-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -3044,7 +3041,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - USB-C Charging Port (Refer to Illustrated Service Parts List)
 
@@ -3082,7 +3079,7 @@ Required Tools
 
 - 2 x USB-C FPC PSA – M1369593-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -3284,7 +3281,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Motherboard (Refer to Illustrated Service Parts List)
 
@@ -3334,7 +3331,7 @@ Required Tools
 
 - 2 x Antenna Cable Tape – M1369589-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 
@@ -3677,7 +3674,7 @@ Required Tools
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
 
-  **Primary Components**
+**Primary Components**
 
 - Enclosure (Refer to Illustrated Service Parts List)
 
@@ -3733,7 +3730,7 @@ Required Tools
 
 - 1 x Switch Board FPC PSA – M1369597-001
 
-  **Additional Components (Ordered Separately)**
+**Additional Components (Ordered Separately)**
 
 - Screw Kit (Refer to Illustrated Service Parts List)
 

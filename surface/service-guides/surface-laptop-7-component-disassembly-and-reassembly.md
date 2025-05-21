@@ -1,5 +1,4 @@
 ---
-title: Surface Laptop 7th Edition Component Disassembly and Reassembly
 description: Component Disassembly and Reassembly for Surface Laptop 7th Edition
 ms.service: surface
 ms.localizationpriority: medium
