@@ -104,7 +104,7 @@ repair on a Surface device.
     pull. Pull with a moderate amount of force until the foam inserts
     slide out of the device. If the kickstand is stuck, ensure the
     threaded bosses have not slipped back into the recess on the hinges.
-    
+
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image6.png" alt-text="A person holding a white box.":::
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
@@ -130,10 +130,10 @@ repair on a Surface device.
     into the device – insert the foam tabs until ~3/4 of the foam tabs
     are inside the device.
 
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
+
 > [!CAUTION]
 > Do not use any tool or sharp object to assist in inserting the tabs into the slots. Only the tabs should be inserted. Doing so could damage internal components.
-
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
 
 3.  **Slot Outer Lip of Hinge into Kickstand –** Using fingers on the
     underside of the kickstand and thumb on the topside, slightly rotate
@@ -854,7 +854,7 @@ Required Tools
 > Place the battery somewhere where the battery cannot accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
 
 > [!IMPORTANT]
-> When disposing of the battery, ensure you are recycling according to local laws.
+> When disposing of the battery, ensure you are recycling according to local laws. See [Environmental Compliance Requirements](surface-environmental-compliance.md#environmental-compliance-requirements) for more details.
 
 > [!IMPORTANT] 
 > The Motherboard and Battery are very sensitive to ESD
@@ -950,8 +950,7 @@ Required Tools
 
 > [!IMPORTANT]
 > Battery authentication requires a stable internet
-> connection and the latest version of the [Surface Management
-> Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US).
+> connection and the latest version of the [Surface Diagnostic Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=100440&msockid=3356787f36696b570c686c1c37e16a08).
 > If the battery validation tool fails or is not detected properly,
 > install the Surface Management Extension, reboot the device, and try
 > again with a new internet connection. If failures continue, reach out
@@ -1123,16 +1122,16 @@ Required Tools
     >Ensure the mesh is not attached in a wrong position as
     > this will lead to poor sound quality.
 
-    2.  **Install the Right Microphone Board** – Align the right microphone
-        board with the groove on the bucket, using the locating pins as
-        reference for the top of the board, and the gold-marked line on the
-        Motherboard as reference for the bottom of the board. Gently press
-        on the board to connect it to the main Motherboard. Using a 3IP
-        screwdriver, fasten the right microphone board screw
-        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
-        release paper to expose the PSA.
+2.  **Install the Right Microphone Board** – Align the right microphone
+    board with the groove on the bucket, using the locating pins as
+    reference for the top of the board, and the gold-marked line on the
+    Motherboard as reference for the bottom of the board. Gently press
+    on the board to connect it to the main Motherboard. Using a 3IP
+    screwdriver, fasten the right microphone board screw
+    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image56.png"/>). Remove the blue
+    release paper to expose the PSA.
 
-        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image63.jpeg" alt-text="A close-up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image63.jpeg" alt-text="A close-up of a device.":::
 
 > [!IMPORTANT]
 > Check to ensure that the coax cable of the right
@@ -1161,7 +1160,7 @@ Required Tools
 > Deck does not run underneath the left microphone board but sits above
 > or beside the board.
 
-7.  **Install the Microphone Deck** – Follow the steps below to install
+5.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck.
 
     1.  **Re-assemble Microphone rubber** – Inspect the underside of the
@@ -1172,7 +1171,7 @@ Required Tools
         rubber facing outward as shown below.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
-    
+
     2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
         microphone deck to observe if the ACS diffuser or two Microphone
         meshes are damaged. If damaged, remove them using a plastic tweezer,
@@ -1181,7 +1180,7 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt-text="A close-up of a small piece of plastic.":::
-    
+
     3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
         into position using the enclosure contours and alignment posts.
         Using a 3IP screwdriver, fasten the 3 screws
@@ -1190,7 +1189,7 @@ Required Tools
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
-8.  **Install** **the Display Module** – Re-assemble the battery
+6.  **Install** **the Display Module** – Re-assemble the battery
     connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"
     />) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
@@ -1199,11 +1198,11 @@ Required Tools
     press onto the device. Use the bonding frame tool to apply weight.
     Refer to [Procedure Installation (Display Module)](#procedure-installation-display) for detailed instructions.
 
-9.  **Power on device** – Carefully place device screen side up. Connect
+7.  **Power on device** – Carefully place device screen side up. Connect
     the device to a power supply, open display, and power on to the
     Windows desktop screen.
 
-10. **Run the Surface Diagnostic Toolkit (SDT)** – Run SDT’s full
+8. **Run the Surface Diagnostic Toolkit (SDT)** – Run SDT’s full
     diagnostic test to ensure device functions as expected.
 
 ## Front Camera Replacement Process
@@ -1615,8 +1614,7 @@ Required Tools
     gently lift on the edge of the front camera FPC connector to
     disconnect it from the Motherboard.
 
-> <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg"
->  />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image79.jpeg" alt-text="An image related to the Surface Pro 12-inch repair process.":::
 
 7.  **Remove IR Camera** – Using the flat end of the plastic opening
     tool, position the tool underneath the bottom edge of the front
@@ -1685,7 +1683,7 @@ Required Tools
         installed in the proper orientation with the smooth side of the
         rubber facing outward as shown below.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
 
     2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
         microphone deck to observe if the ACS diffuser or two Microphone
@@ -2076,7 +2074,7 @@ Required Tools
     module to the Motherboard in the order shown below. Use caution not
     to lose any screws in the enclosure during the removal process.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image90.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image90.png" alt-text="A close up of a device.":::
 
 6.  **Remove the Thermal Module** – Using the plastic opening tool,
     gently apply light pressure under each edge of the thermal module to
@@ -2413,43 +2411,42 @@ Required Tools
     Camera FPCs into the connector on the Motherboard.
 
 7.  **Install the Microphone Deck** – Follow the steps below to install
-    the microphone deck
+    the microphone deck.
 
+    1.  **Re-assemble Microphone rubber** – Inspect the underside of the
+        microphone deck to check that the 2 microphone rubbers are assembled
+        into the deck. If they were removed during the de-bonding process,
+        re-install them into the microphone deck. Ensure that they are
+        installed in the proper orientation with the smooth side of the
+        rubber facing outward as shown below.
 
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
 
-1.  **Re-assemble Microphone rubber** – Inspect the underside of the
-    microphone deck to check that the 2 microphone rubbers are assembled
-    into the deck. If they were removed during the de-bonding process,
-    re-install them into the microphone deck. Ensure that they are
-    installed in the proper orientation with the smooth side of the
-    rubber facing outward as shown below.
+    2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
+        microphone deck to observe if the ACS diffuser or two Microphone
+        meshes are damaged. If damaged, remove them using a plastic tweezer,
+        and replace them with the new materials provided in the repair kit.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
 
-2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
-    microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
-    and replace them with the new materials provided in the repair kit.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt-text="A close-up of a small piece of plastic.":::
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
+    3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
+        into position using the enclosure contours and alignment posts.
+        Using a 3IP screwdriver, fasten the 3 screws
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
+        into place in the order shown.
 
-3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
-    into position using the enclosure contours and alignment posts.
-    Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
-    into place in the order shown.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
-
-7.  **Install Thermal Module** – Re-apply a new TIM Pad and install the
+8.  **Install Thermal Module** – Re-apply a new TIM Pad and install the
     Thermal Module, 7 screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
     FPC, and conductive tape 1. Refer to [Procedure Installation
     Thermal Module](#procedure-installation-thermal-module) for
     detailed instructions.
 
-8.  **Install** **the Display Module** – Re-assemble the battery
+9.  **Install** **the Display Module** – Re-assemble the battery
     connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
     conductive tape 2 and the T3 Lid gasket. Align new PSA strips and
     install new speaker meshes on the display. Reconnect the TDM FPC and
@@ -2458,11 +2455,11 @@ Required Tools
     Refer to [Procedure Installation (Display
     Module)](#procedure-installation-display) for detailed instructions.
 
-9.  **Power on device** – Carefully place device screen side up. Connect
+10.  **Power on device** – Carefully place device screen side up. Connect
     the device to a power supply, open display, and power on to the
     Windows desktop screen.
 
-10. **Run the Surface Diagnostic Toolkit (SDT)** – Run SDT’s full
+11. **Run the Surface Diagnostic Toolkit (SDT)** – Run SDT’s full
     diagnostic test to ensure device functions as expected.
 
 ## Speaker Replacement Process
@@ -2822,7 +2819,7 @@ Required Tools
     away from the enclosure using the plastic opening tool to lift it up
     from its edge.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 3.  **Remove the Left Antenna Deck** – Using a 3IP screwdriver, remove
     the 3 screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) securing the left
@@ -2929,32 +2926,31 @@ Required Tools
 8.  **Install the Microphone Deck** – Follow the steps below to install
     the microphone deck
 
+    1.  **Re-assemble Microphone rubber** – Inspect the underside of the
+        microphone deck to check that the 2 microphone rubbers are assembled
+        into the deck. If they were removed during the de-bonding process,
+        re-install them into the microphone deck. Ensure that they are
+        installed in the proper orientation with the smooth side of the
+        rubber facing outward as shown below.
+    
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
+    
+    2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
+        microphone deck to observe if the ACS diffuser or two Microphone
+        meshes are damaged. If damaged, remove them using a plastic tweezer,
+        and replace them with the new materials provided in the repair kit.
+    
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
 
-
-1.  **Re-assemble Microphone rubber** – Inspect the underside of the
-    microphone deck to check that the 2 microphone rubbers are assembled
-    into the deck. If they were removed during the de-bonding process,
-    re-install them into the microphone deck. Ensure that they are
-    installed in the proper orientation with the smooth side of the
-    rubber facing outward as shown below.
-
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image66.png" alt-text="A close up of a finger.":::
-
-2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
-    microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
-    and replace them with the new materials provided in the repair kit.
-
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
-
-3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
-    into position using the enclosure contours and alignment posts.
-    Using a 3IP screwdriver, fasten the 3 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
-    into place in the order shown.
-
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt-text="A close-up of a small piece of plastic.":::
+    
+    3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
+        into position using the enclosure contours and alignment posts.
+        Using a 3IP screwdriver, fasten the 3 screws
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
+        into place in the order shown.
+    
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image57.png" alt-text="A close up of a device.":::
 
 9.  **Install** **the Display Module** – Re-assemble the battery
     connector (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and install the
@@ -3597,7 +3593,12 @@ Required Tools
     authenticated, run the Validation tool in its entirety.
 
 > [!IMPORTANT]
-> Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
+> Battery authentication requires a stable internet
+> connection and the latest version of the [Surface Diagnostic Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=100440&msockid=3356787f36696b570c686c1c37e16a08).
+> If the battery validation tool fails or is not detected properly,
+> install the Surface Management Extension, reboot the device, and try
+> again with a new internet connection. If failures continue, reach out
+> to Microsoft Support.
 
 8.  **Run the Surface Diagnostic Toolkit (SDT) –** Run all diagnostics
     to ensure the device is functioning as expected before moving
