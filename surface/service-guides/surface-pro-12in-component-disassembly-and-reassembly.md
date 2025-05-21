@@ -107,7 +107,8 @@ repair on a Surface device.
 
 > [!WARNING]
 > Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
+
+:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
 ### Procedure Installation Kickstand
 
@@ -130,7 +131,7 @@ repair on a Surface device.
 > [!CAUTION]
 > Do not use any tool or sharp object to assist in inserting the tabs into the slots. Only the tabs should be inserted. Doing so could damage internal components.
 
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
+:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
 
 3.  **Slot Outer Lip of Hinge into Kickstand –** Using fingers on the
     underside of the kickstand and thumb on the topside, slightly rotate
@@ -312,7 +313,7 @@ Required Tools
     that the front camera is centered within the circular cutout of the
     tape. Proceed to attach the rest of the tape around the enclosure
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image18.png" alt-text="A screen with a camera.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image18.png" alt-text="A screen with a camera.":::
 
 2.  **Remove the speaker meshes –** Close the kickstand and place the
     device face up on a clean surface. Using the opening pick, or
@@ -325,28 +326,28 @@ Required Tools
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image19.png" alt-text="A drawing of a phone":::
 
-12. **Debonding TDM Marking Pick Depth –** Using a metric ruler, draw a
+3. **Debonding TDM Marking Pick Depth –** Using a metric ruler, draw a
     mark on the plastic pick at 3mm and 6mm.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image20.png" alt-text="A blue and white object with medium confidence":::
 
-13. **Prepare the Surface Display Debonding Tool** –
+4. **Prepare the Surface Display Debonding Tool** –
 
     1.  Install the marked pick in the holder with the marks visible.
         Use a 3mm Allen Driver to adjust the pick height to the 3.5mm
         mark.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
 
-2.  Clamp the debonding tool to the edge of your workbench using a hand
-    clamp on each side as shown in the image below. Ensure the cut depth
-    adjustor can be accessed while the tool is clamped down. If it
-    cannot be accessed, the clamps will have to be removed to access the
-    bottom of the tool and then re-clamped after adjusting the height.
+    2.  Clamp the debonding tool to the edge of your workbench using a hand
+        clamp on each side as shown in the image below. Ensure the cut depth
+        adjustor can be accessed while the tool is clamped down. If it
+        cannot be accessed, the clamps will have to be removed to access the
+        bottom of the tool and then re-clamped after adjusting the height.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
 
-14. **De-bond the Display** – The display of this device will follow the
+5. **De-bond the Display** – The display of this device will follow the
     directional debonding process highlighted in the below image.
 
     1.  Ensure the pick height is at 3mm before starting. Place the
@@ -371,9 +372,9 @@ Required Tools
         ensure separation between the screen and the device. Do not push
         the device past the bottom left corner.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image23.png" alt-text="A diagram of a printer":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image23.png" alt-text="A diagram of a printer":::
 
-4.  Disassemble the Surface Debonding Tool to access the pick height
+6. Disassemble the Surface Debonding Tool to access the pick height
     adjuster. Using a 3mm Allen Driver, adjust the pick height to the
     6mm mark. Re-clamp the debonding tool and place the device into the
     debonding tool at the left speaker edge. Push the device towards the
@@ -382,9 +383,9 @@ Required Tools
 > [!CAUTION]
 > Stop pushing the device once the pick meets the debonding tape placed at the center of the top edge (shown in the red arrow). If the debonding pick goes over the front camera and damages the front camera foam gasket, you will have to replace the front camera with a new one.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image24.png" alt-text="A hand holding a black rectangular object.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image24.png" alt-text="A hand holding a black rectangular object.":::
 
-5.  Remove the device from the Surface Debonding tool and place the
+7.  Remove the device from the Surface Debonding tool and place the
     device into the debonding tool at the right speaker edge. Push the
     device towards the top right corner and rotate it to cut through the
     top edge. **Stop** pushing the device once the pick meets the
@@ -395,35 +396,35 @@ Required Tools
 > [!CAUTION]
 > Do not insert the pick more than 3mm along the left or    right edges of the display. The pick depth should not exceed 6mm along the top edge of the display. Do not insert the pick into the bottom edge of the display
 
-6.  Remove the display debonding tape and insert the plastic opening
+8.  Remove the display debonding tape and insert the plastic opening
     tool into the right speaker opening of the device and gently move it
     from right to left along the top edge, separating the remaining
     adhesive around the front camera region.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image25.png" alt-text="A hand holding a tablet.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image25.png" alt-text="A hand holding a tablet.":::
 
-7.  Rotate the device by 90⁰, with the left edge of the device facing
+9.  Rotate the device by 90⁰, with the left edge of the device facing
     you. Using the left and right speaker edges as holding points,
     gently lift the display from the enclosure until it is at a 45⁰
     angle to the bottom edge. Holding the display with one hand, insert
     the knife-edge of a Halberd Spudger into the bottom right corner of
     the display and cut through the bottom edge adhesive.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image26.png" alt-text="A person using a tablet.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image26.png" alt-text="A person using a tablet.":::
 
-15. **Separate the Display Module from the enclosure** – Gently lift the
+10. **Separate the Display Module from the enclosure** – Gently lift the
     display vertically away from the enclosure, slowly peeling off any
     residual adhesive. Be careful when lifting the edges of the display
     as it is still connected to the device by an FPC connected to the
     Motherboard. Flip the display so that the glass screen rests on the
     bottom edge of the device.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image27.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image27.png" alt-text="A close up of a device.":::
 
 > [!WARNING]
 > It is recommended an ESD-safe Surface Battery Cover (highlighted with red arrow in picture above) is placed across the device from this point to protect the battery from any accidental damage during repair. Ensure the corners of the cover are always aligned with the corners of the device during repair. If the battery cover is misaligned during repair in any way, pause and re-align the cover before continuing.
 
-16. **Begin Battery Shutoff Process** – Before proceeding to disconnect
+11. **Begin Battery Shutoff Process** – Before proceeding to disconnect
     the Display FPC, you will need to shutoff the battery by
     disconnecting the battery connector from the Motherboard. This is to
     ensure electricity is not supplied to the device while the repair
@@ -432,55 +433,54 @@ Required Tools
     1.  Using a pair of ESD-safe tweezers, remove the T3 Top shield lid
         gasket and the Conductive tape 2 respectively, as shown below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image28.png" alt-text="A close up of a device.":::
-> <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image29.png"
->  />
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image28.png" alt-text="A close up of a device.":::
 
-2.  Remove the 2 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) securing the battery
-    connector bracket using a 3IP screwdriver and remove the bracket.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image29.png" alt-text="remove Conductive tape 2":::
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image30.png" alt-text="A screwdriver on a device.":::
+    2.  Remove the 2 screws
+        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) securing the battery
+        connector bracket using a 3IP screwdriver and remove the bracket.
 
-3.  Gently disconnect the battery connector using a plastic spudger or
-    plastic opening tool.
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image30.png" alt-text="A screwdriver on a device.":::
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image31.png" alt-text="A hand holding a tool.":::
+    3.  Gently disconnect the battery connector using a plastic spudger or
+        plastic opening tool.
 
-17. **Disconnect the Display FPC** – Using a set of ESD-safe tweezers
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image31.png" alt-text="A hand holding a tool.":::
+
+12. **Disconnect the Display FPC** – Using a set of ESD-safe tweezers
     remove the shield lid over the display connector on the Display
     side. Lift at the corner of the shield lid as shown below. Proceed
     to disconnect the FPC connector by inserting the flat end of a
     plastic spudger.
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image32.png" alt-text="A person removing a piece of paper.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image33.png" alt="A finger holding a black strip." />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image32.png" alt-text="A person removing a piece of paper.":::
+    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image33.png" alt="A finger holding a black strip." />
 
 > [!IMPORTANT]
 > Do not pull on the Display FPC to disconnect the display.
 
-18. **Remove the Display FPC from Motherboard** –This step is only
+13. **Remove the Display FPC from Motherboard** –This step is only
     required if you are not re-using the original Display FPC. To remove
     the display FPC on the Motherboard side, follow the disassembly
     instructions below
 
     1.  **Remove Thermal Module** – Remove the conductive tape 1, T1
         Shield Lid, NFC FPC module, 7 screws
-        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) and the Thermal
-        Module. Refer to [Procedure Removal Thermal Module](#procedure-removal-thermal-module) for detailed
-        instructions.
+        (:::image type="icon" source="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png" alt-text="A close-up of a screw.":::) and the Thermal Module. Refer to [Procedure Removal Thermal Module](#procedure-removal-thermal-module) for detailed instructions.
 
     2.  **Remove the T2 Shield Lid** – Using an ESD-safe tweezers,
         carefully remove the T2 shield lid
+
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image35.png" alt-text="A hand holding a black device.":::
 
     3.  **Remove the Display FPC** – Using the plastic opening tool or
         nylon spudger, remove the display FPC from the Motherboard by
         gently lifting at the top edge of the FPC.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image36.png" alt-text="A person using a tool to fix a circuit board.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image36.png" alt-text="A person using a tool to fix a circuit board.":::
 
-19. **Remove the speaker mesh and residual adhesive from the enclosure
+14. **Remove the speaker mesh and residual adhesive from the enclosure
     and display** – Inspect the edges of the device and display and
     remove any adhesive with the Nylon spudger. Remove any remaining
     speaker mesh from the enclosure. Use the flat end of a nylon spudger
@@ -489,9 +489,9 @@ Required Tools
     its adhesive by verifying the three cutouts of the enclosure are
     exposed, as shown below.
 
-> :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image37.png" alt-text="A close up of a device.":::
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image37.png" alt-text="A close up of a device.":::
 
-20. **Clean enclosure** – Using IPA and cleaning swabs, clean any
+15. **Clean enclosure** – Using IPA and cleaning swabs, clean any
     residual adhesive from the enclosure edge. Ensure the area around
     the cameras (top edge) is clean and free of any dust or other
     contamination. Wipe the area around the camera with a lint-free
@@ -502,12 +502,10 @@ Required Tools
 
 ### Procedure Installation Display
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > Verify the battery’s condition prior to beginning the installation of the display. Devices exhibiting battery issues as outlined in the [Lithium-Ion Battery Inspection](surface-repair-safety-guidelines.md#lithium-ion-battery-inspection) section of the safety guidelines require whole device replacement.
-
 > [!IMPORTANT]
 > Leave the protective cling on the new display during all installation steps to prevent damage to the display panel.
-
 > [!IMPORTANT]
 > Carefully inspect all internal areas of the enclosure for any loose foreign objects prior to installing the display.
 
@@ -528,25 +526,24 @@ Required Tools
     the new materials provided in the repair kit.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
-<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt="A close-up of a small piece of plastic." />
+
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image40.png" alt-text="A close-up of a small piece of plastic.":::
 
 3.  **Install the Display FPC to the Motherboard** – If the Display FPC
     was disassembled from the Motherboard. Follow the steps below to
     install the Display FPC.
 
+    1.  **Connect Display FPC to the Motherboard** – Align the Display FPC
+        connector to the receptacle on the Motherboard using the gold-marked
+        lines for reference on positioning. Once aligned, gently press on
+        the connector to connect it to the Motherboard.
 
-
-1.  **Connect Display FPC to the Motherboard** – Align the Display FPC
-    connector to the receptacle on the Motherboard using the gold-marked
-    lines for reference on positioning. Once aligned, gently press on
-    the connector to connect it to the Motherboard.
-
-    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image41.png" alt-text="A close up of a circuit board.":::
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image41.png" alt-text="A close up of a circuit board.":::
 
 > [!IMPORTANT]
 > If the Display FPC is not aligned properly and is pressed upon, the connector pins will be damaged and the FPC will need to be replaced with a new one.
 
-2.  **Install the T2 Shield Lid** - Remove the release papers from the
+4.  **Install the T2 Shield Lid** - Remove the release papers from the
     TIM pads on the T2 shield lid. Assemble the shield lid in the
     direction indicated below, pressing around the shield cover with
     your hand. Check to ensure that there is no damage or deformation to
@@ -554,13 +551,10 @@ Required Tools
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image42.png" alt-text="A close up of a computer chip.":::
 
-3.  **Install Thermal Module** – Re-apply a new TIM Pad and install the
-    Thermal Module, 7 screws
-    (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>), T1 Shield Lid, NFC
-    FPC, and conductive tape 1. Refer to [Procedure Installation Thermal Module](#procedure-installation-thermal-module) for
-    detailed instructions.
+5.  **Install Thermal Module** – Re-apply a new TIM Pad and install the
+    Thermal Module, 7 screws(:::image type="icon" source="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png" alt-text="A close-up of a screw.":::) FPC, and conductive tape 1. Refer to [Procedure Installation Thermal Module](#procedure-installation-thermal-module) for detailed instructions.
 
-4.  **Reconnect the Battery FPC to the Motherboard** – Follow the steps
+6.  **Reconnect the Battery FPC to the Motherboard** – Follow the steps
     below to connect the battery connector to the Motherboard.
 
     1.  Align the battery FPC connector to the receptacle on the
@@ -582,7 +576,7 @@ Required Tools
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image44.png" alt-text="A person fixing a device.":::
 
-5.  **Apply new Display Module Adhesive** – After cleaning the enclosure
+7.  **Apply new Display Module Adhesive** – After cleaning the enclosure
     with IPA along with PSA bonding surfaces, wait at least 30 seconds
     before applying the new PSA strips to allow for the surface to dry
     completely. Carefully apply the 4 strips of PSA to the enclosure as
@@ -592,7 +586,7 @@ Required Tools
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image45.png" alt-text="A close up of a device.":::
 
-6.  **Install new Speaker Mesh** – Perform the following:
+8.  **Install new Speaker Mesh** – Perform the following:
 
     1.  Place the display face-down on a clean ESD safe surface.
 
@@ -611,7 +605,8 @@ Required Tools
     7.  Carefully remove the clear handle.
 
     8.  Repeat the process for the Right Speaker Mesh on the other side
-        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image46.png" alt-text="A close-up of the display.":::
+
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image46.png" alt-text="A close-up of the display.":::
 
 > [!IMPORTANT]
 > As the Display is facing down, the orientation of the
@@ -621,7 +616,7 @@ Required Tools
 > the left side of the Display. Each Speaker Mesh is designed
 > specifically to fit its specified side.
 
-7.  **Connect the Display Module** – Lay the display face-down on the
+9.  **Connect the Display Module** – Lay the display face-down on the
     bottom edge of the enclosure as was done after separating the
     display from the enclosure. Reconnect the Display FPC onto the
     connector on the display. Press on the connector to ensure it is
@@ -629,7 +624,7 @@ Required Tools
     Ensure all edges of the shield are snapped into place by pressing
     all around the shield edges with your finger.
 
-8.  **Install the Display Module onto the Enclosure** – While holding
+10. **Install the Display Module onto the Enclosure** – While holding
     the display (with the screen facing up), remove the PSA liners from
     the Enclosure to expose the adhesive on all 4 edges. Align the
     display along the bottom edge first (Toe-in) and lower the rest of
@@ -639,32 +634,28 @@ Required Tools
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image47.png" alt-text="A drawing of a tablet":::
 
-9.  **Bond the adhesive** – Place the Surface Display Bonding Frame on
+11. **Bond the adhesive** – Place the Surface Display Bonding Frame on
     the device according to the orientation shown in the picture below.
     Place a foam pad over the bonding frame. Place 32kg of weight on top
     of the foam pad and bonding frame. Leave weight in place for 2
     minutes to ensure PSA activation.
 
-    <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image48.png"
-     />
+    :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image48.png":::
 
-> [!IMPORTANT]
-> It is critical that the exact requirements are met (both weight, layout, and material) to ensure proper Display adhesion to the Enclosure.
+    1.  Ruck Weight Configuration
 
-    a.  Ruck Weight Configuration
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image49.png" alt-text="A screenshot of a weight scale":::
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image49.png" alt-text="A screenshot of a weight scale":::
+    2.  Steel Shot Bag Configuration
 
-    b.  Steel Shot Bag Configuration
+        :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image50.png" alt-text="A collage of different types of pillows":::
 
-:::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image50.png" alt-text="A collage of different types of pillows":::
-
-10. **After bonding inspection** – Remove the weighted items from the
+12. **After bonding inspection** – Remove the weighted items from the
     device. Lift the device carefully out of the frame to avoid damage.
     Inspect the display for scratches, cracks, large gaps, and ensure it
     is flush to the enclosure.
 
-11. **Power on device to the Windows Desktop** – Connect the device to
+13. **Power on device to the Windows Desktop** – Connect the device to
     power and press the power button. Allow the device to boot to the
     Windows Desktop before moving to the [Procedure Finalize (Display Module)](#procedure-finalize-display) section.
 
