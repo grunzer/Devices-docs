@@ -225,8 +225,7 @@ Required Tools
 
 - [Surface Display Debonding Tool (M1214770-001) -  iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -749,8 +748,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -1009,8 +1007,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -1252,8 +1249,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -1519,8 +1515,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -1785,8 +1780,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -1987,8 +1981,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -2238,8 +2231,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -2509,8 +2501,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -2718,8 +2709,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -3015,8 +3005,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -3255,8 +3244,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
@@ -3653,8 +3641,7 @@ Required Tools
 - [Surface Display Debonding Tool (M1214770-001) -
   iFixit](https://www.ifixit.com/products/surface-display-debonding-tool-m1214770-001)
 
-- Surface Display Bonding Frame for Pro 12-inch
-  (M1368685-001)
+- [Surface Display Bonding Frame for Pro 12-inch (M1368685-001)](https://www.ifixit.com/products/surface-vallejo-display-bonding-frame)
 
 - [ESD-safe Surface Battery Cover -
   iFixit](https://www.ifixit.com/products/surface-battery-cover-m1214771-001)
