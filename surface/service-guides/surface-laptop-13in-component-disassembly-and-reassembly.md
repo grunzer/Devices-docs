@@ -321,23 +321,23 @@ repair on a Surface device.
 
 2.  Follow “Procedure – Removal (Feet)”
 
-4.  Follow “Procedure – Removal (C Cover)
+3.  Follow “Procedure – Removal (C Cover)
 
-5.  With a plastic prybar, disengage the 4 FPC buckles and remove the 2
+4.  With a plastic prybar, disengage the 4 FPC buckles and remove the 2
     grounding tapes on the trackpad.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image19.jpeg" alt-text="A hand holding a black tool.":::
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image20.jpeg" alt-text="A close up of a device.":::
 
-6.  Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
+5.  Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
     adhesive remaining from the 2 grounding tapes.
 
-7.  With your fingers, gently disconnect the 4 FPCs connected to the
+6.  With your fingers, gently disconnect the 4 FPCs connected to the
     trackpad. Please place the trackpad FPC gently aside on an ESD safe
     surface for reuse during reassembly if it is not damaged.
 
-8.  With a 5IP Torx Plus Screwdriver, remove the 7 screws holding the
+7.  With a 5IP Torx Plus Screwdriver, remove the 7 screws holding the
     Trackpad to the C Cover. **Be sure to press down firmly with the
     screwdriver to avoid any chance for screw stripping. Additionally,
     please keep track and count the number of screws removed to ensure
@@ -345,19 +345,17 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image21.jpeg" alt-text="A close-up of a computer.":::
 
-9.  With your hand, remove the Trackpad subassembly from the C Cover.
+8.  With your hand, remove the Trackpad subassembly from the C Cover.
 
-10.  With metal ESD safe tweezers, remove the black shims from the C
-    Cover.
+9.  With metal ESD safe tweezers, remove the black shims from the C Cover.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image22.jpeg" alt-text="A close-up of a computer.":::
 
-11.  With plastic ESD safe tweezers, remove the thermal pad on the C
-    Cover.
+10.  With plastic ESD safe tweezers, remove the thermal pad on the C Cover.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image23.jpeg" alt-text="A hand holding a tweezers.":::
 
-12. Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
+11. Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
     adhesive remaining from the black shims and the thermal pad.
 
 **Procedure – Installation (Trackpad)**
