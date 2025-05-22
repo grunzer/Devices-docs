@@ -319,7 +319,7 @@ Required Tools
     with a micro-fiber cloth and install the provided debonding tape
     (H-shaped tape) onto the front camera region of the display. Ensure
     that the front camera is centered within the circular cutout of the
-    tape. Proceed to attach the rest of the tape around the enclosure
+    tape. Proceed to apply the rest of the tape around the enclosure
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image18.png" alt-text="A screen with a camera.":::
 
@@ -382,8 +382,7 @@ Required Tools
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image23.png" alt-text="A diagram of a printer":::
 
-6. Disassemble the Surface Debonding Tool to access the pick height
-    adjuster. Using a 3mm Allen Driver, adjust the pick height to the
+6.  Remove the clamps holding the Surface Debonding Tool. Using a 3mm Allen Driver, adjust the pick height to the
     6mm mark. Re-clamp the debonding tool and place the device into the
     debonding tool at the left speaker edge. Push the device towards the
     top left corner and rotate it to cut through the top edge.
@@ -852,21 +851,16 @@ Required Tools
 
 > [!NOTE]
 > If the Display FPC is still connected to the motherboard and rests on the battery, the battery will be removed by gently lifting it up from the screw bosses and towards the bottom side of the device. Ensure that the Display FPC connection is not bent at a 90⁰ angle.
-
 > [!WARNING]
 > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
-
 > [!IMPORTANT]
 > Place the battery somewhere where the battery cannot accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
-
 > [!IMPORTANT]
 > When disposing of the battery, ensure you are recycling according to local laws. See [Environmental Compliance Requirements](surface-environmental-compliance.md#environmental-compliance-requirements) for more details.
-
 > [!IMPORTANT] 
 > The Motherboard and Battery are very sensitive to ESD
 > and can be easily damaged. It is critical that you ensure proper
 > grounding before performing any work on these parts.
-
 > [!WARNING]
 > In the instance of a battery event, submerge the entire device in a 1-gallon Enclosure filled with .5 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
 

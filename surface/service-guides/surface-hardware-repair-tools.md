@@ -85,7 +85,7 @@ from consumer retailers.
 
 - 65W Microsoft Surface Power Supply
 
-## 2-in-1 Specific Tools
+### 2-in-1 Specific Tools
 
 - Display Bonding Weights
 
@@ -125,6 +125,6 @@ from consumer retailers.
 
 - Two 2-in spring clamps
 
-## Laptop Specific Tools
+### Laptop Specific Tools
 
 - Thick Feeler Gauge set (0.5mm to 0.3mm)

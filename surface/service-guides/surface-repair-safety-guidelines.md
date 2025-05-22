@@ -19,7 +19,7 @@ appliesto:
 ## General safety precautions
 
 > [!WARNING]
-> Always follow these general safety precautions when servicing a Microsoft Surface device:
+> Always follow these general safety precautions when servicing a Microsoft Surface device
 
 - **Repairing electronic devices can be hazardous.** Opening and/or repairing any electronic device can present a risk of electric shock, fire, serious personal injury, death, damage to the device or other property, and/or other hazards. Exercise caution when undertaking the repair activities described in this Guide. The repair activities identified in this Guide should only be undertaken by technically inclined individuals with the knowledge, experience, and specialized tools required to repair Microsoft devices.
 
@@ -62,7 +62,7 @@ appliesto:
 > [!WARNING]
 > Before opening a device, ensure it is powered off and disconnected from its power source. Disconnect the device charger or power cord from mains power.
 
-- For Autopilot-managed devices, refer to the [Windows Autopilot guidance](/mem/autopilot/autopilot-mbr).
+- For Autopilot-managed devices, refer to the [Windows Autopilot guidance](docs.microsoft.com/mem/autopilot/autopilot-mbr).
 
 - For devices with rechargeable lithium-ion batteries that power on, fully discharge the battery before beginning repair. To expedite the battery discharge process:
     - Disconnect the charger from the device.
