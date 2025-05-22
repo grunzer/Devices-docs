@@ -126,3 +126,5 @@ from consumer retailers.
 - Two 2-in spring clamps
 
 ## Laptop Specific Tools
+
+- Thick Feeler Gauge set (0.5mm to 0.3mm)
