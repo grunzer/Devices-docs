@@ -270,12 +270,12 @@ repair on a Surface device.
 8.  Turn the device over and use a 5IP Torx Plus Screwdriver to install
     the 4 screws. After the screws are snug and seated, only tighten the
     screws an additional ~1/8 turn (~45 degrees) to avoid stripping the
-    threads. **Be sure to press down firmly with the screwdriver to
-    avoid any chance for screw stripping. Additionally, please keep
-    track and count the number of screws removed to ensure there are no
-    extra screws in the area.**
+    threads. 
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg" alt-text="A hand holding a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 9.  Follow “Procedure – Installation (Feet)”
 
@@ -338,12 +338,12 @@ repair on a Surface device.
     surface for reuse during reassembly if it is not damaged.
 
 7.  With a 5IP Torx Plus Screwdriver, remove the 7 screws holding the
-    Trackpad to the C Cover. **Be sure to press down firmly with the
-    screwdriver to avoid any chance for screw stripping. Additionally,
-    please keep track and count the number of screws removed to ensure
-    there are no extra screws in the area.**
+    Trackpad to the C Cover. 
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image21.jpeg" alt-text="A close-up of a computer.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 8.  With your hand, remove the Trackpad subassembly from the C Cover.
 
@@ -398,12 +398,12 @@ repair on a Surface device.
 
 4.  Gently insert the Trackpad subassembly into the C Cover and
     reassemble the 7 5IP screws with a 5IP Torx Plus Screwdriver set to
-    1.2kgf\*cm. **Be sure to press down firmly with the screwdriver to
-    avoid any chance for screw stripping. Additionally, please keep
-    track and count the number of screws removed to ensure there are no
-    extra screws in the area.**
+    1.2kgf\*cm.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image28.jpeg" alt-text="A close-up of a computer.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 5.  With your fingers, carefully and gently remove the 4 alignment
     papers. Be sure that the entire alignment paper piece is completely
@@ -487,12 +487,12 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image34.jpeg" alt-text="A close up of a device.":::
 
 5.  With a 5IP Torx Plus screwdriver, remove the 5IP screw holding down
-    the SSD. **Be sure to press down firmly with the screwdriver to
-    avoid any chance for screw stripping. Additionally, please keep
-    track and count the number of screws removed to ensure there are no
-    extra screws in the area.**
+    the SSD. 
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image35.jpeg" alt-text="A hand holding a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 6.  With your fingers, gently wiggle and lift the SSD out of the PCBA
     connector at a 15 degree angle.
@@ -614,14 +614,14 @@ repair on a Surface device.
 
 5.  With a 5IP Torx Plus Screwdriver, remove the 9 screws around the
     perimeter of the battery. Be very careful as you are near the
-    battery. **Be sure to press down firmly with the screwdriver to
-    avoid any chance for screw stripping. Additionally, please keep
-    track and count the number of screws removed to ensure there are no
-    extra screws in the area.**
+    battery.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image43.jpeg" alt-text="A hand holding a screwdriver.":::
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image44.jpeg" alt-text="A hand holding a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 6.  To prevent the device from potentially tipping over, tilt the
     display cover so that it is less than 75 degrees open.
@@ -840,12 +840,12 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image58.jpeg" alt-text="A hand holding a screwdriver.":::
 
 6.  With a 3IP Torx Plus Screwdriver, remove the 1 3IP screw and remove
-    the USB-C daughterboard. **Be sure to press down firmly with the
-    screwdriver to avoid any chance for screw stripping. Additionally,
-    please keep track and count the number of screws removed to ensure
-    there are no extra screws in the area.**
+    the USB-C daughterboard.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image59.jpeg" alt-text="A hand holding an object to a device.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 **Procedure – Installation (USB-C)**
 
@@ -1070,12 +1070,12 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image74.jpeg" alt-text="A person fixing a device.":::
 
 4.  Use a 3IP Torx Plus Screwdriver to remove the 5 screws in the
-    labeled reverse order (4, 3, 2, 1). **Be sure to press down firmly
-    with the screwdriver to avoid any chance for screw stripping.
-    Additionally, please keep track and count the number of screws
-    removed to ensure there are no extra screws in the area.**
+    labeled reverse order (4, 3, 2, 1).
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image75.jpeg" alt-text="A hand holding a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 5.  With your fingers, gently and slowly wiggle the left side of the
     thermal module away from the PCBA to remove it.
@@ -1175,13 +1175,13 @@ repair on a Surface device.
 
 2.  With a 5IP Torx Plus Screwdriver, remove the 3 screws holding down
     the USB-A and Audio Jack bracket and remove it with your fingers.
-    **Be sure to press down firmly with the screwdriver to avoid any
-    chance for screw stripping. Additionally, please keep track and
-    count the number of screws removed to ensure there are no extra
-    screws in the area.** Please note that you will need to use
+    Please note that you will need to use
     sufficient force to overcome the adhesive holding it down.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image82.jpeg" alt-text="A machine with a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 3.  With plastic ESD safe tweezers, remove the tape on top of the
     connector. If the AB Cover display and thermal module are still
@@ -1200,12 +1200,12 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image85.jpeg" alt-text="A person holding a black tool.":::
 
 6. With a 3IP Torx Plus Screwdriver, remove the 1 3IP screw holding
-    down the USB-A and Audio Jack board. **Be sure to press down firmly
-    with the screwdriver to avoid any chance for screw stripping.
-    Additionally, please keep track and count the number of screws
-    removed to ensure there are no extra screws in the area.**
+    down the USB-A and Audio Jack board.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image86.jpeg" alt-text="A close-up of a device.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 7. With your fingers and a plastic ESD safe prybar, wiggle and lift up
     on the USB-A and Audio Jack board to remove it.
@@ -1333,13 +1333,13 @@ repair on a Surface device.
 
 3.  With a 5IP Torx Plus Screwdriver, remove the 3 screws holding down
     the USB-A and Audio Jack bracket and remove it with your fingers.
-    **Be sure to press down firmly with the screwdriver to avoid any
-    chance for screw stripping. Additionally, please keep track and
-    count the number of screws removed to ensure there are no extra
-    screws in the area.** Please note that you will need to use
+    Please note that you will need to use
     sufficient force to overcome the adhesive holding it down.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image82.jpeg" alt-text="A machine with a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 4.  With plastic ESD safe tweezers, carefully remove the conductive tape
     on top of the USB-C connectors.
@@ -1614,12 +1614,12 @@ repair on a Surface device.
     adhesive remaining on the bracket.
 
 7.  With a 5IP Torx Plus Screwdriver, remove the 3 5IP screws holding
-    down the USB-C bracket and remove the bracket. **Be sure to press
-    down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
-    screws removed to ensure there are no extra screws in the area.**
+    down the USB-C bracket and remove the bracket. 
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image57.jpeg" alt-text="A hand holding a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 8.  With a plastic ESD safe prybar, disconnect the USB-C FPC from the
     PCBA.
