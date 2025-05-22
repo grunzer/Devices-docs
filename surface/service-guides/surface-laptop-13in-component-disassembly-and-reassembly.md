@@ -351,7 +351,7 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image22.jpeg" alt-text="A close-up of a computer.":::
 
-10.  With plastic ESD safe tweezers, remove the thermal pad on the C Cover.
+10. With plastic ESD safe tweezers, remove the thermal pad on the C Cover.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image23.jpeg" alt-text="A hand holding a tweezers.":::
 
