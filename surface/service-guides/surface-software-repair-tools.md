@@ -40,11 +40,6 @@ The following terms are used throughout this guide.
 
 ## Software Tools & References
 
-- How
-  To[:](https://www.microsoft.com/download/details.aspx?id=100440)
-  [<u>Surface Service
-  Guides</u>](https://www.microsoft.com/download/details.aspx?id=100440)
-
 - How To: [<u>Update Surface device firmware and
   OS</u>](https://support.microsoft.com/help/4023505)
 

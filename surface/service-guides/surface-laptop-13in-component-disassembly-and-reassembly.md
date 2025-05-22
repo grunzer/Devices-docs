@@ -603,12 +603,11 @@ repair on a Surface device.
 
 3.  Use a 3IP Torx Plus Screwdriver to remove the 2 screws holding down
     the battery connector. Be very careful as you are near the battery.
-    **Be sure to press down firmly with the screwdriver to avoid any
-    chance for screw stripping. Additionally, please keep track and
-    count the number of screws removed to ensure there are no extra
-    screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image42.jpeg" alt-text="A close up of a device.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 4.  With a Plastic ESD Safe Prybar, gently disconnect the battery
     connector from the PCBA.
@@ -949,12 +948,12 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image65.jpeg" alt-text="A close up of a computer.":::
 
 4.  With a 3IP Torx Plus Screwdriver, remove the 3 3IP screws holding
-    the fan down to the D Bucket. **Be sure to press down firmly with
-    the screwdriver to avoid any chance for screw stripping.
-    Additionally, please keep track and count the number of screws
-    removed to ensure there are no extra screws in the area.**
+    the fan down to the D Bucket.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image66.jpeg" alt-text="A hand holding a screwdriver.":::
+
+    > [!IMPORTANT]
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 5.  Using a plastic ESD safe prybar, disengage the buckle holding the
     fan FPC to the PCBA and disconnect the FPC.
@@ -1371,7 +1370,7 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image65.jpeg" alt-text="A close up of a computer.":::
 
-10.  With a plastic ESD safe prybar, disengage the bottom display
+10. With a plastic ESD safe prybar, disengage the bottom display
     connector buckle on the PCBA and gently disconnect the cable with
     your fingers.
 
@@ -1421,7 +1420,7 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image97.jpeg" alt-text="A close-up of a machine.":::
 
-    <img src="./images/Surface_LT_13in/LT13in_Repair/media/image100.png"alt="A close up of a device." />
+    <img src="./images/Surface_LT_13in/LT13in_Repair/media/image100.png" alt="A close up of a device." />
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image101.png" alt="A hand holding a black glove." />
 
