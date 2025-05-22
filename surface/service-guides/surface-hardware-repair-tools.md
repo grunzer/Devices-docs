@@ -50,7 +50,7 @@ from consumer retailers.
 | Plastic Opening Tool | ![Plastic Opening Tool](./images/HWTools/media/image8.png) |
 | ESD-safe Tweezers | ![ESD-safe Tweezers](./images/HWTools/media/image9.png) |
 | Adjustable Torque Screwdriver (compatible with 3IP/5IP Torx Plus bits) with 1.2 kgf-cm setting| ![Adjustable Torque Screwdriver](./images/HWTools/media/torque_screwdriver.png) |
-| Calipers (with resolution and accuracy of 0.01mm) | ![Calipers](./images/HWTools/media/calipers.png) |
+| Calipers (with resolution and accuracy of 0.01mm) | ![Calipers](./images/HWTools/media/callipers.png) |
 | Thick Feeler Gauge set (0.05mm to 0.3mm) | ![Feeler Gauge](./images/HWTools/media/thick_feeler_gauge.png) |
 
 ## Required Standard Tools and Miscellaneous Items
