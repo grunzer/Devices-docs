@@ -16,6 +16,8 @@ appliesto:
 
 # Surface Pro 12-in Component Disassembly and Reassembly
 
+>[!VIDEO https://learn-video.azurefd.net/vod/player?id=59b750d2-9cfe-4550-862b-159fad09cd9a]
+>
 > [!CAUTION]
 > Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 > [!IMPORTANT]
@@ -444,8 +446,8 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image29.png" alt-text="remove Conductive tape 2":::
 
     2.  Remove the 2 screws
-        (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) securing the battery
-        connector bracket using a 3IP screwdriver and remove the bracket.
+        (:::image type="icon" source="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png" alt-text="Battery wayfindinge.":::)
+        Securing the battery connector bracket using a 3IP screwdriver and remove the bracket.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image30.png" alt-text="A screwdriver on a device.":::
 
