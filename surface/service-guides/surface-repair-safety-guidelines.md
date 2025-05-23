@@ -62,7 +62,7 @@ appliesto:
 > [!WARNING]
 > Before opening a device, ensure it is powered off and disconnected from its power source. Disconnect the device charger or power cord from mains power.
 
-- For Autopilot-managed devices, refer to the [Windows Autopilot guidance](docs.microsoft.com/mem/autopilot/autopilot-mbr).
+- For Autopilot-managed devices, refer to the [Windows Autopilot guidance](/mem/autopilot/autopilot-mbr).
 
 - For devices with rechargeable lithium-ion batteries that power on, fully discharge the battery before beginning repair. To expedite the battery discharge process:
     - Disconnect the charger from the device.

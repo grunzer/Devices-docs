@@ -440,7 +440,7 @@ repair on a Surface device.
     the indents on the C Cover. Be sure to firmly press it down for 30
     seconds.
 
-    :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image33.jpeg" alt-text="A finger pointing at a circuit board.":::
+    :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image33.png" alt-text="A finger pointing at a circuit board.":::
 
 11. Follow “Procedure – Installation (C Cover)”
 
@@ -595,7 +595,7 @@ repair on a Surface device.
 > [!WARNING]
 > Pre-Installtion Device Inspection:It is highly recommended that prior to handling battery the operator should remove any personal jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
 > [!WARNING]
-> In case of battery event submerge entire device in sand. Do not attempt to pick up device. See [Battery Safety Guidelines](surface-repair-safety-guidelines.md#battery-safety-guidelines) for more information.
+> In case of battery event submerge entire device in sand. Do not attempt to pick up device. See [Battery safety](surface-repair-safety-guidelines.md#battery-safety) for more information.
 
 1.  Download the latest SDT (surface diagnostic tool) version and follow the pre-installation battery repair (setup) workflow.
 
