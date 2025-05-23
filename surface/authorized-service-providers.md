@@ -55,7 +55,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Arey Jones](https://www.areyjones.com/)|--|  |
 | [Cell Tech Inc](https://www.celltech-usa.com/services.html)          | --             |                                         |
 | [Checkpoint Services](https://www.checkpoint.com/)               | ✔            |                                         |
-| [CompuCom](https://www.compucom.com/)                            | --           |                                         |
+| [CompuCom](https://www.compucom.com/)                            | ✔           |                                         |
 | [Compugen](https://www.compugen.us/)                             | ✔            |                                         |
 | [Connection](https://www.connection.com/)                        | --           |                                         |
 | [Converge Technology Solutions](https://convergetp.com/digital-workplace/) | -- | |
@@ -86,7 +86,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 
 | Authorized Service Provider                                      | Onsite Repair | Notes                                   |
 |------------------------------------------------------------------|---------------|-----------------------------------------|
-| [CompuCom](https://www4.compucom.com/compucom-canada)            | --            |                                         |
+| [CompuCom](https://www4.compucom.com/compucom-canada)            | ✔            |                                         |
 | [Compugen](https://www.compugen.com/)                            | ✔             |                                         |
 | [Converge Technology Solutions](https://convergetp.com/)         | ✔             |                                         |
 | [Coreio](https://www.coreio.com/)                                | ✔             |                                         |
