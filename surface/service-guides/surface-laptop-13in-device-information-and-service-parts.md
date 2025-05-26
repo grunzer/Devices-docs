@@ -43,11 +43,8 @@ closest to the display hinge point.
 
 :::image type="content" source="./images/Surface_LT_13in/LT13in_ID/media/image2.png" alt-text="A computer parts and symbols AI-generated content may be incorrect.":::
 
-**IMPORTANT:** Repair workflows may require multiple parts to be ordered
-to complete the repair successfully. Please check the primary and
-additional components section in each repair workflow to ensure you have
-all required parts before beginning your repair.
-
+> [!IMPORTANT]
+> Repair workflows may require multiple parts to be ordered to complete the repair successfully. Please check the primary and additional components section in each repair workflow to ensure you have all required parts before beginning your repair.
 | **Item** | **Component** | **SKU Part No.** |
 |:--:|----|:--:|
 | **1** | **Independent Trackpad** |  |
