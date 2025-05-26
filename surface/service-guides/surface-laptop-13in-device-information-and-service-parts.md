@@ -1,5 +1,5 @@
 ---
-title: Surface Laptop 7th Device Information and Service Parts
+title: Surface Laptop 13-in Device Information and Service Parts
 description: Device information and service parts for Surface Laptop 13-in Edition
 ms.service: surface
 ms.localizationpriority: medium
