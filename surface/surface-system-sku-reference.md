@@ -2,7 +2,7 @@
 title: Surface System SKU reference
 description: Find System Model & SKU names for Surface devices to streamline IT tasks like driver installation, deployment, and PowerShell commands. 
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/20/2025

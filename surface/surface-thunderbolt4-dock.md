@@ -3,7 +3,7 @@ title: Surface Thunderbolt 4 Dock overview
 description: Discover Surface Thunderbolt 4 Dock - ultra-fast data transfer, dual 4K monitor support, enterprise security, and sustainable design innovations.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 01/30/2025

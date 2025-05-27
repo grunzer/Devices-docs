@@ -3,7 +3,7 @@ title: Surface IT Toolkit
 description: Streamline Surface device management with the Surface IT Toolkit, a comprehensive app for configuration, recovery, and support.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 04/30/2025

@@ -4,7 +4,7 @@ description: This page lists the hybrid scenarios supported for the device accou
 ms.assetid: 7BFBB7BE-F587-422E-9CE4-C9DDF829E4F1
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/09/2023

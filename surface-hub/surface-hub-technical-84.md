@@ -4,7 +4,7 @@ ms.reviewer:
 manager: frankbu
 description: Specifications for the 84" Surface Hub (v1)
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.localizationpriority: medium

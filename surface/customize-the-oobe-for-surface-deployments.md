@@ -5,7 +5,7 @@ ms.assetid: F6910315-9FA9-4297-8FA8-2C284A4B1D87
 manager: frankbu
 ms.localizationpriority: medium
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 appliesto:

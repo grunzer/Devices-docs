@@ -3,7 +3,7 @@ title: Surface hardware environmental test results
 description: Discover Surface device durability with MIL-STD-810H rugged testing, ensuring reliability under extreme conditions like shock, vibration, and temperature.
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/21/2025

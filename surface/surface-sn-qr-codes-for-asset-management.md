@@ -3,7 +3,7 @@ title: Streamline asset management with Serial Number QR codes on Surface
 description: Use QR codes on Surface for Business devices to quickly retrieve serial numbers and streamline asset management.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 04/10/2025

@@ -3,7 +3,7 @@ title: Surface Headphones 2+ overview
 description: This article provides an overview of Surface Headphones 2+ for Business
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 09/02/2022

@@ -5,7 +5,7 @@ ms.assetid: DC365002-6B35-45C5-A2B8-3E1EB0CB8B50
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 07/27/2017

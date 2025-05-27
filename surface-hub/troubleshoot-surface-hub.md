@@ -4,7 +4,7 @@ description: Troubleshoot common problems, including setup issues and Exchange A
 ms.assetid: CF58F74D-8077-48C3-981E-FCFDCA34B34A
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: troubleshooting
 ms.date: 03/16/2018

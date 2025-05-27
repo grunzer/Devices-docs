@@ -2,7 +2,7 @@
 title: Update pen firmware on Surface Hub
 description: Learn how to update Surface Hub Pen firmware using Windows Update or a PC, verify firmware version, and run command-line options. 
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

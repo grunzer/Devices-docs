@@ -5,7 +5,7 @@ ms.assetid: E11E4AB6-B13E-4ACA-BCE1-4EDC9987E4F2
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 12/19/2022

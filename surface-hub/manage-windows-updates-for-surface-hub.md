@@ -4,7 +4,7 @@ description: Describes best practices for managing updates on Microsoft Surface 
 ms.assetid: A737BD50-2D36-4DE5-A604-55053D549045
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 12/19/2022

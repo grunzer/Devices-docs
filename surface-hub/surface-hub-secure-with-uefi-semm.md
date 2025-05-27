@@ -2,7 +2,7 @@
 title: Secure and manage Surface Hub with SEMM
 description: Learn more about securing Surface Hub with SEMM.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

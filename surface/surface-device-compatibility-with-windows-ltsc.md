@@ -2,7 +2,7 @@
 title: Surface device compatibility with Windows Long-Term Servicing Channel (LTSC)
 description: Learn how Surface devices align with Windows LTSC editions, offering stability for specialized systems, with guidance on transitions to Windows 11
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: concept-article
 ms.localizationpriority: medium

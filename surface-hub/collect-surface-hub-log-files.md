@@ -4,7 +4,7 @@ description: Learn how to collect Surface Hub log files locally via USB or remot
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: troubleshooting
 ms.date: 06/30/2022

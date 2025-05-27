@@ -2,7 +2,7 @@
 title: Get started with Surface Enterprise Management Mode (SEMM)
 description: Learn how to secure and manage firmware settings on Surface devices with Surface Enterprise Management Mode (SEMM). This guide covers enrollment, configuration, and recovery for IT admins.
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: chauncel

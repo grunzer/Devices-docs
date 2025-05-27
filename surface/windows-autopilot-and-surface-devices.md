@@ -4,7 +4,7 @@ ms.reviewer:
 manager: frankbu
 description: Simplify deployment of Surface devices with Windows Autopilot. Automate setup, management & configuration using zero-touch processes for IT.
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: article
 ms.localizationpriority: medium

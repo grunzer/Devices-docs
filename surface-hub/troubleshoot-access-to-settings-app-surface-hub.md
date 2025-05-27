@@ -3,7 +3,7 @@ title: Troubleshoot access to Settings app on Surface Hub
 description: Troubleshoot issues accessing the Settings app on Surface Hub 2S or Hub 3 based on device affiliation, admin roles, & policy configuration.
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: troubleshooting
 ms.date: 01/09/2023

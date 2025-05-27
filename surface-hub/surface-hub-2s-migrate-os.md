@@ -2,8 +2,8 @@
 title: Migrate to Windows 10/11 Pro or Enterprise on Surface Hub 2S
 description: Guide on migrating Surface Hub 2S to Windows 10/11 Pro or Enterprise, including detailed steps and resources
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 manager: frankbu
 ms.topic: how-to
 ms.date: 09/19/2024

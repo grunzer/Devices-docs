@@ -4,7 +4,7 @@ description: Microsoft Surface Hub offers two options for network connectivity t
 ms.assetid: D2CFB90B-FBAA-4532-B658-9AA33CAEA31D
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 07/27/2017

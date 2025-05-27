@@ -2,7 +2,7 @@
 title: "Configure password-less sign-in on Surface Hub"
 description: "Learn how to simplify signing in to Surface Hub."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to
