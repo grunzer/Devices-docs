@@ -3,7 +3,7 @@ title: Surface service and repair options
 description: Find Surface service & repair options for commercial devices, including warranty coverage, self-repair, & replacement services. Learn how to manage repairs efficiently with Microsoft support tools.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/07/2025

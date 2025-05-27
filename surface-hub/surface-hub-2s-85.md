@@ -2,7 +2,7 @@
 title: Surface Hub 2S 85-inch
 description: Explore the Surface Hub 2S 85", designed for larger spaces with a 4K display, collaboration tools, and Microsoft Teams integration
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

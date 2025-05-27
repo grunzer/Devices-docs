@@ -2,7 +2,7 @@
 title:  Surface Hub Smart Camera tech specs
 description: Lists tech specs for the Surface Hub Smart Camera."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

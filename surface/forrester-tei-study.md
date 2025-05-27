@@ -3,7 +3,7 @@ title: Maximize your ROI from Microsoft 365 Enterprise with Microsoft Surface
 description: Download a Forrester TEI study on maximizing ROI by implementing Microsoft 365 Enterprise with Microsoft Surface devices in modern work environments.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 9/29/2020

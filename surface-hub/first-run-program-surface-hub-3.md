@@ -4,7 +4,7 @@ description: Set up your Surface Hub with Microsoft Teams Rooms quickly using ou
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 01/29/2024

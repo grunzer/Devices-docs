@@ -4,7 +4,7 @@ description: Manage UEFI settings for Surface Docks with .msi packages using Sur
 ms.assetid: 2808a8be-e2d4-4cb6-bd53-9d10c0d3e1d6
 manager: frankbu
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/14/2025

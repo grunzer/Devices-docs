@@ -1,7 +1,7 @@
 ---
 title: Next Business Day Service information & coverage areas
 ms.author: alyee
-author: coveminer
+author: thechaunz
 manager: frankbu
 ms.date: 04/19/2022
 ms.topic: how-to

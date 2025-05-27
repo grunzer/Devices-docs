@@ -1,7 +1,7 @@
 ---
 title: Contact Surface Support for Business and Education customers
 ms.author: chauncel
-author: coveminer
+author: thechaunz
 manager: frankbu
 ms.date: 3/26/2025
 ms.topic: how-to

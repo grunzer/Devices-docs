@@ -3,7 +3,7 @@ title: Tested peripherals for new Surface devices
 description: Explore tested peripherals like monitors, docks, cables, and adapters for Surface devices to ensure optimal performance and compatibility.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 11/05/2024

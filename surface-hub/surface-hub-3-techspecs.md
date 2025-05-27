@@ -4,8 +4,8 @@ description: This page provides technical specifications for Surface Hub 3 runni
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: overview
 ms.date: 09/21/2023
 ms.localizationpriority: medium

@@ -2,7 +2,7 @@
 title: "Install Windows 10 Team 2022 Update"
 description: Learn how to install the Windows 10 Team 2022 Update on Surface Hub devices, with recovery options for Surface Hub 2S and V1 models.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

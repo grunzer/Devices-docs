@@ -4,8 +4,8 @@ description: Find answers to common questions about Surface Hub running Microsof
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: overview
 ms.date: 11/14/2024
 ms.localizationpriority: medium

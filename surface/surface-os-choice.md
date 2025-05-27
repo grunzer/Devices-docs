@@ -3,7 +3,7 @@ title: Downgrade to Windows 10
 description: Explore options for downgrading to Windows 10 from Windows 11, including manual and bulk methods, and licensing considerations for commercial customers. 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 10/31/2024

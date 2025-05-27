@@ -2,8 +2,8 @@
 title: "Known issues: Windows 10 Team"
 description: "This page provides a list of known issues for Surface Hubs"
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 manager: frankbu
 ms.topic: troubleshooting
 ms.date: 02/09/2021

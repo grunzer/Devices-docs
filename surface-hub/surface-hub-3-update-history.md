@@ -2,8 +2,8 @@
 title: Surface Hub 3 update history
 description: Discover the latest updates for Surface Hub 3 running Microsoft Teams Rooms, focusing on security, performance, and compliance improvements. 
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 10/18/2024

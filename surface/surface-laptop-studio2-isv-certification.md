@@ -3,7 +3,7 @@ title: Surface Laptop Studio 2 ISV-tested/certified apps
 description: Surface Laptop Studio 2 with Nvidia RTX 2000 GPU is ISV-certified for faster performance across leading apps like AutoCAD, Revit & Adobe. 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 10/30/2024

@@ -3,7 +3,7 @@ title: Tech specs—Surface Pro for Business, Copilot+ PC, Snapdragon X Series p
 description: See technical specifications for Surface Pro 11th Edition with Snapdragon processors, including display, battery life, and ports.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/26/2025

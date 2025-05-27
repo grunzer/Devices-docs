@@ -3,7 +3,7 @@ title: Surface USB4 Dock overview
 description:  Surface USB4 Dock - connect peripherals, get ultra-fast USB4 speeds, dual 4K monitors, 65-W power delivery in a compact, sustainable design.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/14/2025

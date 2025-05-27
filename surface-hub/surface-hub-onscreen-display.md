@@ -2,7 +2,7 @@
 title: "Adjust Surface Hub brightness, volume, and input"
 description: "Learn how to use the onscreen display to adjust brightness and other settings in Surface Hub."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

@@ -5,7 +5,7 @@ ms.assetid: 07C9E84C-1245-4511-B3B3-75939AD57C49
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 03/31/2025

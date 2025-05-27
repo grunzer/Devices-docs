@@ -2,7 +2,7 @@
 title: How to enable a Surface Laptop keyboard, Surface Pro Keyboard, or Surface Pro Type Cover during Windows deployment 
 description: Enable Surface keyboards during automated deployments by importing required drivers into the Windows PE boot image.
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: carlol

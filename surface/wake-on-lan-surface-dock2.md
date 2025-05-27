@@ -3,7 +3,7 @@ title: Wake On LAN with Surface Dock 2
 description: Manage Surface devices remotely with Wake On LAN using Surface Dock 2. Wake devices from Modern Standby, hibernation, or shutdown states.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: chauncel

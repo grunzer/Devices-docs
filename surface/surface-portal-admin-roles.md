@@ -3,7 +3,7 @@ title: Assign admin roles for Surface portals
 description: Guide to assigning roles for managing Surface devices in Microsoft 365 Admin Center, ensuring secure and efficient operations. 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 09/18/2024

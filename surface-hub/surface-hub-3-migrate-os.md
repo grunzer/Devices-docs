@@ -2,8 +2,8 @@
 title: "Migrate to Windows 11 Pro or Enterprise on Surface Hub 3"
 description: Learn how to migrate Surface Hub 3 to Windows 11 Pro or Enterprise, including downloading the OS, creating a bootable USB, and installing necessary drivers and firmware.
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 manager: frankbu
 ms.topic: how-to
 ms.date: 09/25/2024

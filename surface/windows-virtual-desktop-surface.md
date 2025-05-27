@@ -3,7 +3,7 @@ title: Azure Virtual Desktop on Surface
 description: Explore Azure Virtual Desktop on Surface—blend local and virtual desktops with enhanced security, flexibility, and productivity for seamless user experiences. 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 09/06/2024

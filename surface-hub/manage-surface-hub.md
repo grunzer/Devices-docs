@@ -4,7 +4,7 @@ description: How to manage your Surface Hub after finishing the first-run progra
 ms.assetid: FDB6182C-1211-4A92-A930-6C106BCD5DC1
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 08/14/2024

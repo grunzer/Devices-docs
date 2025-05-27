@@ -4,8 +4,8 @@ description: Get answers about the Surface Hub 3 Compute Cartridge, including in
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: overview
 ms.date: 10/28/2024
 ms.localizationpriority: medium

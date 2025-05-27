@@ -3,7 +3,7 @@ title: SSD removal in compatible Surface devices
 description: Discover best practices for SSD removal and replacement in Surface devices, including steps for BitLocker management, safety tips, and post-replacement checks.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 09/06/2024
