@@ -3,7 +3,7 @@ title: Enroll Surface Hub in the Windows Insider Program
 description: Shows how to enroll Surface Hub in the Windows Insider Program
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 12/30/2022

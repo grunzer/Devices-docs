@@ -3,7 +3,7 @@ title: Set up Surface devices for SDR & HDR display measurements
 description: Configure Surface devices for precise SDR & HDR display measurements with optimized calibration settings.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 09/09/2024

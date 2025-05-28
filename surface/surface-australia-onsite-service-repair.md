@@ -3,7 +3,7 @@ title: Surface Australia On-Site service and repair
 description: Discover Surface Australia On-Site Service & Repair, available for eligible Surface devices, offering enterprise-level support with on-site repairs across Australia.
 ms.service: windows-11
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/06/2025

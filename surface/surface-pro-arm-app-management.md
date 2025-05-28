@@ -3,7 +3,7 @@ title: Deploy, manage, and service Arm processor-based Surface devices
 description: Learn how to deploy, manage, and service Arm-based Surface devices, including Surface Pro 11th Edition and Surface Laptop 7th Edition.
 ms.service: windows-11
 ms.localizationpriority: high
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 9/05/2024

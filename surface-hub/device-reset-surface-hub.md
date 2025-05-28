@@ -5,7 +5,7 @@ ms.assetid: 44E82EEE-1905-464B-A758-C2A1463909FF
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: troubleshooting
 ms.date: 11/15/2024

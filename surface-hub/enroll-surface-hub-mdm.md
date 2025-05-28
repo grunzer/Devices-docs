@@ -3,7 +3,7 @@ title: Enroll Surface Hub to MDM provider
 description: Learn how to enroll Surface Hub in MDM via manual or auto methods, including Intune setup for streamlined management and compliance
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 11/13/2024

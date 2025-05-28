@@ -2,7 +2,7 @@
 title: Quick start—Surface Hub running Microsoft Teams Rooms on Windows
 description: Follow these easy steps to unpack, install, and begin using Surface Hub 3 running Microsoft Teams Rooms on Windows.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

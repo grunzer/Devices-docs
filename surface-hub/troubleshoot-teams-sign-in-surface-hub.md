@@ -3,7 +3,7 @@ title: Troubleshoot Teams sign-in issues on Surface Hub
 description: This page explains recommended troubleshooting steps if you're unable to sign in to Microsoft Teams on Surface Hub. 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: troubleshooting
 ms.date: 08/10/2022

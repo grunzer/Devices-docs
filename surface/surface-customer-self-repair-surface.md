@@ -3,7 +3,7 @@ title:  Customer self-serve repair for Surface devices
 description: Perform self-serve repairs on eligible Surface devices with tools & guides from Microsoft & iFixit. No certification required. Learn more here.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 04/26/2023

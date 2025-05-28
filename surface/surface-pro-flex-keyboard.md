@@ -3,7 +3,7 @@ title: Surface Pro Flex Keyboard overview
 description: This article introduces the new Surface Pro Flex Keyboard.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 06/18/2024

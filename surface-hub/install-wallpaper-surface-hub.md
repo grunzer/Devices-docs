@@ -4,7 +4,7 @@ description: Explains how admins can install the Windows Bloom background wallpa
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/05/2024

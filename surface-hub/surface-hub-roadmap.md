@@ -2,7 +2,7 @@
 title: Explore new features roadmap for Surface Hub & Microsoft Teams Rooms on Windows 
 description: Discover how the Microsoft 365 Roadmap helps you stay updated with the latest features for Surface Hub and Microsoft Teams Rooms. Learn how to provide feedback and utilize search tips to maximize your Microsoft 365 experience.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

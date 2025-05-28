@@ -3,7 +3,7 @@ title: NFC support in Surface Go for Business
 description: This article provides an overview and FAQ about NFC support in Surface Go for Business devices
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 01/30/2025

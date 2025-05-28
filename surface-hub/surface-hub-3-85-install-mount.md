@@ -2,7 +2,7 @@
 title: Install and mount Surface Hub 3 85
 description: Learn how to install and mount the 85-inch Surface Hub 3 securely in commercial environments. Follow safety tips and mounting instructions.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

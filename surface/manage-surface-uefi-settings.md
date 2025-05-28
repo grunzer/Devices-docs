@@ -3,7 +3,7 @@ title: Manage Surface UEFI settings
 description: Learn how to manage Surface UEFI settings to enable or disable components, configure security, and adjust boot settings on supported Surface devices. 
 ms.localizationpriority: medium
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: chauncel

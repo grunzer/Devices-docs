@@ -5,7 +5,7 @@ ms.assetid: C8605B5F-2178-4C3A-B4E0-CE32C70ECF67
 ms.reviewer: rikot
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 03/27/2023

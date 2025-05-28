@@ -3,7 +3,7 @@ title: Surface for Business service and repair
 description: Explore repair options for commercial Surface devices with guides, videos, and service options from Microsoft and Authorized Providers. 
 ms.service: windows-11
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/17/2025

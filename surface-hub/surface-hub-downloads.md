@@ -3,7 +3,7 @@ title: Downloadable resources for Surface Hub readiness
 description: Downloads related to the Microsoft Surface Hub.
 ms.service: surface-hub
 
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 08/22/2017

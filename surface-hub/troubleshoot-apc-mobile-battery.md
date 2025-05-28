@@ -3,7 +3,7 @@ title: Troubleshoot APC Charge Mobile Battery on Surface Hub 2S
 description: If you encounter an issue powering on your Surface Hub 2S when connected to the APC Charge Mobile Battery, review the troubleshooting steps outlined on this page.
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: troubleshooting
 ms.date: 01/30/2023
