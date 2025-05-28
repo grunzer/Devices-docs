@@ -4,7 +4,7 @@ description: This article provides information about optional accessories you ca
 ms.service: surface-hub
 ms.localizationpriority: low
 manager: frankbu
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.date: 09/18/2020
 ms.collection: M365-modern-desktop

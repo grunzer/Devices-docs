@@ -3,7 +3,7 @@ title: Advanced Exchange replacement for Surface devices
 description:  Get a replacement Surface device fast with Advanced Exchange. Includes prepaid shipping & a 10-day return window. Learn more.
 ms.service: windows-11
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 10/28/2022

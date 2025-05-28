@@ -3,7 +3,7 @@ title: Direct Memory Access (DMA) protection on Surface devices
 description: Learn how DMA protection enhances security on Surface devices by mitigating vulnerabilities related to removable SSDs and external storage.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/17/2025

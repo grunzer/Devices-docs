@@ -4,7 +4,7 @@ description: Microsoft Surface Hub provides an enterprise management solution to
 ms.assetid: 18EB8464-6E22-479D-B0C3-21C4ADD168FE
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/08/2023

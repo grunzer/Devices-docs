@@ -3,7 +3,7 @@ title: Surface Registration Support for Windows Autopilot
 description: Register Surface devices for Windows Autopilot easily via Microsoft Support. Covers registration, hash requests, and deregistration.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 8/15/2022

@@ -3,7 +3,7 @@ title: Surface repair by Microsoft Authorized Service Providers
 description: Get Surface repairs from Microsoft Authorized Service Providers using genuine parts and direct Microsoft support.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 03/28/2025

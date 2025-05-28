@@ -3,7 +3,7 @@ title: Configure UEFI settings for Surface devices
 description: This article describes how to secure and manage UEFI settings for Surface devices deployed across your organization using Surface Enterprise Management Mode (SEMM).
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 04/25/2024

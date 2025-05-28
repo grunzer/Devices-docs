@@ -3,7 +3,7 @@ title: Surface Dock 2 overview
 description: Surface Dock 2 boosts productivity with dual 4K@60Hz display capabilities, fast charging, seven ports, and robust IT management tools for modern workspaces
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 11/18/2024

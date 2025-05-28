@@ -3,7 +3,7 @@ title: Surface Diagnostic Toolkit for Business
 description: Troubleshoot Surface devices with the Diagnostic Toolkit for Business. Customize, test, and resolve issues across your network efficiently.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 12/02/2024

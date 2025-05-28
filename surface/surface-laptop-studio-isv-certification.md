@@ -3,7 +3,7 @@ title: Surface Laptop Studio ISV-tested/certified apps
 description: Surface Laptop Studio with NVIDIA RTX A2000 delivers faster performance and is certified by Autodesk, Adobe, Siemens, and more for key professional apps. 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 10/30/2024

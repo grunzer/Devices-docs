@@ -3,7 +3,7 @@ title: Troubleshoot configuration service provider policy settings for Surface H
 description: Learn how to troubleshoot configuration service provider (CSP) policy settings on Surface Hub, including MDM enrollment and deployment steps.
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: troubleshooting
 ms.date: 02/03/2023

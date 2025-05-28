@@ -3,7 +3,7 @@ title: Surface portals overview
 description: Explore centralized solutions for IT admins to manage Surface devices at scale. Learn about the Surface Management Portal and Surface Support Portal, designed for efficient device monitoring, warranty management, and support requests.  
 ms.service: windows-11  
 ms.localizationpriority: medium  
-author: coveminer  
+author: thechaunz  
 ms.author: rbrooker  
 ms.topic: how-to  
 ms.date: 09/18/2024  

@@ -4,7 +4,7 @@ description: Explains how to upgrade Surface Hub 2S to Surface Hub 3 by installi
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 01/18/2024

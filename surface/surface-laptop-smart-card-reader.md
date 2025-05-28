@@ -3,7 +3,7 @@ title: Surface Laptop Smart Card Reader overview
 description: Learn about the integrated Smart Card Reader on select Surface Laptop models, offering enhanced security and compliance for businesses.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 01/30/2025

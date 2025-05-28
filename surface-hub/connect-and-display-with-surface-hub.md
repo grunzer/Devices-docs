@@ -5,7 +5,7 @@ ms.assetid: 8BB80FA3-D364-4A90-B72B-65F0F0FC1F0D
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/08/2023

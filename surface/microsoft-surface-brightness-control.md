@@ -2,7 +2,7 @@
 title: Surface Brightness Control
 description: Optimize display brightness on Surface devices in kiosk scenarios using the Surface Brightness Control app to manage power & reduce thermal load.
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: chauncel

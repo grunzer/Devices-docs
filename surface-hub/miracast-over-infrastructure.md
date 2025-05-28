@@ -2,7 +2,7 @@
 title: Miracast on existing wireless network or LAN
 description: Use Miracast over LAN or secure Wi-Fi to wirelessly project and interact with content on Surface Hub without extra hardware or setup. 
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 03/31/2025

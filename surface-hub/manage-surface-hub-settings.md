@@ -2,7 +2,7 @@
 title: Manage Surface Hub settings
 description: This section lists topics for managing Surface Hub settings.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 03/03/2021

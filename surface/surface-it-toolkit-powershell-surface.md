@@ -3,7 +3,7 @@ title: Configure Surface devices with PowerShell
 description: This article describes the PowerShell scripts built into the Surface IT Toolkit.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 04/25/2024

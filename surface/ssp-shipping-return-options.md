@@ -3,7 +3,7 @@ title: Shipping instructions for Surface Support Portal
 description: Learn how to return a device or accessory for repair. Applies to Japan only.  
 ms.service: surface  
 ms.localizationpriority: low  
-author: coveminer  
+author: thechaunz  
 ms.author: chauncel  
 ms.topic: how-to  
 ms.date: 02/10/2025

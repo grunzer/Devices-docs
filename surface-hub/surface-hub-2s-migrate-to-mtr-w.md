@@ -4,8 +4,8 @@ description: This guide provides IT admins with detailed instructions on how to 
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: how-to
 ms.date: 08/14/2024
 ms.localizationpriority: medium

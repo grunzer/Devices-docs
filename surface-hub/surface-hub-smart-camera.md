@@ -2,7 +2,7 @@
 title: "Install and manage Surface Hub Smart Camera"
 description: "Explains how to install and manage settings for the Surface Hub Smart Camera."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

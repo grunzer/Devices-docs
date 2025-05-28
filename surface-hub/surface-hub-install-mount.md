@@ -2,7 +2,7 @@
 title: Install & mount 50" models of Surface Hub 2S or Surface Hub 3
 description: Learn how to install & mount 50" models of Surface Hub 2S or Surface Hub 3.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

@@ -5,7 +5,7 @@ ms.assetid: FA67209E-B355-4333-B903-482C4A3BDCCE
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/01/2021

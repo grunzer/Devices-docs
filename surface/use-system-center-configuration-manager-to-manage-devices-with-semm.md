@@ -2,7 +2,7 @@
 title: Use UEFI Assemblies & Configuration Manager to manage devices with SEMM 
 description: Learn how to manage Surface Enterprise Management Mode (SEMM) with UEFI Assemblies, PowerShell scripts, and Configuration Manager.
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: dashap

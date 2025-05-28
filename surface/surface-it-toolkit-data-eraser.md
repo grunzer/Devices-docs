@@ -3,7 +3,7 @@ title: Surface Data Eraser (IT Toolkit)
 description: This article describes how to use the Surface IT Toolkit to securely erase data and generate a certificate of sanitization.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 05/10/2024

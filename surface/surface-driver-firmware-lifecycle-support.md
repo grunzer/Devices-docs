@@ -3,7 +3,7 @@ title: Surface devices driver and firmware lifecycle for Windows-based devices
 description: Learn about Surface device driver & firmware lifecycles, including servicing periods and OS support, to plan hardware deployments effectively.
 ms.service: surface
 ms.localizationpriority: high
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/12/2025
