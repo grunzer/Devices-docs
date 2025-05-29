@@ -4,8 +4,8 @@ description: Plan for end of support for Surface Hub v1 as Windows 10 Team OS su
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: dpandre
-ms.author: chauncel
+author: thechaunz
+ms.author: dpandre
 ms.topic: how-to
 ms.date: 11/15/2024
 ms.localizationpriority: medium
