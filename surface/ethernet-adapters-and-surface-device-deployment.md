@@ -26,13 +26,15 @@ Before you can address how your deployment solution will recognize devices, you 
 
 When selecting Ethernet adapters, the primary concern is how adapters will boot your Surface devices from the network. Suppose you're prestaging clients with Windows Deployment Services (WDS) or using Microsoft Configuration Manager. Consider whether the removable Ethernet adapters will be dedicated to a specific Surface device or shared among multiple devices. For more information on potential conflicts with shared adapters, see [Manage MAC addresses with removable Ethernet adapters](#manage-mac-addresses) later in this article.
 
-Booting from the network (PXE boot) is only supported when using an Ethernet adapter or docking station from Microsoft. The chipset in the Ethernet adapter or dock must be detected and configured as a boot device in the firmware of the Surface device. Microsoft Ethernet adapters, such as the Surface Ethernet Adapter and the [Surface Dock](https://www.microsoft.com/surface/accessories/surface-dock), use a chipset compatible with the Surface firmware.
+Booting from the network (PXE boot) is only supported when using a supported Ethernet adapter or docking station. The chipset in the Ethernet adapter or dock must be detected and configured as a boot device in the firmware of the Surface device. Microsoft Ethernet adapters, such as the Surface Ethernet Adapter and the [Surface Dock](https://www.microsoft.com/surface/accessories/surface-dock), use a chipset compatible with the Surface firmware.
 
-The following Ethernet devices are supported for network boot with Surface devices:
+The following Microsoft Ethernet devices are supported for network boot with Surface devices:
 
+- Surface USB4 Dock
+
+- Surface Thunderbolt 4 Dock
 - Surface Dock 2
 - Surface Dock
-- Surface Thunderbolt 4 Dock
 - Surface USB-C to Ethernet and USB 3.0 Adapter
 - Surface USB 3.0 to Gigabit Ethernet Adapter
 - Microsoft USB-C Travel Hub
@@ -40,9 +42,25 @@ The following Ethernet devices are supported for network boot with Surface devic
 - Docking Station for Surface Pro 3 
 - Docking Station for Surface Pro and Surface Pro 2
 
-Third-party Ethernet adapters are also supported for network deployment, although they don't support PXE boot. To use a third-party Ethernet adapter, you must load the drivers into the deployment boot image, and you must launch that boot image from a separate storage device, such as USB storage.
+The following third-party Ethernet devices are supported for network boot with specific Surface devices[<sup>1</sup>](#references):
 
-To PXE boot using Surface Thunderbolt 4 Dock with a supported Surface device, you may need to first install the latest drivers and firmware on the Surface device:  
+- Designed for Surface: [Cable Matters USB-C to USB-A 3.2 Gen 1 Adapter](https://www.microsoft.com/en-us/surface/designed-for-surface/products/cable-matters-usb-c-to-usb-a-3-2-gen-1-adapter/ef225301-131f-ed11-b5cf-00155dd402d7) 
+
+- Designed for Surface: [Cable Matters USB-C to 2.5 Gigabit Ethernet Adapter](https://www.microsoft.com/en-us/surface/designed-for-surface/products/cable-matters-usb-c-to-2-5-gigabit-ethernet-adapter/d206aa47-131f-ed11-b5cf-00155dd402d7)
+
+- Designed for Surface: [Kensington SD5765T Thunderbolt 4 Dual 4K Docking Station](https://www.microsoft.com/en-us/surface/designed-for-surface/products/kensington-sd5765t-thunderbolt-4-dual-4k-docking-station-dfs/1ff2e513-1dda-ed11-9139-501ac5a6e4f4)
+
+- Designed for Surface: [Kensington MD125U4 USB4 Portable Docking Station](https://www.microsoft.com/en-us/surface/designed-for-surface/products/kensington-md125u4-usb4-portable-docking-station/9d350f33-4c81-ed11-a76f-281878fc99dd)
+
+- Designed for Surface: [Kensington SD4845P USB-C 10Gbps Triple Video Driverless Docking Station](https://www.microsoft.com/en-us/surface/designed-for-surface/products/kensington-sd4845p-usb-c-10gbps-triple-video-driverless-docking-station/be40a663-8848-ec11-a3ef-00155dd40316)
+
+- Dell Dock - WD19S 180W
+
+- Dell Performance Dock - WD19DCS
+
+Third-party Ethernet adapters not listed above are also supported for network deployment, although they don't support PXE boot. To use a third-party Ethernet adapter, you must load the drivers into the deployment boot image, and you must launch that boot image from a separate storage device, such as USB storage.
+
+To PXE boot using Surface Thunderbolt 4 Dock or Surface USB4 Dock with a supported Surface device, you may need to first install the latest drivers and firmware on the Surface device:  
 
 - [Download drivers and firmware for Surface](https://support.microsoft.com/surface/download-drivers-and-firmware-for-surface-09bb2e09-2a4b-cb69-0951-078a7739e120).  
 
@@ -77,12 +95,20 @@ When you use a shared adapter for deployment, the solution for affected deployme
 **To access the firmware of a Surface device:**
 
 1. Ensure the Surface device is powered off.
-2. Press and hold the **Volume Up** button.
-3. Press and release the **Power** button.
-4. After the machine begins to boot, release the **Volume Up** button.
+1. Press and hold the **Volume Up** button.
+1. Press and release the **Power** button.
+1. After the machine begins to boot, release the **Volume Up** button.
 
 When deploying with WDS, the MAC address only identifies a computer when the deployment server is configured to respond to known, prestaged clients. When prestaging a client, an administrator creates a computer account in Active Directory and defines that computer by the MAC address or the System UUID. To avoid the identity conflicts caused by shared Ethernet adapters, you should use [System UUID to define prestaged clients](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/cc742034(v=ws.11)). 
 
 Alternatively, you can configure WDS to respond to unknown clients that don't require definition by either MAC address or System UUID. Select the **Respond to all client computers (known and unknown)** option on the [**PXE Response** tab](/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732360(v=ws.11)) in **Windows Deployment Server Properties**.
 
 The potential for conflicts with shared Ethernet adapters is higher with Configuration Manager. While WDS only uses MAC addresses to define individual systems, Configuration Manager uses the MAC address to determine separate systems whenever deploying to new or unknown computers. This can result in improperly configured devices or even the inability to deploy multiple systems with a shared Ethernet adapter. Several potential solutions for this situation are described in detail in [How to Use The Same External Ethernet Adapter For Multiple SCCM OSD](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-use-the-same-external-ethernet-adapter-for-multiple-sccm/ba-p/257374).
+## References
+
+[1] Support for PXE Boot with the listed third-party Ethernet devices is only supported on the following devices:
+
+- Surface Pro, 11th Edition, Intel processor
+
+- Surface Laptop, 7th Edition, Intel processor
+
