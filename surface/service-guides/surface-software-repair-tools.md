@@ -1,5 +1,5 @@
 ---
-title: Surface Diagnostic Toolkt - User Guide
+title: Surface Diagnostic Toolkit - User Guide
 description: Provides information on surface software repair tools
 ms.service: surface
 ms.localizationpriority: medium
@@ -14,7 +14,7 @@ appliesto:
 - Windows 11
 ---
 
-# Surface Diagnostic Toolkt - User Guide
+# Surface Diagnostic Toolkit - User Guide
 
 > [!WARNING]
 > This walkthrough (guide) provides instructions for the usage of the
