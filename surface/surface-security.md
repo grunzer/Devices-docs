@@ -3,7 +3,7 @@ title: Surface security overview
 description: Protect your organization with Surface devices. From chip to cloud, Surface offers built-in security features with Zero Trust principles and advanced AI.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 10/23/2024

@@ -2,7 +2,7 @@
 title: Set up and use Microsoft Whiteboard
 description: Set up and use Microsoft Whiteboard to collaborate in real time on Surface Hub and other devices with Microsoft 365 integration.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/10/2025

@@ -3,7 +3,7 @@ title: Surface Book 3 GPU technical overview
 description: Explore GPU configurations in Surface Book 3, from Intel Iris to NVIDIA RTX 3000, tailored for creators, gamers, and professionals.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 5/06/2020

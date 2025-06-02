@@ -3,7 +3,7 @@ title: Surface Slim Pen (2nd Edition) haptics developer notes
 description: Guidance for developers on implementing haptics in Windows 11 Ink apps with customizable inking and interaction feedback features.
 ms.service: windows-11
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 10/30/2024

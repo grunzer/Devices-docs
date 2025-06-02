@@ -2,7 +2,7 @@
 title: Enable 802.1x wired authentication on Surface Hub
 description: 802.1x Wired Authentication MDM policies have been enabled on Surface Hub devices. 
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 11/15/2017

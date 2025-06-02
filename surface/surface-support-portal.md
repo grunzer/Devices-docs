@@ -3,7 +3,7 @@ title: Surface Support Portal overview
 description: Discover how the Surface Support Portal offers Microsoft 365 Business customers a centralized solution for managing Surface devices, including warranty tracking, device repair requests, and Windows Autopilot registration.  
 ms.service: surface  
 ms.localizationpriority: medium  
-author: coveminer  
+author: thechaunz  
 ms.author: chauncel  
 ms.topic: how-to  
 ms.date: 01/14/2025

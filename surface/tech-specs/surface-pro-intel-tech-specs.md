@@ -3,7 +3,7 @@ title: Tech specs—Surface Pro for Business, Copilot+ PC, Intel Core Ultra proc
 description: See technical specifications for Surface Pro 11th Edition with Intel processors, including display, battery life, and ports.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/26/2025

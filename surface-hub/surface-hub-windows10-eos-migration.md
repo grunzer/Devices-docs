@@ -4,7 +4,7 @@ description: Surface Hub 2S must migrate from Windows 10 by October 14, 2025. Le
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel 
 ms.topic: how-to
 ms.date: 04/14/2025

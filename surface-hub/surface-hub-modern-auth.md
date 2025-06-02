@@ -2,7 +2,7 @@
 title: "Modern authentication on Surface Hub"
 description: "This page describes use of Modern authentication on Surface Hub in contrast to legacy basic authentication."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

@@ -3,7 +3,7 @@ title: NFC support in Surface Pro for Business
 description: Learn how NFC in Surface Pro 10 and Surface Pro 11th Edition enhances security with FIDO2 authentication, access control, and enterprise asset tracking.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 01/30/2025

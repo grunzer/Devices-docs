@@ -4,7 +4,7 @@ description: Explains how admins can install Progressive Web Apps (PWAs) on Surf
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 04/27/2022

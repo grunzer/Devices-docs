@@ -3,7 +3,7 @@ title: Surface Asset Tag Tool
 description: Manage Surface device asset tags efficiently. Learn how to view, assign, and modify tags with the Surface Asset Tag Tool.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: carlol

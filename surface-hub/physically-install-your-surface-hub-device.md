@@ -4,7 +4,7 @@ description: The Microsoft Surface Hub Readiness Guide will help make sure that 
 ms.assetid: C764DBFB-429B-4B29-B4E8-D7F0073BC554
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 07/27/2017

@@ -2,7 +2,7 @@
 title: Security best practices for Surface Hubs running Microsoft Teams Rooms on Windows
 description: Discover security best practices for Surface Hub running Microsoft Teams Rooms on Windows, including password changes, UEFI setup, and physical security.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: overview

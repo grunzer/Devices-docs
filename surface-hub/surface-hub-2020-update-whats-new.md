@@ -2,7 +2,7 @@
 title: What's new in Windows 10 Team 2020 updates for Surface Hub and Surface Hub 2S
 description: Learn about new features and improvements in Windows 10 Team 2020 updates for Surface Hub and Surface Hub 2S, including manageability and security.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: overview

@@ -3,8 +3,8 @@ title: Windows 10 Team edition update history
 description: Explore the update history for Surface Hub (v1) and Hub 2S devices running Windows 10 Team edition, focusing on security, performance, and compliance.
 ms.assetid: d66a9392-2b14-4cb2-95c3-92db0ae2de34
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 10/18/2024

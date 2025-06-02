@@ -3,7 +3,7 @@ title: Surface Management Portal
 description: Manage and monitor Surface devices at scale with the Surface Management Portal. Gain insights into compliance, warranty coverage, and support requests—now with Security Copilot integration for AI-powered troubleshooting and proactive device management. 
 ms.service: surface  
 ms.localizationpriority: medium  
-author: coveminer  
+author: thechaunz  
 ms.author: chauncel  
 ms.topic: how-to  
 ms.date: 02/24/2025  

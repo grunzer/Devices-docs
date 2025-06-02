@@ -6,7 +6,7 @@ ms.reviewer: chauncel
 manager: frankbu
 ms.localizationpriority: medium
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 5/08/2020

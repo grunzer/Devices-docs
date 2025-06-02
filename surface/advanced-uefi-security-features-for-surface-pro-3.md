@@ -5,7 +5,7 @@ ms.assetid: 90F790C0-E5FC-4482-AD71-60589E3C9C93
 manager: frankbu
 ms.localizationpriority: medium
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 06/09/2020

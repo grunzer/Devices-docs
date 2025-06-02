@@ -4,7 +4,7 @@ description: Every Microsoft Surface Hub device account requires a password to a
 ms.assetid: 0FBFB546-05F0-430E-905E-87111046E4B8
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 07/27/2017

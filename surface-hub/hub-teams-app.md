@@ -2,7 +2,7 @@
 title: Microsoft Teams app for Surface Hub 
 description: Provides a version history of updates for the Microsoft Teams app for Surface Hub 2S.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 08/17/2020

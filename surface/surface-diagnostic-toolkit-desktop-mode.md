@@ -2,7 +2,7 @@
 title: Use Surface Diagnostic Toolkit for Business in desktop mode
 description: Use Surface Diagnostic Toolkit in desktop mode to diagnose and resolve hardware or software issues and submit support requests efficiently.
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: chauncel
