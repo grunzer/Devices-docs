@@ -3,7 +3,7 @@ title: Surface supported operating systems
 description: Discover which versions of Windows are supported on Microsoft Surface devices to ensure compatibility and optimize your Surface experience. 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 04/17/2025

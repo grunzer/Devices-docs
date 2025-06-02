@@ -2,7 +2,7 @@
 title: "Surface Hub 2S on-demand adoption and training videos"
 description: "This page contains on-demand training for Surface Hub 2S."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

@@ -3,7 +3,7 @@ title: Tech specs—Surface Laptop for Business, Copilot+ PC 13-inch
 description: See technical specifications for Surface Laptop for Business with Snapdragon X Plus, including display, battery life, and ports.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 05/06/2025

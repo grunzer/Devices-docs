@@ -3,7 +3,7 @@ title: Wake On LAN for Surface devices
 description: Enable Wake On LAN for Surface devices in Modern Standby with compatible Ethernet adapters and docks. Remotely wake and manage your devices.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.reviewer: jesko

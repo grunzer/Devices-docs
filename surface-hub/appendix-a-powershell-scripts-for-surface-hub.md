@@ -4,7 +4,7 @@ description: Learn to manage Surface Hub (v1) accounts with PowerShell scripts. 
 ms.assetid: 3EF48F63-8E4C-4D74-ACD5-461F1C653784
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/01/2021

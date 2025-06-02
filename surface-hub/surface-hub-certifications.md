@@ -2,7 +2,7 @@
 title: Microsoft Teams certified peripherals for Surface Hub
 description: Explore Microsoft Teams certified peripherals for Surface Hub models, including audio and video accessories, to enhance collaboration in huddle spaces and larger rooms.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: reference

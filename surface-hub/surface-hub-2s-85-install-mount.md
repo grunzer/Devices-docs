@@ -2,7 +2,7 @@
 title: "Install and mount Surface Hub 2S 85"
 description: "Learn how to install and mount Surface Hub 2S 85."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

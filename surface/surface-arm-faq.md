@@ -3,7 +3,7 @@ title: Arm-based Surface devices FAQ
 description: Explore how Arm-based Surface devices offer top performance, efficiency, and app compatibility for corporate environments.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 02/14/2025

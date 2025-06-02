@@ -2,7 +2,7 @@
 title: "Surface Hub 2S quick start"
 description: "View the quick start steps to begin using Surface Hub 2S."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

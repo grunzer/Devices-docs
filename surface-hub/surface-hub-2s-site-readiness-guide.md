@@ -2,7 +2,7 @@
 title: "Surface Hub 2S Site readiness guide"
 description: "Get familiar with site readiness requirements and recommendations for Surface Hub 2S."
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

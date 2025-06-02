@@ -4,7 +4,7 @@ description: Learn how to configure Windows 11 Pro or Enterprise on Surface Hub 
 ms.service: surface-hub
 ms.localizationpriority: medium
 manager: frankbu
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.collection: M365-modern-desktop
 ms.topic: how-to

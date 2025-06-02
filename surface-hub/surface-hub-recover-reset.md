@@ -2,7 +2,7 @@
 title: Reset & recovery for Surface Hub 2S & Surface Hub 3
 description: Learn how to reset or recover Surface Hub 2S and Surface Hub 3 using a USB drive or Windows settings, including BitLocker and BMR tips
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: troubleshooting

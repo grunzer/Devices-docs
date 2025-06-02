@@ -2,7 +2,7 @@
 title: Unenroll Surface devices from SEMM 
 description: Learn how to unenroll a device from SEMM using the Surface  IT Toolkit.
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 manager: frankbu

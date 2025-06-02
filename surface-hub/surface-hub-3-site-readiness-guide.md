@@ -2,7 +2,7 @@
 title: Surface Hub 3 Site readiness guide
 description: Prepare for Surface Hub 3 installation with our site readiness guide, covering room planning, mounting options, port overviews, and setup instructions
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to

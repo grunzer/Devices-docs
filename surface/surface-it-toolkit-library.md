@@ -3,7 +3,7 @@ title: Surface IT Toolkit tool library
 description: This article describes what's in the Tool Library embedded with the Surface IT Toolkit.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 04/25/2024

@@ -3,7 +3,7 @@ title: Manage DFCI on Surface devices
 description: Remotely manage UEFI settings on Surface devices with DFCI in Intune. Disable hardware, enforce security, and streamline provisioning.
 ms.localizationpriority: medium
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 03/31/2025

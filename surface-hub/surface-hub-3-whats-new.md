@@ -4,8 +4,8 @@ description:  Discover how Surface Hub 3 with Teams Rooms on Windows boosts hybr
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: how-to
 ms.date: 01/30/2025
 ms.localizationpriority: medium

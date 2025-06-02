@@ -5,7 +5,7 @@ ms.assetid: CD1219BA-8EDE-4BC8-BEEF-99B50C211D73
 manager: frankbu
 ms.localizationpriority: medium
 ms.service: surface
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 04/21/2025

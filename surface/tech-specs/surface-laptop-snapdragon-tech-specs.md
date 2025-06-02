@@ -3,7 +3,7 @@ title: Tech specs—Surface Laptop for Business, Copilot+ PC, Snapdragon X Serie
 description: See technical specifications for Surface Laptop 7th Edition with Snapdragon processors, including display, battery life, and ports.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 02/26/2025

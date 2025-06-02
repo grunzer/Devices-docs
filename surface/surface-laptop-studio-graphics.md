@@ -3,7 +3,7 @@ title: Surface Laptop Studio graphics overview
 description: This article highlights GPUs in Surface Laptop Studio. 
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 10/04/2021

@@ -3,7 +3,7 @@ title: Surface UEFI settings reference for SEMM
 description: This article provides a technical reference of UEFI settings for Surface devices enrolled into Surface Enterprise Management Mode.
 ms.service: surface
 ms.localizationpriority: medium
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: overview
 ms.date: 09/04/2024

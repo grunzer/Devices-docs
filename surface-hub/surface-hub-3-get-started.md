@@ -4,8 +4,8 @@ description: Get started with Surface Hub 3 running Microsoft Teams Rooms on Win
 ms.reviewer: dpandre
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
-ms.author: dpandre
+author: thechaunz
+ms.author: chauncel
 ms.topic: how-to
 ms.date: 09/24/2024
 ms.localizationpriority: medium

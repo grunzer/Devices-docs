@@ -5,7 +5,7 @@ ms.assetid: AC6F925B-BADE-48F5-8D53-8B6FFF6EE3EB
 ms.reviewer: 
 manager: frankbu
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 ms.topic: how-to
 ms.date: 05/14/2021

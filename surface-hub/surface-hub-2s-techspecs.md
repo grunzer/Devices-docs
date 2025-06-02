@@ -2,7 +2,7 @@
 title: Surface Hub 2S tech specs
 description: View tech specs for Surface Hub 2S including pen, camera, and optional mobile battery specifications.
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 manager: frankbu
 ms.author: chauncel
 ms.topic: how-to

@@ -2,7 +2,7 @@
 title: Connect devices to Surface Hub 2S
 description: Connect devices to Surface Hub 2S with USB-C, HDMI, or Bluetooth. 
 ms.service: surface-hub
-author: coveminer
+author: thechaunz
 ms.author: chauncel
 manager: frankbu
 ms.topic: how-to
