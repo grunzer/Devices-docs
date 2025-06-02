@@ -49,15 +49,13 @@ The following terms are used throughout this guide.
 
 - How To: [Surface Service Guide Center](surface-service-guides.md#surface-service-guide-center)
 
-- How To: [Surface Diagnostic Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
+- How To: [Update Surface device firmware and OS](https://support.microsoft.com/help/4023505)
 
-- How To: [Update Surface device firmware and OS](https://support.microsoft.com/en-us/help/4023505)
+- Download: [Surface drivers and firmware](https://support.microsoft.com/help/4023482)
 
-- Download: [Surface drivers and firmware](https://support.microsoft.com/en-us/help/4023482)
+- Download: [Surface Diagnostic Toolkit (SDT)](https://www.microsoft.com/download/details.aspx?id=100440)
 
-- Download: [Surface Diagnostic Toolkit (SDT)](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
-
-- Download: [Surface Data Eraser](https://msdn.microsoft.com/en-us/library/mt605308.aspx)
+- Download: [Surface Data Eraser](https://msdn.microsoft.com/library/mt605308.aspx)
 
 - Download: [Surface Recovery Images](https://support.microsoft.com/en-us/surfacerecoveryimage)
 
@@ -101,11 +99,11 @@ The following terms are used throughout this guide.
 > of a successful run and accurate diagnostics.
 
 1.  Ensure the device is updated to the latest OS/FW versions available
-    using [<u>Windows Update.</u>](https://support.microsoft.com/en-us/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
+    using [<u>Windows Update.</u>](https://support.microsoft.com/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
 
 2.  The device **must** be capable of booting into a Windows user
     account. If it is unable to do so, please reimage the device using
-    the [Surface Recovery Image](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.microsoft.com%2Fen-us%2Fsurface-recovery-image&data=05%7C02%7CHeidi.Poppe%40microsoft.com%7C6ecaf6a63ea048f12be108dd94083096%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638829485076179528%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=V3i2KU%2BPXbGjfGkeIwQXG53DmFyoGQ5lms%2FdWLo%2BKmw%3D&reserved=0)
+    the [Surface Recovery Image](https://support.microsoft.com/surface-recovery-image)
     for your model.
 
 3.  When using a Surface Recovery Image, ensure that this custom image
@@ -138,7 +136,7 @@ This section will take you through the Surface Diagnostic Toolkit in detail.
 
 ### Launching the Surface Diagnostic Toolkit
 
-- Insert the USB 3.0 Flash Drive loaded with the [Surface Diagnostic Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
+- Insert the USB 3.0 Flash Drive loaded with the [Surface Diagnostic Toolkit](https://www.microsoft.com/download/details.aspx?id=100440)
 
 - Locate **Microsoft.Surface.Diagnostics.App.Wpf.exe** and double-click
   to launch the Surface Diagnostic Toolkit application on your device.
@@ -361,7 +359,7 @@ If you are experiencing an error in SDT related to the calibration of a display 
 
 - Copy the contents of the LogFiles folder and create a ZIP archive.
   Instructions for creating a ZIP archive can be found
-  [<u>here</u>.](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
+  [<u>here</u>.](https://support.microsoft.com/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
 
 - Attach the ZIP archive to this email.
 
@@ -381,4 +379,4 @@ If you are experiencing an error in SDT related to the calibration of a display 
 
 - Once copied, create a ZIP archive of the folders and all content.
   Instructions for creating a ZIP archive can be found
-  [<u>here</u>.](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
+  [<u>here</u>.](https://support.microsoft.com/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5)
