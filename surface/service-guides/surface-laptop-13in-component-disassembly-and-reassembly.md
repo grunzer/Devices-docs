@@ -1692,8 +1692,8 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image121.jpeg" alt-text="A hand holding a screwdriver.":::
 
 3.  Use a feeler gauge to ensure the gap between the SSD receptable on
-    the PCBA and the grounding foam on the D bucket is between 0.3mm and
-    1.2mm. If it is not, loosen the 7 screws to shift the PCBA in
+    the PCBA and the grounding foam on the D bucket is between 0.6mm and
+    1.1mm. If it is not, loosen the 7 screws to shift the PCBA in
     whichever direction is necessary to ensure the gap is within those
     limits before moving on to the next step.
 
