@@ -47,7 +47,7 @@ The following terms are used throughout this guide.
 
 ## Software Tools & References
 
-- How To: [Surface Service Guides]()
+- How To: [Surface Service Guide Center](surface-service-guides.md#surface-service-guide-center)
 -
 - How To: [Surface Diagnostic Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=100440)
 
