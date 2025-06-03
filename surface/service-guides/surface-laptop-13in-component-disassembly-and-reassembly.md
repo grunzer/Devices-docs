@@ -57,7 +57,7 @@ repair on a Surface device.
   device is placed on a clean surface free of debris.
 
 > [!IMPORTANT]
-> **Device Serial Number Notation:** The serial number for this device is located on its original bottom cover. It's crucial to retain the device’s original serial number for future support from Microsoft. The D Bucket FRU will remove the device’s original serial number and the original device serial number cannot be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
+> **Device Serial Number Notation:** The serial number for this device is located on its original bottom cover. It's crucial to retain the device’s original serial number for future support from Microsoft. The D Bucket FRU will remove the device’s original serial number and the original device serial number can't be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
 
 ## Feet Replacement
 
@@ -87,7 +87,7 @@ repair on a Surface device.
 
 2.  Gently insert a plastic guitar pick between the foot and the bottom
     D bucket to pry the foot up. You may need to try gently inserting
-    the pick from a different direction, but **do not use a metal tool
+    the pick from a different direction, but **don't use a metal tool
     and only use the specified plastic tool.**
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image2.jpeg"/>
@@ -174,7 +174,7 @@ repair on a Surface device.
     this removal process, firmly but carefully insert the plastic guitar
     pick between the C Cover and the D bucket at least 5mm **below the top right corner**; this requires some force and patience.
     > [!IMPORTANT]
-    > **Do not use a metal tool and only use the specified plastic tool.**
+    > **Don't use a metal tool and only use the specified plastic tool.**
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image8.jpeg"/>
 
@@ -235,8 +235,8 @@ repair on a Surface device.
     soft surface for reuse. **Carefully inspect and count all 23 snaps
     and hooks on the C Cover and D bucket (7 at the top, 5 on the left,
     5 on the right, 6 on the bottom). If there are any missing or
-    cracked snaps on the C Cover, it cannot be reused. If there are any
-    missing or cracked hooks on the D bucket, it cannot be reused.**
+    cracked snaps on the C Cover, it can't be reused. If there are any
+    missing or cracked hooks on the D bucket, it can't be reused.**
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image15.png"/>
 
@@ -373,7 +373,7 @@ repair on a Surface device.
     between those 2 measurements at each shim location, determine which
     shim to install on to the C Cover with the following:
 
-    1.  If the difference between the measurements is ≤ -0.05, do not
+    1.  If the difference between the measurements is ≤ -0.05, don't
         install a shim at that location.
 
     2.  If the difference between the measurements is ≥ -0.05 and ≤
@@ -595,7 +595,7 @@ repair on a Surface device.
 > [!WARNING]
 > Pre-Installtion Device Inspection: It's highly recommended that prior to handling battery the operator should remove any personal jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
 > [!WARNING]
-> In case of battery event submerge entire device in sand. Do not attempt to pick up device. See [Battery safety](surface-repair-safety-guidelines.md#battery-safety) for more information.
+> In case of battery event submerge entire device in sand. Don't attempt to pick up device. See [Battery safety](surface-repair-safety-guidelines.md#battery-safety) for more information.
 
 1.  Download the latest SDT (surface diagnostic tool) version and follow the pre-installation battery repair (setup) workflow.
 
@@ -635,7 +635,7 @@ repair on a Surface device.
     > [!WARNING]
     > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
     > [!IMPORTANT]
-    > Place the battery in a location where it cannot be accidentally contacted or damaged. When replacing the battery dispose of the old battery according to local laws.
+    > Place the battery in a location where it can't be accidentally contacted or damaged. When replacing the battery dispose of the old battery according to local laws.
 
 **Procedure – Installation (Battery)**
 
@@ -667,7 +667,7 @@ repair on a Surface device.
     > [!IMPORTANT]
     > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
     > [!CAUTION]
-    > Do not overtighten screws on battery or battery frame. If frame is cracked the battery must not be used. IMPORTANT: Verify the battery’s condition. Devices exhibiting battery issues as outlined in the Battery Inspection Process require replacement. If the battery has been dropped, or if anything has been dropped on the battery in the course of this repair the battery should be replaced.
+    > Don't overtighten screws on battery or battery frame. If frame is cracked the battery must not be used. IMPORTANT: Verify the battery’s condition. Devices exhibiting battery issues as outlined in the Battery Inspection Process require replacement. If the battery has been dropped, or if anything has been dropped on the battery in the course of this repair the battery should be replaced.
 
 5.  Use a 3IP Torx Plus screwdriver to tighten the 2 screws. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
@@ -1175,7 +1175,7 @@ repair on a Surface device.
 
 2.  With a 5IP Torx Plus Screwdriver, remove the 3 screws holding down
     the USB-A and Audio Jack bracket and remove it with your fingers.
-    Please note that you will need to use
+    Please note that you'll need to use
     sufficient force to overcome the adhesive holding it down.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image82.jpeg" alt-text="A machine with a screwdriver.":::
@@ -1333,7 +1333,7 @@ repair on a Surface device.
 
 3.  With a 5IP Torx Plus Screwdriver, remove the 3 screws holding down
     the USB-A and Audio Jack bracket and remove it with your fingers.
-    Please note that you will need to use
+    Please note that you'll need to use
     sufficient force to overcome the adhesive holding it down.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image82.jpeg" alt-text="A machine with a screwdriver.":::
