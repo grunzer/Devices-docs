@@ -21,7 +21,7 @@ appliesto:
 > [!WARNING]
 > Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 > [!IMPORTANT]
-> Read this Guide in its entirety before starting any repairs. If at any point you are unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
+> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
 > [!WARNING]
 > Failure to follow the instructions in this Guide, use of non-Microsoft (non-genuine), incompatible, or modified replacement parts, and/or failure to use proper tools could result in serious injury, death, and/or damage to the product or other property.
 
@@ -92,8 +92,8 @@ repair on a Surface device.
 > Be sure to follow all special notes of caution within each process section.
 
 - **Device Serial Number Notation –** The replacement Enclosure supplied
-  for repair will not have a serial number. To ensure the customer has
-  the best experience with future Microsoft support cases, it is
+  for repair won't have a serial number. To ensure the customer has
+  the best experience with future Microsoft support cases, it's
   recommended to create a notation of the device serial number and
   provide it to the customer upon completion of the repair.
 
@@ -167,7 +167,7 @@ repair on a Surface device.
     Enclosure as you go to ensure even gaps around the perimeter.
 
     > [!CAUTION]
-    > Ensure that the Enclosure isn't stuck on a ledge as you are installing the screws. Shift the Enclosure as needed to avoid this condition.
+    > Ensure that the Enclosure isn't stuck on a ledge as you're installing the screws. Shift the Enclosure as needed to avoid this condition.
 
 4.  **Install the Feet –** Refer to the [Procedure – Installation
     (Feet)](#feet-replacement) section of this document for detailed
@@ -241,7 +241,7 @@ repair on a Surface device.
     close as possible to horizontal.
 
     > [!CAUTION]
-    > Ensure that the Speaker wire does not get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
+    > Ensure that the Speaker wire doesn't get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/insert-ssd.jpeg" alt-text="A close up of a computer chip":::
 
@@ -350,7 +350,7 @@ repair on a Surface device.
 **Procedure – Preparation (Battery)**
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the battery. If the battery is being re-used, then this section isn't required.
+> This section is only for instances where you're replacing the battery. If the battery is being re-used, then this section isn't required.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -424,10 +424,10 @@ repair on a Surface device.
 > Place the battery somewhere where the battery can't accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
 
 > [!IMPORTANT]
-> When disposing of the battery, ensure you are recycling according to local laws.
+> When disposing of the battery, ensure you're recycling according to local laws.
 
 > [!IMPORTANT]
-> The Motherboard Module and Battery are extremely sensitive to ESD and can be easily damaged. It is critical that you ensure proper grounding before performing any work on these parts.
+> The Motherboard Module and Battery are extremely sensitive to ESD and can be easily damaged. It's critical that you ensure proper grounding before performing any work on these parts.
 
 > [!WARNING]
 > In the instance of a battery event, submerge the entire device in a 4-gallon bucket filled with 2.0 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
@@ -443,7 +443,7 @@ repair on a Surface device.
     2.  Pay special attention to the magnetized areas around the edges
         of the interior.
 
-    3.  Verify that all removed screws are accounted for and have not
+    3.  Verify that all removed screws are accounted for and haven't
         been misplaced inside the device.
 
     4.  Loose screws should never be stored on the magnetic areas of the
@@ -744,7 +744,7 @@ repair on a Surface device.
     felt.
 
     > [!NOTE]
-    > The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+    > The connector will have 2 visible gold contacts if it's oriented in the correct direction.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/spk-connector.png" alt-text="A close up of a fan":::
 
@@ -859,7 +859,7 @@ repair on a Surface device.
     felt.
 
     > [!NOTE]
-    > The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+    > The connector will have 2 visible gold contacts if it's oriented in the correct direction.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/l-spk-connector.png" alt-text="A close up of a device":::
 
@@ -1068,7 +1068,7 @@ repair on a Surface device.
 **Procedure – Preparation (Display Assembly)**
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section isn't required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> This section is only for instances where you're replacing the Display. If the Display is being re-used, then this section isn't required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -1153,7 +1153,7 @@ repair on a Surface device.
     :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
 
     > [!CAUTION]
-    > Ensure that the shield does not damage the Display FPC’s during removal.
+    > Ensure that the shield doesn't damage the Display FPC’s during removal.
 
 8.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
@@ -1200,12 +1200,12 @@ repair on a Surface device.
     into the packets on the device Enclosure.
 
     > [!IMPORTANT]
-    > Ensure the Enclosure does not impact on the display assembly glass.
+    > Ensure the Enclosure doesn't impact on the display assembly glass.
 
 3.  **Pre-fasten the right hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 4 new right side hinge screws
     (:::image type="icon" source="./images/Laptop7/LT7Repair/media/hinge-wayfinding.png" alt-text="A black number six on a white background":::)
-    and tighten until it is just snug.
+    and tighten until it's just snug.
 
 4.  **Pre-fasten the left hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 3 new left side hinge screws
@@ -1236,14 +1236,14 @@ repair on a Surface device.
 6.  Repeat as necessary until the left and right gaps are even and the
     back surfaces are flush.
 
-6.  **Tighten all hinge screws -** Tighten all 7 hinge screws until they
-    are snug, and then tighten an additional 90 degrees (1/4 turn) to
+6.  **Tighten all hinge screws -** Tighten all 7 hinge screws until they're
+    snug, and then tighten an additional 90 degrees (1/4 turn) to
     ensure they're securely fastened.
 
-7.  **Connect the Display Assembly FPCs to the Motherboard -** Attach
+8.  **Connect the Display Assembly FPCs to the Motherboard -** Attach
     the display module cables to the receptacles on the Motherboard.
 
-8.  **Place the Display Assembly FPC Tape –** Place the Display Assembly
+9.  **Place the Display Assembly FPC Tape –** Place the Display Assembly
     FPC Tape to the Display Assembly FPC as shown.
 
     > [!IMPORTANT]
@@ -1251,7 +1251,7 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-tape.png" alt-text="A close up of a device":::
 
-9.  **Install the T3 Shield Foams (as needed) –**
+10.  **Install the T3 Shield Foams (as needed) –**
 
     1.  If the Display Assembly being installed has 2 FPCs, inspect the
         shield fence for foams. If the foams aren't present, install
@@ -1310,7 +1310,7 @@ repair on a Surface device.
 **Procedure – Finalize (Display Assembly)**
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section isn't required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> This section is only for instances where you're replacing the Display. If the Display is being re-used, then this section isn't required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -1631,7 +1631,7 @@ repair on a Surface device.
     :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
 
     > [!CAUTION]
-    > Ensure that the shield does not damage the Display FPC’s during removal.
+    > Ensure that the shield doesn't damage the Display FPC’s during removal.
 
 9.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
