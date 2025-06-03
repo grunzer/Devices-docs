@@ -163,7 +163,7 @@ repair on a Surface device.
 
 6.  **Install hinge screws –** Use your finger to hold the back of the
     kickstand behind the hinge while installing the screws with a 3IP
-    (Torx-Plus) driver until they are fully seated in each hinge. Ensure
+    (Torx-Plus) driver until they're fully seated in each hinge. Ensure
     the kickstand is properly aligned and seated in the hinges, then
     tighten the screws an additional ~quarter turn (~ 90-degrees). Be
     careful to tighten the screws only until snug to avoid stripping the
@@ -429,7 +429,7 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image27.png" alt-text="A close up of a device.":::
 
 > [!WARNING]
-> It is recommended an ESD-safe Surface Battery Cover (highlighted with red arrow in picture above) is placed across the device from this point to protect the battery from any accidental damage during repair. Ensure the corners of the cover are always aligned with the corners of the device during repair. If the battery cover is misaligned during repair in any way, pause and re-align the cover before continuing.
+> It's recommended an ESD-safe Surface Battery Cover (highlighted with red arrow in picture above) is placed across the device from this point to protect the battery from any accidental damage during repair. Ensure the corners of the cover are always aligned with the corners of the device during repair. If the battery cover is misaligned during repair in any way, pause and re-align the cover before continuing.
 
 11. **Begin Battery Shutoff Process** – Before proceeding to disconnect
     the Display FPC, you'll need to shutoff the battery by
@@ -553,7 +553,7 @@ Required Tools
 4.  **Install the T2 Shield Lid** - Remove the release papers from the
     TIM pads on the T2 shield lid. Assemble the shield lid in the
     direction indicated below, pressing around the shield cover with
-    your hand. Check to ensure that there is no damage or deformation to
+    your hand. Check to ensure that there's no damage or deformation to
     the shield snaps.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image42.png" alt-text="A close up of a computer chip.":::
@@ -617,7 +617,7 @@ Required Tools
 
 > [!IMPORTANT]
 > As the Display is facing down, the orientation of the
-> Display is flipped vs what it will be when it is applied to the
+> Display is flipped vs what it will be when it's applied to the
 > Device. The Left Speaker Mesh is applied to the Right side of the
 > Display, in this orientation, and the Right Speaker Mesh is applied to
 > the left side of the Display. Each Speaker Mesh is designed
@@ -626,7 +626,7 @@ Required Tools
 9.  **Connect the Display Module** – Lay the display face-down on the
     bottom edge of the enclosure as was done after separating the
     display from the enclosure. Reconnect the Display FPC onto the
-    connector on the display. Press on the connector to ensure it is
+    connector on the display. Press on the connector to ensure it's
     fully seated. Proceed to install a new shield lid over the FPC.
     Ensure all edges of the shield are snapped into place by pressing
     all around the shield edges with your finger.
@@ -636,7 +636,7 @@ Required Tools
     the Enclosure to expose the adhesive on all 4 edges. Align the
     display along the bottom edge first (Toe-in) and lower the rest of
     the display after alignment is found. Ensure that the glass sits
-    flush in the enclosure and does not rest anywhere on top of the
+    flush in the enclosure and doesn't rest anywhere on top of the
     Enclosure tip.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image47.png" alt-text="A drawing of a tablet":::
@@ -659,10 +659,10 @@ Required Tools
 
 12. **After bonding inspection** – Remove the weighted items from the
     device. Lift the device carefully out of the frame to avoid damage.
-    Inspect the display for scratches, cracks, large gaps, and ensure it
-    is flush to the enclosure.
+    Inspect the display for scratches, cracks, large gaps, and ensure it's
+    flush to the enclosure.
 
-13. **Power on device to the Windows Desktop** – Connect the device to
+14. **Power on device to the Windows Desktop** – Connect the device to
     power and press the power button. Allow the device to boot to the
     Windows Desktop before moving to the [Procedure Finalize (Display Module)](#procedure-finalize-display) section.
 
@@ -858,7 +858,7 @@ Required Tools
 > When disposing of the battery, ensure you're recycling according to local laws. See [Environmental Compliance Requirements](surface-environmental-compliance.md#environmental-compliance-requirements) for more details.
 > [!IMPORTANT] 
 > The Motherboard and Battery are very sensitive to ESD
-> and can be easily damaged. It is critical that you ensure proper
+> and can be easily damaged. It's critical that you ensure proper
 > grounding before performing any work on these parts.
 > [!WARNING]
 > In the instance of a battery event, submerge the entire device in a 1-gallon Enclosure filled with .5 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
@@ -907,7 +907,7 @@ Required Tools
     from the Battery. If you're working on other components, apply the
     ESD-safe Surface Battery Cover to ensure the Battery is protected.
 
-5.  **Install Battery FPC Tape –** If the T1 Shield Lid has not been
+5.  **Install Battery FPC Tape –** If the T1 Shield Lid hasn't been
     disassembled, remove the old battery FPC tape on the bottom left of
     the shield and replace it with a new one provided in the replacement
     kit in the orientation shown in the picture below.
@@ -1133,7 +1133,7 @@ Required Tools
 
 > [!IMPORTANT]
 > Check to ensure that the coax cable of the right
-> Antenna Deck does not run underneath the right microphone board but
+> Antenna Deck doesn't run underneath the right microphone board but
 > sits above or beside the board.
 
 3.  **Apply Thermal Paste to the Enclosure** – Using the syringe
@@ -1155,7 +1155,7 @@ Required Tools
 
 > [!IMPORTANT]
 > Check to ensure that the coax cable of the left Antenna
-> Deck does not run underneath the left microphone board but sits above
+> Deck doesn't run underneath the left microphone board but sits above
 > or beside the board.
 
 5.  **Install the Microphone Deck** – Follow the steps below to install
@@ -1164,7 +1164,7 @@ Required Tools
     1.  **Re-assemble Microphone rubber** – Inspect the underside of the
         microphone deck to check that the 2 microphone rubbers are assembled
         into the deck. If they were removed during the de-bonding process,
-        re-install them into the microphone deck. Ensure that they are
+        re-install them into the microphone deck. Ensure that they're
         installed in the proper orientation with the smooth side of the
         rubber facing outward as shown below.
 
@@ -1410,7 +1410,7 @@ Required Tools
     1.  **Re-assemble Microphone rubber** – Inspect the underside of the
         microphone deck to check that the 2 microphone rubbers are assembled
         into the deck. If they were removed during the de-bonding process,
-        re-install them into the microphone deck. Ensure that they are
+        re-install them into the microphone deck. Ensure that they're
         installed in the proper orientation with the smooth side of the
         rubber facing outward as shown below.
 
@@ -1436,7 +1436,7 @@ Required Tools
 6.  **Install the T1 Shield**– Remove the release paper from the TIM pad
     on the T1 shield lid. Gently lift the battery cable and assemble the
     shield lid in the direction indicated below, pressing around the
-    shield cover with your hand. Check to ensure that there is no damage
+    shield cover with your hand. Check to ensure that there's no damage
     or deformation to the shield snaps.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
@@ -1675,7 +1675,7 @@ Required Tools
     1.  **Re-assemble Microphone rubber** – Inspect the underside of the
         microphone deck to check that the 2 microphone rubbers are assembled
         into the deck. If they were removed during the de-bonding process,
-        re-install them into the microphone deck. Ensure that they are
+        re-install them into the microphone deck. Ensure that they're
         installed in the proper orientation with the smooth side of the
         rubber facing outward as shown below.
 
@@ -1701,7 +1701,7 @@ Required Tools
 6.  **Install the T1 Shield**– Remove the release paper from the TIM pad
     on the T1 shield lid. Gently lift the battery cable and assemble the
     shield lid in the direction indicated below, pressing around the
-    shield cover with your hand. Check to ensure that there is no damage
+    shield cover with your hand. Check to ensure that there's no damage
     or deformation to the shield snaps.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
@@ -2145,7 +2145,7 @@ Required Tools
 4.  **Install the T1 Shield**– Remove the release paper from the TIM pad
     on the T1 shield lid. Gently lift the battery cable and assemble the
     shield lid in the direction indicated below, pressing around the
-    shield cover with your hand. Check to ensure that there is no damage
+    shield cover with your hand. Check to ensure that there's no damage
     or deformation to the shield snaps.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image76.png" alt-text="A close up of a computer chip.":::
@@ -2409,7 +2409,7 @@ Required Tools
     1.  **Re-assemble Microphone rubber** – Inspect the underside of the
         microphone deck to check that the 2 microphone rubbers are assembled
         into the deck. If they were removed during the de-bonding process,
-        re-install them into the microphone deck. Ensure that they are
+        re-install them into the microphone deck. Ensure that they're
         installed in the proper orientation with the smooth side of the
         rubber facing outward as shown below.
 
@@ -2920,7 +2920,7 @@ Required Tools
     1.  **Re-assemble Microphone rubber** – Inspect the underside of the
         microphone deck to check that the 2 microphone rubbers are assembled
         into the deck. If they were removed during the de-bonding process,
-        re-install them into the microphone deck. Ensure that they are
+        re-install them into the microphone deck. Ensure that they're
         installed in the proper orientation with the smooth side of the
         rubber facing outward as shown below.
     
@@ -3446,7 +3446,7 @@ Required Tools
 
 2.  **Install the T3 Shield Lid (New Motherboard only)** – Assemble the
     T3 shield Lid onto the Motherboard, pressing around the shield cover
-    with your hand. Check to ensure that there is no damage or
+    with your hand. Check to ensure that there's no damage or
     deformation to the shield snaps.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image125.png" alt-text="A close up of a device.":::
@@ -3520,7 +3520,7 @@ Required Tools
 12. **Install the T2 Shield Lid** - Remove the release papers from the
     TIM pads on the T2 shield lid. Assemble the shield lid in the
     direction indicated below, pressing around the shield cover with
-    your hand. Check to ensure that there is no damage or deformation to
+    your hand. Check to ensure that there's no damage or deformation to
     the shield snaps.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image42.png" alt-text="A close up of a computer chip.":::
