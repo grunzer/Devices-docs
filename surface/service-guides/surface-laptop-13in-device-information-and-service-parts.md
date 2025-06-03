@@ -45,6 +45,7 @@ closest to the display hinge point.
 
 > [!IMPORTANT]
 > Repair workflows may require multiple parts to be ordered to complete the repair successfully. Please check the primary and additional components section in each repair workflow to ensure you have all required parts before beginning your repair.
+
 | **Item** | **Component** | **SKU Part No.** |
 |:--:|----|:--:|
 | **1** | **Independent Trackpad** |  |
