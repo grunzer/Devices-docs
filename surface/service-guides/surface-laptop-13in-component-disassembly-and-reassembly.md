@@ -361,8 +361,7 @@ repair on a Surface device.
 **Procedure – Installation (Trackpad)**
 
 1.  Attach alignment paper to the 4 corners of the Trackpad and press
-    the corners down firmly. However, ensure the alignment paper does
-    not fold between the trackpad and the bracket.
+    the corners down firmly. However, ensure the alignment paper doesn't fold between the trackpad and the bracket.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image24.jpeg" alt-text="A rectangular grey rectangular object with metal corners.":::
 
@@ -520,7 +519,7 @@ repair on a Surface device.
     15-degree angle.
 
     > [!IMPORTANT]
-    > Ensure the foam is not pinched between the receptacle and the pins on the SSD.
+    > Ensure the foam isn't pinched between the receptacle and the pins on the SSD.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image36.jpeg" alt-text="A hand holding a small circuit board.":::
 
@@ -854,7 +853,7 @@ repair on a Surface device.
 
 2.  Use a plastic spudger to connect the USB-C FPC to the connector on
     the PCBA. Ensure the FPC is completely flat and the USB-C
-    subassembly is not tilted upwards.
+    subassembly isn't tilted upwards.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image60.jpeg" alt-text="A close up of a circuit board.":::
 
