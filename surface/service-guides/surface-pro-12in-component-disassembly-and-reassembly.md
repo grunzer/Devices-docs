@@ -16,18 +16,20 @@ appliesto:
 
 # Surface Pro 12-in Component Disassembly and Reassembly
 
->[!VIDEO https://learn-video.azurefd.net/vod/player?id=59b750d2-9cfe-4550-862b-159fad09cd9a]
->
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=59b750d2-9cfe-4550-862b-159fad09cd9a]
+
 > [!WARNING]
 > Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
+
 > [!IMPORTANT]
-> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
+> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for more support options.
+
 > [!WARNING]
 > Failure to follow the instructions in this Guide, use of non-Microsoft (non-genuine), incompatible, or modified replacement parts, and/or failure to use proper tools could result in serious injury, death, and/or damage to the product or other property.
 
 ## Prerequisite Steps
 
-Steps outlined in this section should be conducted prior to starting any
+Steps outlined in this section should be conducted before starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
@@ -36,13 +38,13 @@ repair on a Surface device.
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for guidelines.
+  guidelines are followed before opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for guidelines.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
 
 > [!IMPORTANT]
-> During repair of the Surface Pro 12-inch, screws used to secure components in the device can be reused and aren't provided in the FRU replacement kits. To obtain replacement screws, you'll have to purchase the screw kit. Refer to the [Service Parts List](surface-pro-12in-device-information-and-service-parts.md#illustrated-service-parts-list) for the screw kit SKU and [Screw Map](surface-pro-12in-device-information-and-service-parts.md#surface-pro-12-inch-fru-screw-map) for screw type and tracking information.
+> During repair of the Surface Pro 12-inch, screws used to secure components in the device can be reused and aren't provided in the FRU replacement kits. To obtain replacement screws, you must purchase the screw kit. Refer to the [Service Parts List](surface-pro-12in-device-information-and-service-parts.md#illustrated-service-parts-list) for the screw kit SKU and [Screw Map](surface-pro-12in-device-information-and-service-parts.md#surface-pro-12-inch-fru-screw-map) for screw type and tracking information.
 
 ## Kickstand Replacement Process
 
@@ -117,7 +119,7 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
 > [!WARNING]
-> Inspect the Kickstand foam tabs – damaged foam or tabs can't be safely removed. Attempting to do so can result in damage to internal components. Don't insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Don't attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
+> Inspect the Kickstand foam tabs – damaged foam or tabs can't be safely removed. Attempting to do so can result in damage to internal components. Don't insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Don't attempt to remove it from the interior of the device. Instead, proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
 
 ### Procedure Installation Kickstand
 
@@ -282,7 +284,7 @@ Required Tools
 ### Procedure Preparation Display
 
 > [!IMPORTANT]
-> This section is only for instances where you're replacing the display. If the display is being re-used, then this section isn't required. If display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> This section is only for instances where you're replacing the display. If the display is being reused, then this section isn't required. If display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 > [!IMPORTANT]
 > Ensure the light levels of your work remain consistent during the software calibration process.
 
@@ -293,7 +295,7 @@ Required Tools
     (SDT) loaded to an available USB port on the device under repair.
 
 2.  **Power on device –** Connect a power supply to the device. Press
-    the power button on the device to power the device on. Allow it to
+    the power button on the device to power on the device. Allow it to
     boot to the Windows Desktop before continuing.
 
 3.  **Launch SDT –** From the Windows Desktop, use Windows Explorer to
@@ -342,8 +344,7 @@ Required Tools
 4. **Prepare the Surface Display Debonding Tool** –
 
     1. Install the marked pick in the holder with the marks visible.
-        Use a 3mm Allen Driver to adjust the pick height to the 3.5mm
-        mark.
+        Use a 3mm Allen Driver to adjust the pick height to the 3.5-mm mark.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image21.png" alt-text="A blue and grey object with a blue object in the middle with medium confidence":::
 
@@ -355,7 +356,7 @@ Required Tools
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
 
-5. **De-bond the Display** – The display of this device will follow the
+5. **De-bond the Display** – The display of this device follows the
     directional debonding process highlighted in the below image.
 
     1.  Ensure the pick height is at 3mm before starting. Place the
@@ -383,14 +384,14 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image23.png" alt-text="A diagram of a printer":::
 
 6.  Remove the clamps holding the Surface Debonding Tool. Using a 3mm Allen Driver, adjust the pick height to the
-    6mm mark. Re-clamp the debonding tool and place the device into the
+    6-mm mark. Re-clamp the debonding tool and place the device into the
     debonding tool at the left speaker edge. Push the device towards the
     top left corner and rotate it to cut through the top edge.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image24.png" alt-text="A hand holding a black rectangular object.":::
 
 > [!CAUTION]
-> Stop pushing the device once the pick meets the debonding tape placed at the center of the top edge (shown in the red arrow). If the debonding pick goes over the front camera and damages the front camera foam gasket, you'll have to replace the front camera with a new one.
+> Stop pushing the device once the pick meets the debonding tape placed at the center of the top edge (shown in the red arrow). If the debonding pick goes over the front camera and damages the front camera foam gasket, you must replace the front camera with a new one.
 
 7.  Remove the device from the Surface Debonding tool and place the
     device into the debonding tool at the right speaker edge. Push the
@@ -432,7 +433,7 @@ Required Tools
 > It's recommended an ESD-safe Surface Battery Cover (highlighted with red arrow in picture above) is placed across the device from this point to protect the battery from any accidental damage during repair. Ensure the corners of the cover are always aligned with the corners of the device during repair. If the battery cover is misaligned during repair in any way, pause and re-align the cover before continuing.
 
 11. **Begin Battery Shutoff Process** – Before proceeding to disconnect
-    the Display FPC, you'll need to shutoff the battery by
+    the Display FPC, you must shut off the battery by
     disconnecting the battery connector from the Motherboard. This is to
     ensure electricity isn't supplied to the device while the repair
     process is ongoing.
@@ -444,7 +445,7 @@ Required Tools
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image29.png" alt-text="remove Conductive tape 2":::
 
-    2.  Remove the 2 screws
+    2.  Remove the two screws
         (:::image type="icon" source="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png" alt-text="Battery wayfindinge.":::)
         Securing the battery connector bracket using a 3IP screwdriver and remove the bracket.
 
@@ -510,11 +511,13 @@ Required Tools
 ### Procedure Installation Display
 
 > [!IMPORTANT]
-> Verify the battery’s condition prior to beginning the installation of the display. Devices exhibiting battery issues as outlined in the [Lithium-Ion Battery Inspection](surface-repair-safety-guidelines.md#lithium-ion-battery-inspection) section of the safety guidelines require whole device replacement.
+> Verify the battery’s condition before beginning the installation of the display. Devices exhibiting battery issues as outlined in the [Lithium-Ion Battery Inspection](surface-repair-safety-guidelines.md#lithium-ion-battery-inspection) section of the safety guidelines require whole device replacement.
+
 > [!IMPORTANT]
 > Leave the protective cling on the new display during all installation steps to prevent damage to the display panel.
+
 > [!IMPORTANT]
-> Carefully inspect all internal areas of the enclosure for any loose foreign objects prior to installing the display.
+> Carefully inspect all internal areas of the enclosure for any loose foreign objects before installing the display.
 
 1.  **Inspect Antenna Deck for Damage** – Check the Left and Right
     Antenna Deck for any “peel-off” damage using the images below for
@@ -529,7 +532,7 @@ Required Tools
 2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
     microphone deck to observe if the ACS diffuser or two Microphone
     meshes are damaged or separated from the microphone deck. If
-    damaged, remove them using a plastic tweezer, and replace them with
+    damaged, remove them using plastic tweezers, and replace them with
     the new materials provided in the repair kit.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
@@ -569,7 +572,7 @@ Required Tools
         press on the connector to connect it.
 
     2.  Assemble the battery connector bracket and fasten it into the
-        enclosure using the 2 bracket screws
+        enclosure using the two bracket screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image17.png"/>) and a 3IP
         screwdriver.
 
@@ -586,7 +589,7 @@ Required Tools
 7.  **Apply new Display Module Adhesive** – After cleaning the enclosure
     with IPA along with PSA bonding surfaces, wait at least 30 seconds
     before applying the new PSA strips to allow for the surface to dry
-    completely. Carefully apply the 4 strips of PSA to the enclosure as
+    completely. Carefully apply the four strips of PSA to the enclosure as
     shown in the image below. Ensure the orientation of the PSA matches
     the enclosure outline before removing any liners. Leave the blue
     liner on the PSA, as it will be removed at a later step.
@@ -617,7 +620,7 @@ Required Tools
 
 > [!IMPORTANT]
 > As the Display is facing down, the orientation of the
-> Display is flipped vs what it will be when it's applied to the
+> Display is flipped compared to what it will be when it's applied to the
 > Device. The Left Speaker Mesh is applied to the Right side of the
 > Display, in this orientation, and the Right Speaker Mesh is applied to
 > the left side of the Display. Each Speaker Mesh is designed
@@ -686,7 +689,7 @@ Required Tools
     when prompted.
 
 > [!IMPORTANT]
-> If the calibration fails, reboot the device, and attempt again. If the failure continues, then the display may be faulty and require replacement.
+> If the calibration fails, reboot the device, and attempt again. If the failure continues, then the display might be faulty and require replacement.
 
 4.  **Launch SDT –** Once the device has rebooted and is at the Windows
     Desktop, use Windows Explorer to navigate to the USB drive. Select
@@ -803,7 +806,7 @@ Required Tools
     (SDT) loaded to an available USB port on the device under repair.
 
 2.  **Power on device –** Connect a power supply to the device. Press
-    the power button on the device to power the device on. Allow it to
+    the power button on the device to power on the device. Allow it to
     boot to the Windows Desktop before continuing.
 
 3.  **Launch SDT –** From the Windows Desktop, use Windows Explorer to
@@ -850,18 +853,23 @@ Required Tools
 
 > [!NOTE]
 > If the Display FPC is still connected to the motherboard and rests on the battery, the battery will be removed by gently lifting it up from the screw bosses and towards the bottom side of the device. Ensure that the Display FPC connection isn't bent at a 90⁰ angle.
+
 > [!WARNING]
 > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
+
 > [!IMPORTANT]
 > Place the battery somewhere where the battery can't accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
+
 > [!IMPORTANT]
 > When disposing of the battery, ensure you're recycling according to local laws. See [Environmental Compliance Requirements](surface-environmental-compliance.md#environmental-compliance-requirements) for more details.
+
 > [!IMPORTANT] 
-> The Motherboard and Battery are very sensitive to ESD
+> The Motherboard and Battery are sensitive to ESD
 > and can be easily damaged. It's critical that you ensure proper
 > grounding before performing any work on these parts.
+
 > [!WARNING]
-> In the instance of a battery event, submerge the entire device in a 1-gallon Enclosure filled with .5 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
+> In the instance of a battery event, submerge the entire device in a 1-gallon Enclosure filled with 0.5 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
 
 ### Procedure Installation Battery
 
@@ -1172,7 +1180,7 @@ Required Tools
 
     2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
         microphone deck to observe if the ACS diffuser or two Microphone
-        meshes are damaged. If damaged, remove them using a plastic tweezer,
+        meshes are damaged. If damaged, remove them using plastic tweezers,
         and replace them with the new materials provided in the repair kit.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
@@ -1181,7 +1189,7 @@ Required Tools
 
     3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
         into position using the enclosure contours and alignment posts.
-        Using a 3IP screwdriver, fasten the 3 screws
+        Using a 3IP screwdriver, fasten the three screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
         into place in the order shown.
 
@@ -1427,7 +1435,7 @@ Required Tools
 
     3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
         into position using the enclosure contours and alignment posts.
-        Using a 3IP screwdriver, fasten the 3 screws
+        Using a 3IP screwdriver, fasten the three screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>)of the microphone deck
         into place in the order shown.
 
@@ -1683,7 +1691,7 @@ Required Tools
 
     2.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
         microphone deck to observe if the ACS diffuser or two Microphone
-        meshes are damaged. If damaged, remove them using a plastic tweezer,
+        meshes are damaged. If damaged, remove them using plastic tweezers,
         and replace them with the new materials provided in the repair kit.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
@@ -1692,7 +1700,7 @@ Required Tools
 
     3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
         into position using the enclosure contours and alignment posts.
-        Using a 3IP screwdriver, fasten the 3 screws
+        Using a 3IP screwdriver, fasten the three screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
         into place in the order shown.
 
@@ -1885,7 +1893,7 @@ Required Tools
 
 2.  **Install the Rear Camera** – Assemble the rear camera into the
     enclosure using the locating pins as reference. Using a 3IP
-    screwdriver, fasten the 2 rear camera screws
+    screwdriver, fasten the two rear camera screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) into the enclosure.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image87.jpeg" alt-text="A close up of a screwdriver.":::
@@ -2130,7 +2138,7 @@ Required Tools
 
 3.  **Assemble the Thermal Module onto the Motherboard** – Remove the
     liner of the TIM on the thermal module and assemble it into place on
-    the motherboard, using the locating posts as reference. Fasten the 7
+    the motherboard, using the locating posts as reference. Fasten the seven
     thermal module screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image34.png"/>) in the order shown
     below using a 3IP screwdriver.
@@ -2163,7 +2171,7 @@ Required Tools
 
 7.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
     microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
+    meshes are damaged. If damaged, remove them using plastic tweezers,
     and replace them with the new materials provided in the repair kit.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
@@ -2374,17 +2382,17 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image102.png" alt-text="A close up of a device.":::
 
 > [!NOTE]
-> This step is only required if you're reusing the original Antenna decks and the original cable tape is unfit for re-use (i.e. torn or crumpled).
+> This step is only required if you're reusing the original Antenna decks and the original cable tape is unfit for re-use (that is, torn or crumpled).
 
 2.  **Install Right Antenna Deck** – Assemble the right Antenna deck
     into the enclosure using the locating posts as guidance. Using a 3IP
-    screwdriver, fasten the 3 Antenna deck
+    screwdriver, fasten the three Antenna deck
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) screws into the
     enclosure.
 
 3.  **Install Left Antenna Deck** – Assemble the left Antenna deck into
     the enclosure using the locating posts as guidance. Using a 3IP
-    screwdriver, fasten the 3 Antenna deck
+    screwdriver, fasten the three Antenna deck
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) screws into the
     enclosure.
 
@@ -2426,7 +2434,7 @@ Required Tools
 
     3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
         into position using the enclosure contours and alignment posts.
-        Using a 3IP screwdriver, fasten the 3 screws
+        Using a 3IP screwdriver, fasten the three screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
         into place in the order shown.
 
@@ -2611,13 +2619,13 @@ Required Tools
 
 1.  **Install the Right Speaker** – Place the right speaker into the
     device, using the locating pins for guidance. Using a 3IP
-    screwdriver, fasten the 4 screws
+    screwdriver, fasten the four screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the right
     speaker.
 
 2.  **Install the Left Speaker** – Place the left speaker into the
     device, using the locating pins for guidance. Using a 3IP
-    screwdriver, fasten the 4 screws
+    screwdriver, fasten the four screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>) securing the left
     speaker.
 
@@ -2626,7 +2634,7 @@ Required Tools
 
 4.  **Install the Rear Camera** – Assemble the rear camera back into its
     position using the positioning pins for guidance. Using a 3IP
-    screwdriver, install the 2 screws
+    screwdriver, install the two screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Refer to [Procedure Installation (Rear
     Camera)](#procedure-installation-rear-camera) for detailed
@@ -2641,7 +2649,7 @@ Required Tools
 
 6.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
     microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
+    meshes are damaged. If damaged, remove them using plastic tweezers,
     and replace them with the new materials provided in the repair kit.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
@@ -2895,7 +2903,7 @@ Required Tools
 
 5.  **Install the Button SW Board** – Place the Button Switch board into
     the enclosure using the positioning posts as guidance. Using a 3IP
-    screwdriver, fasten the 2 button board screws
+    screwdriver, fasten the two button board screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image107.png"/>).
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image109.png" alt-text="A close-up of a machine.":::
@@ -2908,7 +2916,7 @@ Required Tools
 
 7.  **Install the Rear Camera** – Assemble the rear camera back into its
     position using the positioning pins for guidance. Using a 3IP
-    screwdriver, install the 2 screws
+    screwdriver, install the two screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Refer to [Procedure Installation (Rear
     Camera)](#procedure-installation-rear-camera) for detailed
@@ -2937,7 +2945,7 @@ Required Tools
     
     3.  **Fasten the Microphone Deck screws** – Assemble the microphone deck
         into position using the enclosure contours and alignment posts.
-        Using a 3IP screwdriver, fasten the 3 screws
+        Using a 3IP screwdriver, fasten the three screws
         (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image55.png"/>) of the microphone deck
         into place in the order shown.
     
@@ -3127,7 +3135,7 @@ Required Tools
 
 8.  **Clean PSA residue** – Using a nylon spudger, IPA, and cleaning
     swabs, remove any PSA residue left on the laser marked region of the
-    enclosure as well as from underneath the USB-C FPC.
+    enclosure and from underneath the USB-C FPC.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image121.png" alt-text="A person removing a small device.":::
 
@@ -3143,7 +3151,7 @@ Required Tools
 2.  **Install the USB-C FPC into the enclosure** – Remove the blue liner
     from the back of the USB-C FPC module. Align the module onto the
     enclosure and assemble it using the locating posts as reference.
-    Using a 3IP screwdriver, fasten the 2 USB-C FPC screws
+    Using a 3IP screwdriver, fasten the two USB-C FPC screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image116.png"/>) to secure it to the
     enclosure.
 
@@ -3162,7 +3170,7 @@ Required Tools
 
 5.  **Install the Right Speaker** – Place the right speaker into the
     enclosure, using the positioning posts for guidance. Using a 3IP
-    screwdriver, fasten the 4 speaker screws
+    screwdriver, fasten the four speaker screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>). Refer to [Procedure
     Installation Speaker](#procedure-installation-speaker) for
     detailed instructions.
@@ -3176,7 +3184,7 @@ Required Tools
 
 7.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
     microphone deck to observe if the ACS diffuser or two Microphone
-    meshes are damaged. If damaged, remove them using a plastic tweezer,
+    meshes are damaged. If damaged, remove them using plastic tweezers,
     and replace them with the new materials provided in the repair kit.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image39.png" alt-text="A close up of a device.":::
@@ -3441,7 +3449,7 @@ Required Tools
 1.  **Install the Motherboard** – Place the Motherboard into the
     enclosure, using the locating posts as reference and ensuring the
     screw holes are properly aligned. Using a 3IP screwdriver, fasten
-    the 4 motherboard screws
+    the four motherboard screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image123.png"/>) to the enclosure.
 
 2.  **Install the T3 Shield Lid (New Motherboard only)** – Assemble the
@@ -3476,7 +3484,7 @@ Required Tools
 
 7.  **Install the Right Speaker** – Place the right speaker into the
     enclosure, using the positioning posts for guidance. Using a 3IP
-    screwdriver, fasten the 4 speaker screws
+    screwdriver, fasten the four speaker screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image103.png"/>). Refer to [Procedure
     Installation Speaker](#procedure-installation-speaker) for
     detailed instructions.
@@ -3544,7 +3552,7 @@ Required Tools
 ### Procedure Finalize Motherboard
 
 > [!IMPORTANT]
-> If replacing both the Motherboard and the Display Module – complete the Motherboard replacement prior to performing the Display Module Replacement to ensure proper part operation.
+> If replacing both the Motherboard and the Display Module – complete the Motherboard replacement before performing the Display Module Replacement to ensure proper part operation.
 
 1.  **Power on Device –** Connect a Power Supply to the device and power
     it on until it reaches the Windows Desktop.
@@ -3564,7 +3572,7 @@ Required Tools
     when prompted.
 
 > [!IMPORTANT]
-> If the calibration fails, reboot the device, and try again. If the failure continues, then the display may be faulty and require replacement.
+> If the calibration fails, reboot the device, and try again. If the failure continues, then the display might be faulty and require replacement.
 
 5.  **Allow the Battery to charge –** With the device connected to a
     power supply, allow the battery to charge until the battery icon in
@@ -3878,7 +3886,7 @@ Required Tools
 
 5.  **Install the Rear Camera** – Assemble the rear camera back into its
     position using the positioning pins for guidance. Using a 3IP
-    screwdriver, install the 2 screws
+    screwdriver, install the two screws
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image83.png"/>) securing the rear
     camera. Install the Rear Camera FPC connector, T3 top shield lid
     assembly, aluminum foil tape. Refer to [Procedure Installation
@@ -3925,7 +3933,7 @@ Required Tools
     detailed instructions.
 
 11. **Install the Battery** – Carefully assemble the battery into the
-    enclosure, using the locating posts for reference. Fasten the 7
+    enclosure, using the locating posts for reference. Fasten the seven
     battery screws (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image51.png"/>) to the enclosure. Refer
     [to Procedure Installation
     Battery](#procedure-installation-battery) for detailed

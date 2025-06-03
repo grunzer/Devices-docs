@@ -18,19 +18,21 @@ appliesto:
 
 > [!WARNING]
 > Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
+
 > [!IMPORTANT]
-> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
+> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for more support options.
+
 > [!WARNING]
 > Failure to follow the instructions in this Guide, use of non-Microsoft (non-genuine), incompatible, or modified replacement parts, and/or failure to use proper tools could result in serious injury, death, and/or damage to the product or other property.
 
 ## Calibration and Authentication
 
-Specific components require additional software calibration or authentication after completing the installation of the component before the part will function to full capability. The specific steps will be called out in the pertinent repair workflows.
+Specific components require additional software calibration or authentication after completing the installation of the component before the part functions to full capability. The specific steps are called out in the pertinent repair workflows.
 
 ### Impacted Parts
 
 - **AB Cover Display (TDM) –**
-    - Pre-installation – requires a pre-installation repair workflow, completed in SDT, to put the device into repair setup mode.Post-installation – requires a post-installation workflow, completed in SDT, to calibrate and validate the display to the correct settings.
+    - Pre-installation – requires a pre-installation repair workflow, completed in SDT, to put the device into repair setup mode. Post-installation – requires a post-installation workflow, completed in SDT, to calibrate and validate the display to the correct settings.
 - **Trackpad –**
     - Pre-installation – requires a pre-installation repair workflow, completed in SDT, to put the device into repair setup mode.
     - Post-installation – requires a post-installation workflow, completed in SDT, to validate the touchpad to the correct keyset language settings.
@@ -42,22 +44,22 @@ Specific components require additional software calibration or authentication af
 
 ## Prerequisite Steps
 
-Steps outlined in this section should be conducted prior to starting any
+Steps outlined in this section should be conducted before starting any
 repair on a Surface device.
 
 - **Power off device –** Ensure the device is powered off completely and
-  the battery has been fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for guidelines.
+  the battery is fully discharged. Refer to the [Repair-Specific Precautions and Warnings](surface-repair-safety-guidelines.md#repair-specific-precautions-and-warnings) for guidelines.
   Once discharged, the device should be disconnected from all power
   sources.
 
 - **ESD Prevention –** Ensure ESD prevention steps and general
-  guidelines are followed prior to opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for guidelines.
+  guidelines are followed before opening the device. Refer to the [ESD Prevention section](surface-repair-safety-guidelines.md#electrostatic-discharge-esd-precautions) for guidelines.
 
 - **Position Device –** To prevent damage to the device, ensure the
   device is placed on a clean surface free of debris.
 
 > [!IMPORTANT]
-> **Device Serial Number Notation:** The serial number for this device is located on its original bottom cover. It's crucial to retain the device’s original serial number for future support from Microsoft. The D Bucket FRU will remove the device’s original serial number and the original device serial number can't be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
+> **Device Serial Number Notation:** The serial number for this device is located on its original bottom cover. It's crucial to retain the device's original serial number for future support from Microsoft. The D Bucket FRU removes the device's original serial number and the original device serial number can't be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft provides a label for this purpose within the replacement part's packaging. The label included in the part's packaging has space designated for the original serial number and the part's product identifier.
 
 ## Feet Replacement
 
@@ -85,14 +87,14 @@ repair on a Surface device.
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image1.jpeg"/>
 
-2.  Gently insert a plastic guitar pick between the foot and the bottom
-    D bucket to pry the foot up. You may need to try gently inserting
+2.  To pry up the foot, gently insert a plastic guitar pick between the foot and the bottom
+    D bucket. You might need to try gently inserting
     the pick from a different direction, but **don't use a metal tool
     and only use the specified plastic tool.**
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image2.jpeg"/>
 
-3.  Repeat steps 1 and 2 to remove the remaining 3 feet and place them
+3.  Repeat steps 1 and 2 to remove the remaining three feet and place them
     aside for reuse (if not damaged).
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image3.jpeg"/>
@@ -100,8 +102,7 @@ repair on a Surface device.
 **Procedure – Installation (feet)**
 
 1.  Carefully align the grooves on the feet with the long hole on the D
-    Bucket and press the foot down vertically until it's completely
-    flat to the D Bucket.
+    Bucket and press the foot down vertically until it's flat to the D Bucket.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image4.jpeg" alt-text="A person holding a small button.":::
 
@@ -125,7 +126,7 @@ repair on a Surface device.
 - Sharpie
 - Ruler
 - Adjustable Torque Screwdriver that can be set to 1.2kgf-cm compatible with 5IP Torx Plus Bits or a preset 5IP Torx Plus Screwdriver (set to 1.2kgf-cm)
-- Calipers with a resolution and accuracy of 0.01mm
+- Calipers with a resolution and accuracy of 0.01 mm
 - Metal ESD Safe Tweezers
 - Plastic ESD Safe Tweezers
 - Plastic ESD Safe spudger
@@ -139,7 +140,7 @@ repair on a Surface device.
 
 - 5 5IP Screws (for C Cover)
 
-- 20 Trackpad Shims (4 different thicknesses)
+- 20 Trackpad Shims (four different thicknesses)
 
 - 8 5IP Screws (for trackpad)
 
@@ -152,10 +153,10 @@ repair on a Surface device.
 1.  Follow “Procedure – removal (feet)”
 
 2.  With the feet removed, use a 5IP Torx Plus screwdriver to remove the
-    4 newly exposed screws.
+    four newly exposed screws.
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg"/>
 
@@ -164,27 +165,28 @@ repair on a Surface device.
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image6.jpeg"/>
 
-4.  Use a sharpie and ruler to draw a line 3mm away from the edge of 2
+4.  Use a sharpie and ruler to draw a line 3mm away from the edge of two
     guitar picks to prevent inserting the guitar pick too deep while
     removing the C Cover.
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image7.png"/>
 
-5.  With your device flat on an ESD safe surface for the remainder of
+5.  With your device flat on an ESD-safe surface for the remainder of
     this removal process, firmly but carefully insert the plastic guitar
-    pick between the C Cover and the D bucket at least 5mm **below the top right corner**; this requires some force and patience.
+    pick between the C Cover and the D bucket at least 5mm **below the top right corner**. Inserting the guitar pick requires some force and patience.
+
     > [!IMPORTANT]
     > **Don't use a metal tool and only use the specified plastic tool.**
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image8.jpeg"/>
 
 6.  Firmly but carefully, wiggle the guitar pick up and down until you hear a popping sound to disengage the nearby snap.
-    With the snap disengaged, there will be some space between the C Cover and D bucket to gently slide the guitar pick along the right edge of the device.
+    With the snap disengaged, there's space between the C Cover and D bucket to gently slide the guitar pick along the right edge of the device.
 
     > [!NOTE]
-    > For the portion next to the keyboard, the pick may be inserted beyond 3mm to aid with removal. Below the keyboard, insertion must be limited to a maximum of 3mm.
+    > For the portion next to the keyboard, the pick might be inserted beyond 3mm to aid with removal. Below the keyboard, insertion must be limited to a maximum of 3mm.
 
-7.  Repeat this process until all 5 snaps on the right edge are
+7.  Repeat this process until all five snaps on the right edge are
     disengaged. Stop when you reach the bottom corner of the device.
 
     > [!IMPORTANT]
@@ -196,7 +198,7 @@ repair on a Surface device.
     C Cover. With your other hand, using another guitar pick, carefully
     disengage the snaps along the top edge of the C Cover, starting from
     the top right and moving to the top left. As you go along, once the
-    nearby snap is disengaged, there will be some space between the C
+    nearby snap is disengaged, there's space between the C
     Cover and the D bucket - allowing you to gently slide the guitar
     pick along the top edge.
 
@@ -210,18 +212,18 @@ repair on a Surface device.
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image11.jpeg"/>
 
 11. Firmly but carefully, wiggle the guitar pick up and down until you hear a popping sound to disengage the nearby snap.
-    With the snap disengaged, there will be some space between the C Cover and D bucket to gently slide the guitar pick along the right edge of the device.
+    With the snap disengaged, there's space between the C Cover and D bucket to gently slide the guitar pick along the right edge of the device.
 
     > [!NOTE]
-    > For the portion next to the keyboard the pick may be inserted beyond 3mm to aid with removal. Below the keyboard, insertion must be limited to a maximum of 3mm.
+    > For the portion next to the keyboard, the pick may be inserted beyond 3mm to aid with removal. Below the keyboard, insertion must be limited to a maximum of 3mm.
 
-12. Repeat this process until all 5 snaps on the left edge are
+12. Repeat this process until all five snaps on the left edge are
     disengaged. Stop when you reach the bottom corner of the device.
 
     > [!IMPORTANT]
-    > It's very important to take your time during this step
+    > It's important to take your time during this step
 
-13. With both hands, very gently wiggle and tilt the bottom of the C
+13. With both hands, gently wiggle and tilt the bottom of the C
     Cover upwards towards the display cover and away from the battery to
     separate it from the D bucket.
 
@@ -233,8 +235,8 @@ repair on a Surface device.
 
 15. Disconnect the trackpad FPC and place the C Cover on an ESD safe,
     soft surface for reuse. **Carefully inspect and count all 23 snaps
-    and hooks on the C Cover and D bucket (7 at the top, 5 on the left,
-    5 on the right, 6 on the bottom). If there are any missing or
+    and hooks on the C Cover and D bucket (seven at the top, five on the left,
+    five on the right, and six on the bottom). If there are any missing or
     cracked snaps on the C Cover, it can't be reused. If there are any
     missing or cracked hooks on the D bucket, it can't be reused.**
 
@@ -250,7 +252,7 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image16.jpeg" alt-text="A close-up of a computer.":::
 
-4.  Prior to continuing with the re-assembly, inspect the device internals to ensure no screws, foams, tape, or other foreign material has been misplaced inside the unit.
+4.  Before continuing with the reassembly, inspect the device internals to ensure that no screws, foams, tape, or other foreign material is misplaced inside the unit.
 
 5.  Hold the C Cover with one hand and carefully install the FPC onto
     the motherboard receptacle. After the FPC is fully seated, use a
@@ -268,14 +270,14 @@ repair on a Surface device.
     and check for any loose connectors, screws, snaps, hooks, etc.
 
 8.  Turn the device over and use a 5IP Torx Plus Screwdriver to install
-    the 4 screws. After the screws are snug and seated, only tighten the
+    the four screws. After the screws are snug and seated, only tighten the
     screws an additional ~1/8 turn (~45 degrees) to avoid stripping the
     threads. 
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 9.  Follow “Procedure – Installation (Feet)”
 
@@ -305,7 +307,7 @@ repair on a Surface device.
 
 - 5 5IP Screws (for C Cover)
 
-- 20 Trackpad Shims (4 different thicknesses)
+- 20 Trackpad Shims (four different thicknesses)
 
 - 8 5IP Screws (for trackpad)
 
@@ -317,13 +319,13 @@ repair on a Surface device.
 
 **Procedure – Removal (Trackpad)**
 
-1.  Download the latest SDT (surface diagnostic tool) version and follow the pre-installation touchpad repair (setup) workflow.
+1.  Download the latest SDT (surface diagnostic tool) version and follow the preinstallation touchpad repair (setup) workflow.
 
 2.  Follow “Procedure – Removal (Feet)”
 
 3.  Follow “Procedure – Removal (C Cover)
 
-4.  With a plastic prybar, disengage the 4 FPC buckles and remove the 2
+4.  With a plastic prybar, disengage the four FPC buckles and remove the two
     grounding tapes on the trackpad.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image19.jpeg" alt-text="A hand holding a black tool.":::
@@ -331,19 +333,19 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image20.jpeg" alt-text="A close up of a device.":::
 
 5.  Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
-    adhesive remaining from the 2 grounding tapes.
+    adhesive remaining from the two grounding tapes.
 
-6.  With your fingers, gently disconnect the 4 FPCs connected to the
+6.  With your fingers, gently disconnect the four FPCs connected to the
     trackpad. Place the trackpad FPC gently aside on an ESD safe
     surface for reuse during reassembly if it's not damaged.
 
-7.  With a 5IP Torx Plus Screwdriver, remove the 7 screws holding the
+7.  With a 5IP Torx Plus Screwdriver, remove the seven screws holding the
     Trackpad to the C Cover. 
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image21.jpeg" alt-text="A close-up of a computer.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 8.  With your hand, remove the Trackpad subassembly from the C Cover.
 
@@ -360,32 +362,32 @@ repair on a Surface device.
 
 **Procedure – Installation (Trackpad)**
 
-1.  Attach alignment paper to the 4 corners of the Trackpad and press
+1.  Attach alignment paper to the four corners of the Trackpad and press
     the corners down firmly. However, ensure the alignment paper doesn't fold between the trackpad and the bracket.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image24.jpeg" alt-text="A rectangular grey rectangular object with metal corners.":::
 
 2.  With calipers, measure the height between the top surface of the TP
-    glass and the bottom surface of the TP bracket at each of the 5 shim
+    glass and the bottom surface of the TP bracket at each of the five shim
     locations. Then, measure the height between the top and bottom
-    surface at each of the 5 shim locations. Using the difference
-    between those 2 measurements at each shim location, determine which
-    shim to install on to the C Cover with the following:
+    surface at each of the five shim locations. Using the difference
+    between those two measurements at each shim location, determine which
+    shim to install on to the C Cover by using the following guidance:
 
     1.  If the difference between the measurements is ≤ -0.05, don't
         install a shim at that location.
 
     2.  If the difference between the measurements is ≥ -0.05 and ≤
-        0.05, install the 0.1mm thick shim.
+        0.05, install the 0.1-mm thick shim.
 
     3.  If the difference between the measurements is ≥ 0.05 and ≤ 0.1,
-        install the 0.15mm thick shim.
+        install the 0.15-mm thick shim.
 
     4.  If the difference between the measurements is ≥ 0.1 and ≤ 0.15,
-        install the 0.2mm thick shim.
+        install the 0.2-mm thick shim.
 
     5.  If the difference between the measurements is ≥ 0.15 and ≤ 0.30,
-        install the 0.3mm thick shim.
+        install the 0.3-mm thick shim.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image25.jpeg" alt-text="A person measuring a piece of metal.":::
 
@@ -396,24 +398,23 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image27.jpeg" alt-text="A finger pointing at a device.":::
 
 4.  Gently insert the Trackpad subassembly into the C Cover and
-    reassemble the 7 5IP screws with a 5IP Torx Plus Screwdriver set to
+    reassemble the seven 5IP screws with a 5IP Torx Plus Screwdriver set to
     1.2kgf\*cm.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image28.jpeg" alt-text="A close-up of a computer.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
-5.  With your fingers, carefully and gently remove the 4 alignment
-    papers. Be sure that the entire alignment paper piece is completely
-    removed and doesn't remain stuck between the C Cover and the
+5.  With your fingers, carefully and gently remove the four alignment
+    papers. Be sure that the entire alignment paper piece is removed and doesn't remain stuck between the C Cover and the
     Trackpad subassembly.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image29.jpeg" alt-text="A close-up of a touchpad.":::
 
-6.  Gently flip your C Cover around and use a 0.2mm feeler gauge around
-    the entire perimeter of the Trackpad subassembly to ensure it's
-    never above the C Cover surface at any point. Additionally, click
+6.  To ensure it's
+    never above the C Cover surface at any point, gently flip around your C Cover and use a 0.2-mm feeler gauge around
+    the entire perimeter of the Trackpad subassembly. Additionally, click
     the two bottom corners to check if the trackpad gets stuck against
     the C Cover surface. If it's, redo Step 7 from “Procedure – Removal
     (Trackpad) and Step 2 from “Procedure – Installation (Trackpad)
@@ -421,17 +422,17 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image30.png" alt-text="A hand holding a plastic piece of paper on a keyboard.":::
 
-7.  Gently flip your C Cover around and install 2 new grounding tapes.
+7.  Gently flip around your C Cover and install two new grounding tapes.
     Be sure to firmly press them down for 30 seconds each.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image31.jpeg" alt-text="A finger on a circuit board.":::
 
 8.  With your fingers and plastic ESD safe tweezers, carefully reconnect
-    the 4 FPCs to the trackpad.
+    the four FPCs to the trackpad.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image32.jpeg" alt-text="A close-up of a computer.":::
 
-9.  With a plastic prybar, engage the 4 FPC buckles.
+9.  With a plastic prybar, engage the four FPC buckles.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image19.jpeg" alt-text="A hand holding a black tool.":::
 
@@ -491,10 +492,10 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image35.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 6.  With your fingers, gently wiggle and lift the SSD out of the PCBA
-    connector at a 15 degree angle.
+    connector at a 15-degree angle.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image36.jpeg" alt-text="A hand holding a small circuit board.":::
 
@@ -509,8 +510,8 @@ repair on a Surface device.
 
 **Procedure – Installation (SSD)**
 
-1.  Use plastic tweezers to remove the liner on the bottom thermal pad
-    and gently place it on the D Bucket like below. Be sure to lightly
+1.  Use plastic tweezers to remove the liner on the bottom thermal pad, as shown in the following picture,
+    and gently place it on the D Bucket. Be sure to lightly
     press it down for 30 seconds.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image38.png" alt-text="A close up of a circuit board.":::
@@ -523,11 +524,11 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image36.jpeg" alt-text="A hand holding a small circuit board.":::
 
-3.  Use a 5IP Torx Plus screwdriver to tighten the 1 screw. After the
+3.  Use a 5IP Torx Plus screwdriver to tighten the one screw. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image35.jpeg" alt-text="A hand holding a screwdriver.":::
@@ -538,13 +539,13 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image39.png" alt-text="A close up of a computer.":::
 
 5.  Remove the liner and use a plastic spudger to ensure the edges of
-    the tape matches the line up of the edges below. Be sure to firmly
+    the tape matches the arrangement in the following picture. Be sure to firmly
     press it down for 30 seconds.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image40.png" alt-text="A close up of a circuit board.":::
 
 6. Use plastic tweezers to remove the liner on the top thermal pad and
-    gently place it on the C Cover like below. Be sure to lightly press
+    gently place it on the C Cover, as shown in the following picture. Be sure to lightly press
     it down for 30 seconds.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image41.png" alt-text="A close up of a metal panel.":::
@@ -592,27 +593,28 @@ repair on a Surface device.
 **Procedure – Removal (Battery)**
 
 > [!WARNING]
-> Pre-Installtion Device Inspection: It's highly recommended that prior to handling battery the operator should remove any personal jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
-> [!WARNING]
-> In case of battery event submerge entire device in sand. Don't attempt to pick up device. See [Battery safety](surface-repair-safety-guidelines.md#battery-safety) for more information.
+> Pre-Installtion Device Inspection: We recommend that, before handling the battery, the operator remove any personal jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
 
-1.  Download the latest SDT (surface diagnostic tool) version and follow the pre-installation battery repair (setup) workflow.
+> [!WARNING]
+> In case of battery event, submerge entire device in sand. Don't attempt to pick up device. For more information, see [Battery safety](surface-repair-safety-guidelines.md#battery-safety).
+
+1.  Download the latest SDT (surface diagnostic tool) version and follow the preinstallation battery repair (setup) workflow.
 
 2.  Follow “Procedure – Removal (SSD)”
 
-3.  Use a 3IP Torx Plus Screwdriver to remove the 2 screws holding down
-    the battery connector. Be very careful as you're near the battery.
+3.  Use a 3IP Torx Plus Screwdriver to remove the two screws holding down
+    the battery connector. Be careful as you're near the battery.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image42.jpeg" alt-text="A close up of a device.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 4.  With a Plastic ESD Safe Prybar, gently disconnect the battery
     connector from the PCBA.
 
-5.  With a 5IP Torx Plus Screwdriver, remove the 9 screws around the
-    perimeter of the battery. Be very careful as you're near the
+5.  With a 5IP Torx Plus Screwdriver, remove the nine screws around the
+    perimeter of the battery. Be careful as you're near the
     battery.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image43.jpeg" alt-text="A hand holding a screwdriver.":::
@@ -620,7 +622,7 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image44.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 6.  To prevent the device from potentially tipping over, tilt the
     display cover so that it's less than 75 degrees open.
@@ -632,17 +634,18 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image45.jpeg" alt-text="A hand holding a device.":::
 
     > [!WARNING]
-    > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
+    > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery might damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
+
     > [!IMPORTANT]
-    > Place the battery in a location where it can't be accidentally contacted or damaged. When replacing the battery dispose of the old battery according to local laws.
+    > Place the battery in a location where it can't be accidentally contacted or damaged. When replacing the battery, dispose of the old battery according to local laws.
 
 **Procedure – Installation (Battery)**
 
-1.  Pre-installation Device Inspection: Ensure that all screws are accounted for and there are no floating
-    screws near the D Bucket where the battery will be installed. Also inspect the D-bucket for any loose articles for foreign debris that may be present.
+1.  Preinstallation Device Inspection: Ensure that all screws are accounted for and there are no floating
+    screws near the D Bucket where the battery will be installed. Also inspect the D-bucket for any loose articles for foreign debris that might be present.
 
     > [!WARNING]
-    > Verify the battery’s condition. Devices exhibiting battery issues as outlined in the Battery Inspection Process require replacement.
+    > Verify the battery's condition. Devices exhibiting battery issues as outlined in the Battery Inspection Process require replacement.
 
 2.  Gently use both hands to pick up the battery by the left and right
     lifting tabs only.
@@ -650,29 +653,33 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image46.png" alt-text="A black electronic device in a pink box.":::
 
     > [!WARNING]
-    > Only handle the new battery with the plastic tabs that come attached to the new battery. Bending, twisting, or impacting battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery
+    > Only handle the new battery with the plastic tabs that come attached to the new battery. Bending, twisting, or impacting battery might damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery
 
 3.  Gently use both hands to lower the battery into the D Bucket and
     ensure the positioning pin aligns to the hole on the battery.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image47.png" alt-text="A black rectangular object with white text.":::
 
-4.  Use a 5IP Torx Plus screwdriver to tighten the 9 screws. After the
+4.  Use a 5IP Torx Plus screwdriver to tighten the nine screws. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image44.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
-    > [!CAUTION]
-    > Don't overtighten screws on battery or battery frame. If frame is cracked the battery must not be used. IMPORTANT: Verify the battery’s condition. Devices exhibiting battery issues as outlined in the Battery Inspection Process require replacement. If the battery has been dropped, or if anything has been dropped on the battery in the course of this repair the battery should be replaced.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
-5.  Use a 3IP Torx Plus screwdriver to tighten the 2 screws. After the
+    > [!CAUTION]
+    > Don't overtighten screws on battery or battery frame. If the frame is cracked, the battery must not be used. 
+
+    > [!IMPORTANT]
+    > Verify the battery's condition. Devices exhibiting battery issues as outlined in the Battery Inspection Process require replacement. If the battery was dropped, or if anything was dropped on the battery in the course of this repair, the battery should be replaced.
+
+5.  Use a 3IP Torx Plus screwdriver to tighten the two screws. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image42.jpeg" alt-text="A close up of a device.":::
@@ -745,8 +752,8 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image51.png" alt-text="A close up of a computer.":::
 
 2.  Gently route the right speaker connector through the ridge on the D
-    Bucket to the receptable on the motherboard and use a plastic
-    spudger to ensure it's fully seated.
+    Bucket to the receptacle on the motherboard and use a plastic
+    spudger to ensure that it's fully seated.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image52.png" alt-text="A close up of a circuit board.":::
 
@@ -757,13 +764,13 @@ repair on a Surface device.
 
 4.  Gently unrouted the left display cable from the ridges on the D
     Bucket and gently route the left speaker connector through the
-    ridges on the D Bucket to the receptable on the motherboard and use
-    a plastic spudger to ensure it's fully seated.
+    ridges on the D Bucket to the receptacle on the motherboard and use
+    a plastic spudger to ensure that it's fully seated.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image54.png" alt-text="A close up of a computer.":::
 
 5. Gently reroute the left display cable through the ridges on the D
-    Bucket and be sure that it's routed properly (like below).
+    Bucket and be sure that it's routed properly, as shown in the following picture.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image55.png" alt-text="A close up of a computer.":::
 
@@ -825,10 +832,10 @@ repair on a Surface device.
 3.  Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
     adhesive remaining on the bracket.
 
-4.  With a 5IP Torx Plus Screwdriver, remove the 3 5IP screws holding
+4.  With a 5IP Torx Plus Screwdriver, remove the three 5IP screws holding
     down the USB-C bracket and remove the bracket. **Be sure to press
     down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image57.jpeg" alt-text="A hand holding a screwdriver.":::
@@ -838,13 +845,13 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image58.jpeg" alt-text="A hand holding a screwdriver.":::
 
-6.  With a 3IP Torx Plus Screwdriver, remove the 1 3IP screw and remove
+6.  With a 3IP Torx Plus Screwdriver, remove the one 3IP screw and remove
     the USB-C daughterboard.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image59.jpeg" alt-text="A hand holding an object to a device.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 **Procedure – Installation (USB-C)**
 
@@ -852,16 +859,16 @@ repair on a Surface device.
     Bucket and align the screw holes.
 
 2.  Use a plastic spudger to connect the USB-C FPC to the connector on
-    the PCBA. Ensure the FPC is completely flat and the USB-C
+    the PCBA. Ensure the FPC is flat and the USB-C
     subassembly isn't tilted upwards.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image60.jpeg" alt-text="A close up of a circuit board.":::
 
-3.  Use a 3IP Torx Plus screwdriver to tighten the 1 screw. After the
+3.  Use a 3IP Torx Plus screwdriver to tighten the one screw. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image59.jpeg" alt-text="A hand holding an object to a device.":::
@@ -872,11 +879,11 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image61.jpeg" alt-text="A close-up of a computer.":::
 
-5.  Use a 5IP Torx Plus screwdriver to tighten the 3 screws. After the
+5.  Use a 5IP Torx Plus screwdriver to tighten the three screws. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image57.jpeg" alt-text="A hand holding a screwdriver.":::
@@ -946,13 +953,13 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image65.jpeg" alt-text="A close up of a computer.":::
 
-4.  With a 3IP Torx Plus Screwdriver, remove the 3 3IP screws holding
+4.  With a 3IP Torx Plus Screwdriver, remove the three 3IP screws holding
     the fan down to the D Bucket.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image66.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 5.  Using a plastic ESD safe prybar, disengage the buckle holding the
     fan FPC to the PCBA and disconnect the FPC.
@@ -972,16 +979,16 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image68.jpeg" alt-text="A close-up of a computer part.":::
 
-2.  Use a 3IP Torx Plus screwdriver to tighten the 3 screws. After the
+2.  Use a 3IP Torx Plus screwdriver to tighten the three screws. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image66.jpeg" alt-text="A hand holding a screwdriver.":::
 
-3.  Use a plastic tweezer to connect the Fan FPC into the PCBA
+3.  Use plastic tweezers to connect the Fan FPC into the PCBA
     connector.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image69.jpeg" alt-text="A close up of a computer.":::
@@ -1068,21 +1075,21 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image74.jpeg" alt-text="A person fixing a device.":::
 
-4.  Use a 3IP Torx Plus Screwdriver to remove the 5 screws in the
+4.  Use a 3IP Torx Plus Screwdriver to remove the five screws in the
     labeled reverse order (4, 3, 2, 1).
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image75.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 5.  With your fingers, gently and slowly wiggle the left side of the
     thermal module away from the PCBA to remove it.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image76.jpeg" alt-text="A close-up of a computer motherboard.":::
 
-6.  Use a cotton swab with isopropyl alcohol (70% IPA) to clean any
-    adhesive remaining on the PCBA.
+6.  To clean any
+    adhesive remaining on the PCBA, use a cotton swab with isopropyl alcohol (70% IPA).
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image77.png" alt-text="A close up of a circuit board.":::
 
@@ -1094,15 +1101,15 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image78.png" alt-text="A close up of a circuit board.":::
 
-2.  Use a 3IP Torx Plus screwdriver to install and lightly tighten the 5
+2.  Use a 3IP Torx Plus screwdriver to install and lightly tighten the five
     new screws in the labeled correct order (1, 2, 3, 4). **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image79.jpeg" alt-text="A close up of a device.":::
 
-3.  Once all 5 screws are snug and seated, tighten them an additional
+3.  Once all five screws are snug and seated, tighten them an additional
     ~1/8 turn (~45 degrees) to avoid stripping the threads.
 
 4.  Use a plastic spudger to ensure the tape on the USB-A and Audio Jack
@@ -1172,15 +1179,15 @@ repair on a Surface device.
 
 1.  Follow “Procedure – Removal (SSD)”
 
-2.  With a 5IP Torx Plus Screwdriver, remove the 3 screws holding down
+2.  With a 5IP Torx Plus Screwdriver, remove the three screws holding down
     the USB-A and Audio Jack bracket and remove it with your fingers.
-    Please note that you'll need to use
+    You must use
     sufficient force to overcome the adhesive holding it down.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image82.jpeg" alt-text="A machine with a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 3.  With plastic ESD safe tweezers, remove the tape on top of the
     connector. If the AB Cover display and thermal module are still
@@ -1193,18 +1200,18 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image84.jpeg" alt-text="A close-up of a device.":::
 
-5. With a plastic ESD safe prybar and plastic ESD safe tweezer,
+5. With a plastic ESD safe prybar and plastic ESD-safe tweezers,
     disconnect the USB-A and Audio Jack FPC.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image85.jpeg" alt-text="A person holding a black tool.":::
 
-6. With a 3IP Torx Plus Screwdriver, remove the 1 3IP screw holding
+6. With a 3IP Torx Plus Screwdriver, remove the one 3IP screw holding
     down the USB-A and Audio Jack board.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image86.jpeg" alt-text="A close-up of a device.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 7. With your fingers and a plastic ESD safe prybar, wiggle and lift up
     on the USB-A and Audio Jack board to remove it.
@@ -1225,11 +1232,11 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image88.jpeg" alt-text="A close up of a device.":::
 
-2.  Use a 3IP Torx Plus screwdriver to tighten the 1 screw. After the
+2.  Use a 3IP Torx Plus screwdriver to tighten the one screw. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
 3.  Use plastic tweezers to line up and install the USB-A and Audio Jack
@@ -1246,11 +1253,11 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image90.png" alt-text="The inside of a device.":::
 
-6.  Use a 5IP Torx Plus screwdriver to tighten the 3 screws. After the
+6.  Use a 5IP Torx Plus screwdriver to tighten the three screws. After the
     screw is snug and seated, only tighten the screws an additional ~1/8
     turn (~45 degrees) to avoid stripping the threads. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
 7.  Use plastic tweezers to line up and install the USB-A and Audio Jack
@@ -1330,15 +1337,15 @@ repair on a Surface device.
 
 2.  Follow “Procedure – Removal (SSD)”
 
-3.  With a 5IP Torx Plus Screwdriver, remove the 3 screws holding down
+3.  With a 5IP Torx Plus Screwdriver, remove the three screws holding down
     the USB-A and Audio Jack bracket and remove it with your fingers.
-    Please note that you'll need to use
+    You must use
     sufficient force to overcome the adhesive holding it down.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image82.jpeg" alt-text="A machine with a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 4.  With plastic ESD safe tweezers, carefully remove the conductive tape
     on top of the USB-C connectors.
@@ -1348,10 +1355,10 @@ repair on a Surface device.
 5.  Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
     adhesive remaining on the bracket.
 
-6.  With a 5IP Torx Plus Screwdriver, remove the 3 5IP screws holding
+6.  With a 5IP Torx Plus Screwdriver, remove the three 5IP screws holding
     down the USB-C bracket and remove the bracket. **Be sure to press
     down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image57.jpeg" alt-text="A hand holding a screwdriver.":::
@@ -1392,9 +1399,9 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image96.jpeg" alt-text="A close-up of a computer motherboard.":::
 
 14. Adjust the display cover to about 90 degrees and use a 5IP Torx Plus
-    Screwdriver to remove the 4 5IP screws on the 2 hinges. **Be sure to
+    Screwdriver to remove the four 5IP screws on the two hinges. **Be sure to
     press down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image97.jpeg" alt-text="A close-up of a machine.":::
@@ -1410,11 +1417,11 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image98.png" alt-text="A close up of a device.":::
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image99.png" alt-text="A close up of a device.":::
 
-2.  Use a 5IP Torx Plus Screwdriver to lightly install 1 screw per
+2.  Use a 5IP Torx Plus Screwdriver to lightly install one screw per
     hinge. Be sure to hold the AB Cover display with one hand so the
     device doesn't fall over. **Be sure to press down firmly with the
     screwdriver to avoid any chance for screw stripping. Additionally,
-    please keep track and count the number of screws removed to ensure
+    count and keep track of the number of screws removed to ensure
     there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image97.jpeg" alt-text="A close-up of a machine.":::
@@ -1433,11 +1440,11 @@ repair on a Surface device.
 
 4.  Open the AB Cover display \<90 degrees to ensure the device doesn't
     fall over. Use a 5IP Torx Plus screwdriver to install the remaining
-    screw on each hinge. Tighten all 4 hinge screws until they're snug
+    screw on each hinge. Tighten all four hinge screws until they're snug
     and seated and then only tighten the screws an additional ~1/4 turn
     (~90 degrees) to avoid stripping the threads. **Be sure to press
     down firmly with the screwdriver to avoid any chance for screw
-    stripping. Additionally, please keep track and count the number of
+    stripping. Additionally, count and keep track of the number of
     screws removed to ensure there are no extra screws in the area.**
 
 5.  Follow “Procedure – Installation (USB-A and Audio Jack)” Steps 1-8
@@ -1467,10 +1474,10 @@ repair on a Surface device.
     of the thermal moulde shield and plastic hinge on the D Bucket.
 
 11. Use a plastic spudger to firmly secure the display connector tape
-    into the gap and crease like below.
+    into the gap and crease.
 
 12. Firmly press the display connector tape down for 30 seconds at the
-    location below.
+    location shown in the following picture.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image109.png" alt-text="A finger pointing at a black piece of electronic equipment.":::
 
@@ -1485,7 +1492,7 @@ repair on a Surface device.
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image111.png"/>
 
 15. Firmly press the display connector tape down for 30 seconds at the
-    location below.
+    location shown in the following picture.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image112.png" alt-text="A finger on a black device.":::
 
@@ -1497,13 +1504,13 @@ repair on a Surface device.
 17. Follow “Procedure – Installation (USB-C)” Steps 4-7
 
 18. Use plastic tweezers to install the display connector foam aligned
-    with the USB-C bracket like below.
+    with the USB-C bracket, as shown in the following picture.
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image114.png"/>
 
 19. Gently route the left display cable through the ridges on the D
     Bucket and connect it with the bottom receptacle on the PCBA. Be
-    sure that it's routed properly (like below).
+    sure that it's routed properly, as shown in the following picture.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image55.png" alt-text="A close up of a computer.":::
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image115.png"/>
@@ -1590,8 +1597,8 @@ repair on a Surface device.
 2.  Use isopropyl alcohol (70% IPA) and cleaning swabs and a plastic ESD
     safe prybar to clean any adhesive remaining on the thermal module.
 
-3.  Use a 3IP Torx Plus Screwdriver to remove the 2 screws holding down
-    the battery connector. Be very careful as you're near the battery.
+3.  Use a 3IP Torx Plus Screwdriver to remove the two screws holding down
+    the battery connector. Be careful as you're near the battery.
     **Be sure to press down firmly with the screwdriver to avoid any
     chance for screw stripping. Additionally, please keep track and
     count the number of screws removed to ensure there are no extra
@@ -1612,13 +1619,13 @@ repair on a Surface device.
 6.  Use isopropyl alcohol (70% IPA) and cleaning swabs to clean any
     adhesive remaining on the bracket.
 
-7.  With a 5IP Torx Plus Screwdriver, remove the 3 5IP screws holding
+7.  With a 5IP Torx Plus Screwdriver, remove the three 5IP screws holding
     down the USB-C bracket and remove the bracket. 
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image57.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > To avoid any chance for screw stripping, be sure to press down firmly with the screwdriver. Additionally, count and keep track of the number of screws removed to ensure there are no extra screws in the area.
 
 8.  With a plastic ESD safe prybar, disconnect the USB-C FPC from the
     PCBA.
@@ -1664,10 +1671,10 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image120.jpeg" alt-text="A hand holding a black pen.":::
 
-16. Using a 3IP Torx Plus Screwdriver, remove the 7 3IP screws on the
+16. Using a 3IP Torx Plus Screwdriver, remove the seven 3IP screws on the
     PCBA holding it to the D Bucket. **Be sure to press down firmly with
     the screwdriver to avoid any chance for screw stripping.
-    Additionally, please keep track and count the number of screws
+    Additionally, count and keep track of the number of screws
     removed to ensure there are no extra screws in the area.**
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image121.jpeg" alt-text="A hand holding a screwdriver.":::
@@ -1682,7 +1689,7 @@ repair on a Surface device.
 1.  Gently place the PCBA into the D Bucket, being careful not to
     scratch it against the reused connectors.
 
-2.  Use a 3IP Torx Plus screwdriver to lightly tighten the 7 screws.
+2.  Use a 3IP Torx Plus screwdriver to lightly tighten the seven screws.
     **Be sure to press down firmly with the screwdriver to avoid any
     chance for screw stripping. Additionally, please keep track and
     count the number of screws removed to ensure there are no extra
@@ -1690,9 +1697,9 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image121.jpeg" alt-text="A hand holding a screwdriver.":::
 
-3.  Use a feeler gauge to ensure the gap between the SSD receptable on
+3.  Use a feeler gauge to ensure the gap between the SSD receptacle on
     the PCBA and the grounding foam on the D bucket is between 0.6mm and
-    1.1mm. If it's not, loosen the 7 screws to shift the PCBA in
+    1.1mm. If it's not, loosen the seven screws to shift the PCBA in
     whichever direction is necessary to ensure the gap is within those
     limits before moving on to the next step.
 
@@ -1735,7 +1742,7 @@ repair on a Surface device.
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
 > [!IMPORTANT]
-> This replacement part doesn't include the original serial number of the device. For future Microsoft support, please handwrite the original serial number on the label provided by Microsoft and attach it to either the exterior of the device or directly onto an exposed part. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
+> This replacement part doesn't include the original serial number of the device. For future Microsoft support, write the original serial number on the label provided by Microsoft, and attach it to either the exterior of the device or directly onto an exposed part. The label included in the part's packaging has space designated for the original serial number and the part's product identifier.
 
 **Required Tools**
 
@@ -1778,7 +1785,7 @@ repair on a Surface device.
     2
 
 3.  Reusing the USB-A and Audio Jack FPC, align and apply the new
-    aluminum foil and foams like below.
+    aluminum foil and foams, as shown in the following picture.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image125.png" alt-text="A metal strip on a mesh surface.":::
 
@@ -1797,7 +1804,7 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image128.png" alt-text="A close up of a metal object.":::
 
-7.  Use a plastic tweezer to remove the liner on the SSD thermal pad.
+7.  Use plastic tweezers to remove the liner on the SSD thermal pad.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image129.png" alt-text="A close-up of a device.":::
 
