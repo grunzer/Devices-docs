@@ -21,7 +21,7 @@ appliesto:
 > [!WARNING]
 > Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 > [!IMPORTANT]
-> Read this Guide in its entirety before starting any repairs. If at any point you are unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
+> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
 > [!WARNING]
 > Failure to follow the instructions in this Guide, use of non-Microsoft (non-genuine), incompatible, or modified replacement parts, and/or failure to use proper tools could result in serious injury, death, and/or damage to the product or other property.
 
@@ -42,7 +42,7 @@ repair on a Surface device.
   device is placed on a clean surface free of debris.
 
 > [!IMPORTANT]
-> During repair of the Surface Pro 12-inch, screws used to secure components in the device can be reused and are not provided in the FRU replacement kits. To obtain replacement screws, you will have to purchase the screw kit. Refer to the [Service Parts List](surface-pro-12in-device-information-and-service-parts.md#illustrated-service-parts-list) for the screw kit SKU and [Screw Map](surface-pro-12in-device-information-and-service-parts.md#surface-pro-12-inch-fru-screw-map) for screw type and tracking information.
+> During repair of the Surface Pro 12-inch, screws used to secure components in the device can be reused and aren't provided in the FRU replacement kits. To obtain replacement screws, you will have to purchase the screw kit. Refer to the [Service Parts List](surface-pro-12in-device-information-and-service-parts.md#illustrated-service-parts-list) for the screw kit SKU and [Screw Map](surface-pro-12in-device-information-and-service-parts.md#surface-pro-12-inch-fru-screw-map) for screw type and tracking information.
 
 ## Kickstand Replacement Process
 
@@ -91,7 +91,7 @@ repair on a Surface device.
 
 3.  **Remove the hinge screws –** Use your finger to hold the back of
     the kickstand behind the hinge. Using a 3IP (Torx-Plus) driver,
-    remove one screw from each hinge. Ensure screws do not fall into the
+    remove one screw from each hinge. Ensure screws don't fall into the
     hinge opening.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image3.png" alt-text="A camera on a metal hinge.":::
@@ -110,14 +110,14 @@ repair on a Surface device.
     kickstand off-center between your thumb and index finger and firmly
     pull. Pull with a moderate amount of force until the foam inserts
     slide out of the device. If the kickstand is stuck, ensure the
-    threaded bosses have not slipped back into the recess on the hinges.
+    threaded bosses haven't slipped back into the recess on the hinges.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image6.png" alt-text="A person holding a white box.":::
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image8.png" alt-text="A battery with a red x and green ticks.":::
 
 > [!WARNING]
-> Inspect the Kickstand foam tabs – damaged foam or tabs cannot be safely removed. Attempting to do so can result in damage to internal components. Do not insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Do not attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
+> Inspect the Kickstand foam tabs – damaged foam or tabs can't be safely removed. Attempting to do so can result in damage to internal components. Don't insert anything other than the tabs into the slots. Ensure both tabs are complete and show no signs of tearing. If tabs show signs of tearing, part of the foam may still be inside the device. Don't attempt to remove it from the interior of the device, instead proceed to the [Procedure Removal Enclosure](#procedure-removal-enclosure) to replace the old enclosure.
 
 ### Procedure Installation Kickstand
 
@@ -132,15 +132,15 @@ repair on a Surface device.
 
 2.  **Insert Foam Tabs –** With the hinges still at ~ 45-degrees, start
     to slide the new kickstand’s foam tabs into the slots on the back of
-    the device. Foam should slide in with minimal force – do not crumple
-    the foam by using excess force. Do not slide the foams completely
+    the device. Foam should slide in with minimal force – don't crumple
+    the foam by using excess force. Don't slide the foams completely
     into the device – insert the foam tabs until ~3/4 of the foam tabs
     are inside the device.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image12.png" alt-text="A person using a device to cut a piece of paper.":::
 
 > [!CAUTION]
-> Do not use any tool or sharp object to assist in inserting the tabs into the slots. Only the tabs should be inserted. Doing so could damage internal components.
+> Don't use any tool or sharp object to assist in inserting the tabs into the slots. Only the tabs should be inserted. Doing so could damage internal components.
 
 3.  **Slot Outer Lip of Hinge into Kickstand –** Using fingers on the
     underside of the kickstand and thumb on the topside, slightly rotate
@@ -167,7 +167,7 @@ repair on a Surface device.
     the kickstand is properly aligned and seated in the hinges, then
     tighten the screws an additional ~quarter turn (~ 90-degrees). Be
     careful to tighten the screws only until snug to avoid stripping the
-    kickstand threads. Ensure screws do not fall into hinge opening.
+    kickstand threads. Ensure screws don't fall into hinge opening.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image3.png" alt-text="A camera on a metal hinge.":::
 
@@ -350,7 +350,7 @@ Required Tools
     2. Clamp the debonding tool to the edge of your workbench using a hand
         clamp on each side as shown in the image below. Ensure the cut depth
         adjustor can be accessed while the tool is clamped down. If it
-        cannot be accessed, the clamps will have to be removed to access the
+        can't be accessed, the clamps will have to be removed to access the
         bottom of the tool and then re-clamped after adjusting the height.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image22.png" alt-text="A computer screen with a blue arrow pointing to the driver":::
@@ -367,7 +367,7 @@ Required Tools
         device to the right through the Surface Debonding Tool track to
         cut through the right edge of the device. The device may be
         pushed side-to-side over the pick on this edge to ensure
-        separation between the screen and the device. Do not push the
+        separation between the screen and the device. Don't push the
         device past the bottom right corner
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image23.png" alt-text="A diagram of a printer":::
@@ -377,7 +377,7 @@ Required Tools
         Tool. Push the device to the left through the Surface Debonding
         Tool track to cut through the right edge of the device. The
         device may be pushed side-to-side over the pick on this edge to
-        ensure separation between the screen and the device. Do not push
+        ensure separation between the screen and the device. Don't push
         the device past the bottom left corner.
 
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image23.png" alt-text="A diagram of a printer":::
@@ -401,7 +401,7 @@ Required Tools
     the device on the ESD safe mat, with the display facing upwards.
 
 > [!CAUTION]
-> Do not insert the pick more than 3mm along the left or    right edges of the display. The pick depth should not exceed 6mm along the top edge of the display. Do not insert the pick into the bottom edge of the display
+> Don't insert the pick more than 3mm along the left or    right edges of the display. The pick depth should not exceed 6mm along the top edge of the display. Don't insert the pick into the bottom edge of the display
 
 8.  Remove the display debonding tape and insert the plastic opening
     tool into the right speaker opening of the device and gently move it
@@ -465,7 +465,7 @@ Required Tools
     <img src="./images/Surface_Pro_12in/Pro12_Repair/media/image33.png" alt="A finger holding a black strip." />
 
 > [!IMPORTANT]
-> Do not pull on the Display FPC to disconnect the display.
+> Don't pull on the Display FPC to disconnect the display.
 
 13. **Remove the Display FPC from Motherboard** –This step is only
     required if you are not re-using the original Display FPC. To remove
@@ -505,7 +505,7 @@ Required Tools
     cloth. **AVOID** contact with the Front Camera lens.
 
 > [!IMPORTANT]
-> Avoid contact with the Front Camera Lens and do not use IPA to clean the outer edges of the Display
+> Avoid contact with the Front Camera Lens and don't use IPA to clean the outer edges of the Display
 
 ### Procedure Installation Display
 
@@ -853,7 +853,7 @@ Required Tools
 > [!WARNING]
 > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
 > [!IMPORTANT]
-> Place the battery somewhere where the battery cannot accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
+> Place the battery somewhere where the battery can't accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
 > [!IMPORTANT]
 > When disposing of the battery, ensure you are recycling according to local laws. See [Environmental Compliance Requirements](surface-environmental-compliance.md#environmental-compliance-requirements) for more details.
 > [!IMPORTANT] 
@@ -874,7 +874,7 @@ Required Tools
     2.  Pay special attention to the magnetized areas around the
         Enclosures edge.
 
-    3.  Verify all removed screws are accounted for and have not been
+    3.  Verify all removed screws are accounted for and haven't been
         misplaced inside the device.
 
     4.  Loose screws should never be stored on the magnetic areas of the
@@ -900,7 +900,7 @@ Required Tools
 > [!IMPORTANT]
 > Be careful not to overtighten screws. If the Battery
 > frame is cracked or the battery is damaged in any way during
-> installation, it cannot be used and must be replaced.
+> installation, it can't be used and must be replaced.
 
 4.  **Remove the liner –** Once all screws are seated, hold onto one of
     the left or right tabs of the battery liner and peel the liner away
@@ -1327,7 +1327,7 @@ Required Tools
 
 4.  **Remove the T1 Shield Lid** – Using an ESD-safe tweezers, carefully
     remove the T1 shield lid identified below. If your device is
-    NFC-enabled, do not discard the T1 Shield Lid as the NFC FPC will be
+    NFC-enabled, don't discard the T1 Shield Lid as the NFC FPC will be
     reused during re-assembly.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image69.jpeg" alt-text="A close up of a device.":::
@@ -1379,7 +1379,7 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
 
     > [!IMPORTANT]
-    > Ensure that you do not start removal from the mid-section of the module as that will damage it permanently.
+    > Ensure that you don't start removal from the mid-section of the module as that will damage it permanently.
 
     2.  Clean any remnant adhesive from the back of the module using a
         cleaning swab and IPA.
@@ -1593,7 +1593,7 @@ Required Tools
 
 4.  **Remove the T1 Shield Lid** – Using an ESD-safe tweezers, carefully
     remove the T1 shield lid identified below. If your device is
-    NFC-enabled, do not discard the T1 Shield Lid as the NFC FPC will be
+    NFC-enabled, don't discard the T1 Shield Lid as the NFC FPC will be
     reused during re-assembly.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image78.jpeg" alt-text="A close up of a device.":::
@@ -1642,7 +1642,7 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
     >
     > [!IMPORTANT]
-    > Ensure that you do not start removal from the
+    > Ensure that you don't start removal from the
     > mid-section of the module as that will damage it permanently.
 
     2.  Clean any remnant adhesive from the back of the module using a
@@ -2057,7 +2057,7 @@ Required Tools
 
 4.  **Remove the T1 Shield Lid** – Using an ESD-safe tweezers, carefully
     remove the T1 shield lid identified below. If your device is
-    NFC-enabled, do not discard the T1 Shield Lid as the NFC FPC will be
+    NFC-enabled, don't discard the T1 Shield Lid as the NFC FPC will be
     reused during re-assembly.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image78.jpeg" alt-text="A close up of a device.":::
@@ -2112,7 +2112,7 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image74.png" alt-text="A person holding a black object.":::
 
         > [!IMPORTANT]
-        > Ensure that you do not start removal from the
+        > Ensure that you don't start removal from the
         > mid-section of the module as that will damage it permanently.
 
     2.  Clean any remnant adhesive from the back of the module using a
@@ -3485,7 +3485,7 @@ Required Tools
     cable through clips L1 and L2 in sequence, straightening it as you
     go. Then gently bent it to the right and guide it into clip L3.
     Route the right Antenna cable through clips R1 and R2. Replace the
-    Antenna cable tape if the original one cannot be reused. Install
+    Antenna cable tape if the original one can't be reused. Install
     both cable connectors into the receptable on the Motherboard. Refer
     to [Procedure Installation (Antenna
     Deck)](#procedure-installation-antenna-deck) for detailed
@@ -3888,7 +3888,7 @@ Required Tools
 6.  **Install the Left and Right Antenna Decks** – Install the left and
     right antenna decks
     (<img src="./images/Surface_Pro_12in/Pro12_Repair/media/image96.png"/>) into the enclosure.
-    Replace the Antenna cable tape if the original one cannot be reused.
+    Replace the Antenna cable tape if the original one can't be reused.
     Install both cable connectors into the receptable on the
     Motherboard. Refer to [Procedure Installation (Antenna
     Deck)](#procedure-installation-antenna-deck) for detailed
