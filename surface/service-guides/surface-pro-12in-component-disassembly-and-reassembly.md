@@ -42,7 +42,7 @@ repair on a Surface device.
   device is placed on a clean surface free of debris.
 
 > [!IMPORTANT]
-> During repair of the Surface Pro 12-inch, screws used to secure components in the device can be reused and aren't provided in the FRU replacement kits. To obtain replacement screws, you will have to purchase the screw kit. Refer to the [Service Parts List](surface-pro-12in-device-information-and-service-parts.md#illustrated-service-parts-list) for the screw kit SKU and [Screw Map](surface-pro-12in-device-information-and-service-parts.md#surface-pro-12-inch-fru-screw-map) for screw type and tracking information.
+> During repair of the Surface Pro 12-inch, screws used to secure components in the device can be reused and aren't provided in the FRU replacement kits. To obtain replacement screws, you'll have to purchase the screw kit. Refer to the [Service Parts List](surface-pro-12in-device-information-and-service-parts.md#illustrated-service-parts-list) for the screw kit SKU and [Screw Map](surface-pro-12in-device-information-and-service-parts.md#surface-pro-12-inch-fru-screw-map) for screw type and tracking information.
 
 ## Kickstand Replacement Process
 
@@ -282,7 +282,7 @@ Required Tools
 ### Procedure Preparation Display
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the display. If the display is being re-used, then this section is not required. If display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> This section is only for instances where you're replacing the display. If the display is being re-used, then this section isn't required. If display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 > [!IMPORTANT]
 > Ensure the light levels of your work remain consistent during the software calibration process.
 
@@ -390,7 +390,7 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image24.png" alt-text="A hand holding a black rectangular object.":::
 
 > [!CAUTION]
-> Stop pushing the device once the pick meets the debonding tape placed at the center of the top edge (shown in the red arrow). If the debonding pick goes over the front camera and damages the front camera foam gasket, you will have to replace the front camera with a new one.
+> Stop pushing the device once the pick meets the debonding tape placed at the center of the top edge (shown in the red arrow). If the debonding pick goes over the front camera and damages the front camera foam gasket, you'll have to replace the front camera with a new one.
 
 7.  Remove the device from the Surface Debonding tool and place the
     device into the debonding tool at the right speaker edge. Push the
@@ -401,7 +401,7 @@ Required Tools
     the device on the ESD safe mat, with the display facing upwards.
 
 > [!CAUTION]
-> Don't insert the pick more than 3mm along the left or    right edges of the display. The pick depth should not exceed 6mm along the top edge of the display. Don't insert the pick into the bottom edge of the display
+> Don't insert the pick more than 3mm along the left or    right edges of the display. The pick depth shouldn't exceed 6mm along the top edge of the display. Don't insert the pick into the bottom edge of the display
 
 8.  Remove the display debonding tape and insert the plastic opening
     tool into the right speaker opening of the device and gently move it
@@ -432,9 +432,9 @@ Required Tools
 > It is recommended an ESD-safe Surface Battery Cover (highlighted with red arrow in picture above) is placed across the device from this point to protect the battery from any accidental damage during repair. Ensure the corners of the cover are always aligned with the corners of the device during repair. If the battery cover is misaligned during repair in any way, pause and re-align the cover before continuing.
 
 11. **Begin Battery Shutoff Process** – Before proceeding to disconnect
-    the Display FPC, you will need to shutoff the battery by
+    the Display FPC, you'll need to shutoff the battery by
     disconnecting the battery connector from the Motherboard. This is to
-    ensure electricity is not supplied to the device while the repair
+    ensure electricity isn't supplied to the device while the repair
     process is ongoing.
 
     1.  Using a pair of ESD-safe tweezers, remove the T3 Top shield lid
@@ -468,7 +468,7 @@ Required Tools
 > Don't pull on the Display FPC to disconnect the display.
 
 13. **Remove the Display FPC from Motherboard** –This step is only
-    required if you are not re-using the original Display FPC. To remove
+    required if you're not re-using the original Display FPC. To remove
     the display FPC on the Motherboard side, follow the disassembly
     instructions below
 
@@ -548,7 +548,7 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image41.png" alt-text="A close up of a circuit board.":::
 
 > [!IMPORTANT]
-> If the Display FPC is not aligned properly and is pressed upon, the connector pins will be damaged and the FPC will need to be replaced with a new one.
+> If the Display FPC isn't aligned properly and is pressed upon, the connector pins will be damaged and the FPC will need to be replaced with a new one.
 
 4.  **Install the T2 Shield Lid** - Remove the release papers from the
     TIM pads on the T2 shield lid. Assemble the shield lid in the
@@ -669,7 +669,7 @@ Required Tools
 ### Procedure Finalize Display
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the display. If the display is being re-used, then this section is not required. If display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> This section is only for instances where you're replacing the display. If the display is being re-used, then this section isn't required. If display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -797,7 +797,7 @@ Required Tools
 ### Procedure Preparation Battery
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the battery. If the battery is being re-used, then this section is not required.
+> This section is only for instances where you're replacing the battery. If the battery is being re-used, then this section isn't required.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -849,13 +849,13 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image53.png" alt-text="A hand holding a device.":::
 
 > [!NOTE]
-> If the Display FPC is still connected to the motherboard and rests on the battery, the battery will be removed by gently lifting it up from the screw bosses and towards the bottom side of the device. Ensure that the Display FPC connection is not bent at a 90⁰ angle.
+> If the Display FPC is still connected to the motherboard and rests on the battery, the battery will be removed by gently lifting it up from the screw bosses and towards the bottom side of the device. Ensure that the Display FPC connection isn't bent at a 90⁰ angle.
 > [!WARNING]
 > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, damage the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
 > [!IMPORTANT]
 > Place the battery somewhere where the battery can't accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
 > [!IMPORTANT]
-> When disposing of the battery, ensure you are recycling according to local laws. See [Environmental Compliance Requirements](surface-environmental-compliance.md#environmental-compliance-requirements) for more details.
+> When disposing of the battery, ensure you're recycling according to local laws. See [Environmental Compliance Requirements](surface-environmental-compliance.md#environmental-compliance-requirements) for more details.
 > [!IMPORTANT] 
 > The Motherboard and Battery are very sensitive to ESD
 > and can be easily damaged. It is critical that you ensure proper
@@ -904,7 +904,7 @@ Required Tools
 
 4.  **Remove the liner –** Once all screws are seated, hold onto one of
     the left or right tabs of the battery liner and peel the liner away
-    from the Battery. If you are working on other components, apply the
+    from the Battery. If you're working on other components, apply the
     ESD-safe Surface Battery Cover to ensure the Battery is protected.
 
 5.  **Install Battery FPC Tape –** If the T1 Shield Lid has not been
@@ -950,7 +950,7 @@ Required Tools
 > [!IMPORTANT]
 > Battery authentication requires a stable internet
 > connection and the latest version of the [Surface Diagnostic Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=100440&msockid=3356787f36696b570c686c1c37e16a08).
-> If the battery validation tool fails or is not detected properly,
+> If the battery validation tool fails or isn't detected properly,
 > install the Surface Management Extension, reboot the device, and try
 > again with a new internet connection. If failures continue, reach out
 > to Microsoft Support.
@@ -1086,7 +1086,7 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image58.png" alt-text="A close up of a device.":::
 
 4.  **Clean the Thermal paste** – Clean any residue thermal paste
-    underneath the left underneath the left microphone board using a
+    underneath the left microphone board using a
     cleaning swab.
 
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image59.png" alt-text="A close up of a device.":::
@@ -1107,7 +1107,7 @@ Required Tools
 ### Procedure Installation Microphone
 
 1.  **Install Microphone Mesh PSA (Re-use only**) – This step is
-    required only if you are re-using the microphone boards. If you are
+    required only if you're re-using the microphone boards. If you're
     using a new set of microphones boards, move to step 2.
 
     1.  Remove the clear release paper from the microphone mesh PSAs and
@@ -1117,7 +1117,7 @@ Required Tools
         :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image62.png" alt-text="A close up of a finger.":::
 
     > [!IMPORTANT]
-    >Ensure the mesh is not attached in a wrong position as
+    >Ensure the mesh isn't attached in a wrong position as
     > this will lead to poor sound quality.
 
 2.  **Install the Right Microphone Board** – Align the right microphone
@@ -1908,7 +1908,7 @@ Required Tools
     aluminum tape provided in the replacement kit. Use a pair of
     tweezers to assemble it, taking note of the cornered edge on the
     left-hand side. Press down at the step area and check that the foil
-    is not damaged during assembly.
+    isn't damaged during assembly.
 
 6.  **Install ACS Diffuser and Microphone Mesh** – Inspect the
     microphone deck to observe if the ACS diffuser or two Microphone
@@ -2100,8 +2100,8 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image94.png" alt-text="A person holding a small chip.":::
 >
 > [!NOTE]
-> This step is only required if you are re-using the original
-> Thermal Module. If you are installing a new Thermal Module, skip this
+> This step is only required if you're re-using the original
+> Thermal Module. If you're installing a new Thermal Module, skip this
 > step and begin at step 2
 
 2.  **Prepare NFC FPC for re-assembly** – follow the instructions below
@@ -2374,7 +2374,7 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image102.png" alt-text="A close up of a device.":::
 
 > [!NOTE]
-> This step is only required if you are reusing the original Antenna decks and the original cable tape is unfit for re-use (i.e. torn or crumpled).
+> This step is only required if you're reusing the original Antenna decks and the original cable tape is unfit for re-use (i.e. torn or crumpled).
 
 2.  **Install Right Antenna Deck** – Assemble the right Antenna deck
     into the enclosure using the locating posts as guidance. Using a 3IP
@@ -2598,7 +2598,7 @@ Required Tools
     instructions to remove the Rear Camera if needed.
 
 > [!NOTE]
-> It is not required to remove the Rear Camera in its entirety
+> It isn't required to remove the Rear Camera in its entirety
 > to proceed to the next step
 
 6.  **Remove the Left Speaker** – Using a 3IP screwdriver, remove the 4
@@ -2821,7 +2821,7 @@ Required Tools
     remove the Antenna Deck if needed.
 
 > [!NOTE]
-> It is not required to remove the Left Antenna Deck in its
+> It isn't required to remove the Left Antenna Deck in its
 > entirety to proceed to the next step
 
 4.  **Remove** **the Rear Camera** – Using a 3IP screwdriver, remove the
@@ -2832,7 +2832,7 @@ Required Tools
     instructions to remove the Rear Camera if needed.
 
 > [!NOTE]
-> It is not required to remove the Rear Camera in its entirety
+> It isn't required to remove the Rear Camera in its entirety
 > to proceed to the next step
 
 5.  **Disconnect the Button Switch FPC** – Disengage the latch on the
@@ -2874,7 +2874,7 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image112.jpeg" alt-text="A close up of a circuit board.":::
 
 2.  **Install Button SW FPC PSA (Re-use only)** – This step is only
-    required if you are reusing the original Button Switch FPC. Remove
+    required if you're reusing the original Button Switch FPC. Remove
     the liner on the Switch FPC PSA provided in the replacement kit and
     apply the PSA onto the underside of the SW FPC.
 
@@ -2903,7 +2903,7 @@ Required Tools
 6.  **Install the Button SW FPC** – Remove the release paper underneath
     the Switch board FPC. Install the FPC into the ZIF connector on the
     Motherboard and engage the latch to secure the connection. Ensure
-    the FPC is not misaligned. Gently press the FPC on the enclosure to
+    the FPC isn't misaligned. Gently press the FPC on the enclosure to
     activate the PSA.
 
 7.  **Install the Rear Camera** – Assemble the rear camera back into its
@@ -3134,7 +3134,7 @@ Required Tools
 ### Procedure Installation USB-C Charging Port
 
 1.  **Install USB-C FPC PSA (Re-use only)** – This step is only required
-    if you are reusing the original USB-C FPC module. Apply the new PSA
+    if you're reusing the original USB-C FPC module. Apply the new PSA
     provided in the replacement kit onto the back of the USB-C FPC using
     the rectangular alignment marks for guidance.
 
@@ -3379,7 +3379,7 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image98.png" alt-text="A close up of a circuit board.":::
 
 > [!NOTE]
-> It is not required to remove the Left and Right Antenna
+> It isn't required to remove the Left and Right Antenna
 > decks in their entirety to proceed with the next step.
 
 7.  **Remove the Right Speaker** – Using a 3IP screwdriver, remove the 4
@@ -3399,7 +3399,7 @@ Required Tools
     detailed instructions.
 
 > [!NOTE]
-> It is not required to remove the USB-C FPC Module in its
+> It isn't required to remove the USB-C FPC Module in its
 > entirety to proceed with the next step.
 
 9.  **Disconnect the Rear Camera FPC connector** – Remove the aluminum
@@ -3408,7 +3408,7 @@ Required Tools
     Camera)](#procedure-removal-rear-camera) for detailed instructions.
 
 > [!NOTE]
-> It is not required to remove the Rear Camera in its entirety
+> It isn't required to remove the Rear Camera in its entirety
 > to proceed with the next step.
 
 10. **Disconnect the Button Switch FPC** – Disengage the latch on the
@@ -3515,7 +3515,7 @@ Required Tools
     :::image type="content" source="./images/Surface_Pro_12in/Pro12_Repair/media/image41.png" alt-text="A close up of a circuit board.":::
 
 > [!IMPORTANT] 
-> If the Display FPC is not aligned properly and is pressed upon, the connector pins will be damaged and the FPC will need to be replaced with a new one.
+> If the Display FPC isn't aligned properly and is pressed upon, the connector pins will be damaged and the FPC will need to be replaced with a new one.
 
 12. **Install the T2 Shield Lid** - Remove the release papers from the
     TIM pads on the T2 shield lid. Assemble the shield lid in the
@@ -3584,7 +3584,7 @@ Required Tools
 > [!IMPORTANT]
 > Battery authentication requires a stable internet
 > connection and the latest version of the [Surface Diagnostic Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=100440&msockid=3356787f36696b570c686c1c37e16a08).
-> If the battery validation tool fails or is not detected properly,
+> If the battery validation tool fails or isn't detected properly,
 > install the Surface Management Extension, reboot the device, and try
 > again with a new internet connection. If failures continue, reach out
 > to Microsoft Support.
