@@ -319,7 +319,7 @@
          href: service-guides/surface-environmental-compliance.md
        - name: Surface hardware repair tools
          href: service-guides/surface-hardware-repair-tools.md
-       - name: Surface software repair tools
+       - name: Surface diagnostic toolkit
          href: service-guides/surface-software-repair-tools.md
        - name: Surface Laptop Service Guides
          expanded: true

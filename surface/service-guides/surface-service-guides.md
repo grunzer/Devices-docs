@@ -18,7 +18,7 @@ appliesto:
 
 Follow the link in the table below to access the repair guide for your Surface device. Each guide includes detailed instructions for disassembly, reassembly, and repair procedures.
 
-> [!CAUTION]
+> [!WARNING]
 > Review the [Repair Safety Guidelines](surface-repair-safety-guidelines.md#general-safety-precautions) page and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair actions for your device.
 
 | **Product Category** | **Product Name** |

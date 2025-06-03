@@ -17,11 +17,13 @@ appliesto:
 # Surface Laptop 7th Edition Component Disassembly and Reassembly
 
 >[!VIDEO https://learn-video.azurefd.net/vod/player?id=d153fdd5-7c03-4f0c-bbea-d1561797b4de]
->
-> [!CAUTION]
+
+> [!WARNING]
 > Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
+
 > [!IMPORTANT]
-> Read this Guide in its entirety before starting any repairs. If at any point you are unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
+> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
+
 > [!WARNING]
 > Failure to follow the instructions in this Guide, use of non-Microsoft (non-genuine), incompatible, or modified replacement parts, and/or failure to use proper tools could result in serious injury, death, and/or damage to the product or other property.
 
@@ -92,8 +94,8 @@ repair on a Surface device.
 > Be sure to follow all special notes of caution within each process section.
 
 - **Device Serial Number Notation –** The replacement Enclosure supplied
-  for repair will not have a serial number. To ensure the customer has
-  the best experience with future Microsoft support cases, it is
+  for repair won't have a serial number. To ensure the customer has
+  the best experience with future Microsoft support cases, it's
   recommended to create a notation of the device serial number and
   provide it to the customer upon completion of the repair.
 
@@ -167,7 +169,7 @@ repair on a Surface device.
     Enclosure as you go to ensure even gaps around the perimeter.
 
     > [!CAUTION]
-    > Ensure that the Enclosure is not stuck on a ledge as you are installing the screws. Shift the Enclosure as needed to avoid this condition.
+    > Ensure that the Enclosure isn't stuck on a ledge as you're installing the screws. Shift the Enclosure as needed to avoid this condition.
 
 4.  **Install the Feet –** Refer to the [Procedure – Installation
     (Feet)](#feet-replacement) section of this document for detailed
@@ -241,7 +243,7 @@ repair on a Surface device.
     close as possible to horizontal.
 
     > [!CAUTION]
-    > Ensure that the Speaker wire does not get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
+    > Ensure that the Speaker wire doesn't get caught or trapped when fastening the Removable Solid-State Drive to the Motherboard.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/insert-ssd.jpeg" alt-text="A close up of a computer chip":::
 
@@ -350,7 +352,7 @@ repair on a Surface device.
 **Procedure – Preparation (Battery)**
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the battery. If the battery is being re-used, then this section is not required.
+> This section is only for instances where you're replacing the battery. If the battery is being re-used, then this section isn't required.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -421,13 +423,13 @@ repair on a Surface device.
 > Only handle the battery by the plastic frame. Bending, twisting, or impacting the battery may damage the battery, the device, and/or result in severe personal injury or property damage. Always use two hands when handling the battery.
 
 > [!IMPORTANT]
-> Place the battery somewhere where the battery cannot accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
+> Place the battery somewhere where the battery can't accidentally be contacted or damaged. **DO NOT** place anything on top of the battery.
 
 > [!IMPORTANT]
-> When disposing of the battery, ensure you are recycling according to local laws.
+> When disposing of the battery, ensure you're recycling according to local laws.
 
 > [!IMPORTANT]
-> The Motherboard Module and Battery are extremely sensitive to ESD and can be easily damaged. It is critical that you ensure proper grounding before performing any work on these parts.
+> The Motherboard Module and Battery are extremely sensitive to ESD and can be easily damaged. It's critical that you ensure proper grounding before performing any work on these parts.
 
 > [!WARNING]
 > In the instance of a battery event, submerge the entire device in a 4-gallon bucket filled with 2.0 gallons of clean sand. Ensure the entire device is submerged. **DO NOT** attempt to pick up the device.
@@ -443,7 +445,7 @@ repair on a Surface device.
     2.  Pay special attention to the magnetized areas around the edges
         of the interior.
 
-    3.  Verify that all removed screws are accounted for and have not
+    3.  Verify that all removed screws are accounted for and haven't
         been misplaced inside the device.
 
     4.  Loose screws should never be stored on the magnetic areas of the
@@ -465,7 +467,7 @@ repair on a Surface device.
     45-degrees (1/8<sup>th</sup> turn).
 
     > [!IMPORTANT]
-    > Do not overtighten the screws on the battery frame or battery. If the frame is cracked, the battery must not be used.
+    > Don't overtighten the screws on the battery frame or battery. If the frame is cracked, the battery must not be used.
 
 4.  **Assemble the Battery FPC and FPC Bracket -** Assemble the Battery
     FPC to the Motherboard. Using a 3IP (Torx-Plus) driver, install 2
@@ -505,7 +507,7 @@ repair on a Surface device.
     successful authentication is completed.
 
     > [!IMPORTANT]
-    > Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
+    > Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or isn't detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
 
 6.  **Run the Surface Diagnostic Toolkit (SDT) –** Run all diagnostics
     to ensure the device is functioning as expected before moving
@@ -744,7 +746,7 @@ repair on a Surface device.
     felt.
 
     > [!NOTE]
-    > The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+    > The connector will have 2 visible gold contacts if it's oriented in the correct direction.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/spk-connector.png" alt-text="A close up of a fan":::
 
@@ -859,7 +861,7 @@ repair on a Surface device.
     felt.
 
     > [!NOTE]
-    > The connector will have 2 visible gold contacts if it is oriented in the correct direction.
+    > The connector will have 2 visible gold contacts if it's oriented in the correct direction.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/l-spk-connector.png" alt-text="A close up of a device":::
 
@@ -1068,7 +1070,7 @@ repair on a Surface device.
 **Procedure – Preparation (Display Assembly)**
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section is not required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> This section is only for instances where you're replacing the Display. If the Display is being re-used, then this section isn't required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -1153,15 +1155,15 @@ repair on a Surface device.
     :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
 
     > [!CAUTION]
-    > Ensure that the shield does not damage the Display FPC’s during removal.
+    > Ensure that the shield doesn't damage the Display FPC’s during removal.
 
 8.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
-    the connectors start giving resistance as they are being pried up,
+    the connectors start giving resistance as they're being pried up,
     lightly push the edge being pried back down.
 
     > [!CAUTION]
-    > Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
+    > Don't force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
 
@@ -1200,12 +1202,12 @@ repair on a Surface device.
     into the packets on the device Enclosure.
 
     > [!IMPORTANT]
-    > Ensure the Enclosure does not impact on the display assembly glass.
+    > Ensure the Enclosure doesn't impact on the display assembly glass.
 
 3.  **Pre-fasten the right hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 4 new right side hinge screws
     (:::image type="icon" source="./images/Laptop7/LT7Repair/media/hinge-wayfinding.png" alt-text="A black number six on a white background":::)
-    and tighten until it is just snug.
+    and tighten until it's just snug.
 
 4.  **Pre-fasten the left hinge screws -** Using a 6IP (Torx-Plus)
     driver, install 3 new left side hinge screws
@@ -1236,14 +1238,14 @@ repair on a Surface device.
 6.  Repeat as necessary until the left and right gaps are even and the
     back surfaces are flush.
 
-6.  **Tighten all hinge screws -** Tighten all 7 hinge screws until they
-    are snug, and then tighten an additional 90 degrees (1/4 turn) to
-    ensure they are securely fastened.
+6.  **Tighten all hinge screws -** Tighten all 7 hinge screws until they're
+    snug, and then tighten an additional 90 degrees (1/4 turn) to
+    ensure they're securely fastened.
 
-7.  **Connect the Display Assembly FPCs to the Motherboard -** Attach
+8.  **Connect the Display Assembly FPCs to the Motherboard -** Attach
     the display module cables to the receptacles on the Motherboard.
 
-8.  **Place the Display Assembly FPC Tape –** Place the Display Assembly
+9.  **Place the Display Assembly FPC Tape –** Place the Display Assembly
     FPC Tape to the Display Assembly FPC as shown.
 
     > [!IMPORTANT]
@@ -1251,10 +1253,10 @@ repair on a Surface device.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-tape.png" alt-text="A close up of a device":::
 
-9.  **Install the T3 Shield Foams (as needed) –**
+10.  **Install the T3 Shield Foams (as needed) –**
 
     1.  If the Display Assembly being installed has 2 FPCs, inspect the
-        shield fence for foams. If the foams are not present, install
+        shield fence for foams. If the foams aren't present, install
         the supplied foams as shown.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-foam.png" alt-text="A close up of a device":::
@@ -1310,7 +1312,7 @@ repair on a Surface device.
 **Procedure – Finalize (Display Assembly)**
 
 > [!IMPORTANT]
-> This section is only for instances where you are replacing the Display. If the Display is being re-used, then this section is not required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
+> This section is only for instances where you're replacing the Display. If the Display is being re-used, then this section isn't required. If Display is unusable due to damage or fault, connect an external monitor to the device to perform these steps.
 
 1.  **Connect USB –** Connect USB with the Surface Diagnostic Toolkit
     (SDT) loaded to an available USB port on the device under repair.
@@ -1631,15 +1633,15 @@ repair on a Surface device.
     :::image type="content" source="./images/Laptop7/LT7Repair/media/t3-lid-3.jpeg" alt-text="A hand holding a film strip":::
 
     > [!CAUTION]
-    > Ensure that the shield does not damage the Display FPC’s during removal.
+    > Ensure that the shield doesn't damage the Display FPC’s during removal.
 
 9.  **Disconnect the Display Assembly FPCs -** Using a Nylon Spudger,
     pry up the connectors from the side and gently wiggle them free. If
-    the connectors start giving resistance as they are being pried up,
+    the connectors start giving resistance as they're being pried up,
     lightly push the edge being pried back down.
 
     > [!CAUTION]
-    > Do not force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
+    > Don't force the connector if it starts to give resistance. Rock the connector back in the other direction to remove.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/display-fpc-1.jpeg" alt-text="A hand holding a tweezers":::
 
@@ -1905,7 +1907,7 @@ repair on a Surface device.
     authenticated, run the Validation tool in its entirety.
 
     > [!IMPORTANT]
-    > Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or is not detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
+    > Battery authentication requires a stable internet connection and the latest version of the [Surface Management Extension](https://apps.microsoft.com/detail/9NCT159F4QVG?hl=en-US&gl=US). If the battery validation tool fails or isn't detected properly, install the Surface Management Extension, reboot the device, and try again with a new internet connection. If failures continue, reach out to Microsoft Support.
 
 8.  **Run the Surface Diagnostic Toolkit (SDT) –** Run all diagnostics
     to ensure the device is functioning as expected before moving
@@ -2079,7 +2081,7 @@ repair on a Surface device.
 1.  **Install the Mounting Brackets –**
 
     1.  Place the 2 previously removed Mounting Brackets so that the
-        yellow side is visible, and they are arranged as shown here.
+        yellow side is visible, and they're arranged as shown here.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/mounting-bracket.png" alt-text="A black board with white text and blue and yellow tape":::
 
@@ -2100,7 +2102,7 @@ repair on a Surface device.
 4.  **Install the Fan -**
 
     1.  Using a 3IP (Torx-Plus) driver, install 3 new Fan screws until
-        they are just snug, and then turn each another 45-degrees
+        they're just snug, and then turn each another 45-degrees
         (1/8<sup>th</sup> turn) until fully fastened.
 
     :::image type="content" source="./images/Laptop7/LT7Repair/media/fan-screws.png" alt-text="A close up of a fan":::
@@ -2119,7 +2121,7 @@ repair on a Surface device.
 
 7.  **Continue with Motherboard installation -** Refer to the [Procedure
     – Installation (Motherboard)](#motherboard-replacement-process)
-    section of this document for detailed instructions. You will start
+    section of this document for detailed instructions. You'll start
     at Step 6.
 
 8.  **Install the Display -** Refer to the [Procedure – Installation
