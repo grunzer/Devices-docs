@@ -19,7 +19,7 @@ appliesto:
 > [!WARNING]
 > Review the [General Safety Precautions](surface-repair-safety-guidelines.md#general-safety-precautions) and [Battery Safety](surface-repair-safety-guidelines.md#battery-safety) guidelines in their entirety before proceeding with any repair steps.
 > [!IMPORTANT]
-> Read this Guide in its entirety before starting any repairs. If at any point you are unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
+> Read this Guide in its entirety before starting any repairs. If at any point you're unsure or uncomfortable about performing the repairs, as detailed in this Guide, **DO NOT** proceed. Contact Microsoft for additional support options.
 > [!WARNING]
 > Failure to follow the instructions in this Guide, use of non-Microsoft (non-genuine), incompatible, or modified replacement parts, and/or failure to use proper tools could result in serious injury, death, and/or damage to the product or other property.
 
@@ -57,7 +57,7 @@ repair on a Surface device.
   device is placed on a clean surface free of debris.
 
 > [!IMPORTANT]
-> **Device Serial Number Notation:** The serial number for this device is located on its original bottom cover. It is crucial to retain the device’s original serial number for future support from Microsoft. The D Bucket FRU will remove the device’s original serial number and the original device serial number cannot be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
+> **Device Serial Number Notation:** The serial number for this device is located on its original bottom cover. It's crucial to retain the device’s original serial number for future support from Microsoft. The D Bucket FRU will remove the device’s original serial number and the original device serial number cannot be permanently added to a replacement part. To ensure the original serial number is retained, record it using waterproof ink on a label. Affix the label to an easily accessible area on the device exterior and keep a record of the serial number in a secure location. Microsoft has provided a label for this purpose within the replacement part’s packaging. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
 
 ## Feet Replacement
 
@@ -100,7 +100,7 @@ repair on a Surface device.
 **Procedure – Installation (feet)**
 
 1.  Carefully align the grooves on the feet with the long hole on the D
-    Bucket and press the foot down vertically until it is completely
+    Bucket and press the foot down vertically until it's completely
     flat to the D Bucket.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image4.jpeg" alt-text="A person holding a small button.":::
@@ -155,7 +155,7 @@ repair on a Surface device.
     4 newly exposed screws.
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg"/>
 
@@ -182,17 +182,17 @@ repair on a Surface device.
     With the snap disengaged, there will be some space between the C Cover and D bucket to gently slide the guitar pick along the right edge of the device.
 
     > [!NOTE]
-    > For the portion next to the keyboard the pick may be inserted beyond 3mm to aid with removal. Below the keyboard, insertion must be limited to a maximum of 3mm.
+    > For the portion next to the keyboard, the pick may be inserted beyond 3mm to aid with removal. Below the keyboard, insertion must be limited to a maximum of 3mm.
 
 7.  Repeat this process until all 5 snaps on the right edge are
     disengaged. Stop when you reach the bottom corner of the device.
 
     > [!IMPORTANT]
-    > It is very important to take your time during this step
+    > It's important to take your time during this step
 
 8.  Without inserting the guitar pick beyond the 3mm marked line, leave it in the bottom right corner to ensure the covers stay separated.
 
-9.  With one hand, very gently lift and hold the top right corner of the
+9.  With one hand, gently lift and hold the top right corner of the
     C Cover. With your other hand, using another guitar pick, carefully
     disengage the snaps along the top edge of the C Cover, starting from
     the top right and moving to the top left. As you go along, once the
@@ -219,7 +219,7 @@ repair on a Surface device.
     disengaged. Stop when you reach the bottom corner of the device.
 
     > [!IMPORTANT]
-    > It is very important to take your time during this step
+    > It's very important to take your time during this step
 
 13. With both hands, very gently wiggle and tilt the bottom of the C
     Cover upwards towards the display cover and away from the battery to
@@ -275,7 +275,7 @@ repair on a Surface device.
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image5.jpeg" alt-text="A hand holding a screwdriver.":::
 
     > [!IMPORTANT]
-    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
+    > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 9.  Follow “Procedure – Installation (Feet)”
 
@@ -334,8 +334,8 @@ repair on a Surface device.
     adhesive remaining from the 2 grounding tapes.
 
 6.  With your fingers, gently disconnect the 4 FPCs connected to the
-    trackpad. Please place the trackpad FPC gently aside on an ESD safe
-    surface for reuse during reassembly if it is not damaged.
+    trackpad. Place the trackpad FPC gently aside on an ESD safe
+    surface for reuse during reassembly if it's not damaged.
 
 7.  With a 5IP Torx Plus Screwdriver, remove the 7 screws holding the
     Trackpad to the C Cover. 
@@ -407,16 +407,16 @@ repair on a Surface device.
 
 5.  With your fingers, carefully and gently remove the 4 alignment
     papers. Be sure that the entire alignment paper piece is completely
-    removed and does not remain stuck between the C Cover and the
+    removed and doesn't remain stuck between the C Cover and the
     Trackpad subassembly.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image29.jpeg" alt-text="A close-up of a touchpad.":::
 
 6.  Gently flip your C Cover around and use a 0.2mm feeler gauge around
-    the entire perimeter of the Trackpad subassembly to ensure it is
+    the entire perimeter of the Trackpad subassembly to ensure it's
     never above the C Cover surface at any point. Additionally, click
     the two bottom corners to check if the trackpad gets stuck against
-    the C Cover surface. If it is, redo Step 7 from “Procedure – Removal
+    the C Cover surface. If it's, redo Step 7 from “Procedure – Removal
     (Trackpad) and Step 2 from “Procedure – Installation (Trackpad)
     before proceeding to the next step.
 
@@ -593,7 +593,7 @@ repair on a Surface device.
 **Procedure – Removal (Battery)**
 
 > [!WARNING]
-> Pre-Installtion Device Inspection:It is highly recommended that prior to handling battery the operator should remove any personal jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
+> Pre-Installtion Device Inspection: It's highly recommended that prior to handling battery the operator should remove any personal jewelry, wear gloves and safety glasses, and have a bucket of sand prepared in case of any battery event.
 > [!WARNING]
 > In case of battery event submerge entire device in sand. Do not attempt to pick up device. See [Battery safety](surface-repair-safety-guidelines.md#battery-safety) for more information.
 
@@ -602,7 +602,7 @@ repair on a Surface device.
 2.  Follow “Procedure – Removal (SSD)”
 
 3.  Use a 3IP Torx Plus Screwdriver to remove the 2 screws holding down
-    the battery connector. Be very careful as you are near the battery.
+    the battery connector. Be very careful as you're near the battery.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image42.jpeg" alt-text="A close up of a device.":::
 
@@ -613,7 +613,7 @@ repair on a Surface device.
     connector from the PCBA.
 
 5.  With a 5IP Torx Plus Screwdriver, remove the 9 screws around the
-    perimeter of the battery. Be very careful as you are near the
+    perimeter of the battery. Be very careful as you're near the
     battery.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image43.jpeg" alt-text="A hand holding a screwdriver.":::
@@ -624,7 +624,7 @@ repair on a Surface device.
     > Be sure to press down firmly with the screwdriver to avoid any chance for screw stripping. Additionally, please keep track and count the number of screws removed to ensure there are no extra screws in the area.
 
 6.  To prevent the device from potentially tipping over, tilt the
-    display cover so that it is less than 75 degrees open.
+    display cover so that it's less than 75 degrees open.
 
 7.  With your hands only touching the frame of the battery and not the
     cell itself, gently and carefully lift the battery frame away from
@@ -747,7 +747,7 @@ repair on a Surface device.
 
 2.  Gently route the right speaker connector through the ridge on the D
     Bucket to the receptable on the motherboard and use a plastic
-    spudger to ensure it is fully seated.
+    spudger to ensure it's fully seated.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image52.png" alt-text="A close up of a circuit board.":::
 
@@ -759,12 +759,12 @@ repair on a Surface device.
 4.  Gently unrouted the left display cable from the ridges on the D
     Bucket and gently route the left speaker connector through the
     ridges on the D Bucket to the receptable on the motherboard and use
-    a plastic spudger to ensure it is fully seated.
+    a plastic spudger to ensure it's fully seated.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image54.png" alt-text="A close up of a computer.":::
 
 5. Gently reroute the left display cable through the ridges on the D
-    Bucket and be sure that it is routed properly (like below).
+    Bucket and be sure that it's routed properly (like below).
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image55.png" alt-text="A close up of a computer.":::
 
@@ -999,7 +999,7 @@ repair on a Surface device.
 
 6.  Reconnect the two antenna cables from the AB Cover display to the
     connectors on the PCBA. Be sure to use a plastic spudger and plastic
-    tweezers to ensure they are fully seated in the ridges on the PCBA
+    tweezers to ensure they're fully seated in the ridges on the PCBA
     and connected to the receptacles on the PCBA.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image71.png" alt-text="A close up of a circuit board.":::
@@ -1413,7 +1413,7 @@ repair on a Surface device.
 
 2.  Use a 5IP Torx Plus Screwdriver to lightly install 1 screw per
     hinge. Be sure to hold the AB Cover display with one hand so the
-    device does not fall over. **Be sure to press down firmly with the
+    device doesn't fall over. **Be sure to press down firmly with the
     screwdriver to avoid any chance for screw stripping. Additionally,
     please keep track and count the number of screws removed to ensure
     there are no extra screws in the area.**
@@ -1432,9 +1432,9 @@ repair on a Surface device.
     within 0.05mm and 0.25mm on both sides before moving on to the next
     step.
 
-4.  Open the AB Cover display \<90 degrees to ensure the device does not
+4.  Open the AB Cover display \<90 degrees to ensure the device doesn't
     fall over. Use a 5IP Torx Plus screwdriver to install the remaining
-    screw on each hinge. Tighten all 4 hinge screws until they are snug
+    screw on each hinge. Tighten all 4 hinge screws until they're snug
     and seated and then only tighten the screws an additional ~1/4 turn
     (~90 degrees) to avoid stripping the threads. **Be sure to press
     down firmly with the screwdriver to avoid any chance for screw
@@ -1450,7 +1450,7 @@ repair on a Surface device.
 
 7.  Reconnect the two antenna cables from the AB Cover display to the
     connectors on the PCBA. Be sure to use a plastic spudger to ensure
-    they are fully seated and connected.
+    they're fully seated and connected.
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image71.png" alt-text="A close up of a circuit board.":::
 
@@ -1504,7 +1504,7 @@ repair on a Surface device.
 
 19. Gently route the left display cable through the ridges on the D
     Bucket and connect it with the bottom receptacle on the PCBA. Be
-    sure that it is routed properly (like below).
+    sure that it's routed properly (like below).
 
     :::image type="content" source="./images/Surface_LT_13in/LT13in_Repair/media/image55.png" alt-text="A close up of a computer.":::
     <img src="./images/Surface_LT_13in/LT13in_Repair/media/image115.png"/>
@@ -1592,7 +1592,7 @@ repair on a Surface device.
     safe prybar to clean any adhesive remaining on the thermal module.
 
 3.  Use a 3IP Torx Plus Screwdriver to remove the 2 screws holding down
-    the battery connector. Be very careful as you are near the battery.
+    the battery connector. Be very careful as you're near the battery.
     **Be sure to press down firmly with the screwdriver to avoid any
     chance for screw stripping. Additionally, please keep track and
     count the number of screws removed to ensure there are no extra
@@ -1693,11 +1693,11 @@ repair on a Surface device.
 
 3.  Use a feeler gauge to ensure the gap between the SSD receptable on
     the PCBA and the grounding foam on the D bucket is between 0.6mm and
-    1.1mm. If it is not, loosen the 7 screws to shift the PCBA in
+    1.1mm. If it's not, loosen the 7 screws to shift the PCBA in
     whichever direction is necessary to ensure the gap is within those
     limits before moving on to the next step.
 
-4. Tighten the screws until they are snug and seated and then only
+4. Tighten the screws until they're snug and seated and then only
     tighten the screws an additional ~1/8 turn (~45 degrees) to avoid
     stripping the threads.
 
@@ -1718,7 +1718,7 @@ repair on a Surface device.
 9. Follow “Procedure – Installation (USB-C)”
 
 10. Reconnect all original FPCs and connectors to the PCBA. However,
-    replacement is necessary if there is any visible damage.
+    replacement is necessary if there's any visible damage.
 
 11. Follow “Procedure – Installation (SSD)”
 
@@ -1736,7 +1736,7 @@ repair on a Surface device.
 > Be sure to follow all special (bolded) notes of caution within each process section.
 
 > [!IMPORTANT]
-> This replacement part does not include the original serial number of the device. For future Microsoft support, please handwrite the original serial number on the label provided by Microsoft and attach it to either the exterior of the device or directly onto an exposed part. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
+> This replacement part doesn't include the original serial number of the device. For future Microsoft support, please handwrite the original serial number on the label provided by Microsoft and attach it to either the exterior of the device or directly onto an exposed part. The label included in the part’s packaging has space designated for the original serial number as well as the part's product identifier.
 
 **Required Tools**
 
