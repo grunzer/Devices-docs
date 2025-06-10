@@ -44,15 +44,15 @@ The following Microsoft Ethernet devices are supported for network boot with Sur
 
 The following third-party Ethernet devices are supported for network boot with specific Surface devices[<sup>1</sup>](#references):
 
-- Designed for Surface: [Cable Matters USB-C to USB-A 3.2 Gen 1 Adapter](https://www.microsoft.com/en-us/surface/designed-for-surface/products/cable-matters-usb-c-to-usb-a-3-2-gen-1-adapter/ef225301-131f-ed11-b5cf-00155dd402d7) 
+- Designed for Surface: [Cable Matters USB-C to USB-A 3.2 Gen 1 Adapter](https://www.microsoft.com/surface/designed-for-surface/products/cable-matters-usb-c-to-usb-a-3-2-gen-1-adapter/ef225301-131f-ed11-b5cf-00155dd402d7) 
 
-- Designed for Surface: [Cable Matters USB-C to 2.5 Gigabit Ethernet Adapter](https://www.microsoft.com/en-us/surface/designed-for-surface/products/cable-matters-usb-c-to-2-5-gigabit-ethernet-adapter/d206aa47-131f-ed11-b5cf-00155dd402d7)
+- Designed for Surface: [Cable Matters USB-C to 2.5 Gigabit Ethernet Adapter](https://www.microsoft.com/surface/designed-for-surface/products/cable-matters-usb-c-to-2-5-gigabit-ethernet-adapter/d206aa47-131f-ed11-b5cf-00155dd402d7)
 
-- Designed for Surface: [Kensington SD5765T Thunderbolt 4 Dual 4K Docking Station](https://www.microsoft.com/en-us/surface/designed-for-surface/products/kensington-sd5765t-thunderbolt-4-dual-4k-docking-station-dfs/1ff2e513-1dda-ed11-9139-501ac5a6e4f4)
+- Designed for Surface: [Kensington SD5765T Thunderbolt 4 Dual 4K Docking Station](https://www.microsoft.com/surface/designed-for-surface/products/kensington-sd5765t-thunderbolt-4-dual-4k-docking-station-dfs/1ff2e513-1dda-ed11-9139-501ac5a6e4f4)
 
-- Designed for Surface: [Kensington MD125U4 USB4 Portable Docking Station](https://www.microsoft.com/en-us/surface/designed-for-surface/products/kensington-md125u4-usb4-portable-docking-station/9d350f33-4c81-ed11-a76f-281878fc99dd)
+- Designed for Surface: [Kensington MD125U4 USB4 Portable Docking Station](https://www.microsoft.com/surface/designed-for-surface/products/kensington-md125u4-usb4-portable-docking-station/9d350f33-4c81-ed11-a76f-281878fc99dd)
 
-- Designed for Surface: [Kensington SD4845P USB-C 10Gbps Triple Video Driverless Docking Station](https://www.microsoft.com/en-us/surface/designed-for-surface/products/kensington-sd4845p-usb-c-10gbps-triple-video-driverless-docking-station/be40a663-8848-ec11-a3ef-00155dd40316)
+- Designed for Surface: [Kensington SD4845P USB-C 10Gbps Triple Video Driverless Docking Station](https://www.microsoft.com/surface/designed-for-surface/products/kensington-sd4845p-usb-c-10gbps-triple-video-driverless-docking-station/be40a663-8848-ec11-a3ef-00155dd40316)
 
 - Dell Dock - WD19S 180W
 
