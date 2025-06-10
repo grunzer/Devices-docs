@@ -103,7 +103,7 @@ Restricting Surface Dock 2 or Surface Thunderbolt 4 Dock to authorized persons s
 - **Dynamic USB-C Disablement.** Dynamic USB-C Disablement enables customers operating in highly secure work environments to prevent USB theft of confidential data and provide more control to organizations. When paired with the Surface Thunderbolt 4 Dock, IT admins can lock down USB-C ports whenever an eligible Surface device is undocked or connected to an unauthorized dock.
 
 > [!TIP]
-> This feature is available on Surface Pro 10, Surface Laptop 6, and Surface Laptop Studio 2.
+> This feature is available on Surface Laptop 7th Edition, Intel processor, Surface Laptop 6; Surface Pro 11th Edition, Intel processor; Surface Pro 10, Surface Pro 10 with 5G; and Surface Laptop Studio 2.
 
 With Dynamic USB-C Disablement when users are connected to an authorized dock in the office, the USB-C ports will have full functionality over their devices. However, when they go off-site, they can still connect to a dock to use accessories or a monitor but cannot use the USB ports to transfer data.
 
@@ -129,20 +129,20 @@ Objective: Configure policy settings to allow port access by authenticated users
 
 2. Apply the configuration package to your target device and connect the dock.
 
-3. Open **Surface App** and select **Surface Dock** to view the resultant policy state of your Surface Dock. If the policy settings are applied, Surface App (shown here for Surface Thunderbolt 4 Dock and Surface Dock 2) indicates that ports are available.
+1. Open **Surface App** and select **Surface Dock** to view the resultant policy state of your Surface Dock. If the policy settings are applied, Surface App (shown here for Surface Thunderbolt 4 Dock and Surface Dock 2) indicates that ports are available.
 
    ![Screenshot that shows surface app shows all ports are available for authenticated users on Surface Dock 2.](images/surface-thunderbolt-4-dock-unmanaged.png)
-
+   
    ![Screenshot that shows surface app shows all ports are available for authenticated users on Surface Thunderbolt 4 Dock.](images/secure-surface-dock-ports-semm-5.png)
-
+   
 4. Now, you need to verify that the policy settings have successfully turned off all ports for unauthenticated users. Connect Surface Dock 2 or Surface Thunderbolt 4 Dock to an unmanaged device, for example, any Surface device outside the scope of management for the configuration package you created.
 
-5. Open **Surface App** and select **Surface Dock**. The resultant policy state (shown here for Surface Thunderbolt 4 Dock and Surface Dock 2) indicates that ports are turned off.
+1. Open **Surface App** and select **Surface Dock**. The resultant policy state (shown here for Surface Thunderbolt 4 Dock and Surface Dock 2) indicates that ports are turned off.
 
    ![Screenshot that shows surface app showing ports turned off for unauthenticated users on Surface Thunderbolt 4 Dock.](images/surface-thunderbolt-4-dock-managed.png)
-
+   
    ![Screenshot that shows surface app showing ports turned off for unauthenticated users on Surface Dock 2.](images/secure-surface-dock-ports-semm-6.png)
-
+   
 >[!TIP]
 >If you want to keep ownership of the device but allow all users full access, you can make a new package with everything turned on. If you wish to completely remove the restrictions and ownership of the device (make it unmanaged), select **Reset** in Surface UEFI Configurator to create a package to apply to target devices.
 
