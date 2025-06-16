@@ -66,7 +66,7 @@ Microsoft 365 Business customers can use the [Surface Support Portal](surface-su
 
 1. Sign in to the [Surface Support Portal - Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal#/support/microsoftsurfacesupport).
 
-:::image type="content" source="images/surface-service-repair/m365-admincenter-repair-request.png" alt-text="Screenshot of Microsoft 365 admin center showing New repair request feature.":::
+   :::image type="content" source="images/surface-service-repair/m365-admincenter-repair-request.png" alt-text="Screenshot of Microsoft 365 admin center showing New repair request feature.":::
 
 For full details, including instructions for streamlined access, see [Surface Support Portal overview](surface-support-portal.md).
 
