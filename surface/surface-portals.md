@@ -30,7 +30,7 @@ With Surface portals, you can:
 
 See how the Surface Management Portal and Surface Support Portal can boost efficiency for managing Surface devices, monitoring compliance, and streamlining support:<br><br>
 
-> [!VIDEO https://learn-video.azurefd.net/vod/player?id=1bb92b9d-514e-498b-8a32-17896d599447]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=1ef5791b-1774-4035-8be6-d0892cf6e5b4]
 
 
 ## Compare portals
@@ -66,7 +66,7 @@ Microsoft 365 Business customers can use the [Surface Support Portal](surface-su
 
 1. Sign in to the [Surface Support Portal - Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal#/support/microsoftsurfacesupport).
 
-:::image type="content" source="images/surface-service-repair/m365-admincenter-repair-request.png" alt-text="Screenshot of Microsoft 365 admin center showing New repair request feature.":::
+   :::image type="content" source="images/surface-service-repair/m365-admincenter-repair-request.png" alt-text="Screenshot of Microsoft 365 admin center showing New repair request feature.":::
 
 For full details, including instructions for streamlined access, see [Surface Support Portal overview](surface-support-portal.md).
 
