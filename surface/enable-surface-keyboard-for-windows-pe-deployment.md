@@ -148,7 +148,7 @@ ude
 
 ### Surface Laptop 7 - Intel
 
-In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this [downloadable zip file](https://download.microsoft.com/download/fa1bd45e-505c-42ed-b85a-91d4500f08fc/SurfaceHidMini_WinPE.zip). The included `Readme.txt` contains additional information.
+In addition to the folders listed here, you also need to include the folder `SurfaceHidMini_WinPE_Intel` from this [downloadable zip file](https://download.microsoft.com/download/fa1bd45e-505c-42ed-b85a-91d4500f08fc/SurfaceHidMini_WinPE.zip). The included `Readme.txt` contains additional information. 
 <br><br>
 <details>
 <summary>Import folders</summary>
@@ -162,6 +162,7 @@ Button
 chipset
 displayhardware
 HotPlug
+iactrllogic64
 ialpss2gpio2
 ialpss2i2c
 ialpss2i3clnl
@@ -174,14 +175,13 @@ msu56cx22x64sta
 oempanelcustomization
 panel
 quickspi
+sam
 SarManager
 SerialHub
 Service
-SMFClient
-smfdisplayclient
+SurfaceHidMini_WinPE
 surfacetouchpadprocessorupdate
-timealarmacpifilter
-touchpadg7cfuoverhidextnpackage0c9f
+SystemManagementFramework
 wifi
 ```
 </details>
